@@ -1,7 +1,6 @@
 {
-  "name": "@emoji-mart/5suminsss2",
+  "name": "emoji-mart-kr",
   "version": "1.0.0",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
