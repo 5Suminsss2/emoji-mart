@@ -674,8 +674,8 @@
         "단풍나무_잎",
         "낙엽",
         "나뭇잎",
-        "비어_있는_새_집",
-        "알이_담긴_새_집"
+        "비어_있는_새_둥지",
+        "알이_담긴_새_둥지"
       ]
     },
     {
@@ -8686,23 +8686,23 @@
       "skins": [{ "unified": "1f412", "native": "🐒" }],
       "version": 1
     },
-    "gorilla": {
-      "id": "gorilla",
-      "name": "Gorilla",
+    "고릴라": {
+      "id": "고릴라",
+      "name": "고릴라",
       "keywords": ["animal", "nature", "circus"],
       "skins": [{ "unified": "1f98d", "native": "🦍" }],
       "version": 3
     },
-    "orangutan": {
-      "id": "orangutan",
-      "name": "Orangutan",
+    "오랑우탄": {
+      "id": "오랑우탄",
+      "name": "오랑우탄",
       "keywords": ["animal"],
       "skins": [{ "unified": "1f9a7", "native": "🦧" }],
       "version": 12
     },
-    "dog": {
-      "id": "dog",
-      "name": "Dog Face",
+    "개": {
+      "id": "개",
+      "name": "개 얼굴",
       "keywords": [
         "animal",
         "friend",
@@ -8715,9 +8715,9 @@
       "skins": [{ "unified": "1f436", "native": "🐶" }],
       "version": 1
     },
-    "dog2": {
-      "id": "dog2",
-      "name": "Dog",
+    "개2": {
+      "id": "개2",
+      "name": "개",
       "keywords": [
         "dog2",
         "animal",
@@ -8730,408 +8730,408 @@
       "skins": [{ "unified": "1f415", "native": "🐕" }],
       "version": 1
     },
-    "guide_dog": {
-      "id": "guide_dog",
-      "name": "Guide Dog",
+    "안내견": {
+      "id": "안내견",
+      "name": "안내견",
       "keywords": ["animal", "blind"],
       "skins": [{ "unified": "1f9ae", "native": "🦮" }],
       "version": 12
     },
-    "service_dog": {
-      "id": "service_dog",
-      "name": "Service Dog",
+    "보조견": {
+      "id": "보조견",
+      "name": "보조견",
       "keywords": ["blind", "animal"],
       "skins": [{ "unified": "1f415-200d-1f9ba", "native": "🐕‍🦺" }],
       "version": 12
     },
-    "poodle": {
-      "id": "poodle",
-      "name": "Poodle",
+    "푸들": {
+      "id": "푸들",
+      "name": "푸들",
       "keywords": ["dog", "animal", "101", "nature", "pet"],
       "skins": [{ "unified": "1f429", "native": "🐩" }],
       "version": 1
     },
-    "wolf": {
-      "id": "wolf",
-      "name": "Wolf",
+    "늑대": {
+      "id": "늑대",
+      "name": "늑대",
       "keywords": ["animal", "nature", "wild"],
       "skins": [{ "unified": "1f43a", "native": "🐺" }],
       "version": 1
     },
-    "fox_face": {
-      "id": "fox_face",
-      "name": "Fox",
+    "여우_얼굴": {
+      "id": "여우_얼굴",
+      "name": "여우",
       "keywords": ["face", "animal", "nature"],
       "skins": [{ "unified": "1f98a", "native": "🦊" }],
       "version": 3
     },
-    "raccoon": {
-      "id": "raccoon",
-      "name": "Raccoon",
+    "너구리": {
+      "id": "너구리",
+      "name": "너구리",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f99d", "native": "🦝" }],
       "version": 11
     },
-    "cat": {
-      "id": "cat",
-      "name": "Cat Face",
+    "고양이": {
+      "id": "고양이",
+      "name": "고양이 얼굴",
       "keywords": ["animal", "meow", "nature", "pet", "kitten"],
       "skins": [{ "unified": "1f431", "native": "🐱" }],
       "version": 1
     },
-    "cat2": {
-      "id": "cat2",
-      "name": "Cat",
+    "고양이2": {
+      "id": "고양이2",
+      "name": "고양이",
       "keywords": ["cat2", "animal", "meow", "pet", "cats"],
       "skins": [{ "unified": "1f408", "native": "🐈" }],
       "version": 1
     },
-    "black_cat": {
-      "id": "black_cat",
-      "name": "Black Cat",
+    "검은_고양이": {
+      "id": "검은_고양이",
+      "name": "검은 고양이",
       "keywords": ["superstition", "luck"],
       "skins": [{ "unified": "1f408-200d-2b1b", "native": "🐈‍⬛" }],
       "version": 13
     },
-    "lion_face": {
-      "id": "lion_face",
-      "name": "Lion",
+    "사자_얼굴": {
+      "id": "사자_얼굴",
+      "name": "사자",
       "keywords": ["face", "animal", "nature"],
       "skins": [{ "unified": "1f981", "native": "🦁" }],
       "version": 1
     },
-    "tiger": {
-      "id": "tiger",
-      "name": "Tiger Face",
+    "호랑이": {
+      "id": "호랑이",
+      "name": "호랑이 얼굴",
       "keywords": ["animal", "cat", "danger", "wild", "nature", "roar"],
       "skins": [{ "unified": "1f42f", "native": "🐯" }],
       "version": 1
     },
-    "tiger2": {
-      "id": "tiger2",
-      "name": "Tiger",
+    "호랑이2": {
+      "id": "호랑이2",
+      "name": "호랑이",
       "keywords": ["tiger2", "animal", "nature", "roar"],
       "skins": [{ "unified": "1f405", "native": "🐅" }],
       "version": 1
     },
-    "leopard": {
-      "id": "leopard",
-      "name": "Leopard",
+    "표범": {
+      "id": "표범",
+      "name": "표범",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f406", "native": "🐆" }],
       "version": 1
     },
-    "horse": {
-      "id": "horse",
-      "name": "Horse Face",
+    "말": {
+      "id": "말",
+      "name": "말 얼굴",
       "keywords": ["animal", "brown", "nature"],
       "skins": [{ "unified": "1f434", "native": "🐴" }],
       "version": 1
     },
-    "racehorse": {
-      "id": "racehorse",
-      "name": "Horse",
+    "경주마": {
+      "id": "경주마",
+      "name": "경주마",
       "keywords": ["racehorse", "animal", "gamble", "luck"],
       "skins": [{ "unified": "1f40e", "native": "🐎" }],
       "version": 1
     },
-    "unicorn_face": {
-      "id": "unicorn_face",
-      "name": "Unicorn",
+    "유니콘_얼굴": {
+      "id": "유니콘_얼굴",
+      "name": "유니콘",
       "keywords": ["face", "animal", "nature", "mystical"],
       "skins": [{ "unified": "1f984", "native": "🦄" }],
       "version": 1
     },
-    "zebra_face": {
-      "id": "zebra_face",
-      "name": "Zebra",
+    "얼룩말_얼굴": {
+      "id": "얼룩말_얼굴",
+      "name": "얼룩말",
       "keywords": ["face", "animal", "nature", "stripes", "safari"],
       "skins": [{ "unified": "1f993", "native": "🦓" }],
       "version": 5
     },
-    "deer": {
-      "id": "deer",
-      "name": "Deer",
+    "사슴": {
+      "id": "사슴",
+      "name": "사슴",
       "keywords": ["animal", "nature", "horns", "venison"],
       "skins": [{ "unified": "1f98c", "native": "🦌" }],
       "version": 3
     },
-    "bison": {
-      "id": "bison",
-      "name": "Bison",
+    "들소": {
+      "id": "들소",
+      "name": "들소",
       "keywords": ["ox"],
       "skins": [{ "unified": "1f9ac", "native": "🦬" }],
       "version": 13
     },
-    "cow": {
-      "id": "cow",
-      "name": "Cow Face",
+    "소": {
+      "id": "소",
+      "name": "소 얼굴",
       "keywords": ["beef", "ox", "animal", "nature", "moo", "milk"],
       "skins": [{ "unified": "1f42e", "native": "🐮" }],
       "version": 1
     },
-    "ox": {
-      "id": "ox",
-      "name": "Ox",
+    "황소": {
+      "id": "황소",
+      "name": "황소",
       "keywords": ["animal", "cow", "beef"],
       "skins": [{ "unified": "1f402", "native": "🐂" }],
       "version": 1
     },
-    "water_buffalo": {
-      "id": "water_buffalo",
-      "name": "Water Buffalo",
+    "물소": {
+      "id": "물소",
+      "name": "물소",
       "keywords": ["animal", "nature", "ox", "cow"],
       "skins": [{ "unified": "1f403", "native": "🐃" }],
       "version": 1
     },
-    "cow2": {
-      "id": "cow2",
-      "name": "Cow",
+    "소2": {
+      "id": "소2",
+      "name": "소",
       "keywords": ["cow2", "beef", "ox", "animal", "nature", "moo", "milk"],
       "skins": [{ "unified": "1f404", "native": "🐄" }],
       "version": 1
     },
-    "pig": {
-      "id": "pig",
-      "name": "Pig Face",
+    "돼지": {
+      "id": "돼지",
+      "name": "돼지 얼굴",
       "keywords": ["animal", "oink", "nature"],
       "skins": [{ "unified": "1f437", "native": "🐷" }],
       "version": 1
     },
-    "pig2": {
-      "id": "pig2",
-      "name": "Pig",
+    "돼지2": {
+      "id": "돼지2",
+      "name": "돼지",
       "keywords": ["pig2", "animal", "nature"],
       "skins": [{ "unified": "1f416", "native": "🐖" }],
       "version": 1
     },
-    "boar": {
-      "id": "boar",
-      "name": "Boar",
+    "멧돼지": {
+      "id": "멧돼지",
+      "name": "멧돼지",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f417", "native": "🐗" }],
       "version": 1
     },
-    "pig_nose": {
-      "id": "pig_nose",
-      "name": "Pig Nose",
+    "돼지_코": {
+      "id": "돼지_코",
+      "name": "돼지 코",
       "keywords": ["animal", "oink"],
       "skins": [{ "unified": "1f43d", "native": "🐽" }],
       "version": 1
     },
-    "ram": {
-      "id": "ram",
-      "name": "Ram",
+    "숫양": {
+      "id": "숫양",
+      "name": "숫양",
       "keywords": ["animal", "sheep", "nature"],
       "skins": [{ "unified": "1f40f", "native": "🐏" }],
       "version": 1
     },
-    "sheep": {
-      "id": "sheep",
-      "name": "Ewe",
+    "양": {
+      "id": "양",
+      "name": "양",
       "keywords": ["sheep", "animal", "nature", "wool", "shipit"],
       "skins": [{ "unified": "1f411", "native": "🐑" }],
       "version": 1
     },
-    "goat": {
-      "id": "goat",
-      "name": "Goat",
+    "염소": {
+      "id": "염소",
+      "name": "염소",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f410", "native": "🐐" }],
       "version": 1
     },
-    "dromedary_camel": {
-      "id": "dromedary_camel",
-      "name": "Camel",
+    "단봉낙타": {
+      "id": "단봉낙타",
+      "name": "낙타",
       "keywords": ["dromedary", "animal", "hot", "desert", "hump"],
       "skins": [{ "unified": "1f42a", "native": "🐪" }],
       "version": 1
     },
-    "camel": {
-      "id": "camel",
-      "name": "Bactrian Camel",
+    "낙타": {
+      "id": "낙타",
+      "name": "낙타",
       "keywords": ["two", "hump", "animal", "nature", "hot", "desert"],
       "skins": [{ "unified": "1f42b", "native": "🐫" }],
       "version": 1
     },
-    "llama": {
-      "id": "llama",
-      "name": "Llama",
+    "라마": {
+      "id": "라마",
+      "name": "라마",
       "keywords": ["animal", "nature", "alpaca"],
       "skins": [{ "unified": "1f999", "native": "🦙" }],
       "version": 11
     },
-    "giraffe_face": {
-      "id": "giraffe_face",
-      "name": "Giraffe",
+    "기린_얼굴": {
+      "id": "기린_얼굴",
+      "name": "기린",
       "keywords": ["face", "animal", "nature", "spots", "safari"],
       "skins": [{ "unified": "1f992", "native": "🦒" }],
       "version": 5
     },
-    "elephant": {
-      "id": "elephant",
-      "name": "Elephant",
+    "코끼리": {
+      "id": "코끼리",
+      "name": "코끼리",
       "keywords": ["animal", "nature", "nose", "th", "circus"],
       "skins": [{ "unified": "1f418", "native": "🐘" }],
       "version": 1
     },
-    "mammoth": {
-      "id": "mammoth",
-      "name": "Mammoth",
+    "매머드": {
+      "id": "매머드",
+      "name": "매머드",
       "keywords": ["elephant", "tusks"],
       "skins": [{ "unified": "1f9a3", "native": "🦣" }],
       "version": 13
     },
-    "rhinoceros": {
-      "id": "rhinoceros",
-      "name": "Rhinoceros",
+    "코뿔소": {
+      "id": "코뿔소",
+      "name": "코뿔소",
       "keywords": ["animal", "nature", "horn"],
       "skins": [{ "unified": "1f98f", "native": "🦏" }],
       "version": 3
     },
-    "hippopotamus": {
-      "id": "hippopotamus",
-      "name": "Hippopotamus",
+    "하마": {
+      "id": "하마",
+      "name": "하마",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f99b", "native": "🦛" }],
       "version": 11
     },
-    "mouse": {
-      "id": "mouse",
-      "name": "Mouse Face",
+    "생쥐": {
+      "id": "생쥐",
+      "name": "생쥐 얼굴",
       "keywords": ["animal", "nature", "cheese", "wedge", "rodent"],
       "skins": [{ "unified": "1f42d", "native": "🐭" }],
       "version": 1
     },
-    "mouse2": {
-      "id": "mouse2",
-      "name": "Mouse",
+    "생쥐2": {
+      "id": "생쥐2",
+      "name": "생쥐",
       "keywords": ["mouse2", "animal", "nature", "rodent"],
       "skins": [{ "unified": "1f401", "native": "🐁" }],
       "version": 1
     },
-    "rat": {
-      "id": "rat",
-      "name": "Rat",
+    "쥐": {
+      "id": "쥐",
+      "name": "쥐",
       "keywords": ["animal", "mouse", "rodent"],
       "skins": [{ "unified": "1f400", "native": "🐀" }],
       "version": 1
     },
-    "hamster": {
-      "id": "hamster",
-      "name": "Hamster",
+    "햄스터": {
+      "id": "햄스터",
+      "name": "햄스터",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f439", "native": "🐹" }],
       "version": 1
     },
-    "rabbit": {
-      "id": "rabbit",
-      "name": "Rabbit Face",
+    "토끼": {
+      "id": "토끼",
+      "name": "토끼 얼굴",
       "keywords": ["animal", "nature", "pet", "spring", "magic", "bunny"],
       "skins": [{ "unified": "1f430", "native": "🐰" }],
       "version": 1
     },
-    "rabbit2": {
-      "id": "rabbit2",
-      "name": "Rabbit",
+    "토끼2": {
+      "id": "토끼2",
+      "name": "토끼",
       "keywords": ["rabbit2", "animal", "nature", "pet", "magic", "spring"],
       "skins": [{ "unified": "1f407", "native": "🐇" }],
       "version": 1
     },
-    "chipmunk": {
-      "id": "chipmunk",
-      "name": "Chipmunk",
+    "얼룩_다람쥐": {
+      "id": "얼룩_다람쥐",
+      "name": "얼룩 다람쥐",
       "keywords": ["animal", "nature", "rodent", "squirrel"],
       "skins": [{ "unified": "1f43f-fe0f", "native": "🐿️" }],
       "version": 1
     },
-    "beaver": {
-      "id": "beaver",
-      "name": "Beaver",
+    "비버": {
+      "id": "비버",
+      "name": "비버",
       "keywords": ["animal", "rodent"],
       "skins": [{ "unified": "1f9ab", "native": "🦫" }],
       "version": 13
     },
-    "hedgehog": {
-      "id": "hedgehog",
-      "name": "Hedgehog",
+    "고슴도치": {
+      "id": "고슴도치",
+      "name": "고슴도치",
       "keywords": ["animal", "nature", "spiny"],
       "skins": [{ "unified": "1f994", "native": "🦔" }],
       "version": 5
     },
-    "bat": {
-      "id": "bat",
-      "name": "Bat",
+    "박쥐": {
+      "id": "박쥐",
+      "name": "박쥐",
       "keywords": ["animal", "nature", "blind", "vampire"],
       "skins": [{ "unified": "1f987", "native": "🦇" }],
       "version": 3
     },
-    "bear": {
-      "id": "bear",
-      "name": "Bear",
+    "곰": {
+      "id": "곰",
+      "name": "곰",
       "keywords": ["animal", "nature", "wild"],
       "skins": [{ "unified": "1f43b", "native": "🐻" }],
       "version": 1
     },
-    "polar_bear": {
-      "id": "polar_bear",
-      "name": "Polar Bear",
+    "북극곰": {
+      "id": "북극곰",
+      "name": "북극곰",
       "keywords": ["animal", "arctic"],
       "skins": [{ "unified": "1f43b-200d-2744-fe0f", "native": "🐻‍❄️" }],
       "version": 13
     },
-    "koala": {
-      "id": "koala",
-      "name": "Koala",
+    "코알라": {
+      "id": "코알라",
+      "name": "코알라",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f428", "native": "🐨" }],
       "version": 1
     },
-    "panda_face": {
-      "id": "panda_face",
-      "name": "Panda",
+    "판다_얼굴": {
+      "id": "판다_얼굴",
+      "name": "판다",
       "keywords": ["face", "animal", "nature"],
       "skins": [{ "unified": "1f43c", "native": "🐼" }],
       "version": 1
     },
-    "sloth": {
-      "id": "sloth",
-      "name": "Sloth",
+    "나무늘보": {
+      "id": "나무늘보",
+      "name": "나무늘보",
       "keywords": ["animal"],
       "skins": [{ "unified": "1f9a5", "native": "🦥" }],
       "version": 12
     },
-    "otter": {
-      "id": "otter",
-      "name": "Otter",
+    "수달": {
+      "id": "수달",
+      "name": "수달",
       "keywords": ["animal"],
       "skins": [{ "unified": "1f9a6", "native": "🦦" }],
       "version": 12
     },
-    "skunk": {
-      "id": "skunk",
-      "name": "Skunk",
+    "스컹크": {
+      "id": "스컹크",
+      "name": "스컹크",
       "keywords": ["animal"],
       "skins": [{ "unified": "1f9a8", "native": "🦨" }],
       "version": 12
     },
-    "kangaroo": {
-      "id": "kangaroo",
-      "name": "Kangaroo",
+    "캥거루": {
+      "id": "캥거루",
+      "name": "캥거루",
       "keywords": ["animal", "nature", "australia", "joey", "hop", "marsupial"],
       "skins": [{ "unified": "1f998", "native": "🦘" }],
       "version": 11
     },
-    "badger": {
-      "id": "badger",
-      "name": "Badger",
+    "오소리": {
+      "id": "오소리",
+      "name": "오소리",
       "keywords": ["animal", "nature", "honey"],
       "skins": [{ "unified": "1f9a1", "native": "🦡" }],
       "version": 11
     },
-    "feet": {
-      "id": "feet",
-      "name": "Paw Prints",
+    "발": {
+      "id": "발",
+      "name": "발자국",
       "keywords": [
         "feet",
         "animal",
@@ -9144,184 +9144,184 @@
       "skins": [{ "unified": "1f43e", "native": "🐾" }],
       "version": 1
     },
-    "turkey": {
-      "id": "turkey",
-      "name": "Turkey",
+    "칠면조": {
+      "id": "칠면조",
+      "name": "칠면조",
       "keywords": ["animal", "bird"],
       "skins": [{ "unified": "1f983", "native": "🦃" }],
       "version": 1
     },
-    "chicken": {
-      "id": "chicken",
-      "name": "Chicken",
+    "닭": {
+      "id": "닭",
+      "name": "닭",
       "keywords": ["animal", "cluck", "nature", "bird"],
       "skins": [{ "unified": "1f414", "native": "🐔" }],
       "version": 1
     },
-    "rooster": {
-      "id": "rooster",
-      "name": "Rooster",
+    "수탉": {
+      "id": "수탉",
+      "name": "수탉",
       "keywords": ["animal", "nature", "chicken"],
       "skins": [{ "unified": "1f413", "native": "🐓" }],
       "version": 1
     },
-    "hatching_chick": {
-      "id": "hatching_chick",
-      "name": "Hatching Chick",
+    "부화하는_병아리": {
+      "id": "부화하는_병아리",
+      "name": "부화하는 병아리",
       "keywords": ["animal", "chicken", "egg", "born", "baby", "bird"],
       "skins": [{ "unified": "1f423", "native": "🐣" }],
       "version": 1
     },
-    "baby_chick": {
-      "id": "baby_chick",
-      "name": "Baby Chick",
+    "병아리": {
+      "id": "병아리",
+      "name": "병아리",
       "keywords": ["animal", "chicken", "bird"],
       "skins": [{ "unified": "1f424", "native": "🐤" }],
       "version": 1
     },
-    "hatched_chick": {
-      "id": "hatched_chick",
-      "name": "Front-Facing Baby Chick",
+    "부화된_병아리": {
+      "id": "부화된_병아리",
+      "name": "정면을 바라보는 부화된 병아리",
       "keywords": ["hatched", "front", "facing", "animal", "chicken", "bird"],
       "skins": [{ "unified": "1f425", "native": "🐥" }],
       "version": 1
     },
-    "bird": {
-      "id": "bird",
-      "name": "Bird",
+    "새": {
+      "id": "새",
+      "name": "새",
       "keywords": ["animal", "nature", "fly", "tweet", "spring"],
       "skins": [{ "unified": "1f426", "native": "🐦" }],
       "version": 1
     },
-    "penguin": {
-      "id": "penguin",
-      "name": "Penguin",
+    "펭귄": {
+      "id": "펭귄",
+      "name": "펭귄",
       "keywords": ["animal", "nature"],
       "skins": [{ "unified": "1f427", "native": "🐧" }],
       "version": 1
     },
-    "dove_of_peace": {
-      "id": "dove_of_peace",
-      "name": "Dove",
+    "평화의_비둘기": {
+      "id": "평화의_비둘기",
+      "name": "비둘기",
       "keywords": ["of", "peace", "animal", "bird"],
       "skins": [{ "unified": "1f54a-fe0f", "native": "🕊️" }],
       "version": 1
     },
-    "eagle": {
-      "id": "eagle",
-      "name": "Eagle",
+    "독수리": {
+      "id": "독수리",
+      "name": "독수리",
       "keywords": ["animal", "nature", "bird"],
       "skins": [{ "unified": "1f985", "native": "🦅" }],
       "version": 3
     },
-    "duck": {
-      "id": "duck",
-      "name": "Duck",
+    "오리": {
+      "id": "오리",
+      "name": "오리",
       "keywords": ["animal", "nature", "bird", "mallard"],
       "skins": [{ "unified": "1f986", "native": "🦆" }],
       "version": 3
     },
-    "swan": {
-      "id": "swan",
-      "name": "Swan",
+    "백조": {
+      "id": "백조",
+      "name": "백조",
       "keywords": ["animal", "nature", "bird"],
       "skins": [{ "unified": "1f9a2", "native": "🦢" }],
       "version": 11
     },
-    "owl": {
-      "id": "owl",
-      "name": "Owl",
+    "부엉이": {
+      "id": "부엉이",
+      "name": "부엉이",
       "keywords": ["animal", "nature", "bird", "hoot"],
       "skins": [{ "unified": "1f989", "native": "🦉" }],
       "version": 3
     },
-    "dodo": {
-      "id": "dodo",
-      "name": "Dodo",
+    "도도새": {
+      "id": "도도새",
+      "name": "도도새",
       "keywords": ["animal", "bird"],
       "skins": [{ "unified": "1f9a4", "native": "🦤" }],
       "version": 13
     },
-    "feather": {
-      "id": "feather",
-      "name": "Feather",
+    "깃털": {
+      "id": "깃털",
+      "name": "깃털",
       "keywords": ["bird", "fly"],
       "skins": [{ "unified": "1fab6", "native": "🪶" }],
       "version": 13
     },
-    "flamingo": {
-      "id": "flamingo",
-      "name": "Flamingo",
+    "플라밍고": {
+      "id": "플라밍고",
+      "name": "플라밍고",
       "keywords": ["animal"],
       "skins": [{ "unified": "1f9a9", "native": "🦩" }],
       "version": 12
     },
-    "peacock": {
-      "id": "peacock",
-      "name": "Peacock",
+    "공작새": {
+      "id": "공작새",
+      "name": "공작새",
       "keywords": ["animal", "nature", "peahen", "bird"],
       "skins": [{ "unified": "1f99a", "native": "🦚" }],
       "version": 11
     },
-    "parrot": {
-      "id": "parrot",
-      "name": "Parrot",
+    "앵무새": {
+      "id": "앵무새",
+      "name": "앵무새",
       "keywords": ["animal", "nature", "bird", "pirate", "talk"],
       "skins": [{ "unified": "1f99c", "native": "🦜" }],
       "version": 11
     },
-    "frog": {
-      "id": "frog",
-      "name": "Frog",
+    "개구리": {
+      "id": "개구리",
+      "name": "개구리",
       "keywords": ["animal", "nature", "croak", "toad"],
       "skins": [{ "unified": "1f438", "native": "🐸" }],
       "version": 1
     },
-    "crocodile": {
-      "id": "crocodile",
-      "name": "Crocodile",
+    "악어": {
+      "id": "악어",
+      "name": "악어",
       "keywords": ["animal", "nature", "reptile", "lizard", "alligator"],
       "skins": [{ "unified": "1f40a", "native": "🐊" }],
       "version": 1
     },
-    "turtle": {
-      "id": "turtle",
-      "name": "Turtle",
+    "거북이": {
+      "id": "거북이",
+      "name": "거북이",
       "keywords": ["animal", "slow", "nature", "tortoise"],
       "skins": [{ "unified": "1f422", "native": "🐢" }],
       "version": 1
     },
-    "lizard": {
-      "id": "lizard",
-      "name": "Lizard",
+    "도마뱀": {
+      "id": "도마뱀",
+      "name": "도마뱀",
       "keywords": ["animal", "nature", "reptile"],
       "skins": [{ "unified": "1f98e", "native": "🦎" }],
       "version": 3
     },
-    "snake": {
-      "id": "snake",
-      "name": "Snake",
+    "뱀": {
+      "id": "뱀",
+      "name": "뱀",
       "keywords": ["animal", "evil", "nature", "hiss", "python"],
       "skins": [{ "unified": "1f40d", "native": "🐍" }],
       "version": 1
     },
-    "dragon_face": {
-      "id": "dragon_face",
-      "name": "Dragon Face",
+    "용_얼굴": {
+      "id": "용_얼굴",
+      "name": "용 얼굴",
       "keywords": ["animal", "myth", "nature", "chinese", "green"],
       "skins": [{ "unified": "1f432", "native": "🐲" }],
       "version": 1
     },
-    "dragon": {
-      "id": "dragon",
-      "name": "Dragon",
+    "용": {
+      "id": "용",
+      "name": "용",
       "keywords": ["animal", "myth", "nature", "chinese", "green"],
       "skins": [{ "unified": "1f409", "native": "🐉" }],
       "version": 1
     },
-    "sauropod": {
-      "id": "sauropod",
-      "name": "Sauropod",
+    "용각류": {
+      "id": "용각류",
+      "name": "용각류",
       "keywords": [
         "animal",
         "nature",
@@ -9334,9 +9334,9 @@
       "skins": [{ "unified": "1f995", "native": "🦕" }],
       "version": 5
     },
-    "t-rex": {
-      "id": "t-rex",
-      "name": "T-Rex",
+    "티라노사우르스": {
+      "id": "티라노사우르스",
+      "name": "티라노사우르스",
       "keywords": [
         "t",
         "rex",
@@ -9349,23 +9349,23 @@
       "skins": [{ "unified": "1f996", "native": "🦖" }],
       "version": 5
     },
-    "whale": {
-      "id": "whale",
-      "name": "Spouting Whale",
+    "고래": {
+      "id": "고래",
+      "name": "내뿜는 고래",
       "keywords": ["animal", "nature", "sea", "ocean"],
       "skins": [{ "unified": "1f433", "native": "🐳" }],
       "version": 1
     },
-    "whale2": {
-      "id": "whale2",
-      "name": "Whale",
+    "고래2": {
+      "id": "고래2",
+      "name": "고래",
       "keywords": ["whale2", "animal", "nature", "sea", "ocean"],
       "skins": [{ "unified": "1f40b", "native": "🐋" }],
       "version": 1
     },
-    "dolphin": {
-      "id": "dolphin",
-      "name": "Dolphin",
+    "돌고래": {
+      "id": "돌고래",
+      "name": "돌고래",
       "keywords": [
         "flipper",
         "animal",
@@ -9379,37 +9379,37 @@
       "skins": [{ "unified": "1f42c", "native": "🐬" }],
       "version": 1
     },
-    "seal": {
-      "id": "seal",
-      "name": "Seal",
+    "물개": {
+      "id": "물개",
+      "name": "물개",
       "keywords": ["animal", "creature", "sea"],
       "skins": [{ "unified": "1f9ad", "native": "🦭" }],
       "version": 13
     },
-    "fish": {
-      "id": "fish",
-      "name": "Fish",
+    "물고기": {
+      "id": "물고기",
+      "name": "물고기",
       "keywords": ["animal", "food", "nature"],
       "skins": [{ "unified": "1f41f", "native": "🐟" }],
       "version": 1
     },
-    "tropical_fish": {
-      "id": "tropical_fish",
-      "name": "Tropical Fish",
+    "열대어": {
+      "id": "열대어",
+      "name": "열대어",
       "keywords": ["animal", "swim", "ocean", "beach", "nemo"],
       "skins": [{ "unified": "1f420", "native": "🐠" }],
       "version": 1
     },
-    "blowfish": {
-      "id": "blowfish",
-      "name": "Blowfish",
+    "복어": {
+      "id": "복어",
+      "name": "복어",
       "keywords": ["animal", "nature", "food", "sea", "ocean"],
       "skins": [{ "unified": "1f421", "native": "🐡" }],
       "version": 1
     },
-    "shark": {
-      "id": "shark",
-      "name": "Shark",
+    "상어": {
+      "id": "상어",
+      "name": "상어",
       "keywords": [
         "animal",
         "nature",
@@ -9423,58 +9423,58 @@
       "skins": [{ "unified": "1f988", "native": "🦈" }],
       "version": 3
     },
-    "octopus": {
-      "id": "octopus",
-      "name": "Octopus",
+    "문어": {
+      "id": "문어",
+      "name": "문어",
       "keywords": ["animal", "creature", "ocean", "sea", "nature", "beach"],
       "skins": [{ "unified": "1f419", "native": "🐙" }],
       "version": 1
     },
-    "shell": {
-      "id": "shell",
-      "name": "Spiral Shell",
+    "소라_껍데기": {
+      "id": "소라_껍데기",
+      "name": "소라 껍데기",
       "keywords": ["nature", "sea", "beach"],
       "skins": [{ "unified": "1f41a", "native": "🐚" }],
       "version": 1
     },
-    "coral": {
-      "id": "coral",
-      "name": "Coral",
+    "산호": {
+      "id": "산호",
+      "name": "산호",
       "keywords": ["ocean", "sea", "reef"],
       "skins": [{ "unified": "1fab8", "native": "🪸" }],
       "version": 14
     },
-    "snail": {
-      "id": "snail",
-      "name": "Snail",
+    "달팽이": {
+      "id": "달팽이",
+      "name": "달팽이",
       "keywords": ["slow", "animal", "shell"],
       "skins": [{ "unified": "1f40c", "native": "🐌" }],
       "version": 1
     },
-    "butterfly": {
-      "id": "butterfly",
-      "name": "Butterfly",
+    "나비": {
+      "id": "나비",
+      "name": "나비",
       "keywords": ["animal", "insect", "nature", "caterpillar"],
       "skins": [{ "unified": "1f98b", "native": "🦋" }],
       "version": 3
     },
-    "bug": {
-      "id": "bug",
-      "name": "Bug",
+    "벌레": {
+      "id": "벌레",
+      "name": "벌레",
       "keywords": ["animal", "insect", "nature", "worm"],
       "skins": [{ "unified": "1f41b", "native": "🐛" }],
       "version": 1
     },
-    "ant": {
-      "id": "ant",
-      "name": "Ant",
+    "개미": {
+      "id": "개미",
+      "name": "개미",
       "keywords": ["animal", "insect", "nature", "bug"],
       "skins": [{ "unified": "1f41c", "native": "🐜" }],
       "version": 1
     },
-    "bee": {
-      "id": "bee",
-      "name": "Honeybee",
+    "벌": {
+      "id": "벌",
+      "name": "꿀벌",
       "keywords": [
         "bee",
         "animal",
@@ -9487,191 +9487,191 @@
       "skins": [{ "unified": "1f41d", "native": "🐝" }],
       "version": 1
     },
-    "beetle": {
-      "id": "beetle",
-      "name": "Beetle",
+    "딱정벌레": {
+      "id": "딱정벌레",
+      "name": "딱정벌레",
       "keywords": ["insect"],
       "skins": [{ "unified": "1fab2", "native": "🪲" }],
       "version": 13
     },
-    "ladybug": {
-      "id": "ladybug",
-      "name": "Lady Beetle",
+    "무당벌레": {
+      "id": "무당벌레",
+      "name": "무당벌레",
       "keywords": ["ladybug", "animal", "insect", "nature"],
       "skins": [{ "unified": "1f41e", "native": "🐞" }],
       "version": 1
     },
-    "cricket": {
-      "id": "cricket",
-      "name": "Cricket",
+    "크리켓": {
+      "id": "크리켓",
+      "name": "크리켓",
       "keywords": ["animal", "chirp"],
       "skins": [{ "unified": "1f997", "native": "🦗" }],
       "version": 5
     },
-    "cockroach": {
-      "id": "cockroach",
-      "name": "Cockroach",
+    "바퀴벌레": {
+      "id": "바퀴벌레",
+      "name": "바퀴벌레",
       "keywords": ["insect", "pests"],
       "skins": [{ "unified": "1fab3", "native": "🪳" }],
       "version": 13
     },
-    "spider": {
-      "id": "spider",
-      "name": "Spider",
+    "거미": {
+      "id": "거미",
+      "name": "거미",
       "keywords": ["animal", "arachnid"],
       "skins": [{ "unified": "1f577-fe0f", "native": "🕷️" }],
       "version": 1
     },
-    "spider_web": {
-      "id": "spider_web",
-      "name": "Spider Web",
+    "거미줄": {
+      "id": "거미줄",
+      "name": "거미줄",
       "keywords": ["animal", "insect", "arachnid", "silk"],
       "skins": [{ "unified": "1f578-fe0f", "native": "🕸️" }],
       "version": 1
     },
-    "scorpion": {
-      "id": "scorpion",
-      "name": "Scorpion",
+    "전갈": {
+      "id": "전갈",
+      "name": "전갈",
       "keywords": ["animal", "arachnid"],
       "skins": [{ "unified": "1f982", "native": "🦂" }],
       "version": 1
     },
-    "mosquito": {
-      "id": "mosquito",
-      "name": "Mosquito",
+    "모기": {
+      "id": "모기",
+      "name": "모기",
       "keywords": ["animal", "nature", "insect", "malaria"],
       "skins": [{ "unified": "1f99f", "native": "🦟" }],
       "version": 11
     },
-    "fly": {
-      "id": "fly",
-      "name": "Fly",
+    "파리": {
+      "id": "파리",
+      "name": "파리",
       "keywords": ["insect"],
       "skins": [{ "unified": "1fab0", "native": "🪰" }],
       "version": 13
     },
-    "worm": {
-      "id": "worm",
-      "name": "Worm",
+    "지렁이": {
+      "id": "지렁이",
+      "name": "지렁이",
       "keywords": ["animal"],
       "skins": [{ "unified": "1fab1", "native": "🪱" }],
       "version": 13
     },
-    "microbe": {
-      "id": "microbe",
-      "name": "Microbe",
+    "미생물": {
+      "id": "미생물",
+      "name": "미생물",
       "keywords": ["amoeba", "bacteria", "germs", "virus"],
       "skins": [{ "unified": "1f9a0", "native": "🦠" }],
       "version": 11
     },
-    "bouquet": {
-      "id": "bouquet",
-      "name": "Bouquet",
+    "부케": {
+      "id": "부케",
+      "name": "부케",
       "keywords": ["flowers", "nature", "spring"],
       "skins": [{ "unified": "1f490", "native": "💐" }],
       "version": 1
     },
-    "cherry_blossom": {
-      "id": "cherry_blossom",
-      "name": "Cherry Blossom",
+    "벚꽃": {
+      "id": "벚꽃",
+      "name": "벚꽃",
       "keywords": ["nature", "plant", "spring", "flower"],
       "skins": [{ "unified": "1f338", "native": "🌸" }],
       "version": 1
     },
-    "white_flower": {
-      "id": "white_flower",
-      "name": "White Flower",
+    "흰_꽃": {
+      "id": "흰_꽃",
+      "name": "흰 꽃",
       "keywords": ["japanese", "spring"],
       "skins": [{ "unified": "1f4ae", "native": "💮" }],
       "version": 1
     },
-    "lotus": {
-      "id": "lotus",
-      "name": "Lotus",
+    "연꽃": {
+      "id": "연꽃",
+      "name": "연꽃",
       "keywords": ["flower", "calm", "meditation"],
       "skins": [{ "unified": "1fab7", "native": "🪷" }],
       "version": 14
     },
-    "rosette": {
-      "id": "rosette",
-      "name": "Rosette",
+    "장미_모양_리본": {
+      "id": "장미_모양_리본",
+      "name": "장미 모양 리본",
       "keywords": ["flower", "decoration", "military"],
       "skins": [{ "unified": "1f3f5-fe0f", "native": "🏵️" }],
       "version": 1
     },
-    "rose": {
-      "id": "rose",
-      "name": "Rose",
+    "장미": {
+      "id": "장미",
+      "name": "장미",
       "keywords": ["flowers", "valentines", "love", "spring"],
       "skins": [{ "unified": "1f339", "native": "🌹" }],
       "version": 1
     },
-    "wilted_flower": {
-      "id": "wilted_flower",
-      "name": "Wilted Flower",
+    "시든_꽃": {
+      "id": "시든_꽃",
+      "name": "시든 꽃",
       "keywords": ["plant", "nature"],
       "skins": [{ "unified": "1f940", "native": "🥀" }],
       "version": 3
     },
-    "hibiscus": {
-      "id": "hibiscus",
-      "name": "Hibiscus",
+    "히비스커스": {
+      "id": "히비스커스",
+      "name": "히비스커스",
       "keywords": ["plant", "vegetable", "flowers", "beach"],
       "skins": [{ "unified": "1f33a", "native": "🌺" }],
       "version": 1
     },
-    "sunflower": {
-      "id": "sunflower",
-      "name": "Sunflower",
+    "해바라기": {
+      "id": "해바라기",
+      "name": "해바라기",
       "keywords": ["nature", "plant", "fall"],
       "skins": [{ "unified": "1f33b", "native": "🌻" }],
       "version": 1
     },
-    "blossom": {
-      "id": "blossom",
-      "name": "Blossom",
+    "꽃": {
+      "id": "꽃",
+      "name": "꽃",
       "keywords": ["nature", "flowers", "yellow"],
       "skins": [{ "unified": "1f33c", "native": "🌼" }],
       "version": 1
     },
-    "tulip": {
-      "id": "tulip",
-      "name": "Tulip",
+    "튤립": {
+      "id": "튤립",
+      "name": "튤립",
       "keywords": ["flowers", "plant", "nature", "summer", "spring"],
       "skins": [{ "unified": "1f337", "native": "🌷" }],
       "version": 1
     },
-    "seedling": {
-      "id": "seedling",
-      "name": "Seedling",
+    "새싹": {
+      "id": "새싹",
+      "name": "새싹",
       "keywords": ["plant", "nature", "grass", "lawn", "spring"],
       "skins": [{ "unified": "1f331", "native": "🌱" }],
       "version": 1
     },
-    "potted_plant": {
-      "id": "potted_plant",
-      "name": "Potted Plant",
+    "화분에_심긴_식물": {
+      "id": "화분에_심긴_식물",
+      "name": "화분에 심긴 식물",
       "keywords": ["greenery", "house"],
       "skins": [{ "unified": "1fab4", "native": "🪴" }],
       "version": 13
     },
-    "evergreen_tree": {
-      "id": "evergreen_tree",
-      "name": "Evergreen Tree",
+    "상록수": {
+      "id": "상록수",
+      "name": "상록수",
       "keywords": ["plant", "nature"],
       "skins": [{ "unified": "1f332", "native": "🌲" }],
       "version": 1
     },
-    "deciduous_tree": {
-      "id": "deciduous_tree",
-      "name": "Deciduous Tree",
+    "낙엽수": {
+      "id": "낙엽수",
+      "name": "낙엽수",
       "keywords": ["plant", "nature"],
       "skins": [{ "unified": "1f333", "native": "🌳" }],
       "version": 1
     },
-    "palm_tree": {
-      "id": "palm_tree",
-      "name": "Palm Tree",
+    "야자수": {
+      "id": "야자수",
+      "name": "야자수",
       "keywords": [
         "plant",
         "vegetable",
@@ -9684,58 +9684,58 @@
       "skins": [{ "unified": "1f334", "native": "🌴" }],
       "version": 1
     },
-    "cactus": {
-      "id": "cactus",
-      "name": "Cactus",
+    "선인장": {
+      "id": "선인장",
+      "name": "선인장",
       "keywords": ["vegetable", "plant", "nature"],
       "skins": [{ "unified": "1f335", "native": "🌵" }],
       "version": 1
     },
-    "ear_of_rice": {
-      "id": "ear_of_rice",
-      "name": "Ear of Rice",
+    "벼_이삭": {
+      "id": "벼_이삭",
+      "name": "벼 이삭",
       "keywords": ["sheaf", "nature", "plant"],
       "skins": [{ "unified": "1f33e", "native": "🌾" }],
       "version": 1
     },
-    "herb": {
-      "id": "herb",
-      "name": "Herb",
+    "허브": {
+      "id": "허브",
+      "name": "허브",
       "keywords": ["vegetable", "plant", "medicine", "weed", "grass", "lawn"],
       "skins": [{ "unified": "1f33f", "native": "🌿" }],
       "version": 1
     },
-    "shamrock": {
-      "id": "shamrock",
-      "name": "Shamrock",
+    "토끼풀": {
+      "id": "토끼풀",
+      "name": "토끼풀",
       "keywords": ["vegetable", "plant", "nature", "irish", "clover"],
       "skins": [{ "unified": "2618-fe0f", "native": "☘️" }],
       "version": 1
     },
-    "four_leaf_clover": {
-      "id": "four_leaf_clover",
-      "name": "Four Leaf Clover",
+    "네잎클로버": {
+      "id": "네잎클로버",
+      "name": "네잎클로버",
       "keywords": ["vegetable", "plant", "nature", "lucky", "irish"],
       "skins": [{ "unified": "1f340", "native": "🍀" }],
       "version": 1
     },
-    "maple_leaf": {
-      "id": "maple_leaf",
-      "name": "Maple Leaf",
+    "단풍나무_잎": {
+      "id": "단풍나무_잎",
+      "name": "단풍나무 잎",
       "keywords": ["nature", "plant", "vegetable", "ca", "fall"],
       "skins": [{ "unified": "1f341", "native": "🍁" }],
       "version": 1
     },
-    "fallen_leaf": {
-      "id": "fallen_leaf",
-      "name": "Fallen Leaf",
+    "낙엽": {
+      "id": "낙엽",
+      "name": "낙엽",
       "keywords": ["nature", "plant", "vegetable", "leaves"],
       "skins": [{ "unified": "1f342", "native": "🍂" }],
       "version": 1
     },
-    "leaves": {
-      "id": "leaves",
-      "name": "Leaf Fluttering in Wind",
+    "잎": {
+      "id": "잎",
+      "name": "바람에 흩날리는 잎",
       "keywords": [
         "leaves",
         "nature",
@@ -9749,16 +9749,16 @@
       "skins": [{ "unified": "1f343", "native": "🍃" }],
       "version": 1
     },
-    "empty_nest": {
-      "id": "empty_nest",
-      "name": "Empty Nest",
+    "비어_있는_새_둥지": {
+      "id": "비어_있는_새_둥지",
+      "name": "비어 있는 새 둥지",
       "keywords": ["bird"],
       "skins": [{ "unified": "1fab9", "native": "🪹" }],
       "version": 14
     },
-    "nest_with_eggs": {
-      "id": "nest_with_eggs",
-      "name": "Nest with Eggs",
+    "알이_담긴_새_둥지": {
+      "id": "알이_담긴_새_둥지",
+      "name": "알이 담긴 새 둥지",
       "keywords": ["bird"],
       "skins": [{ "unified": "1faba", "native": "🪺" }],
       "version": 14
