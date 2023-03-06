@@ -1,12 +1,12 @@
 {
-  "name": "@emoji-mart/data",
-  "version": "1.1.2",
-  "description": "Data for Emoji Mart; the emoji picker for the web.",
+  "name": "@emoji-mart/data_kr",
+  "version": "1.0.0",
+  "description": "Data for Emoji Mart in Korean",
   "license": "MIT",
   "homepage": "https://missiveapp.com/open/emoji-mart",
   "repository": {
     "type": "git",
-    "url": "https://github.com/missive/emoji-mart",
+    "url": "https://github.com/5Suminsss2/emoji-mart",
     "directory": "packages/emoji-mart-data"
   },
   "main": "sets/14/native.json",
