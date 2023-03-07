@@ -829,7 +829,7 @@
         "박_터뜨리기",
         "타나바타_나무",
         "대나무",
-        "인형",
+        "일본식_인형",
         "깃발",
         "풍경",
         "달맞이_의식",
@@ -850,9 +850,9 @@
         "소프트볼",
         "농구",
         "배구",
-        "럭비공",
-        "럭비공",
-        "미식축구_공",
+        "풋볼",
+        "럭비",
+        "테니스",
         "원반",
         "볼링",
         "크리켓_배트와_공",
@@ -880,9 +880,9 @@
         "마술_지팡이",
         "나자르_부적",
         "함사",
-        "비디오 게임",
+        "비디오_게임",
         "조이스틱",
-        "슬롯 머신",
+        "슬롯_머신",
         "주사위",
         "직소",
         "곰인형",
@@ -12704,9 +12704,9 @@
       "skins": [{ "unified": "1f30a", "native": "🌊" }],
       "version": 1
     },
-    "jack_o_lantern": {
-      "id": "jack_o_lantern",
-      "name": "Jack-O-Lantern",
+    "호박등": {
+      "id": "호박등",
+      "name": "호박등",
       "keywords": [
         "jack",
         "o",
@@ -12720,37 +12720,37 @@
       "skins": [{ "unified": "1f383", "native": "🎃" }],
       "version": 1
     },
-    "christmas_tree": {
-      "id": "christmas_tree",
-      "name": "Christmas Tree",
+    "크리스마스_트리": {
+      "id": "크리스마스_트리",
+      "name": "크리스마스_트리",
       "keywords": ["festival", "vacation", "december", "xmas", "celebration"],
       "skins": [{ "unified": "1f384", "native": "🎄" }],
       "version": 1
     },
-    "fireworks": {
-      "id": "fireworks",
-      "name": "Fireworks",
+    "불꽃놀이": {
+      "id": "불꽃놀이",
+      "name": "불꽃놀이",
       "keywords": ["photo", "festival", "carnival", "congratulations"],
       "skins": [{ "unified": "1f386", "native": "🎆" }],
       "version": 1
     },
-    "sparkler": {
-      "id": "sparkler",
-      "name": "Sparkler",
+    "빛나는것": {
+      "id": "빛나는것",
+      "name": "빛나는것",
       "keywords": ["stars", "night", "shine"],
       "skins": [{ "unified": "1f387", "native": "🎇" }],
       "version": 1
     },
-    "firecracker": {
-      "id": "firecracker",
-      "name": "Firecracker",
+    "폭죽": {
+      "id": "폭죽",
+      "name": "폭죽",
       "keywords": ["dynamite", "boom", "explode", "explosion", "explosive"],
       "skins": [{ "unified": "1f9e8", "native": "🧨" }],
       "version": 11
     },
-    "sparkles": {
-      "id": "sparkles",
-      "name": "Sparkles",
+    "반짝임": {
+      "id": "반짝임",
+      "name": "반짝임",
       "keywords": [
         "stars",
         "shine",
@@ -12763,16 +12763,16 @@
       "skins": [{ "unified": "2728", "native": "✨" }],
       "version": 1
     },
-    "balloon": {
-      "id": "balloon",
-      "name": "Balloon",
+    "풍선": {
+      "id": "풍선",
+      "name": "풍선",
       "keywords": ["party", "celebration", "birthday", "circus"],
       "skins": [{ "unified": "1f388", "native": "🎈" }],
       "version": 1
     },
-    "tada": {
-      "id": "tada",
-      "name": "Party Popper",
+    "짠": {
+      "id": "짠",
+      "name": "파티 폭죽",
       "keywords": [
         "tada",
         "congratulations",
@@ -12784,240 +12784,240 @@
       "skins": [{ "unified": "1f389", "native": "🎉" }],
       "version": 1
     },
-    "confetti_ball": {
-      "id": "confetti_ball",
-      "name": "Confetti Ball",
+    "박_터뜨리기": {
+      "id": "박_터뜨리기",
+      "name": "박_터뜨리기",
       "keywords": ["festival", "party", "birthday", "circus"],
       "skins": [{ "unified": "1f38a", "native": "🎊" }],
       "version": 1
     },
-    "tanabata_tree": {
-      "id": "tanabata_tree",
-      "name": "Tanabata Tree",
+    "타나바타_나무": {
+      "id": "타나바타_나무",
+      "name": "타나바타_나무",
       "keywords": ["plant", "nature", "branch", "summer"],
       "skins": [{ "unified": "1f38b", "native": "🎋" }],
       "version": 1
     },
-    "bamboo": {
-      "id": "bamboo",
-      "name": "Pine Decoration",
+    "대나무": {
+      "id": "대나무",
+      "name": "대나무",
       "keywords": ["bamboo", "plant", "nature", "vegetable", "panda"],
       "skins": [{ "unified": "1f38d", "native": "🎍" }],
       "version": 1
     },
-    "dolls": {
-      "id": "dolls",
-      "name": "Japanese Dolls",
+    "일본식_인형": {
+      "id": "일본식_인형",
+      "name": "일본식 인형",
       "keywords": ["toy", "kimono"],
       "skins": [{ "unified": "1f38e", "native": "🎎" }],
       "version": 1
     },
-    "flags": {
-      "id": "flags",
-      "name": "Carp Streamer",
+    "깃발": {
+      "id": "깃발",
+      "name": "깃발",
       "keywords": ["flags", "fish", "japanese", "koinobori", "banner"],
       "skins": [{ "unified": "1f38f", "native": "🎏" }],
       "version": 1
     },
-    "wind_chime": {
-      "id": "wind_chime",
-      "name": "Wind Chime",
+    "풍경": {
+      "id": "풍경",
+      "name": "풍경",
       "keywords": ["nature", "ding", "spring", "bell"],
       "skins": [{ "unified": "1f390", "native": "🎐" }],
       "version": 1
     },
-    "rice_scene": {
-      "id": "rice_scene",
-      "name": "Moon Viewing Ceremony",
+    "달맞이_의식": {
+      "id": "달맞이_의식",
+      "name": "달맞이_의식",
       "keywords": ["rice", "scene", "photo", "japan", "asia", "tsukimi"],
       "skins": [{ "unified": "1f391", "native": "🎑" }],
       "version": 1
     },
-    "red_envelope": {
-      "id": "red_envelope",
-      "name": "Red Envelope",
+    "빨간색_봉투": {
+      "id": "빨간색_봉투",
+      "name": "빨간색_봉투",
       "keywords": ["gift"],
       "skins": [{ "unified": "1f9e7", "native": "🧧" }],
       "version": 11
     },
-    "ribbon": {
-      "id": "ribbon",
-      "name": "Ribbon",
+    "리본": {
+      "id": "리본",
+      "name": "리본",
       "keywords": ["decoration", "pink", "girl", "bowtie"],
       "skins": [{ "unified": "1f380", "native": "🎀" }],
       "version": 1
     },
-    "gift": {
-      "id": "gift",
-      "name": "Wrapped Gift",
+    "선물": {
+      "id": "선물",
+      "name": "선물",
       "keywords": ["present", "birthday", "christmas", "xmas"],
       "skins": [{ "unified": "1f381", "native": "🎁" }],
       "version": 1
     },
-    "reminder_ribbon": {
-      "id": "reminder_ribbon",
-      "name": "Reminder Ribbon",
+    "기념_리본": {
+      "id": "기념_리본",
+      "name": "기념 리본",
       "keywords": ["sports", "cause", "support", "awareness"],
       "skins": [{ "unified": "1f397-fe0f", "native": "🎗️" }],
       "version": 1
     },
-    "admission_tickets": {
-      "id": "admission_tickets",
-      "name": "Admission Tickets",
+    "입장권": {
+      "id": "입장권",
+      "name": "입장권",
       "keywords": ["sports", "concert", "entrance"],
       "skins": [{ "unified": "1f39f-fe0f", "native": "🎟️" }],
       "version": 1
     },
-    "ticket": {
-      "id": "ticket",
-      "name": "Ticket",
+    "티켓": {
+      "id": "티켓",
+      "name": "티켓",
       "keywords": ["event", "concert", "pass"],
       "skins": [{ "unified": "1f3ab", "native": "🎫" }],
       "version": 1
     },
-    "medal": {
-      "id": "medal",
-      "name": "Military Medal",
+    "메달": {
+      "id": "메달",
+      "name": "메달",
       "keywords": ["award", "winning", "army"],
       "skins": [{ "unified": "1f396-fe0f", "native": "🎖️" }],
       "version": 1
     },
-    "trophy": {
-      "id": "trophy",
-      "name": "Trophy",
+    "트로피": {
+      "id": "트로피",
+      "name": "트로피",
       "keywords": ["win", "award", "contest", "place", "ftw", "ceremony"],
       "skins": [{ "unified": "1f3c6", "native": "🏆" }],
       "version": 1
     },
-    "sports_medal": {
-      "id": "sports_medal",
-      "name": "Sports Medal",
+    "스포츠_메달": {
+      "id": "스포츠_메달",
+      "name": "스포츠_메달",
       "keywords": ["award", "winning"],
       "skins": [{ "unified": "1f3c5", "native": "🏅" }],
       "version": 1
     },
-    "first_place_medal": {
-      "id": "first_place_medal",
-      "name": "1st Place Medal",
+    "1등_메달": {
+      "id": "1등_메달",
+      "name": "1등_메달",
       "keywords": ["first", "award", "winning"],
       "skins": [{ "unified": "1f947", "native": "🥇" }],
       "version": 3
     },
-    "second_place_medal": {
-      "id": "second_place_medal",
-      "name": "2nd Place Medal",
+    "2등_메달": {
+      "id": "2등_메달",
+      "name": "2등_메달",
       "keywords": ["second", "award"],
       "skins": [{ "unified": "1f948", "native": "🥈" }],
       "version": 3
     },
-    "third_place_medal": {
-      "id": "third_place_medal",
-      "name": "3rd Place Medal",
+    "3등_메달": {
+      "id": "3등_메달",
+      "name": "3등_메달",
       "keywords": ["third", "award"],
       "skins": [{ "unified": "1f949", "native": "🥉" }],
       "version": 3
     },
-    "soccer": {
-      "id": "soccer",
-      "name": "Soccer Ball",
+    "축구": {
+      "id": "축구",
+      "name": "축구",
       "keywords": ["sports", "football"],
       "skins": [{ "unified": "26bd", "native": "⚽" }],
       "version": 1
     },
-    "baseball": {
-      "id": "baseball",
-      "name": "Baseball",
+    "야구": {
+      "id": "야구",
+      "name": "야구",
       "keywords": ["sports", "balls"],
       "skins": [{ "unified": "26be", "native": "⚾" }],
       "version": 1
     },
-    "softball": {
-      "id": "softball",
-      "name": "Softball",
+    "소프트볼": {
+      "id": "소프트볼",
+      "name": "소프트볼",
       "keywords": ["sports", "balls"],
       "skins": [{ "unified": "1f94e", "native": "🥎" }],
       "version": 11
     },
-    "basketball": {
-      "id": "basketball",
-      "name": "Basketball",
+    "농구": {
+      "id": "농구",
+      "name": "농구",
       "keywords": ["sports", "balls", "NBA"],
       "skins": [{ "unified": "1f3c0", "native": "🏀" }],
       "version": 1
     },
-    "volleyball": {
-      "id": "volleyball",
-      "name": "Volleyball",
+    "배구": {
+      "id": "배구",
+      "name": "배구",
       "keywords": ["sports", "balls"],
       "skins": [{ "unified": "1f3d0", "native": "🏐" }],
       "version": 1
     },
-    "football": {
-      "id": "football",
-      "name": "American Football",
+    "풋볼": {
+      "id": "풋볼",
+      "name": "풋볼",
       "keywords": ["sports", "balls", "NFL"],
       "skins": [{ "unified": "1f3c8", "native": "🏈" }],
       "version": 1
     },
-    "rugby_football": {
-      "id": "rugby_football",
-      "name": "Rugby Football",
+    "럭비": {
+      "id": "럭비",
+      "name": "럭비",
       "keywords": ["sports", "team"],
       "skins": [{ "unified": "1f3c9", "native": "🏉" }],
       "version": 1
     },
-    "tennis": {
-      "id": "tennis",
-      "name": "Tennis",
+    "테니스": {
+      "id": "테니스",
+      "name": "테니스",
       "keywords": ["sports", "balls", "green"],
       "skins": [{ "unified": "1f3be", "native": "🎾" }],
       "version": 1
     },
-    "flying_disc": {
-      "id": "flying_disc",
-      "name": "Flying Disc",
+    "원반": {
+      "id": "원반",
+      "name": "원반",
       "keywords": ["sports", "frisbee", "ultimate"],
       "skins": [{ "unified": "1f94f", "native": "🥏" }],
       "version": 11
     },
-    "bowling": {
-      "id": "bowling",
-      "name": "Bowling",
+    "볼링": {
+      "id": "볼링",
+      "name": "볼링",
       "keywords": ["sports", "fun", "play"],
       "skins": [{ "unified": "1f3b3", "native": "🎳" }],
       "version": 1
     },
-    "cricket_bat_and_ball": {
-      "id": "cricket_bat_and_ball",
-      "name": "Cricket Game",
+    "크리켓_배트와_공": {
+      "id": "크리켓_배트와_공",
+      "name": "크리켓_배트와_공",
       "keywords": ["bat", "and", "ball", "sports"],
       "skins": [{ "unified": "1f3cf", "native": "🏏" }],
       "version": 1
     },
-    "field_hockey_stick_and_ball": {
-      "id": "field_hockey_stick_and_ball",
-      "name": "Field Hockey",
+    "필드하키_스틱과_공": {
+      "id": "필드하키_스틱과_공",
+      "name": "필드하키_스틱과_공",
       "keywords": ["stick", "and", "ball", "sports"],
       "skins": [{ "unified": "1f3d1", "native": "🏑" }],
       "version": 1
     },
-    "ice_hockey_stick_and_puck": {
-      "id": "ice_hockey_stick_and_puck",
-      "name": "Ice Hockey",
+    "아이스하키_스틱과_퍽": {
+      "id": "아이스하키_스틱과_퍽",
+      "name": "아이스하키",
       "keywords": ["stick", "and", "puck", "sports"],
       "skins": [{ "unified": "1f3d2", "native": "🏒" }],
       "version": 1
     },
-    "lacrosse": {
-      "id": "lacrosse",
-      "name": "Lacrosse",
+    "라크로스": {
+      "id": "라크로스",
+      "name": "라크로스",
       "keywords": ["sports", "ball", "stick"],
       "skins": [{ "unified": "1f94d", "native": "🥍" }],
       "version": 11
     },
-    "table_tennis_paddle_and_ball": {
-      "id": "table_tennis_paddle_and_ball",
-      "name": "Ping Pong",
+    "탁구채와_탁구공": {
+      "id": "탁구채와_탁구공",
+      "name": "탁구",
       "keywords": [
         "table",
         "tennis",
@@ -13030,114 +13030,114 @@
       "skins": [{ "unified": "1f3d3", "native": "🏓" }],
       "version": 1
     },
-    "badminton_racquet_and_shuttlecock": {
-      "id": "badminton_racquet_and_shuttlecock",
-      "name": "Badminton",
+    "배드민턴_라켓과_셔틀콕": {
+      "id": "배드민턴_라켓과_셔틀콕",
+      "name": "배드민턴",
       "keywords": ["racquet", "and", "shuttlecock", "sports"],
       "skins": [{ "unified": "1f3f8", "native": "🏸" }],
       "version": 1
     },
-    "boxing_glove": {
-      "id": "boxing_glove",
-      "name": "Boxing Glove",
+    "복싱_장갑": {
+      "id": "복싱_장갑",
+      "name": "복싱 장갑",
       "keywords": ["sports", "fighting"],
       "skins": [{ "unified": "1f94a", "native": "🥊" }],
       "version": 3
     },
-    "martial_arts_uniform": {
-      "id": "martial_arts_uniform",
-      "name": "Martial Arts Uniform",
+    "도복": {
+      "id": "도복",
+      "name": "도복",
       "keywords": ["judo", "karate", "taekwondo"],
       "skins": [{ "unified": "1f94b", "native": "🥋" }],
       "version": 3
     },
-    "goal_net": {
-      "id": "goal_net",
-      "name": "Goal Net",
+    "골_네트": {
+      "id": "골_네트",
+      "name": "골_네트",
       "keywords": ["sports"],
       "skins": [{ "unified": "1f945", "native": "🥅" }],
       "version": 3
     },
-    "golf": {
-      "id": "golf",
-      "name": "Flag in Hole",
+    "골프": {
+      "id": "골프",
+      "name": "골프",
       "keywords": ["golf", "sports", "business", "summer"],
       "skins": [{ "unified": "26f3", "native": "⛳" }],
       "version": 1
     },
-    "ice_skate": {
-      "id": "ice_skate",
-      "name": "Ice Skate",
+    "스케이트": {
+      "id": "스케이트",
+      "name": "스케이트",
       "keywords": ["sports"],
       "skins": [{ "unified": "26f8-fe0f", "native": "⛸️" }],
       "version": 1
     },
-    "fishing_pole_and_fish": {
-      "id": "fishing_pole_and_fish",
-      "name": "Fishing Pole",
+    "낚시대와_물고기": {
+      "id": "낚시대와_물고기",
+      "name": "낚시대와_물고기",
       "keywords": ["and", "fish", "food", "hobby", "summer"],
       "skins": [{ "unified": "1f3a3", "native": "🎣" }],
       "version": 1
     },
-    "diving_mask": {
-      "id": "diving_mask",
-      "name": "Diving Mask",
+    "다이빙_마스크": {
+      "id": "다이빙_마스크",
+      "name": "다이빙_마스크",
       "keywords": ["sport", "ocean"],
       "skins": [{ "unified": "1f93f", "native": "🤿" }],
       "version": 12
     },
-    "running_shirt_with_sash": {
-      "id": "running_shirt_with_sash",
-      "name": "Running Shirt",
+    "띠가_둘린_러닝셔츠": {
+      "id": "띠가_둘린_러닝셔츠",
+      "name": "띠가_둘린_러닝셔츠",
       "keywords": ["with", "sash", "play", "pageant"],
       "skins": [{ "unified": "1f3bd", "native": "🎽" }],
       "version": 1
     },
-    "ski": {
-      "id": "ski",
-      "name": "Skis",
+    "스키": {
+      "id": "스키",
+      "name": "스키",
       "keywords": ["ski", "sports", "winter", "cold", "snow"],
       "skins": [{ "unified": "1f3bf", "native": "🎿" }],
       "version": 1
     },
-    "sled": {
-      "id": "sled",
-      "name": "Sled",
+    "썰매": {
+      "id": "썰매",
+      "name": "썰매",
       "keywords": ["sleigh", "luge", "toboggan"],
       "skins": [{ "unified": "1f6f7", "native": "🛷" }],
       "version": 5
     },
-    "curling_stone": {
-      "id": "curling_stone",
-      "name": "Curling Stone",
+    "컬링용_돌": {
+      "id": "컬링용_돌",
+      "name": "컬링용_돌",
       "keywords": ["sports"],
       "skins": [{ "unified": "1f94c", "native": "🥌" }],
       "version": 5
     },
-    "dart": {
-      "id": "dart",
-      "name": "Bullseye",
+    "다트": {
+      "id": "다트",
+      "name": "다트",
       "keywords": ["dart", "direct", "hit", "game", "play", "bar", "target"],
       "skins": [{ "unified": "1f3af", "native": "🎯" }],
       "version": 1
     },
-    "yo-yo": {
-      "id": "yo-yo",
-      "name": "Yo-Yo",
+    "요요": {
+      "id": "요요",
+      "name": "요요",
       "keywords": ["yo", "toy"],
       "skins": [{ "unified": "1fa80", "native": "🪀" }],
       "version": 12
     },
-    "kite": {
-      "id": "kite",
-      "name": "Kite",
+    "연": {
+      "id": "연",
+      "name": "연",
       "keywords": ["wind", "fly"],
       "skins": [{ "unified": "1fa81", "native": "🪁" }],
       "version": 12
     },
-    "8ball": {
-      "id": "8ball",
-      "name": "Billiards",
+    "8번_공": {
+      "id": "8번_공",
+      "name": "8번_공",
       "keywords": [
         "8ball",
         "pool",
@@ -13151,198 +13151,198 @@
       "skins": [{ "unified": "1f3b1", "native": "🎱" }],
       "version": 1
     },
-    "crystal_ball": {
-      "id": "crystal_ball",
-      "name": "Crystal Ball",
+    "수정구": {
+      "id": "수정구",
+      "name": "수정구",
       "keywords": ["disco", "party", "magic", "circus", "fortune", "teller"],
       "skins": [{ "unified": "1f52e", "native": "🔮" }],
       "version": 1
     },
-    "magic_wand": {
-      "id": "magic_wand",
-      "name": "Magic Wand",
+    "마술_지팡이": {
+      "id": "마술_지팡이",
+      "name": "마술_지팡이",
       "keywords": ["supernature", "power"],
       "skins": [{ "unified": "1fa84", "native": "🪄" }],
       "version": 13
     },
-    "nazar_amulet": {
-      "id": "nazar_amulet",
-      "name": "Nazar Amulet",
+    "나자르_부적": {
+      "id": "나자르_부적",
+      "name": "나자르_부적",
       "keywords": ["bead", "charm"],
       "skins": [{ "unified": "1f9ff", "native": "🧿" }],
       "version": 11
     },
-    "hamsa": {
-      "id": "hamsa",
-      "name": "Hamsa",
+    "함사": {
+      "id": "함사",
+      "name": "함사",
       "keywords": ["religion", "protection"],
       "skins": [{ "unified": "1faac", "native": "🪬" }],
       "version": 14
     },
-    "video_game": {
-      "id": "video_game",
-      "name": "Video Game",
+    "비디오_게임": {
+      "id": "비디오_게임",
+      "name": "비디오_게임",
       "keywords": ["play", "console", "PS4", "controller"],
       "skins": [{ "unified": "1f3ae", "native": "🎮" }],
       "version": 1
     },
-    "joystick": {
-      "id": "joystick",
-      "name": "Joystick",
+    "조이스틱": {
+      "id": "조이스틱",
+      "name": "조이스틱",
       "keywords": ["game", "play"],
       "skins": [{ "unified": "1f579-fe0f", "native": "🕹️" }],
       "version": 1
     },
-    "slot_machine": {
-      "id": "slot_machine",
-      "name": "Slot Machine",
+    "슬롯_머신": {
+      "id": "슬롯_머신",
+      "name": "슬롯_머신",
       "keywords": ["bet", "gamble", "vegas", "fruit", "luck", "casino"],
       "skins": [{ "unified": "1f3b0", "native": "🎰" }],
       "version": 1
     },
-    "game_die": {
-      "id": "game_die",
-      "name": "Game Die",
+    "주사위": {
+      "id": "주사위",
+      "name": "주사위",
       "keywords": ["dice", "random", "tabletop", "play", "luck"],
       "skins": [{ "unified": "1f3b2", "native": "🎲" }],
       "version": 1
     },
-    "jigsaw": {
-      "id": "jigsaw",
-      "name": "Puzzle Piece",
+    "직소": {
+      "id": "직소",
+      "name": "직소",
       "keywords": ["jigsaw", "interlocking"],
       "skins": [{ "unified": "1f9e9", "native": "🧩" }],
       "version": 11
     },
-    "teddy_bear": {
-      "id": "teddy_bear",
-      "name": "Teddy Bear",
+    "곰인형": {
+      "id": "곰인형",
+      "name": "곰인형",
       "keywords": ["plush", "stuffed"],
       "skins": [{ "unified": "1f9f8", "native": "🧸" }],
       "version": 11
     },
-    "pinata": {
-      "id": "pinata",
-      "name": "Pinata",
+    "피냐타": {
+      "id": "피냐타",
+      "name": "피냐타",
       "keywords": ["mexico", "candy", "celebration"],
       "skins": [{ "unified": "1fa85", "native": "🪅" }],
       "version": 13
     },
-    "mirror_ball": {
-      "id": "mirror_ball",
-      "name": "Mirror Ball",
+    "미러_볼": {
+      "id": "미러_볼",
+      "name": "미러_볼",
       "keywords": ["disco", "dance", "party"],
       "skins": [{ "unified": "1faa9", "native": "🪩" }],
       "version": 14
     },
-    "nesting_dolls": {
-      "id": "nesting_dolls",
-      "name": "Nesting Dolls",
+    "마트료시키_인형": {
+      "id": "마트료시키_인형",
+      "name": "마트료시키_인형",
       "keywords": ["matryoshka", "toy"],
       "skins": [{ "unified": "1fa86", "native": "🪆" }],
       "version": 13
     },
-    "spades": {
-      "id": "spades",
-      "name": "Spade Suit",
+    "스페이드": {
+      "id": "스페이드",
+      "name": "스페이드 슈트",
       "keywords": ["spades", "poker", "cards", "suits", "magic"],
       "skins": [{ "unified": "2660-fe0f", "native": "♠️" }],
       "version": 1
     },
-    "hearts": {
-      "id": "hearts",
-      "name": "Heart Suit",
+    "하트": {
+      "id": "하트",
+      "name": "하트 슈트",
       "keywords": ["hearts", "poker", "cards", "magic", "suits"],
       "skins": [{ "unified": "2665-fe0f", "native": "♥️" }],
       "version": 1
     },
-    "diamonds": {
-      "id": "diamonds",
-      "name": "Diamond Suit",
+    "다이아몬드": {
+      "id": "다이아몬드",
+      "name": "다이아몬드 슈트",
       "keywords": ["diamonds", "poker", "cards", "magic", "suits"],
       "skins": [{ "unified": "2666-fe0f", "native": "♦️" }],
       "version": 1
     },
-    "clubs": {
-      "id": "clubs",
-      "name": "Club Suit",
+    "클럽": {
+      "id": "클럽",
+      "name": "클럽 슈트",
       "keywords": ["clubs", "poker", "cards", "magic", "suits"],
       "skins": [{ "unified": "2663-fe0f", "native": "♣️" }],
       "version": 1
     },
-    "chess_pawn": {
-      "id": "chess_pawn",
-      "name": "Chess Pawn",
+    "체스_폰": {
+      "id": "체스_폰",
+      "name": "체스_폰",
       "keywords": ["expendable"],
       "skins": [{ "unified": "265f-fe0f", "native": "♟️" }],
       "version": 11
     },
-    "black_joker": {
-      "id": "black_joker",
-      "name": "Joker",
+    "검은_조커": {
+      "id": "검은_조커",
+      "name": "검은_조커",
       "keywords": ["black", "poker", "cards", "game", "play", "magic"],
       "skins": [{ "unified": "1f0cf", "native": "🃏" }],
       "version": 1
     },
-    "mahjong": {
-      "id": "mahjong",
-      "name": "Mahjong Red Dragon",
+    "마작": {
+      "id": "마작",
+      "name": "마작",
       "keywords": ["game", "play", "chinese", "kanji"],
       "skins": [{ "unified": "1f004", "native": "🀄" }],
       "version": 1
     },
-    "flower_playing_cards": {
-      "id": "flower_playing_cards",
-      "name": "Flower Playing Cards",
+    "화투": {
+      "id": "화투",
+      "name": "화투",
       "keywords": ["game", "sunset", "red"],
       "skins": [{ "unified": "1f3b4", "native": "🎴" }],
       "version": 1
     },
-    "performing_arts": {
-      "id": "performing_arts",
-      "name": "Performing Arts",
+    "공연": {
+      "id": "공연",
+      "name": "공연",
       "keywords": ["acting", "theater", "drama"],
       "skins": [{ "unified": "1f3ad", "native": "🎭" }],
       "version": 1
     },
-    "frame_with_picture": {
-      "id": "frame_with_picture",
-      "name": "Framed Picture",
+    "액자에_담긴_그림": {
+      "id": "액자에_담긴_그림",
+      "name": "액자에_담긴_그림",
       "keywords": ["frame", "with", "photography"],
       "skins": [{ "unified": "1f5bc-fe0f", "native": "🖼️" }],
       "version": 1
     },
-    "art": {
-      "id": "art",
-      "name": "Artist Palette",
+    "예술": {
+      "id": "예술",
+      "name": "팔레트",
       "keywords": ["art", "design", "paint", "draw", "colors"],
       "skins": [{ "unified": "1f3a8", "native": "🎨" }],
       "version": 1
     },
-    "thread": {
-      "id": "thread",
-      "name": "Thread",
+    "실타래": {
+      "id": "실타래",
+      "name": "실타래",
       "keywords": ["needle", "sewing", "spool", "string"],
       "skins": [{ "unified": "1f9f5", "native": "🧵" }],
       "version": 11
     },
-    "sewing_needle": {
-      "id": "sewing_needle",
-      "name": "Sewing Needle",
+    "바느질용_바늘": {
+      "id": "바느질용_바늘",
+      "name": "바느질용_바늘",
       "keywords": ["stitches"],
       "skins": [{ "unified": "1faa1", "native": "🪡" }],
       "version": 13
     },
-    "yarn": {
-      "id": "yarn",
-      "name": "Yarn",
+    "털실": {
+      "id": "털실",
+      "name": "털실",
       "keywords": ["ball", "crochet", "knit"],
       "skins": [{ "unified": "1f9f6", "native": "🧶" }],
       "version": 11
     },
-    "knot": {
-      "id": "knot",
-      "name": "Knot",
+    "매듭": {
+      "id": "매듭",
+      "name": "매듭",
       "keywords": ["rope", "scout"],
       "skins": [{ "unified": "1faa2", "native": "🪢" }],
       "version": 13
