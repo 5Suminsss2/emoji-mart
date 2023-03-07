@@ -10773,22 +10773,22 @@
       "skins": [{ "unified": "1f3fa", "native": "🏺" }],
       "version": 1
     },
-    "earth_africa": {
-      "id": "earth_africa",
-      "name": "Earth Globe Europe-Africa",
+    "아프리카가_보이는_지구": {
+      "id": "아프리카가_보이는_지구",
+      "name": "아프리카가_보이는_지구",
       "keywords": ["africa", "showing", "europe", "world", "international"],
       "skins": [{ "unified": "1f30d", "native": "🌍" }],
       "version": 1
     },
-    "earth_americas": {
-      "id": "earth_americas",
-      "name": "Earth Globe Americas",
+    "아메리카가_보이는_지구": {
+      "id": "아메리카가_보이는_지구",
+      "name": "아메리카가_보이는_지구",
       "keywords": ["showing", "world", "USA", "international"],
       "skins": [{ "unified": "1f30e", "native": "🌎" }],
       "version": 1
     },
-    "earth_asia": {
-      "id": "earth_asia",
+    "아시아가_보이는_지구": {
+      "id": "아시아가_보이는_지구",
       "name": "Earth Globe Asia-Australia",
       "keywords": [
         "asia",
@@ -10801,9 +10801,9 @@
       "skins": [{ "unified": "1f30f", "native": "🌏" }],
       "version": 1
     },
-    "globe_with_meridians": {
-      "id": "globe_with_meridians",
-      "name": "Globe with Meridians",
+    "자오선이_있는_지구": {
+      "id": "자오선이_있는_지구",
+      "name": "자오선이_있는_지구",
       "keywords": [
         "earth",
         "international",
@@ -10815,30 +10815,30 @@
       "skins": [{ "unified": "1f310", "native": "🌐" }],
       "version": 1
     },
-    "world_map": {
-      "id": "world_map",
-      "name": "World Map",
+    "세계지도": {
+      "id": "세계지도",
+      "name": "세계지도",
       "keywords": ["location", "direction"],
       "skins": [{ "unified": "1f5fa-fe0f", "native": "🗺️" }],
       "version": 1
     },
-    "japan": {
-      "id": "japan",
-      "name": "Map of Japan",
+    "일본": {
+      "id": "일본",
+      "name": "일본",
       "keywords": ["nation", "country", "japanese", "asia"],
       "skins": [{ "unified": "1f5fe", "native": "🗾" }],
       "version": 1
     },
-    "compass": {
-      "id": "compass",
-      "name": "Compass",
+    "나침반": {
+      "id": "나침반",
+      "name": "나침반",
       "keywords": ["magnetic", "navigation", "orienteering"],
       "skins": [{ "unified": "1f9ed", "native": "🧭" }],
       "version": 11
     },
-    "snow_capped_mountain": {
-      "id": "snow_capped_mountain",
-      "name": "Snow-Capped Mountain",
+    "눈_덮인_산": {
+      "id": "눈_덮인_산",
+      "name": "눈_덮인_산",
       "keywords": [
         "snow",
         "capped",
@@ -10851,170 +10851,170 @@
       "skins": [{ "unified": "1f3d4-fe0f", "native": "🏔️" }],
       "version": 1
     },
-    "mountain": {
-      "id": "mountain",
-      "name": "Mountain",
+    "산": {
+      "id": "산",
+      "name": "산",
       "keywords": ["photo", "nature", "environment"],
       "skins": [{ "unified": "26f0-fe0f", "native": "⛰️" }],
       "version": 1
     },
-    "volcano": {
-      "id": "volcano",
-      "name": "Volcano",
+    "화산": {
+      "id": "화산",
+      "name": "화산",
       "keywords": ["photo", "nature", "disaster"],
       "skins": [{ "unified": "1f30b", "native": "🌋" }],
       "version": 1
     },
-    "mount_fuji": {
-      "id": "mount_fuji",
-      "name": "Mount Fuji",
+    "후지산": {
+      "id": "후지산",
+      "name": "후지산",
       "keywords": ["photo", "mountain", "nature", "japanese"],
       "skins": [{ "unified": "1f5fb", "native": "🗻" }],
       "version": 1
     },
-    "camping": {
-      "id": "camping",
-      "name": "Camping",
+    "야영": {
+      "id": "야영",
+      "name": "야영",
       "keywords": ["photo", "outdoors", "tent"],
       "skins": [{ "unified": "1f3d5-fe0f", "native": "🏕️" }],
       "version": 1
     },
-    "beach_with_umbrella": {
-      "id": "beach_with_umbrella",
-      "name": "Beach with Umbrella",
+    "파라솔이_있는_해변": {
+      "id": "파라솔이_있는_해변",
+      "name": "파라솔이_있는_해변",
       "keywords": ["weather", "summer", "sunny", "sand", "mojito"],
       "skins": [{ "unified": "1f3d6-fe0f", "native": "🏖️" }],
       "version": 1
     },
-    "desert": {
-      "id": "desert",
-      "name": "Desert",
+    "사막": {
+      "id": "사막",
+      "name": "사막",
       "keywords": ["photo", "warm", "saharah"],
       "skins": [{ "unified": "1f3dc-fe0f", "native": "🏜️" }],
       "version": 1
     },
-    "desert_island": {
-      "id": "desert_island",
-      "name": "Desert Island",
+    "사막_섬": {
+      "id": "사막_섬",
+      "name": "사막_섬",
       "keywords": ["photo", "tropical", "mojito"],
       "skins": [{ "unified": "1f3dd-fe0f", "native": "🏝️" }],
       "version": 1
     },
-    "national_park": {
-      "id": "national_park",
-      "name": "National Park",
+    "국립공원": {
+      "id": "국립공원",
+      "name": "국립공원",
       "keywords": ["photo", "environment", "nature"],
       "skins": [{ "unified": "1f3de-fe0f", "native": "🏞️" }],
       "version": 1
     },
-    "stadium": {
-      "id": "stadium",
-      "name": "Stadium",
+    "경기장": {
+      "id": "경기장",
+      "name": "경기장",
       "keywords": ["photo", "place", "sports", "concert", "venue"],
       "skins": [{ "unified": "1f3df-fe0f", "native": "🏟️" }],
       "version": 1
     },
-    "classical_building": {
-      "id": "classical_building",
-      "name": "Classical Building",
+    "고전_건물": {
+      "id": "고전_건물",
+      "name": "고전_건물",
       "keywords": ["art", "culture", "history"],
       "skins": [{ "unified": "1f3db-fe0f", "native": "🏛️" }],
       "version": 1
     },
-    "building_construction": {
-      "id": "building_construction",
-      "name": "Building Construction",
+    "건설_현장": {
+      "id": "건설_현장",
+      "name": "건설_현장",
       "keywords": ["wip", "working", "progress"],
       "skins": [{ "unified": "1f3d7-fe0f", "native": "🏗️" }],
       "version": 1
     },
-    "bricks": {
-      "id": "bricks",
-      "name": "Brick",
+    "벽돌": {
+      "id": "벽돌",
+      "name": "벽돌",
       "keywords": ["bricks"],
       "skins": [{ "unified": "1f9f1", "native": "🧱" }],
       "version": 11
     },
-    "rock": {
-      "id": "rock",
-      "name": "Rock",
+    "바위": {
+      "id": "바위",
+      "name": "바위",
       "keywords": ["stone"],
       "skins": [{ "unified": "1faa8", "native": "🪨" }],
       "version": 13
     },
-    "wood": {
-      "id": "wood",
-      "name": "Wood",
+    "목재": {
+      "id": "목재",
+      "name": "목재",
       "keywords": ["nature", "timber", "trunk"],
       "skins": [{ "unified": "1fab5", "native": "🪵" }],
       "version": 13
     },
-    "hut": {
-      "id": "hut",
-      "name": "Hut",
+    "오두막": {
+      "id": "오두막",
+      "name": "오두막",
       "keywords": ["house", "structure"],
       "skins": [{ "unified": "1f6d6", "native": "🛖" }],
       "version": 13
     },
-    "house_buildings": {
-      "id": "house_buildings",
-      "name": "Houses",
+    "주택_건물": {
+      "id": "주택_건물",
+      "name": "주택_건물",
       "keywords": ["house", "buildings", "photo"],
       "skins": [{ "unified": "1f3d8-fe0f", "native": "🏘️" }],
       "version": 1
     },
-    "derelict_house_building": {
-      "id": "derelict_house_building",
-      "name": "Derelict House",
+    "폐가": {
+      "id": "폐가",
+      "name": "폐가",
       "keywords": ["building", "abandon", "evict", "broken"],
       "skins": [{ "unified": "1f3da-fe0f", "native": "🏚️" }],
       "version": 1
     },
-    "house": {
-      "id": "house",
-      "name": "House",
+    "집": {
+      "id": "집",
+      "name": "집",
       "keywords": ["building", "home"],
       "skins": [{ "unified": "1f3e0", "native": "🏠" }],
       "version": 1
     },
-    "house_with_garden": {
-      "id": "house_with_garden",
-      "name": "House with Garden",
+    "정원이_있는_집": {
+      "id": "정원이_있는_집",
+      "name": "정원이_있는_집",
       "keywords": ["home", "plant", "nature"],
       "skins": [{ "unified": "1f3e1", "native": "🏡" }],
       "version": 1
     },
-    "office": {
-      "id": "office",
-      "name": "Office Building",
+    "사무실": {
+      "id": "사무실",
+      "name": "사무실",
       "keywords": ["bureau", "work"],
       "skins": [{ "unified": "1f3e2", "native": "🏢" }],
       "version": 1
     },
-    "post_office": {
-      "id": "post_office",
-      "name": "Japanese Post Office",
+    "우체국": {
+      "id": "우체국",
+      "name": "우체국",
       "keywords": ["building", "envelope", "communication"],
       "skins": [{ "unified": "1f3e3", "native": "🏣" }],
       "version": 1
     },
-    "european_post_office": {
-      "id": "european_post_office",
-      "name": "Post Office",
+    "유럽의_우체국": {
+      "id": "유럽의_우체국",
+      "name": "유럽의_우체국",
       "keywords": ["european", "building", "email"],
       "skins": [{ "unified": "1f3e4", "native": "🏤" }],
       "version": 1
     },
-    "hospital": {
-      "id": "hospital",
-      "name": "Hospital",
+    "병원": {
+      "id": "병원",
+      "name": "병원",
       "keywords": ["building", "health", "surgery", "doctor"],
       "skins": [{ "unified": "1f3e5", "native": "🏥" }],
       "version": 1
     },
-    "bank": {
-      "id": "bank",
-      "name": "Bank",
+    "은행": {
+      "id": "은행",
+      "name": "은행",
       "keywords": [
         "building",
         "money",
@@ -11026,65 +11026,65 @@
       "skins": [{ "unified": "1f3e6", "native": "🏦" }],
       "version": 1
     },
-    "hotel": {
-      "id": "hotel",
-      "name": "Hotel",
+    "호텔": {
+      "id": "호텔",
+      "name": "호텔",
       "keywords": ["building", "accomodation", "checkin"],
       "skins": [{ "unified": "1f3e8", "native": "🏨" }],
       "version": 1
     },
-    "love_hotel": {
-      "id": "love_hotel",
-      "name": "Love Hotel",
+    "러브호텔": {
+      "id": "러브호텔",
+      "name": "러브호텔",
       "keywords": ["like", "affection", "dating"],
       "skins": [{ "unified": "1f3e9", "native": "🏩" }],
       "version": 1
     },
-    "convenience_store": {
-      "id": "convenience_store",
-      "name": "Convenience Store",
+    "편의점": {
+      "id": "편의점",
+      "name": "편의점",
       "keywords": ["building", "shopping", "groceries"],
       "skins": [{ "unified": "1f3ea", "native": "🏪" }],
       "version": 1
     },
-    "school": {
-      "id": "school",
-      "name": "School",
+    "학교": {
+      "id": "학교",
+      "name": "학교",
       "keywords": ["building", "student", "education", "learn", "teach"],
       "skins": [{ "unified": "1f3eb", "native": "🏫" }],
       "version": 1
     },
-    "department_store": {
-      "id": "department_store",
-      "name": "Department Store",
+    "백화점": {
+      "id": "백화점",
+      "name": "백화점",
       "keywords": ["building", "shopping", "mall"],
       "skins": [{ "unified": "1f3ec", "native": "🏬" }],
       "version": 1
     },
-    "factory": {
-      "id": "factory",
-      "name": "Factory",
+    "공장": {
+      "id": "공장",
+      "name": "공장",
       "keywords": ["building", "industry", "pollution", "smoke"],
       "skins": [{ "unified": "1f3ed", "native": "🏭" }],
       "version": 1
     },
-    "japanese_castle": {
-      "id": "japanese_castle",
-      "name": "Japanese Castle",
+    "일본식_성": {
+      "id": "일본식_성",
+      "name": "일본식_성",
       "keywords": ["photo", "building"],
       "skins": [{ "unified": "1f3ef", "native": "🏯" }],
       "version": 1
     },
-    "european_castle": {
-      "id": "european_castle",
-      "name": "Castle",
+    "유럽식_성": {
+      "id": "유럽식_성",
+      "name": "유럽식_성",
       "keywords": ["european", "building", "royalty", "history"],
       "skins": [{ "unified": "1f3f0", "native": "🏰" }],
       "version": 1
     },
-    "wedding": {
-      "id": "wedding",
-      "name": "Wedding",
+    "결혼": {
+      "id": "결혼",
+      "name": "결혼",
       "keywords": [
         "love",
         "like",
@@ -11097,135 +11097,135 @@
       "skins": [{ "unified": "1f492", "native": "💒" }],
       "version": 1
     },
-    "tokyo_tower": {
-      "id": "tokyo_tower",
-      "name": "Tokyo Tower",
+    "도쿄_타워": {
+      "id": "도쿄_타워",
+      "name": "도쿄_타워",
       "keywords": ["photo", "japanese"],
       "skins": [{ "unified": "1f5fc", "native": "🗼" }],
       "version": 1
     },
-    "statue_of_liberty": {
-      "id": "statue_of_liberty",
-      "name": "Statue of Liberty",
+    "자유의_여신상": {
+      "id": "자유의_여신상",
+      "name": "자유의_여신상",
       "keywords": ["american", "newyork"],
       "skins": [{ "unified": "1f5fd", "native": "🗽" }],
       "version": 1
     },
-    "church": {
-      "id": "church",
-      "name": "Church",
+    "교회": {
+      "id": "교회",
+      "name": "교회",
       "keywords": ["building", "religion", "christ"],
       "skins": [{ "unified": "26ea", "native": "⛪" }],
       "version": 1
     },
-    "mosque": {
-      "id": "mosque",
-      "name": "Mosque",
+    "사원": {
+      "id": "사원",
+      "name": "사원",
       "keywords": ["islam", "worship", "minaret"],
       "skins": [{ "unified": "1f54c", "native": "🕌" }],
       "version": 1
     },
-    "hindu_temple": {
-      "id": "hindu_temple",
-      "name": "Hindu Temple",
+    "힌두교_사원": {
+      "id": "힌두교_사원",
+      "name": "힌두교_사원",
       "keywords": ["religion"],
       "skins": [{ "unified": "1f6d5", "native": "🛕" }],
       "version": 12
     },
-    "synagogue": {
-      "id": "synagogue",
-      "name": "Synagogue",
+    "시너고그": {
+      "id": "시너고그",
+      "name": "시너고그",
       "keywords": ["judaism", "worship", "temple", "jewish"],
       "skins": [{ "unified": "1f54d", "native": "🕍" }],
       "version": 1
     },
-    "shinto_shrine": {
-      "id": "shinto_shrine",
-      "name": "Shinto Shrine",
+    "신사": {
+      "id": "신사",
+      "name": "신사",
       "keywords": ["temple", "japan", "kyoto"],
       "skins": [{ "unified": "26e9-fe0f", "native": "⛩️" }],
       "version": 1
     },
-    "kaaba": {
-      "id": "kaaba",
-      "name": "Kaaba",
+    "카바_신전": {
+      "id": "카바_신전",
+      "name": "카바_신전",
       "keywords": ["mecca", "mosque", "islam"],
       "skins": [{ "unified": "1f54b", "native": "🕋" }],
       "version": 1
     },
-    "fountain": {
-      "id": "fountain",
-      "name": "Fountain",
+    "분수": {
+      "id": "분수",
+      "name": "분수",
       "keywords": ["photo", "summer", "water", "fresh"],
       "skins": [{ "unified": "26f2", "native": "⛲" }],
       "version": 1
     },
-    "tent": {
-      "id": "tent",
-      "name": "Tent",
+    "텐트": {
+      "id": "텐트",
+      "name": "텐트",
       "keywords": ["photo", "camping", "outdoors"],
       "skins": [{ "unified": "26fa", "native": "⛺" }],
       "version": 1
     },
-    "foggy": {
-      "id": "foggy",
-      "name": "Foggy",
+    "안개_낀": {
+      "id": "안개_낀",
+      "name": "안개_낀",
       "keywords": ["photo", "mountain"],
       "skins": [{ "unified": "1f301", "native": "🌁" }],
       "version": 1
     },
-    "night_with_stars": {
-      "id": "night_with_stars",
-      "name": "Night with Stars",
+    "별이_있는_밤": {
+      "id": "별이_있는_밤",
+      "name": "별이_있는_밤",
       "keywords": ["evening", "city", "downtown"],
       "skins": [{ "unified": "1f303", "native": "🌃" }],
       "version": 1
     },
-    "cityscape": {
-      "id": "cityscape",
-      "name": "Cityscape",
+    "도시": {
+      "id": "도시",
+      "name": "도시",
       "keywords": ["photo", "night", "life", "urban"],
       "skins": [{ "unified": "1f3d9-fe0f", "native": "🏙️" }],
       "version": 1
     },
-    "sunrise_over_mountains": {
-      "id": "sunrise_over_mountains",
-      "name": "Sunrise over Mountains",
+    "산_위로_떠오르는_일출": {
+      "id": "산_위로_떠오르는_일출",
+      "name": "산_위로_떠오르는_일출",
       "keywords": ["view", "vacation", "photo"],
       "skins": [{ "unified": "1f304", "native": "🌄" }],
       "version": 1
     },
-    "sunrise": {
-      "id": "sunrise",
-      "name": "Sunrise",
+    "일출": {
+      "id": "일출",
+      "name": "일출",
       "keywords": ["morning", "view", "vacation", "photo"],
       "skins": [{ "unified": "1f305", "native": "🌅" }],
       "version": 1
     },
-    "city_sunset": {
-      "id": "city_sunset",
-      "name": "Cityscape at Dusk",
+    "도시의_일몰": {
+      "id": "도시의_일몰",
+      "name": "도시의_일몰",
       "keywords": ["city", "sunset", "photo", "evening", "sky", "buildings"],
       "skins": [{ "unified": "1f306", "native": "🌆" }],
       "version": 1
     },
-    "city_sunrise": {
-      "id": "city_sunrise",
-      "name": "Sunset",
+    "도시의_일출": {
+      "id": "도시의_일출",
+      "name": "도시의_일출",
       "keywords": ["city", "sunrise", "photo", "good", "morning", "dawn"],
       "skins": [{ "unified": "1f307", "native": "🌇" }],
       "version": 1
     },
-    "bridge_at_night": {
-      "id": "bridge_at_night",
-      "name": "Bridge at Night",
+    "밤의_다리": {
+      "id": "밤의_다리",
+      "name": "밤의_다리",
       "keywords": ["photo", "sanfrancisco"],
       "skins": [{ "unified": "1f309", "native": "🌉" }],
       "version": 1
     },
-    "hotsprings": {
-      "id": "hotsprings",
-      "name": "Hot Springs",
+    "온천": {
+      "id": "온천",
+      "name": "온천",
       "keywords": ["hotsprings", "bath", "warm", "relax"],
       "skins": [{ "unified": "2668-fe0f", "native": "♨️" }],
       "version": 1
