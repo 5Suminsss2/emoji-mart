@@ -730,7 +730,7 @@
         "고기_한_덩이",
         "베이컨",
         "햄버거",
-        "튀김",
+        "감자튀김",
         "피자",
         "핫도그",
         "샌드위치",
@@ -1893,7 +1893,7 @@
   "emojis": {
     "100": {
       "id": "100",
-      "name": "Hundred Points",
+      "name": "100점",
       "keywords": [
         "100",
         "score",
@@ -1915,17 +1915,17 @@
       "skins": [{ "unified": "1f522", "native": "🔢" }],
       "version": 1
     },
-    "grinning": {
-      "id": "grinning",
-      "name": "우하하 웃는 표정",
+    "활짝_웃는": {
+      "id": "활짝_웃는",
+      "name": "활짝 웃는",
       "emoticons": [":D"],
       "keywords": ["smile", "happy", "joy", ":D", "grin"],
       "skins": [{ "unified": "1f600", "native": "😀" }],
       "version": 1
     },
-    "smiley": {
-      "id": "smiley",
-      "name": "Grinning Face with Big Eyes",
+    "이빨을_보이며_웃고_있는_얼굴": {
+      "id": "이빨을_보이며_웃고_있는_얼굴",
+      "name": "이빨을 보이며 웃고 있는 얼굴",
       "emoticons": [":)", "=)", "=-)"],
       "keywords": [
         "smiley",
@@ -1940,9 +1940,9 @@
       "skins": [{ "unified": "1f603", "native": "😃" }],
       "version": 1
     },
-    "smile": {
-      "id": "smile",
-      "name": "Grinning Face with Smiling Eyes",
+    "웃음": {
+      "id": "웃음",
+      "name": "웃음",
       "emoticons": [":)", "C:", "c:", ":D", ":-D"],
       "keywords": [
         "smile",
@@ -1958,16 +1958,16 @@
       "skins": [{ "unified": "1f604", "native": "😄" }],
       "version": 1
     },
-    "grin": {
-      "id": "grin",
-      "name": "Beaming Face with Smiling Eyes",
+    "활짝_웃다": {
+      "id": "활짝_웃다",
+      "name": "활짝_웃다",
       "keywords": ["grin", "happy", "smile", "joy", "kawaii"],
       "skins": [{ "unified": "1f601", "native": "😁" }],
       "version": 1
     },
-    "laughing": {
-      "id": "laughing",
-      "name": "Grinning Squinting Face",
+    "입벌리고_웃고_있는_얼굴": {
+      "id": "입벌리고_웃고_있는_얼굴",
+      "name": "입벌리고_웃고_있는_얼굴",
       "emoticons": [":>", ":->"],
       "keywords": [
         "laughing",
@@ -1983,9 +1983,9 @@
       "skins": [{ "unified": "1f606", "native": "😆" }],
       "version": 1
     },
-    "sweat_smile": {
-      "id": "sweat_smile",
-      "name": "Grinning Face with Sweat",
+    "땀흘리며_웃고_있는_얼굴": {
+      "id": "땀흘리며_웃고_있는_얼굴",
+      "name": "땀흘리며_웃고_있는_얼굴t",
       "keywords": ["smile", "hot", "happy", "laugh", "relief"],
       "skins": [{ "unified": "1f605", "native": "😅" }],
       "version": 1
@@ -8682,7 +8682,7 @@
     "원숭이": {
       "id": "원숭이",
       "name": "원숭이",
-      "keywords": ["animal", "nature", "banana", "circus",  "동물", "자연", "서커스", "바나나"],
+      "keywords": ["animal", "nature", "바나나", "circus",  "동물", "자연", "서커스", "바나나"],
       "skins": [{ "unified": "1f412", "native": "🐒" }],
       "version": 1
     },
@@ -9763,198 +9763,198 @@
       "skins": [{ "unified": "1faba", "native": "🪺" }],
       "version": 14
     },
-    "grapes": {
-      "id": "grapes",
-      "name": "Grapes",
+    "포도": {
+      "id": "포도",
+      "name": "포도",
       "keywords": ["fruit", "food", "wine"],
       "skins": [{ "unified": "1f347", "native": "🍇" }],
       "version": 1
     },
-    "melon": {
-      "id": "melon",
-      "name": "Melon",
+    "멜론": {
+      "id": "멜론",
+      "name": "멜론",
       "keywords": ["fruit", "nature", "food"],
       "skins": [{ "unified": "1f348", "native": "🍈" }],
       "version": 1
     },
-    "watermelon": {
-      "id": "watermelon",
-      "name": "Watermelon",
+    "수박": {
+      "id": "수박",
+      "name": "수박",
       "keywords": ["fruit", "food", "picnic", "summer"],
       "skins": [{ "unified": "1f349", "native": "🍉" }],
       "version": 1
     },
-    "tangerine": {
-      "id": "tangerine",
-      "name": "Tangerine",
+    "귤": {
+      "id": "귤",
+      "name": "귤",
       "keywords": ["food", "fruit", "nature", "orange"],
       "skins": [{ "unified": "1f34a", "native": "🍊" }],
       "version": 1
     },
-    "lemon": {
-      "id": "lemon",
-      "name": "Lemon",
+    "레몬": {
+      "id": "레몬",
+      "name": "레몬",
       "keywords": ["fruit", "nature"],
       "skins": [{ "unified": "1f34b", "native": "🍋" }],
       "version": 1
     },
-    "banana": {
-      "id": "banana",
-      "name": "Banana",
+    "바나나": {
+      "id": "바나나",
+      "name": "바나나",
       "keywords": ["fruit", "food", "monkey"],
       "skins": [{ "unified": "1f34c", "native": "🍌" }],
       "version": 1
     },
-    "pineapple": {
-      "id": "pineapple",
-      "name": "Pineapple",
+    "파인애플": {
+      "id": "파인애플",
+      "name": "파인애플",
       "keywords": ["fruit", "nature", "food"],
       "skins": [{ "unified": "1f34d", "native": "🍍" }],
       "version": 1
     },
-    "mango": {
-      "id": "mango",
-      "name": "Mango",
+    "망고": {
+      "id": "망고",
+      "name": "망고",
       "keywords": ["fruit", "food", "tropical"],
       "skins": [{ "unified": "1f96d", "native": "🥭" }],
       "version": 11
     },
-    "apple": {
-      "id": "apple",
-      "name": "Red Apple",
+    "사과": {
+      "id": "사과",
+      "name": "빨간 사과",
       "keywords": ["fruit", "mac", "school"],
       "skins": [{ "unified": "1f34e", "native": "🍎" }],
       "version": 1
     },
-    "green_apple": {
-      "id": "green_apple",
-      "name": "Green Apple",
+    "녹색_사과": {
+      "id": "녹색_사과",
+      "name": "초록 사과",
       "keywords": ["fruit", "nature"],
       "skins": [{ "unified": "1f34f", "native": "🍏" }],
       "version": 1
     },
-    "pear": {
-      "id": "pear",
-      "name": "Pear",
+    "배": {
+      "id": "배",
+      "name": "배",
       "keywords": ["fruit", "nature", "food"],
       "skins": [{ "unified": "1f350", "native": "🍐" }],
       "version": 1
     },
-    "peach": {
-      "id": "peach",
-      "name": "Peach",
+    "복숭아": {
+      "id": "복숭아",
+      "name": "복숭아",
       "keywords": ["fruit", "nature", "food"],
       "skins": [{ "unified": "1f351", "native": "🍑" }],
       "version": 1
     },
-    "cherries": {
-      "id": "cherries",
-      "name": "Cherries",
+    "체리": {
+      "id": "체리",
+      "name": "체리",
       "keywords": ["food", "fruit"],
       "skins": [{ "unified": "1f352", "native": "🍒" }],
       "version": 1
     },
-    "strawberry": {
-      "id": "strawberry",
-      "name": "Strawberry",
+    "딸기": {
+      "id": "딸기",
+      "name": "딸기",
       "keywords": ["fruit", "food", "nature"],
       "skins": [{ "unified": "1f353", "native": "🍓" }],
       "version": 1
     },
-    "blueberries": {
-      "id": "blueberries",
-      "name": "Blueberries",
+    "블루베리": {
+      "id": "블루베리",
+      "name": "블루베리",
       "keywords": ["fruit"],
       "skins": [{ "unified": "1fad0", "native": "🫐" }],
       "version": 13
     },
-    "kiwifruit": {
-      "id": "kiwifruit",
-      "name": "Kiwifruit",
+    "키위": {
+      "id": "키위",
+      "name": "키위",
       "keywords": ["kiwi", "fruit", "food"],
       "skins": [{ "unified": "1f95d", "native": "🥝" }],
       "version": 3
     },
-    "tomato": {
-      "id": "tomato",
-      "name": "Tomato",
+    "토마토": {
+      "id": "토마토",
+      "name": "토마토",
       "keywords": ["fruit", "vegetable", "nature", "food"],
       "skins": [{ "unified": "1f345", "native": "🍅" }],
       "version": 1
     },
-    "olive": {
-      "id": "olive",
-      "name": "Olive",
+    "올리브": {
+      "id": "올리브",
+      "name": "올리브",
       "keywords": ["fruit"],
       "skins": [{ "unified": "1fad2", "native": "🫒" }],
       "version": 13
     },
-    "coconut": {
-      "id": "coconut",
-      "name": "Coconut",
+    "코코넛": {
+      "id": "코코넛",
+      "name": "코코넛",
       "keywords": ["fruit", "nature", "food", "palm"],
       "skins": [{ "unified": "1f965", "native": "🥥" }],
       "version": 5
     },
-    "avocado": {
-      "id": "avocado",
-      "name": "Avocado",
+    "아보카도": {
+      "id": "아보카도",
+      "name": "아보카도",
       "keywords": ["fruit", "food"],
       "skins": [{ "unified": "1f951", "native": "🥑" }],
       "version": 3
     },
-    "eggplant": {
-      "id": "eggplant",
-      "name": "Eggplant",
+    "가지": {
+      "id": "가지",
+      "name": "가지",
       "keywords": ["vegetable", "nature", "food", "aubergine"],
       "skins": [{ "unified": "1f346", "native": "🍆" }],
       "version": 1
     },
-    "potato": {
-      "id": "potato",
-      "name": "Potato",
+    "감자": {
+      "id": "감자",
+      "name": "감자",
       "keywords": ["food", "tuber", "vegatable", "starch"],
       "skins": [{ "unified": "1f954", "native": "🥔" }],
       "version": 3
     },
-    "carrot": {
-      "id": "carrot",
-      "name": "Carrot",
+    "당근": {
+      "id": "당근",
+      "name": "당근",
       "keywords": ["vegetable", "food", "orange"],
       "skins": [{ "unified": "1f955", "native": "🥕" }],
       "version": 3
     },
-    "corn": {
-      "id": "corn",
-      "name": "Ear of Corn",
+    "옥수수": {
+      "id": "옥수수",
+      "name": "옥수수",
       "keywords": ["food", "vegetable", "plant"],
       "skins": [{ "unified": "1f33d", "native": "🌽" }],
       "version": 1
     },
-    "hot_pepper": {
-      "id": "hot_pepper",
-      "name": "Hot Pepper",
+    "고추": {
+      "id": "고추",
+      "name": "고추",
       "keywords": ["food", "spicy", "chilli", "chili"],
       "skins": [{ "unified": "1f336-fe0f", "native": "🌶️" }],
       "version": 1
     },
-    "bell_pepper": {
-      "id": "bell_pepper",
-      "name": "Bell Pepper",
+    "피망": {
+      "id": "피망",
+      "name": "피망",
       "keywords": ["fruit", "plant"],
       "skins": [{ "unified": "1fad1", "native": "🫑" }],
       "version": 13
     },
-    "cucumber": {
-      "id": "cucumber",
-      "name": "Cucumber",
+    "오이": {
+      "id": "오이",
+      "name": "오이",
       "keywords": ["fruit", "food", "pickle"],
       "skins": [{ "unified": "1f952", "native": "🥒" }],
       "version": 3
     },
-    "leafy_green": {
-      "id": "leafy_green",
-      "name": "Leafy Green",
+    "잎채소": {
+      "id": "잎채소",
+      "name": "잎채소",
       "keywords": [
         "food",
         "vegetable",
@@ -9968,149 +9968,149 @@
       "skins": [{ "unified": "1f96c", "native": "🥬" }],
       "version": 11
     },
-    "broccoli": {
-      "id": "broccoli",
-      "name": "Broccoli",
+    "브로콜리": {
+      "id": "브로콜리",
+      "name": "브로콜리",
       "keywords": ["fruit", "food", "vegetable"],
       "skins": [{ "unified": "1f966", "native": "🥦" }],
       "version": 5
     },
-    "garlic": {
-      "id": "garlic",
-      "name": "Garlic",
+    "마늘": {
+      "id": "마늘",
+      "name": "마늘",
       "keywords": ["food", "spice", "cook"],
       "skins": [{ "unified": "1f9c4", "native": "🧄" }],
       "version": 12
     },
-    "onion": {
-      "id": "onion",
-      "name": "Onion",
+    "양파": {
+      "id": "양파",
+      "name": "양파",
       "keywords": ["cook", "food", "spice"],
       "skins": [{ "unified": "1f9c5", "native": "🧅" }],
       "version": 12
     },
-    "mushroom": {
-      "id": "mushroom",
-      "name": "Mushroom",
+    "버섯": {
+      "id": "버섯",
+      "name": "버섯",
       "keywords": ["plant", "vegetable"],
       "skins": [{ "unified": "1f344", "native": "🍄" }],
       "version": 1
     },
-    "peanuts": {
-      "id": "peanuts",
-      "name": "Peanuts",
+    "땅콩": {
+      "id": "땅콩",
+      "name": "땅콩",
       "keywords": ["food", "nut"],
       "skins": [{ "unified": "1f95c", "native": "🥜" }],
       "version": 3
     },
-    "beans": {
-      "id": "beans",
-      "name": "Beans",
+    "콩": {
+      "id": "콩",
+      "name": "콩",
       "keywords": ["food"],
       "skins": [{ "unified": "1fad8", "native": "🫘" }],
       "version": 14
     },
-    "chestnut": {
-      "id": "chestnut",
-      "name": "Chestnut",
+    "밤나무": {
+      "id": "밤나무",
+      "name": "밤나무",
       "keywords": ["food", "squirrel"],
       "skins": [{ "unified": "1f330", "native": "🌰" }],
       "version": 1
     },
-    "bread": {
-      "id": "bread",
-      "name": "Bread",
+    "빵": {
+      "id": "빵",
+      "name": "빵",
       "keywords": ["food", "wheat", "breakfast", "toast"],
       "skins": [{ "unified": "1f35e", "native": "🍞" }],
       "version": 1
     },
-    "croissant": {
-      "id": "croissant",
-      "name": "Croissant",
+    "크로와상": {
+      "id": "크로와상",
+      "name": "크로와상",
       "keywords": ["food", "bread", "french"],
       "skins": [{ "unified": "1f950", "native": "🥐" }],
       "version": 3
     },
-    "baguette_bread": {
-      "id": "baguette_bread",
-      "name": "Baguette Bread",
+    "바게트_빵": {
+      "id": "바게트_빵",
+      "name": "바게트_빵",
       "keywords": ["food", "french"],
       "skins": [{ "unified": "1f956", "native": "🥖" }],
       "version": 3
     },
-    "flatbread": {
-      "id": "flatbread",
-      "name": "Flatbread",
+    "플랫브레드": {
+      "id": "플랫브레드",
+      "name": "플랫브레드",
       "keywords": ["flour", "food"],
       "skins": [{ "unified": "1fad3", "native": "🫓" }],
       "version": 13
     },
-    "pretzel": {
-      "id": "pretzel",
-      "name": "Pretzel",
+    "프레첼": {
+      "id": "프레첼",
+      "name": "프레첼",
       "keywords": ["food", "bread", "twisted"],
       "skins": [{ "unified": "1f968", "native": "🥨" }],
       "version": 5
     },
-    "bagel": {
-      "id": "bagel",
-      "name": "Bagel",
+    "베이글": {
+      "id": "베이글",
+      "name": "베이글",
       "keywords": ["food", "bread", "bakery", "schmear"],
       "skins": [{ "unified": "1f96f", "native": "🥯" }],
       "version": 11
     },
-    "pancakes": {
-      "id": "pancakes",
-      "name": "Pancakes",
+    "팬케이크": {
+      "id": "팬케이크",
+      "name": "팬케이크",
       "keywords": ["food", "breakfast", "flapjacks", "hotcakes"],
       "skins": [{ "unified": "1f95e", "native": "🥞" }],
       "version": 3
     },
-    "waffle": {
-      "id": "waffle",
-      "name": "Waffle",
+    "와플": {
+      "id": "와플",
+      "name": "와플",
       "keywords": ["food", "breakfast"],
       "skins": [{ "unified": "1f9c7", "native": "🧇" }],
       "version": 12
     },
-    "cheese_wedge": {
-      "id": "cheese_wedge",
-      "name": "Cheese Wedge",
+    "쐐기_모양으로_자른_치즈": {
+      "id": "쐐기_모양으로_자른_치즈",
+      "name": "쐐기_모양으로_자른_치즈",
       "keywords": ["food", "chadder"],
       "skins": [{ "unified": "1f9c0", "native": "🧀" }],
       "version": 1
     },
-    "meat_on_bone": {
-      "id": "meat_on_bone",
-      "name": "Meat on Bone",
+    "뼈에_달린_고기": {
+      "id": "뼈에_달린_고기",
+      "name": "뼈에_달린_고기",
       "keywords": ["good", "food", "drumstick"],
       "skins": [{ "unified": "1f356", "native": "🍖" }],
       "version": 1
     },
-    "poultry_leg": {
-      "id": "poultry_leg",
-      "name": "Poultry Leg",
+    "닭다리": {
+      "id": "닭다리",
+      "name": "닭다리",
       "keywords": ["food", "meat", "drumstick", "bird", "chicken", "turkey"],
       "skins": [{ "unified": "1f357", "native": "🍗" }],
       "version": 1
     },
-    "cut_of_meat": {
-      "id": "cut_of_meat",
-      "name": "Cut of Meat",
+    "고기_한_덩이": {
+      "id": "고기_한_덩이",
+      "name": "고기_한_덩이",
       "keywords": ["food", "cow", "chop", "lambchop", "porkchop"],
       "skins": [{ "unified": "1f969", "native": "🥩" }],
       "version": 5
     },
-    "bacon": {
-      "id": "bacon",
-      "name": "Bacon",
+    "베이컨": {
+      "id": "베이컨",
+      "name": "베이컨",
       "keywords": ["food", "breakfast", "pork", "pig", "meat"],
       "skins": [{ "unified": "1f953", "native": "🥓" }],
       "version": 3
     },
-    "hamburger": {
-      "id": "hamburger",
-      "name": "Hamburger",
+    "햄버거": {
+      "id": "햄버거",
+      "name": "햄버거",
       "keywords": [
         "meat",
         "fast",
@@ -10124,114 +10124,114 @@
       "skins": [{ "unified": "1f354", "native": "🍔" }],
       "version": 1
     },
-    "fries": {
-      "id": "fries",
-      "name": "French Fries",
+    "감자튀김": {
+      "id": "감자튀김",
+      "name": "감자튀김",
       "keywords": ["chips", "snack", "fast", "food"],
       "skins": [{ "unified": "1f35f", "native": "🍟" }],
       "version": 1
     },
-    "pizza": {
-      "id": "pizza",
-      "name": "Pizza",
+    "피자": {
+      "id": "피자",
+      "name": "피자",
       "keywords": ["food", "party"],
       "skins": [{ "unified": "1f355", "native": "🍕" }],
       "version": 1
     },
-    "hotdog": {
-      "id": "hotdog",
-      "name": "Hot Dog",
+    "핫도그": {
+      "id": "핫도그",
+      "name": "핫도그",
       "keywords": ["hotdog", "food", "frankfurter"],
       "skins": [{ "unified": "1f32d", "native": "🌭" }],
       "version": 1
     },
-    "sandwich": {
-      "id": "sandwich",
-      "name": "Sandwich",
+    "샌드위치": {
+      "id": "샌드위치",
+      "name": "샌드위치",
       "keywords": ["food", "lunch", "bread"],
       "skins": [{ "unified": "1f96a", "native": "🥪" }],
       "version": 5
     },
-    "taco": {
-      "id": "taco",
-      "name": "Taco",
+    "타코": {
+      "id": "타코",
+      "name": "타코",
       "keywords": ["food", "mexican"],
       "skins": [{ "unified": "1f32e", "native": "🌮" }],
       "version": 1
     },
-    "burrito": {
-      "id": "burrito",
-      "name": "Burrito",
+    "부리또": {
+      "id": "부리또",
+      "name": "부리또",
       "keywords": ["food", "mexican"],
       "skins": [{ "unified": "1f32f", "native": "🌯" }],
       "version": 1
     },
-    "tamale": {
-      "id": "tamale",
-      "name": "Tamale",
+    "타말레": {
+      "id": "타말레",
+      "name": "타말레",
       "keywords": ["food", "masa"],
       "skins": [{ "unified": "1fad4", "native": "🫔" }],
       "version": 13
     },
-    "stuffed_flatbread": {
-      "id": "stuffed_flatbread",
-      "name": "Stuffed Flatbread",
+    "속을_채운_플랫브레드": {
+      "id": "속을_채운_플랫브레드",
+      "name": "속을_채운_플랫브레드",
       "keywords": ["food", "gyro"],
       "skins": [{ "unified": "1f959", "native": "🥙" }],
       "version": 3
     },
-    "falafel": {
-      "id": "falafel",
-      "name": "Falafel",
+    "팔라펠": {
+      "id": "팔라펠",
+      "name": "팔라펠",
       "keywords": ["food"],
       "skins": [{ "unified": "1f9c6", "native": "🧆" }],
       "version": 12
     },
-    "egg": {
-      "id": "egg",
-      "name": "Egg",
+    "계란": {
+      "id": "계란",
+      "name": "계란",
       "keywords": ["food", "chicken", "breakfast"],
       "skins": [{ "unified": "1f95a", "native": "🥚" }],
       "version": 3
     },
-    "fried_egg": {
-      "id": "fried_egg",
-      "name": "Cooking",
+    "계란_프라이": {
+      "id": "계란_프라이",
+      "name": "계란_프라이",
       "keywords": ["fried", "egg", "food", "breakfast", "kitchen"],
       "skins": [{ "unified": "1f373", "native": "🍳" }],
       "version": 1
     },
-    "shallow_pan_of_food": {
-      "id": "shallow_pan_of_food",
-      "name": "Shallow Pan of Food",
+    "얕은_팬에_담긴_음식": {
+      "id": "얕은_팬에_담긴_음식",
+      "name": "얕은_팬에_담긴_음식",
       "keywords": ["cooking", "casserole", "paella"],
       "skins": [{ "unified": "1f958", "native": "🥘" }],
       "version": 3
     },
-    "stew": {
-      "id": "stew",
-      "name": "Pot of Food",
+    "스튜": {
+      "id": "스튜",
+      "name": "스튜",
       "keywords": ["stew", "meat", "soup"],
       "skins": [{ "unified": "1f372", "native": "🍲" }],
       "version": 1
     },
-    "fondue": {
-      "id": "fondue",
-      "name": "Fondue",
+    "퐁뒤": {
+      "id": "퐁뒤",
+      "name": "퐁뒤",
       "keywords": ["cheese", "pot", "food"],
       "skins": [{ "unified": "1fad5", "native": "🫕" }],
       "version": 13
     },
-    "bowl_with_spoon": {
-      "id": "bowl_with_spoon",
-      "name": "Bowl with Spoon",
+    "숟가락이_담긴_그릇": {
+      "id": "숟가락이_담긴_그릇",
+      "name": "숟가락이_담긴_그릇",
       "keywords": ["food", "breakfast", "cereal", "oatmeal", "porridge"],
       "skins": [{ "unified": "1f963", "native": "🥣" }],
       "version": 5
     },
-    "green_salad": {
-      "id": "green_salad",
-      "name": "Green Salad",
+    "그린_샐러드": {
+      "id": "그린_샐러드",
+      "name": "그린_샐러드",
       "keywords": ["food", "healthy", "lettuce"],
       "skins": [{ "unified": "1f957", "native": "🥗" }],
       "version": 3
@@ -10257,51 +10257,51 @@
       "skins": [{ "unified": "1f9c2", "native": "🧂" }],
       "version": 11
     },
-    "canned_food": {
-      "id": "canned_food",
-      "name": "Canned Food",
+    "통조림_음식": {
+      "id": "통조림_음식",
+      "name": "통조림_음식",
       "keywords": ["soup"],
       "skins": [{ "unified": "1f96b", "native": "🥫" }],
       "version": 5
     },
-    "bento": {
-      "id": "bento",
-      "name": "Bento Box",
+    "도시락": {
+      "id": "도시락",
+      "name": "도시락",
       "keywords": ["food", "japanese"],
       "skins": [{ "unified": "1f371", "native": "🍱" }],
       "version": 1
     },
-    "rice_cracker": {
-      "id": "rice_cracker",
-      "name": "Rice Cracker",
+    "쌀과자": {
+      "id": "쌀과자",
+      "name": "쌀과자",
       "keywords": ["food", "japanese"],
       "skins": [{ "unified": "1f358", "native": "🍘" }],
       "version": 1
     },
-    "rice_ball": {
-      "id": "rice_ball",
-      "name": "Rice Ball",
+    "주먹밥": {
+      "id": "주먹밥",
+      "name": "주먹밥",
       "keywords": ["food", "japanese"],
       "skins": [{ "unified": "1f359", "native": "🍙" }],
       "version": 1
     },
-    "rice": {
-      "id": "rice",
-      "name": "Cooked Rice",
+    "쌀": {
+      "id": "쌀",
+      "name": "쌀",
       "keywords": ["food", "china", "asian"],
       "skins": [{ "unified": "1f35a", "native": "🍚" }],
       "version": 1
     },
-    "curry": {
-      "id": "curry",
-      "name": "Curry Rice",
+    "카레": {
+      "id": "카레",
+      "name": "카레",
       "keywords": ["food", "spicy", "hot", "indian"],
       "skins": [{ "unified": "1f35b", "native": "🍛" }],
       "version": 1
     },
-    "ramen": {
-      "id": "ramen",
-      "name": "Steaming Bowl",
+    "라면": {
+      "id": "라면",
+      "name": "라면",
       "keywords": ["ramen", "food", "japanese", "noodle", "chopsticks"],
       "skins": [{ "unified": "1f35c", "native": "🍜" }],
       "version": 1
@@ -10313,37 +10313,37 @@
       "skins": [{ "unified": "1f35d", "native": "🍝" }],
       "version": 1
     },
-    "sweet_potato": {
-      "id": "sweet_potato",
-      "name": "Roasted Sweet Potato",
+    "고구마": {
+      "id": "고구마",
+      "name": "고구마",
       "keywords": ["food", "nature"],
       "skins": [{ "unified": "1f360", "native": "🍠" }],
       "version": 1
     },
-    "oden": {
-      "id": "oden",
-      "name": "Oden",
+    "어묵_꼬치": {
+      "id": "어묵_꼬치",
+      "name": "어묵_꼬치",
       "keywords": ["food", "japanese"],
       "skins": [{ "unified": "1f362", "native": "🍢" }],
       "version": 1
     },
-    "sushi": {
-      "id": "sushi",
-      "name": "Sushi",
+    "회": {
+      "id": "회",
+      "name": "회",
       "keywords": ["food", "fish", "japanese", "rice"],
       "skins": [{ "unified": "1f363", "native": "🍣" }],
       "version": 1
     },
-    "fried_shrimp": {
-      "id": "fried_shrimp",
-      "name": "Fried Shrimp",
+    "새우튀김": {
+      "id": "새우튀김",
+      "name": "새우튀김",
       "keywords": ["food", "animal", "appetizer", "summer"],
       "skins": [{ "unified": "1f364", "native": "🍤" }],
       "version": 1
     },
-    "fish_cake": {
-      "id": "fish_cake",
-      "name": "Fish Cake with Swirl",
+    "어묵_단면": {
+      "id": "어묵_단면",
+      "name": "어묵_단면",
       "keywords": [
         "food",
         "japan",
@@ -10365,9 +10365,9 @@
       "skins": [{ "unified": "1f96e", "native": "🥮" }],
       "version": 11
     },
-    "dango": {
-      "id": "dango",
-      "name": "Dango",
+    "경단": {
+      "id": "경단",
+      "name": "경단",
       "keywords": ["food", "dessert", "sweet", "japanese", "barbecue", "meat"],
       "skins": [{ "unified": "1f361", "native": "🍡" }],
       "version": 1
@@ -10379,37 +10379,37 @@
       "skins": [{ "unified": "1f95f", "native": "🥟" }],
       "version": 5
     },
-    "fortune_cookie": {
-      "id": "fortune_cookie",
-      "name": "Fortune Cookie",
+    "포춘_쿠키": {
+      "id": "포춘_쿠키",
+      "name": "포춘_쿠키",
       "keywords": ["food", "prophecy"],
       "skins": [{ "unified": "1f960", "native": "🥠" }],
       "version": 5
     },
-    "takeout_box": {
-      "id": "takeout_box",
-      "name": "Takeout Box",
+    "포장_용기": {
+      "id": "포장_용기",
+      "name": "포장_용기",
       "keywords": ["food", "leftovers"],
       "skins": [{ "unified": "1f961", "native": "🥡" }],
       "version": 5
     },
-    "crab": {
-      "id": "crab",
-      "name": "Crab",
+    "게": {
+      "id": "게",
+      "name": "게",
       "keywords": ["animal", "crustacean"],
       "skins": [{ "unified": "1f980", "native": "🦀" }],
       "version": 1
     },
-    "lobster": {
-      "id": "lobster",
-      "name": "Lobster",
+    "바닷가재": {
+      "id": "바닷가재",
+      "name": "바닷가재",
       "keywords": ["animal", "nature", "bisque", "claws", "seafood"],
       "skins": [{ "unified": "1f99e", "native": "🦞" }],
       "version": 11
     },
-    "shrimp": {
-      "id": "shrimp",
-      "name": "Shrimp",
+    "새우": {
+      "id": "새우",
+      "name": "새우",
       "keywords": ["animal", "ocean", "nature", "seafood"],
       "skins": [{ "unified": "1f990", "native": "🦐" }],
       "version": 3
@@ -10428,51 +10428,51 @@
       "skins": [{ "unified": "1f9aa", "native": "🦪" }],
       "version": 12
     },
-    "icecream": {
-      "id": "icecream",
-      "name": "Soft Ice Cream",
+    "아이스크림": {
+      "id": "아이스크림",
+      "name": "아이스크림",
       "keywords": ["icecream", "food", "hot", "dessert", "summer"],
       "skins": [{ "unified": "1f366", "native": "🍦" }],
       "version": 1
     },
-    "shaved_ice": {
-      "id": "shaved_ice",
-      "name": "Shaved Ice",
+    "빙수": {
+      "id": "빙수",
+      "name": "빙수",
       "keywords": ["hot", "dessert", "summer"],
       "skins": [{ "unified": "1f367", "native": "🍧" }],
       "version": 1
     },
-    "ice_cream": {
-      "id": "ice_cream",
-      "name": "Ice Cream",
+    "아이스크림2": {
+      "id": "아이스크림2",
+      "name": "아이스크림2",
       "keywords": ["food", "hot", "dessert"],
       "skins": [{ "unified": "1f368", "native": "🍨" }],
       "version": 1
     },
-    "doughnut": {
-      "id": "doughnut",
-      "name": "Doughnut",
+    "도넛": {
+      "id": "도넛",
+      "name": "도넛",
       "keywords": ["food", "dessert", "snack", "sweet", "donut"],
       "skins": [{ "unified": "1f369", "native": "🍩" }],
       "version": 1
     },
-    "cookie": {
-      "id": "cookie",
-      "name": "Cookie",
+    "쿠키": {
+      "id": "쿠키",
+      "name": "쿠키",
       "keywords": ["food", "snack", "oreo", "chocolate", "sweet", "dessert"],
       "skins": [{ "unified": "1f36a", "native": "🍪" }],
       "version": 1
     },
-    "birthday": {
-      "id": "birthday",
-      "name": "Birthday Cake",
+    "생일": {
+      "id": "생일",
+      "name": "생일 케이크",
       "keywords": ["food", "dessert"],
       "skins": [{ "unified": "1f382", "native": "🎂" }],
       "version": 1
     },
-    "cake": {
-      "id": "cake",
-      "name": "Shortcake",
+    "케이크": {
+      "id": "케이크",
+      "name": "쇼트케이크",
       "keywords": ["cake", "food", "dessert"],
       "skins": [{ "unified": "1f370", "native": "🍰" }],
       "version": 1
@@ -10491,30 +10491,30 @@
       "skins": [{ "unified": "1f967", "native": "🥧" }],
       "version": 5
     },
-    "chocolate_bar": {
-      "id": "chocolate_bar",
-      "name": "Chocolate Bar",
+    "초콜릿_바": {
+      "id": "초콜릿_바",
+      "name": "초콜릿_바",
       "keywords": ["food", "snack", "dessert", "sweet"],
       "skins": [{ "unified": "1f36b", "native": "🍫" }],
       "version": 1
     },
-    "candy": {
-      "id": "candy",
-      "name": "Candy",
+    "사탕": {
+      "id": "사탕",
+      "name": "사탕",
       "keywords": ["snack", "dessert", "sweet", "lolly"],
       "skins": [{ "unified": "1f36c", "native": "🍬" }],
       "version": 1
     },
-    "lollipop": {
-      "id": "lollipop",
-      "name": "Lollipop",
+    "롤리팝": {
+      "id": "롤리팝",
+      "name": "롤리팝",
       "keywords": ["food", "snack", "candy", "sweet"],
       "skins": [{ "unified": "1f36d", "native": "🍭" }],
       "version": 1
     },
-    "custard": {
-      "id": "custard",
-      "name": "Custard",
+    "커스터드": {
+      "id": "커스터드",
+      "name": "커스터드",
       "keywords": ["dessert", "food"],
       "skins": [{ "unified": "1f36e", "native": "🍮" }],
       "version": 1
@@ -10526,44 +10526,44 @@
       "skins": [{ "unified": "1f36f", "native": "🍯" }],
       "version": 1
     },
-    "baby_bottle": {
-      "id": "baby_bottle",
-      "name": "Baby Bottle",
+    "아기_젖병": {
+      "id": "아기_젖병",
+      "name": "아기_젖병",
       "keywords": ["food", "container", "milk"],
       "skins": [{ "unified": "1f37c", "native": "🍼" }],
       "version": 1
     },
-    "glass_of_milk": {
-      "id": "glass_of_milk",
-      "name": "Glass of Milk",
+    "우유_한_잔": {
+      "id": "우유_한_잔",
+      "name": "우유_한_잔",
       "keywords": ["beverage", "drink", "cow"],
       "skins": [{ "unified": "1f95b", "native": "🥛" }],
       "version": 3
     },
-    "coffee": {
-      "id": "coffee",
-      "name": "Hot Beverage",
+    "커피": {
+      "id": "커피",
+      "name": "커피",
       "keywords": ["coffee", "caffeine", "latte", "espresso"],
       "skins": [{ "unified": "2615", "native": "☕" }],
       "version": 1
     },
-    "teapot": {
-      "id": "teapot",
-      "name": "Teapot",
+    "찻주전자": {
+      "id": "찻주전자",
+      "name": "찻주전자",
       "keywords": ["drink", "hot"],
       "skins": [{ "unified": "1fad6", "native": "🫖" }],
       "version": 13
     },
-    "tea": {
-      "id": "tea",
-      "name": "Teacup Without Handle",
+    "차": {
+      "id": "차",
+      "name": "차",
       "keywords": ["tea", "drink", "bowl", "breakfast", "green", "british"],
       "skins": [{ "unified": "1f375", "native": "🍵" }],
       "version": 1
     },
-    "sake": {
-      "id": "sake",
-      "name": "Sake",
+    "일본주": {
+      "id": "일본주",
+      "name": "일본주",
       "keywords": [
         "wine",
         "drink",
@@ -10576,30 +10576,30 @@
       "skins": [{ "unified": "1f376", "native": "🍶" }],
       "version": 1
     },
-    "champagne": {
-      "id": "champagne",
-      "name": "Bottle with Popping Cork",
+    "샴페인": {
+      "id": "샴페인",
+      "name": "샴페인",
       "keywords": ["champagne", "drink", "wine", "celebration"],
       "skins": [{ "unified": "1f37e", "native": "🍾" }],
       "version": 1
     },
-    "wine_glass": {
-      "id": "wine_glass",
-      "name": "Wine Glass",
+    "와인_잔": {
+      "id": "와인_잔",
+      "name": "와인_잔",
       "keywords": ["drink", "beverage", "drunk", "alcohol", "booze"],
       "skins": [{ "unified": "1f377", "native": "🍷" }],
       "version": 1
     },
-    "cocktail": {
-      "id": "cocktail",
-      "name": "Cocktail Glass",
+    "칵테일": {
+      "id": "칵테일",
+      "name": "칵테일",
       "keywords": ["drink", "drunk", "alcohol", "beverage", "booze", "mojito"],
       "skins": [{ "unified": "1f378", "native": "🍸" }],
       "version": 1
     },
-    "tropical_drink": {
-      "id": "tropical_drink",
-      "name": "Tropical Drink",
+    "열대음료": {
+      "id": "열대음료",
+      "name": "열대음료",
       "keywords": [
         "beverage",
         "cocktail",
@@ -10612,9 +10612,9 @@
       "skins": [{ "unified": "1f379", "native": "🍹" }],
       "version": 1
     },
-    "beer": {
-      "id": "beer",
-      "name": "Beer Mug",
+    "맥주": {
+      "id": "맥주",
+      "name": "맥주",
       "keywords": [
         "relax",
         "beverage",
@@ -10629,9 +10629,9 @@
       "skins": [{ "unified": "1f37a", "native": "🍺" }],
       "version": 1
     },
-    "beers": {
-      "id": "beers",
-      "name": "Clinking Beer Mugs",
+    "건배": {
+      "id": "건배",
+      "name": "건배",
       "keywords": [
         "beers",
         "relax",
@@ -10647,9 +10647,9 @@
       "skins": [{ "unified": "1f37b", "native": "🍻" }],
       "version": 1
     },
-    "clinking_glasses": {
-      "id": "clinking_glasses",
-      "name": "Clinking Glasses",
+    "건배하는_잔": {
+      "id": "건배하는_잔",
+      "name": "건배하는_잔",
       "keywords": [
         "beverage",
         "drink",
@@ -10664,9 +10664,9 @@
       "skins": [{ "unified": "1f942", "native": "🥂" }],
       "version": 3
     },
-    "tumbler_glass": {
-      "id": "tumbler_glass",
-      "name": "Tumbler Glass",
+    "유리잔": {
+      "id": "유리잔",
+      "name": "유리잔",
       "keywords": [
         "drink",
         "beverage",
@@ -10682,65 +10682,65 @@
       "skins": [{ "unified": "1f943", "native": "🥃" }],
       "version": 3
     },
-    "pouring_liquid": {
-      "id": "pouring_liquid",
-      "name": "Pouring Liquid",
+    "액체_따르기": {
+      "id": "액체_따르기",
+      "name": "액체_따르기",
       "keywords": ["cup", "water"],
       "skins": [{ "unified": "1fad7", "native": "🫗" }],
       "version": 14
     },
-    "cup_with_straw": {
-      "id": "cup_with_straw",
-      "name": "Cup with Straw",
+    "스튜가_담긴_컵": {
+      "id": "스튜가_담긴_컵",
+      "name": "스튜가_담긴_컵",
       "keywords": ["drink", "soda"],
       "skins": [{ "unified": "1f964", "native": "🥤" }],
       "version": 5
     },
-    "bubble_tea": {
-      "id": "bubble_tea",
-      "name": "Bubble Tea",
+    "버블티": {
+      "id": "버블티",
+      "name": "버블티",
       "keywords": ["taiwan", "boba", "milk", "straw"],
       "skins": [{ "unified": "1f9cb", "native": "🧋" }],
       "version": 13
     },
-    "beverage_box": {
-      "id": "beverage_box",
-      "name": "Beverage Box",
+    "음료_상자": {
+      "id": "음료_상자",
+      "name": "음료_상자",
       "keywords": ["drink"],
       "skins": [{ "unified": "1f9c3", "native": "🧃" }],
       "version": 12
     },
-    "mate_drink": {
-      "id": "mate_drink",
-      "name": "Mate",
+    "마테_음료": {
+      "id": "마테_음료",
+      "name": "마테_음료",
       "keywords": ["drink", "tea", "beverage"],
       "skins": [{ "unified": "1f9c9", "native": "🧉" }],
       "version": 12
     },
-    "ice_cube": {
-      "id": "ice_cube",
-      "name": "Ice",
+    "각얼음": {
+      "id": "각얼음",
+      "name": "각얼음",
       "keywords": ["cube", "water", "cold"],
       "skins": [{ "unified": "1f9ca", "native": "🧊" }],
       "version": 12
     },
-    "chopsticks": {
-      "id": "chopsticks",
-      "name": "Chopsticks",
+    "젓가락": {
+      "id": "젓가락",
+      "name": "젓가락",
       "keywords": ["food"],
       "skins": [{ "unified": "1f962", "native": "🥢" }],
       "version": 5
     },
-    "knife_fork_plate": {
-      "id": "knife_fork_plate",
-      "name": "Fork and Knife with Plate",
+    "나이프_포크_접시": {
+      "id": "나이프_포크_접시",
+      "name": "나이프_포크_접시",
       "keywords": ["food", "eat", "meal", "lunch", "dinner", "restaurant"],
       "skins": [{ "unified": "1f37d-fe0f", "native": "🍽️" }],
       "version": 1
     },
-    "fork_and_knife": {
-      "id": "fork_and_knife",
-      "name": "Fork and Knife",
+    "포크와_나이프": {
+      "id": "포크와_나이프",
+      "name": "포크와_나이프",
       "keywords": ["cutlery", "kitchen"],
       "skins": [{ "unified": "1f374", "native": "🍴" }],
       "version": 1
@@ -10752,23 +10752,23 @@
       "skins": [{ "unified": "1f944", "native": "🥄" }],
       "version": 3
     },
-    "hocho": {
-      "id": "hocho",
-      "name": "Hocho",
+    "식칼": {
+      "id": "식칼",
+      "name": "식칼",
       "keywords": ["knife", "kitchen", "blade", "cutlery", "weapon"],
       "skins": [{ "unified": "1f52a", "native": "🔪" }],
       "version": 1
     },
-    "jar": {
-      "id": "jar",
-      "name": "Jar",
+    "항아리": {
+      "id": "항아리",
+      "name": "항아리",
       "keywords": ["container", "sauce"],
       "skins": [{ "unified": "1fad9", "native": "🫙" }],
       "version": 14
     },
-    "amphora": {
-      "id": "amphora",
-      "name": "Amphora",
+    "암포라": {
+      "id": "암포라",
+      "name": "암포라",
       "keywords": ["vase", "jar"],
       "skins": [{ "unified": "1f3fa", "native": "🏺" }],
       "version": 1
