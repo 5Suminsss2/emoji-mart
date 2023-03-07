@@ -133,378 +133,378 @@
         "행운의_손가락",
         "두_번재_손가락과_엄지_손가락을 겹치기",
         "사랑해_수신호",
-        "the_horns",
-        "call_me_hand",
-        "point_left",
-        "point_right",
-        "point_up_2",
-        "middle_finger",
-        "point_down",
-        "point_up",
-        "index_pointing_at_the_viewer",
+        "피스_손_모양",
+        "전화해_손_모양",
+        "왼쪽을_가리키는_손_모양",
+        "오른쪽을_가리키는_손_모양",
+        "위를_가리키는_손_모양2",
+        "중지를_세운_손_모양",
+        "아래를_가리키는_손_모양",
+        "위를_가리키는_손_모양",
+        "사용자를_가리키는_손_모양",
         "+1",
         "-1",
-        "fist",
-        "facepunch",
-        "left-facing_fist",
-        "right-facing_fist",
-        "clap",
-        "raised_hands",
-        "heart_hands",
-        "open_hands",
-        "palms_up_together",
-        "handshake",
-        "pray",
-        "writing_hand",
-        "nail_care",
-        "selfie",
-        "muscle",
-        "mechanical_arm",
-        "mechanical_leg",
-        "leg",
-        "foot",
-        "ear",
-        "ear_with_hearing_aid",
-        "nose",
-        "brain",
-        "anatomical_heart",
-        "lungs",
-        "tooth",
-        "bone",
-        "eyes",
-        "eye",
-        "tongue",
-        "lips",
-        "biting_lip",
-        "baby",
-        "child",
-        "boy",
-        "girl",
-        "adult",
-        "person_with_blond_hair",
-        "man",
-        "bearded_person",
-        "man_with_beard",
-        "woman_with_beard",
-        "red_haired_man",
-        "curly_haired_man",
-        "white_haired_man",
-        "bald_man",
-        "woman",
-        "red_haired_woman",
-        "red_haired_person",
-        "curly_haired_woman",
-        "curly_haired_person",
-        "white_haired_woman",
-        "white_haired_person",
-        "bald_woman",
-        "bald_person",
-        "blond-haired-woman",
-        "blond-haired-man",
-        "older_adult",
-        "older_man",
-        "older_woman",
-        "person_frowning",
-        "man-frowning",
-        "woman-frowning",
-        "person_with_pouting_face",
-        "man-pouting",
-        "woman-pouting",
-        "no_good",
-        "man-gesturing-no",
-        "woman-gesturing-no",
-        "ok_woman",
-        "man-gesturing-ok",
-        "woman-gesturing-ok",
-        "information_desk_person",
-        "man-tipping-hand",
-        "woman-tipping-hand",
-        "raising_hand",
-        "man-raising-hand",
-        "woman-raising-hand",
-        "deaf_person",
-        "deaf_man",
-        "deaf_woman",
-        "bow",
-        "man-bowing",
-        "woman-bowing",
-        "face_palm",
-        "man-facepalming",
-        "woman-facepalming",
-        "shrug",
-        "man-shrugging",
-        "woman-shrugging",
-        "health_worker",
-        "male-doctor",
-        "female-doctor",
-        "student",
-        "male-student",
-        "female-student",
-        "teacher",
-        "male-teacher",
-        "female-teacher",
-        "judge",
-        "male-judge",
-        "female-judge",
-        "farmer",
-        "male-farmer",
-        "female-farmer",
-        "cook",
-        "male-cook",
-        "female-cook",
-        "mechanic",
-        "male-mechanic",
-        "female-mechanic",
-        "factory_worker",
-        "male-factory-worker",
-        "female-factory-worker",
-        "office_worker",
-        "male-office-worker",
-        "female-office-worker",
-        "scientist",
-        "male-scientist",
-        "female-scientist",
-        "technologist",
-        "male-technologist",
-        "female-technologist",
-        "singer",
-        "male-singer",
-        "female-singer",
-        "artist",
-        "male-artist",
-        "female-artist",
-        "pilot",
-        "male-pilot",
-        "female-pilot",
-        "astronaut",
-        "male-astronaut",
-        "female-astronaut",
-        "firefighter",
-        "male-firefighter",
-        "female-firefighter",
-        "cop",
-        "male-police-officer",
-        "female-police-officer",
-        "sleuth_or_spy",
-        "male-detective",
-        "female-detective",
-        "guardsman",
-        "male-guard",
-        "female-guard",
-        "ninja",
-        "construction_worker",
-        "male-construction-worker",
-        "female-construction-worker",
-        "person_with_crown",
-        "prince",
-        "princess",
-        "man_with_turban",
-        "man-wearing-turban",
-        "woman-wearing-turban",
-        "man_with_gua_pi_mao",
-        "person_with_headscarf",
-        "person_in_tuxedo",
-        "man_in_tuxedo",
-        "woman_in_tuxedo",
-        "bride_with_veil",
-        "man_with_veil",
-        "woman_with_veil",
-        "pregnant_woman",
-        "pregnant_man",
-        "pregnant_person",
-        "breast-feeding",
-        "woman_feeding_baby",
-        "man_feeding_baby",
-        "person_feeding_baby",
-        "angel",
-        "santa",
-        "mrs_claus",
-        "mx_claus",
-        "superhero",
-        "male_superhero",
-        "female_superhero",
-        "supervillain",
-        "male_supervillain",
-        "female_supervillain",
-        "mage",
-        "male_mage",
-        "female_mage",
-        "fairy",
-        "male_fairy",
-        "female_fairy",
-        "vampire",
-        "male_vampire",
-        "female_vampire",
-        "merperson",
-        "merman",
-        "mermaid",
-        "elf",
-        "male_elf",
-        "female_elf",
-        "genie",
-        "male_genie",
-        "female_genie",
-        "zombie",
-        "male_zombie",
-        "female_zombie",
-        "troll",
-        "massage",
-        "man-getting-massage",
-        "woman-getting-massage",
-        "haircut",
-        "man-getting-haircut",
-        "woman-getting-haircut",
-        "walking",
-        "man-walking",
-        "woman-walking",
-        "standing_person",
-        "man_standing",
-        "woman_standing",
-        "kneeling_person",
-        "man_kneeling",
-        "woman_kneeling",
-        "person_with_probing_cane",
-        "man_with_probing_cane",
-        "woman_with_probing_cane",
-        "person_in_motorized_wheelchair",
-        "man_in_motorized_wheelchair",
-        "woman_in_motorized_wheelchair",
-        "person_in_manual_wheelchair",
-        "man_in_manual_wheelchair",
-        "woman_in_manual_wheelchair",
-        "runner",
-        "man-running",
-        "woman-running",
-        "dancer",
-        "man_dancing",
-        "man_in_business_suit_levitating",
-        "dancers",
-        "men-with-bunny-ears-partying",
-        "women-with-bunny-ears-partying",
-        "person_in_steamy_room",
-        "man_in_steamy_room",
-        "woman_in_steamy_room",
-        "person_climbing",
-        "man_climbing",
-        "woman_climbing",
-        "fencer",
-        "horse_racing",
-        "skier",
-        "snowboarder",
-        "golfer",
-        "man-golfing",
-        "woman-golfing",
-        "surfer",
-        "man-surfing",
-        "woman-surfing",
-        "rowboat",
-        "man-rowing-boat",
-        "woman-rowing-boat",
-        "swimmer",
-        "man-swimming",
-        "woman-swimming",
-        "person_with_ball",
-        "man-bouncing-ball",
-        "woman-bouncing-ball",
-        "weight_lifter",
-        "man-lifting-weights",
-        "woman-lifting-weights",
-        "bicyclist",
-        "man-biking",
-        "woman-biking",
-        "mountain_bicyclist",
-        "man-mountain-biking",
-        "woman-mountain-biking",
-        "person_doing_cartwheel",
-        "man-cartwheeling",
-        "woman-cartwheeling",
-        "wrestlers",
-        "man-wrestling",
-        "woman-wrestling",
-        "water_polo",
-        "man-playing-water-polo",
-        "woman-playing-water-polo",
-        "handball",
-        "man-playing-handball",
-        "woman-playing-handball",
-        "juggling",
-        "man-juggling",
-        "woman-juggling",
-        "person_in_lotus_position",
-        "man_in_lotus_position",
-        "woman_in_lotus_position",
-        "bath",
-        "sleeping_accommodation",
-        "people_holding_hands",
-        "two_women_holding_hands",
-        "man_and_woman_holding_hands",
-        "two_men_holding_hands",
-        "couplekiss",
-        "woman-kiss-man",
-        "man-kiss-man",
-        "woman-kiss-woman",
-        "couple_with_heart",
-        "woman-heart-man",
-        "man-heart-man",
-        "woman-heart-woman",
-        "family",
-        "man-woman-boy",
-        "man-woman-girl",
-        "man-woman-girl-boy",
-        "man-woman-boy-boy",
-        "man-woman-girl-girl",
-        "man-man-boy",
-        "man-man-girl",
-        "man-man-girl-boy",
-        "man-man-boy-boy",
-        "man-man-girl-girl",
-        "woman-woman-boy",
-        "woman-woman-girl",
-        "woman-woman-girl-boy",
-        "woman-woman-boy-boy",
-        "woman-woman-girl-girl",
-        "man-boy",
-        "man-boy-boy",
-        "man-girl",
-        "man-girl-boy",
-        "man-girl-girl",
-        "woman-boy",
-        "woman-boy-boy",
-        "woman-girl",
-        "woman-girl-boy",
-        "woman-girl-girl",
-        "speaking_head_in_silhouette",
-        "bust_in_silhouette",
-        "busts_in_silhouette",
-        "people_hugging",
-        "footprints",
-        "smiley_cat",
-        "smile_cat",
-        "joy_cat",
-        "heart_eyes_cat",
-        "smirk_cat",
-        "kissing_cat",
-        "scream_cat",
-        "crying_cat_face",
-        "pouting_cat",
-        "see_no_evil",
-        "hear_no_evil",
-        "speak_no_evil",
-        "kiss",
-        "love_letter",
-        "cupid",
-        "gift_heart",
-        "sparkling_heart",
-        "heartpulse",
-        "heartbeat",
-        "revolving_hearts",
-        "two_hearts",
-        "heart_decoration",
-        "heavy_heart_exclamation_mark_ornament",
-        "broken_heart",
-        "heart_on_fire",
-        "mending_heart",
-        "heart",
+        "주먹",
+        "얼굴에_주먹",
+        "왼쪽을_향한_주먹",
+        "오른쪽을_향한_주먹",
+        "박수",
+        "두_손을_들고_있는_사람",
+        "두_손으로_만든_하트",
+        "펼친_손바닥",
+        "나란히_펼친_손바닥",
+        "악수",
+        "기도",
+        "글씨를_쓰는_손",
+        "네일_케어",
+        "셀카",
+        "근육",
+        "기계_팔",
+        "기계_다리",
+        "다리",
+        "발",
+        "귀",
+        "보청귀를_낀_귀",
+        "코",
+        "뇌",
+        "심장",
+        "폐",
+        "이빨",
+        "뼈",
+        "두_눈",
+        "한_쪽_눈",
+        "혀",
+        "입술",
+        "이로_깨무는_입술",
+        "아기",
+        "아이",
+        "소년",
+        "소녀",
+        "성인",
+        "금발_머리_사람",
+        "남성",
+        "수염_있는_사람",
+        "수염_있는_남자",
+        "수염_있는_여자",
+        "빨간_머리_남자",
+        "곱슬머리_남자",
+        "흰색_머리_남자",
+        "대머리_남자",
+        "여성",
+        "빨간_머리_여자",
+        "빨간_머리_사람",
+        "곱슬머리_여자",
+        "곱슬머리_사람",
+        "흰색_머리_여자",
+        "흰색_머리_사람",
+        "대머리_여자",
+        "대머리_사람",
+        "금발_머리_여자",
+        "금발_머리_남자",
+        "노인",
+        "노인_남성",
+        "노인_여성",
+        "얼굴을_찌푸린_사람",
+        "얼굴을_찌푸린_남자",
+        "얼굴을_찌푸린_여자",
+        "뿌루퉁한_사람",
+        "뿌루퉁한_남자",
+        "뿌루퉁한_여자",
+        "손으로_x자_표시를_한_사람",
+        "손으로_x자_표시를_한_남성",
+        "손으로_x자_표시를_한_여성",
+        "o_표시를_한_사람",
+        "o_표시를_한_남성",
+        "o_표시를_한_여성",
+        "안내하는_사람",
+        "안내하는_남성",
+        "안내하는_여성",
+        "손을_든_사람",
+        "손을_든_남성",
+        "손을_든_여성",
+        "청각_장애인",
+        "남성_청각_장애인",
+        "여성_청각_장애인",
+        "절하는_사람",
+        "절하는_남성",
+        "절하는_여성",
+        "손으로_얼굴을_가린_사람",
+        "손으로_얼굴을_가린_남성",
+        "손으로_얼굴을_가린_여성",
+        "어깨를_으쓱하는_사람",
+        "어깨를_으쓱하는_남성",
+        "어깨를_으쓱하는_여성",
+        "의료_종사자",
+        "남성_의사",
+        "여성_의사",
+        "학생",
+        "남학생",
+        "여학생",
+        "교사",
+        "남성_교사",
+        "여성_교사",
+        "판사",
+        "남성_판사",
+        "여성_판사",
+        "농부",
+        "남성_농부",
+        "여성_농부",
+        "요리사",
+        "남성_요리사",
+        "여성_요리사",
+        "정비공",
+        "남성_정비공",
+        "여성_정비공",
+        "공장_근로자",
+        "남성_공장_근로자",
+        "여성_공장_근로자",
+        "사무직_근로자",
+        "남성_사무직_근로자",
+        "여성_사무직_근로자",
+        "과학자",
+        "남성_과학자",
+        "여성_과학자",
+        "기술자",
+        "남성_기술자",
+        "여성_기술자",
+        "가수",
+        "남성_가수",
+        "여성_가수",
+        "예술가",
+        "남성_예술가",
+        "여성_예술가",
+        "비행_조종사",
+        "남성_조종사",
+        "여성_조종사",
+        "우주비행사",
+        "남성_우주비행사",
+        "여성_우주비행사",
+        "소방관",
+        "남성_소방관",
+        "여성_소방관",
+        "경찰관",
+        "남성_경찰관",
+        "여성_경찰관",
+        "탐정_또는_스파이",
+        "남성_탐정",
+        "여성_탐정",
+        "경비병",
+        "남성_경비병",
+        "여성_경비병",
+        "닌자",
+        "건설_노동자",
+        "남성_건설_노동자",
+        "여성_건설_노동자",
+        "왕관을_쓴_사람",
+        "왕자",
+        "공주",
+        "터번을_두른_사람",
+        "터번을_두른_남성",
+        "터번을_두른_여성",
+        "과피모를_쓴_남성",
+        "머리-스카프를_쓴_사람",
+        "턱시도를_입은_사람",
+        "턱시도를_입은_남성",
+        "턱시도를_입은_여성",
+        "면사포를_쓴_신부",
+        "면사포를_쓴_남성",
+        "면사포를_쓴_여성",
+        "임신한_여성",
+        "임신한_남성",
+        "임신한_사람",
+        "모유_수유",
+        "수유_중인_여성",
+        "수유_중인_남성",
+        "수유_중인_사람",
+        "천사",
+        "산타",
+        "남성_산타",
+        "여성_산타",
+        "슈퍼히어로",
+        "남성_슈퍼히어로",
+        "여성_슈퍼히어로",
+        "슈퍼빌런",
+        "남성_슈퍼빌런",
+        "여성_슈퍼빌런",
+        "마법사",
+        "남성_마법사",
+        "여성_마법사",
+        "요정",
+        "남성_요정",
+        "여성_요정",
+        "뱀파이어",
+        "남성_뱀파이어",
+        "여성_뱀파이어",
+        "인어",
+        "남성_인어",
+        "여성_인어",
+        "엘프",
+        "남성_엘프",
+        "여성_엘프",
+        "지니",
+        "남성_지니",
+        "여성_지니",
+        "좀비",
+        "남성_좀비",
+        "여성_좀비",
+        "트롤",
+        "마사지",
+        "마사지를_받는_남성",
+        "마사지를_받는_여성",
+        "헤어컷",
+        "머리카락_자르는_남성",
+        "머리카락_자르는_여성",
+        "걷기",
+        "걷는_남성",
+        "걷는_여성",
+        "서_있는_사람",
+        "서_있는_남성",
+        "서_있는_여성",
+        "무릎_꿇은_사람",
+        "무릎_꿇은_남성",
+        "무릎_꿇은_여성",
+        "지팡이를_짚은_사람",
+        "지팡이를_짚은_남성",
+        "지팡이를_짚은_여성",
+        "전동_휠체어를_탄_사람",
+        "전동_휠체어를_탄_남성",
+        "전동_휠체어를_탄_여성",
+        "수동_휠체어를_탄_사람",
+        "수동_휠체어를_탄_남성",
+        "수동_휠체어를_탄_여성",
+        "달리는_사람",
+        "달리는_남성",
+        "달리는_여성",
+        "춤추는_사람",
+        "춤추는_남성",
+        "양복을_입고_공중에_떠있는_남성",
+        "춤추는_사람들",
+        "토끼_귀를_한_파티_중인_남성",
+        "토끼_귀를_한_파티_중인_여성",
+        "수증기로_가득_찬_방에_있는_사람",
+        "수증기로_가득_찬_방에_있는_남성",
+        "수증기로_가득_찬_방에_있는_여성",
+        "암벽을_오르는_사람",
+        "암벽을_오르는_남성",
+        "암벽을_오르는_여성",
+        "펜싱을_하는_사람",
+        "경주_중인_말",
+        "스키_타는_사람",
+        "스노보드_타는_사람",
+        "골프_치는_사람",
+        "골프_치는_남성",
+        "골프_치는_여성",
+        "서핑_하는_사람",
+        "서핑_하는_남성",
+        "서핑_하는_여성",
+        "노_젓는_보트",
+        "보트의_노를_젓는_남성",
+        "보트의_노를_젓는_여성",
+        "수영하는_사람",
+        "수영하는_남성",
+        "수영하는_여성",
+        "공을_튕기는_사람",
+        "공을_튕기는_남성",
+        "공을_튕기는_여성",
+        "역기를_들어올리는_사람",
+        "역기를_들어올리는_남성",
+        "역기를_들어올리는_여성",
+        "자전거를_타는_사람",
+        "자전거를_타는_남성",
+        "자전거를_타는_여성",
+        "산악_자전거를_타는_사람",
+        "산악_자전거를_타는_남성",
+        "산악_자전거를_타는_여성",
+        "옆으로_재주_넘기를_하고있는_사람",
+        "옆으로_재주_넘기를_하고있는_남성",
+        "옆으로_재주_넘기를_하고있는_여성",
+        "레슬링을_하는_사람",
+        "레슬링을_하는_남성",
+        "레슬링을_하는_여성",
+        "수구",
+        "수구를_하는_남성",
+        "수구를_하는_여성",
+        "핸드볼",
+        "핸드볼_하는_남성",
+        "핸드볼_하는_여성",
+        "저글링",
+        "저글링하는_남성",
+        "저글링하는_여성",
+        "결가부좌를_튼_사람",
+        "결가부좌를_튼_남성",
+        "결가부좌를_튼_여성",
+        "목욕",
+        "숙박_시설",
+        "손을_잡은_사람들",
+        "손을_잡은_두_여성들",
+        "손을_잡은_남자와_여자",
+        "손을_잡은_두_남성들",
+        "커플_키스",
+        "키스하는_여성과_남성",
+        "키스하는_두_남성",
+        "키스하는_두_여성",
+        "사이에_하트가_있는_커플",
+        "여성_하트_남성",
+        "남성_하트_남성",
+        "여성_하트_여성",
+        "가족",
+        "아빠_엄마_아들",
+        "아빠_엄마_딸",
+        "아빠_엄마_아들_딸",
+        "아빠_엄마_아들_아들",
+        "아빠_엄마_딸_딸",
+        "아빠_아빠_아들",
+        "아빠_아빠_딸",
+        "아빠_아빠_아들_딸",
+        "아빠_아빠_아들_아들",
+        "아빠_아빠_딸_딸",
+        "엄마_엄마_아들",
+        "엄마_엄마_딸",
+        "엄마_엄마_아들_딸",
+        "엄마_엄마_아들_아들",
+        "엄마_엄마_딸_딸",
+        "아빠_아들",
+        "아빠_아들_아들",
+        "아빠_딸",
+        "아빠_딸_아들",
+        "아빠_딸_딸",
+        "여성_아들",
+        "여성_아들_아들",
+        "여성_딸",
+        "여성_딸_아들",
+        "여성_딸_딸",
+        "말하고_있는_머리_그림자",
+        "상반신_그림자",
+        "2개의_상반신_그림자",
+        "포옹하는_모습",
+        "발자국",
+        "웃고_있는_고양이",
+        "웃는_고양이",
+        "기분_좋은_고양이",
+        "눈이_하트_모양인_고양이",
+        "히죽거리는_고양이",
+        "뽀뽀하는_고양이",
+        "소리지르는_고양이",
+        "우는_고양이_얼굴",
+        "뿌루퉁한_고양이",
+        "나쁜_것을_보지_말라",
+        "나쁜_것을_듣지_말라",
+        "나쁜_것을_말하지_말라",
+        "키스",
+        "러브레터",
+        "큐피드",
+        "리본이_달린_하트",
+        "반짝이는_하트",
+        "심박",
+        "심장_박동",
+        "회전하는_하트",
+        "두_개의_하트",
+        "하트_장식",
+        "하트_모양의_두꺼운_느낌표",
+        "부서진_하트",
+        "불타는_하트",
+        "치유_중인_하트",
+        "하트",
         "주황색_하트",
         "노랑색_하트",
         "초록색_하트",
@@ -514,19 +514,19 @@
         "검정색_하트",
         "흰색_하트",
         "100",
-        "anger",
-        "boom",
-        "dizzy",
-        "sweat_drops",
-        "dash",
-        "hole",
-        "bomb",
-        "speech_balloon",
-        "eye-in-speech-bubble",
-        "left_speech_bubble",
-        "right_anger_bubble",
-        "thought_balloon",
-        "zzz"
+        "화남",
+        "폭발",
+        "어지러운",
+        "땀방울",
+        "질주",
+        "구멍",
+        "폭탄",
+        "말풍선",
+        "말풍선_눈",
+        "왼쪽_말풍선",
+        "오른쪽_말풍선",
+        "생각_풍선",
+        "쿨쿨"
       ]
     },
     {
@@ -1212,7 +1212,7 @@
         "팩스",
         "건전지",
         "배터리_부족",
-        "전기_플러기",
+        "전기_플러그",
         "컴퓨터",
         "데스크톱_컴퓨터",
         "프린터",
@@ -1255,7 +1255,7 @@
         "신문",
         "둥글게_말린_신문",
         "첵갈피_탭",
-        "첵갈피;",
+        "첵갈피",
         "라벨",
         "돈가방",
         "동전",
@@ -10236,23 +10236,23 @@
       "skins": [{ "unified": "1f957", "native": "🥗" }],
       "version": 3
     },
-    "popcorn": {
-      "id": "popcorn",
-      "name": "Popcorn",
+    "팝콘": {
+      "id": "팝콘",
+      "name": "팝콘",
       "keywords": ["food", "movie", "theater", "films", "snack"],
       "skins": [{ "unified": "1f37f", "native": "🍿" }],
       "version": 1
     },
-    "butter": {
-      "id": "butter",
-      "name": "Butter",
+    "버터": {
+      "id": "버터",
+      "name": "버터",
       "keywords": ["food", "cook"],
       "skins": [{ "unified": "1f9c8", "native": "🧈" }],
       "version": 12
     },
-    "salt": {
-      "id": "salt",
-      "name": "Salt",
+    "소금": {
+      "id": "소금",
+      "name": "소금",
       "keywords": ["condiment", "shaker"],
       "skins": [{ "unified": "1f9c2", "native": "🧂" }],
       "version": 11
@@ -10306,9 +10306,9 @@
       "skins": [{ "unified": "1f35c", "native": "🍜" }],
       "version": 1
     },
-    "spaghetti": {
-      "id": "spaghetti",
-      "name": "Spaghetti",
+    "스파게티": {
+      "id": "스파게티",
+      "name": "스파게티",
       "keywords": ["food", "italian", "noodle"],
       "skins": [{ "unified": "1f35d", "native": "🍝" }],
       "version": 1
@@ -10358,9 +10358,9 @@
       "skins": [{ "unified": "1f365", "native": "🍥" }],
       "version": 1
     },
-    "moon_cake": {
-      "id": "moon_cake",
-      "name": "Moon Cake",
+    "월병": {
+      "id": "월병",
+      "name": "월병",
       "keywords": ["food", "autumn"],
       "skins": [{ "unified": "1f96e", "native": "🥮" }],
       "version": 11
@@ -10372,9 +10372,9 @@
       "skins": [{ "unified": "1f361", "native": "🍡" }],
       "version": 1
     },
-    "dumpling": {
-      "id": "dumpling",
-      "name": "Dumpling",
+    "만두": {
+      "id": "만두",
+      "name": "만두",
       "keywords": ["food", "empanada", "pierogi", "potsticker"],
       "skins": [{ "unified": "1f95f", "native": "🥟" }],
       "version": 5
@@ -10414,16 +10414,16 @@
       "skins": [{ "unified": "1f990", "native": "🦐" }],
       "version": 3
     },
-    "squid": {
-      "id": "squid",
-      "name": "Squid",
+    "오징어": {
+      "id": "오징어",
+      "name": "오징어",
       "keywords": ["animal", "nature", "ocean", "sea"],
       "skins": [{ "unified": "1f991", "native": "🦑" }],
       "version": 3
     },
-    "oyster": {
-      "id": "oyster",
-      "name": "Oyster",
+    "굴": {
+      "id": "굴",
+      "name": "굴",
       "keywords": ["food"],
       "skins": [{ "unified": "1f9aa", "native": "🦪" }],
       "version": 12
@@ -10477,16 +10477,16 @@
       "skins": [{ "unified": "1f370", "native": "🍰" }],
       "version": 1
     },
-    "cupcake": {
-      "id": "cupcake",
-      "name": "Cupcake",
+    "컵케이크": {
+      "id": "컵케이크",
+      "name": "컵케이크",
       "keywords": ["food", "dessert", "bakery", "sweet"],
       "skins": [{ "unified": "1f9c1", "native": "🧁" }],
       "version": 11
     },
-    "pie": {
-      "id": "pie",
-      "name": "Pie",
+    "파이": {
+      "id": "파이",
+      "name": "파이",
       "keywords": ["food", "dessert", "pastry"],
       "skins": [{ "unified": "1f967", "native": "🥧" }],
       "version": 5
@@ -10519,9 +10519,9 @@
       "skins": [{ "unified": "1f36e", "native": "🍮" }],
       "version": 1
     },
-    "honey_pot": {
-      "id": "honey_pot",
-      "name": "Honey Pot",
+    "꿀단지": {
+      "id": "꿀단지",
+      "name": "꿀단지",
       "keywords": ["bees", "sweet", "kitchen"],
       "skins": [{ "unified": "1f36f", "native": "🍯" }],
       "version": 1
@@ -10745,9 +10745,9 @@
       "skins": [{ "unified": "1f374", "native": "🍴" }],
       "version": 1
     },
-    "spoon": {
-      "id": "spoon",
-      "name": "Spoon",
+    "숟가락": {
+      "id": "숟가락",
+      "name": "숟가락",
       "keywords": ["cutlery", "kitchen", "tableware"],
       "skins": [{ "unified": "1f944", "native": "🥄" }],
       "version": 3
@@ -13390,100 +13390,100 @@
       "skins": [{ "unified": "1f9ba", "native": "🦺" }],
       "version": 12
     },
-    "necktie": {
-      "id": "necktie",
-      "name": "Necktie",
+    "넥타이": {
+      "id": "넥타이",
+      "name": "넥타이",
       "keywords": ["shirt", "suitup", "formal", "fashion", "cloth", "business"],
       "skins": [{ "unified": "1f454", "native": "👔" }],
       "version": 1
     },
-    "shirt": {
-      "id": "shirt",
-      "name": "T-Shirt",
+    "셔츠": {
+      "id": "셔츠",
+      "name": "티셔츠",
       "keywords": ["shirt", "tshirt", "t", "fashion", "cloth", "casual", "tee"],
       "skins": [{ "unified": "1f455", "native": "👕" }],
       "version": 1
     },
-    "jeans": {
-      "id": "jeans",
-      "name": "Jeans",
+    "청바지": {
+      "id": "청바지",
+      "name": "청바지",
       "keywords": ["fashion", "shopping"],
       "skins": [{ "unified": "1f456", "native": "👖" }],
       "version": 1
     },
-    "scarf": {
-      "id": "scarf",
-      "name": "Scarf",
+    "스카프": {
+      "id": "스카프",
+      "name": "스카프",
       "keywords": ["neck", "winter", "clothes"],
       "skins": [{ "unified": "1f9e3", "native": "🧣" }],
       "version": 5
     },
-    "gloves": {
-      "id": "gloves",
-      "name": "Gloves",
+    "장갑": {
+      "id": "장갑",
+      "name": "장갑",
       "keywords": ["hands", "winter", "clothes"],
       "skins": [{ "unified": "1f9e4", "native": "🧤" }],
       "version": 5
     },
-    "coat": {
-      "id": "coat",
-      "name": "Coat",
+    "코트": {
+      "id": "코트",
+      "name": "코트",
       "keywords": ["jacket"],
       "skins": [{ "unified": "1f9e5", "native": "🧥" }],
       "version": 5
     },
-    "socks": {
-      "id": "socks",
-      "name": "Socks",
+    "양말": {
+      "id": "양말",
+      "name": "양말",
       "keywords": ["stockings", "clothes"],
       "skins": [{ "unified": "1f9e6", "native": "🧦" }],
       "version": 5
     },
-    "dress": {
-      "id": "dress",
-      "name": "Dress",
+    "드레스": {
+      "id": "드레스",
+      "name": "드레스",
       "keywords": ["clothes", "fashion", "shopping"],
       "skins": [{ "unified": "1f457", "native": "👗" }],
       "version": 1
     },
-    "kimono": {
-      "id": "kimono",
-      "name": "Kimono",
+    "기모노": {
+      "id": "기모노",
+      "name": "기모노",
       "keywords": ["dress", "fashion", "women", "female", "japanese"],
       "skins": [{ "unified": "1f458", "native": "👘" }],
       "version": 1
     },
-    "sari": {
-      "id": "sari",
-      "name": "Sari",
+    "사리": {
+      "id": "사리",
+      "name": "사리",
       "keywords": ["dress"],
       "skins": [{ "unified": "1f97b", "native": "🥻" }],
       "version": 12
     },
-    "one-piece_swimsuit": {
-      "id": "one-piece_swimsuit",
-      "name": "One-Piece Swimsuit",
+    "원피스_수영복": {
+      "id": "원피스_수영복",
+      "name": "원피스 수영복",
       "keywords": ["one", "piece", "fashion"],
       "skins": [{ "unified": "1fa71", "native": "🩱" }],
       "version": 12
     },
-    "briefs": {
-      "id": "briefs",
-      "name": "Briefs",
+    "브리프": {
+      "id": "브리프",
+      "name": "브리프",
       "keywords": ["clothing"],
       "skins": [{ "unified": "1fa72", "native": "🩲" }],
       "version": 12
     },
-    "shorts": {
-      "id": "shorts",
-      "name": "Shorts",
+    "반바지": {
+      "id": "반바지",
+      "name": "반바지",
       "keywords": ["clothing"],
       "skins": [{ "unified": "1fa73", "native": "🩳" }],
       "version": 12
     },
-    "bikini": {
-      "id": "bikini",
-      "name": "Bikini",
+    "비키니": {
+      "id": "비키니",
+      "name": "비키니",
       "keywords": [
         "swimming",
         "female",
@@ -13496,86 +13496,86 @@
       "skins": [{ "unified": "1f459", "native": "👙" }],
       "version": 1
     },
-    "womans_clothes": {
-      "id": "womans_clothes",
-      "name": "Womans Clothes",
+    "여성복": {
+      "id": "여성복",
+      "name": "여성복",
       "keywords": ["woman", "s", "fashion", "shopping", "bags", "female"],
       "skins": [{ "unified": "1f45a", "native": "👚" }],
       "version": 1
     },
-    "purse": {
-      "id": "purse",
-      "name": "Purse",
+    "지갑": {
+      "id": "지갑",
+      "name": "지갑",
       "keywords": ["fashion", "accessories", "money", "sales", "shopping"],
       "skins": [{ "unified": "1f45b", "native": "👛" }],
       "version": 1
     },
-    "handbag": {
-      "id": "handbag",
-      "name": "Handbag",
+    "핸드백": {
+      "id": "핸드백",
+      "name": "핸드백",
       "keywords": ["fashion", "accessory", "accessories", "shopping"],
       "skins": [{ "unified": "1f45c", "native": "👜" }],
       "version": 1
     },
-    "pouch": {
-      "id": "pouch",
-      "name": "Pouch",
+    "주머니": {
+      "id": "주머니",
+      "name": "주머니",
       "keywords": ["clutch", "bag", "accessories", "shopping"],
       "skins": [{ "unified": "1f45d", "native": "👝" }],
       "version": 1
     },
-    "shopping_bags": {
-      "id": "shopping_bags",
-      "name": "Shopping Bags",
+    "쇼핑백": {
+      "id": "쇼핑백",
+      "name": "쇼핑백",
       "keywords": ["mall", "buy", "purchase"],
       "skins": [{ "unified": "1f6cd-fe0f", "native": "🛍️" }],
       "version": 1
     },
-    "school_satchel": {
-      "id": "school_satchel",
-      "name": "Backpack",
+    "책가방": {
+      "id": "책가방",
+      "name": "가방",
       "keywords": ["school", "satchel", "student", "education", "bag"],
       "skins": [{ "unified": "1f392", "native": "🎒" }],
       "version": 1
     },
-    "thong_sandal": {
-      "id": "thong_sandal",
-      "name": "Thong Sandal",
+    "쪼리": {
+      "id": "쪼리",
+      "name": "쪼리",
       "keywords": ["footwear", "summer"],
       "skins": [{ "unified": "1fa74", "native": "🩴" }],
       "version": 13
     },
-    "mans_shoe": {
-      "id": "mans_shoe",
-      "name": "Mans Shoe",
+    "남성_신발": {
+      "id": "남성_신발",
+      "name": "남성_신발",
       "keywords": ["man", "s", "fashion", "male"],
       "skins": [{ "unified": "1f45e", "native": "👞" }],
       "version": 1
     },
-    "athletic_shoe": {
-      "id": "athletic_shoe",
-      "name": "Running Shoe",
+    "운동화": {
+      "id": "운동화",
+      "name": "운동화",
       "keywords": ["athletic", "shoes", "sports", "sneakers"],
       "skins": [{ "unified": "1f45f", "native": "👟" }],
       "version": 1
     },
-    "hiking_boot": {
-      "id": "hiking_boot",
-      "name": "Hiking Boot",
+    "등산화": {
+      "id": "등산화",
+      "name": "등산화",
       "keywords": ["backpacking", "camping"],
       "skins": [{ "unified": "1f97e", "native": "🥾" }],
       "version": 11
     },
-    "womans_flat_shoe": {
-      "id": "womans_flat_shoe",
-      "name": "Flat Shoe",
+    "여성용_플랫슈즈": {
+      "id": "여성용_플랫슈즈",
+      "name": "플랫슈즈",
       "keywords": ["womans", "ballet", "slip", "on", "slipper"],
       "skins": [{ "unified": "1f97f", "native": "🥿" }],
       "version": 11
     },
-    "high_heel": {
-      "id": "high_heel",
-      "name": "High-Heeled Shoe",
+    "하이힐": {
+      "id": "하이힐",
+      "name": "하이힐",
       "keywords": [
         "high",
         "heel",
@@ -13589,37 +13589,37 @@
       "skins": [{ "unified": "1f460", "native": "👠" }],
       "version": 1
     },
-    "sandal": {
-      "id": "sandal",
-      "name": "Womans Sandal",
+    "샌들": {
+      "id": "샌들",
+      "name": "여성용 샌들",
       "keywords": ["woman", "s", "shoes", "fashion", "flip", "flops"],
       "skins": [{ "unified": "1f461", "native": "👡" }],
       "version": 1
     },
-    "ballet_shoes": {
-      "id": "ballet_shoes",
-      "name": "Ballet Shoes",
+    "발레_슈즈": {
+      "id": "발레_슈즈",
+      "name": "발레_슈즈",
       "keywords": ["dance"],
       "skins": [{ "unified": "1fa70", "native": "🩰" }],
       "version": 12
     },
-    "boot": {
-      "id": "boot",
-      "name": "Womans Boots",
+    "부츠": {
+      "id": "부츠",
+      "name": "여성용 부츠",
       "keywords": ["boot", "woman", "s", "shoes", "fashion"],
       "skins": [{ "unified": "1f462", "native": "👢" }],
       "version": 1
     },
-    "crown": {
-      "id": "crown",
-      "name": "Crown",
+    "왕관": {
+      "id": "왕관",
+      "name": "왕관",
       "keywords": ["king", "kod", "leader", "royalty", "lord"],
       "skins": [{ "unified": "1f451", "native": "👑" }],
       "version": 1
     },
-    "womans_hat": {
-      "id": "womans_hat",
-      "name": "Womans Hat",
+    "여성용_모자": {
+      "id": "여성용_모자",
+      "name": "여성용_모자",
       "keywords": [
         "woman",
         "s",
@@ -13632,16 +13632,16 @@
       "skins": [{ "unified": "1f452", "native": "👒" }],
       "version": 1
     },
-    "tophat": {
-      "id": "tophat",
-      "name": "Top Hat",
+    "탑햇": {
+      "id": "탑햇",
+      "name": "탑햇",
       "keywords": ["tophat", "magic", "gentleman", "classy", "circus"],
       "skins": [{ "unified": "1f3a9", "native": "🎩" }],
       "version": 1
     },
-    "mortar_board": {
-      "id": "mortar_board",
-      "name": "Graduation Cap",
+    "사각모": {
+      "id": "사각모",
+      "name": "사각모",
       "keywords": [
         "mortar",
         "board",
@@ -13657,23 +13657,23 @@
       "skins": [{ "unified": "1f393", "native": "🎓" }],
       "version": 1
     },
-    "billed_cap": {
-      "id": "billed_cap",
-      "name": "Billed Cap",
+    "야구모자": {
+      "id": "야구모자",
+      "name": "야구모자",
       "keywords": ["baseball"],
       "skins": [{ "unified": "1f9e2", "native": "🧢" }],
       "version": 5
     },
-    "military_helmet": {
-      "id": "military_helmet",
-      "name": "Military Helmet",
+    "방탄헬멧": {
+      "id": "방탄헬멧",
+      "name": "방탄헬멧",
       "keywords": ["army", "protection"],
       "skins": [{ "unified": "1fa96", "native": "🪖" }],
       "version": 13
     },
-    "helmet_with_white_cross": {
-      "id": "helmet_with_white_cross",
-      "name": "Rescue Worker’s Helmet",
+    "흰색_십자_표시가_있는_헬멧": {
+      "id": "흰색_십자_표시가_있는_헬멧",
+      "name": "흰색 십자 표시가 있는 헬멧",
       "keywords": [
         "with",
         "white",
@@ -13686,23 +13686,23 @@
       "skins": [{ "unified": "26d1-fe0f", "native": "⛑️" }],
       "version": 1
     },
-    "prayer_beads": {
-      "id": "prayer_beads",
-      "name": "Prayer Beads",
+    "묵주": {
+      "id": "묵주",
+      "name": "묵주",
       "keywords": ["dhikr", "religious"],
       "skins": [{ "unified": "1f4ff", "native": "📿" }],
       "version": 1
     },
-    "lipstick": {
-      "id": "lipstick",
-      "name": "Lipstick",
+    "립스틱": {
+      "id": "립스틱",
+      "name": "립스틱",
       "keywords": ["female", "girl", "fashion", "woman"],
       "skins": [{ "unified": "1f484", "native": "💄" }],
       "version": 1
     },
-    "ring": {
-      "id": "ring",
-      "name": "Ring",
+    "반지": {
+      "id": "반지",
+      "name": "반지",
       "keywords": [
         "wedding",
         "propose",
@@ -13717,317 +13717,317 @@
       "skins": [{ "unified": "1f48d", "native": "💍" }],
       "version": 1
     },
-    "gem": {
-      "id": "gem",
-      "name": "Gem Stone",
+    "보석": {
+      "id": "보석",
+      "name": "보석",
       "keywords": ["blue", "ruby", "diamond", "jewelry"],
       "skins": [{ "unified": "1f48e", "native": "💎" }],
       "version": 1
     },
-    "mute": {
-      "id": "mute",
-      "name": "Muted Speaker",
+    "음소거": {
+      "id": "음소거",
+      "name": "음소거",
       "keywords": ["mute", "sound", "volume", "silence", "quiet"],
       "skins": [{ "unified": "1f507", "native": "🔇" }],
       "version": 1
     },
-    "speaker": {
-      "id": "speaker",
-      "name": "Speaker",
+    "스피커": {
+      "id": "스피커",
+      "name": "스피커",
       "keywords": ["low", "volume", "sound", "silence", "broadcast"],
       "skins": [{ "unified": "1f508", "native": "🔈" }],
       "version": 1
     },
-    "sound": {
-      "id": "sound",
-      "name": "Speaker Medium Volume",
+    "소리": {
+      "id": "소리",
+      "name": "소리",
       "keywords": ["sound", "broadcast"],
       "skins": [{ "unified": "1f509", "native": "🔉" }],
       "version": 1
     },
-    "loud_sound": {
-      "id": "loud_sound",
-      "name": "Speaker High Volume",
+    "큰_소리": {
+      "id": "큰_소리",
+      "name": "큰 소리",
       "keywords": ["loud", "sound", "noise", "noisy", "broadcast"],
       "skins": [{ "unified": "1f50a", "native": "🔊" }],
       "version": 1
     },
-    "loudspeaker": {
-      "id": "loudspeaker",
-      "name": "Loudspeaker",
+    "확성기": {
+      "id": "확성기",
+      "name": "확성기",
       "keywords": ["volume", "sound"],
       "skins": [{ "unified": "1f4e2", "native": "📢" }],
       "version": 1
     },
-    "mega": {
-      "id": "mega",
-      "name": "Megaphone",
+    "메가": {
+      "id": "메가",
+      "name": "메가폰",
       "keywords": ["mega", "sound", "speaker", "volume"],
       "skins": [{ "unified": "1f4e3", "native": "📣" }],
       "version": 1
     },
-    "postal_horn": {
-      "id": "postal_horn",
-      "name": "Postal Horn",
+    "호른": {
+      "id": "호른",
+      "name": "호른",
       "keywords": ["instrument", "music"],
       "skins": [{ "unified": "1f4ef", "native": "📯" }],
       "version": 1
     },
-    "bell": {
-      "id": "bell",
-      "name": "Bell",
+    "종": {
+      "id": "종",
+      "name": "종",
       "keywords": ["sound", "notification", "christmas", "xmas", "chime"],
       "skins": [{ "unified": "1f514", "native": "🔔" }],
       "version": 1
     },
-    "no_bell": {
-      "id": "no_bell",
-      "name": "Bell with Slash",
+    "벨_소리_금지": {
+      "id": "벨_소리_금지",
+      "name": "벨 소리 금지",
       "keywords": ["no", "sound", "volume", "mute", "quiet", "silent"],
       "skins": [{ "unified": "1f515", "native": "🔕" }],
       "version": 1
     },
-    "musical_score": {
-      "id": "musical_score",
-      "name": "Musical Score",
+    "높은음자리표": {
+      "id": "높은음자리표",
+      "name": "높은음자리표",
       "keywords": ["treble", "clef", "compose"],
       "skins": [{ "unified": "1f3bc", "native": "🎼" }],
       "version": 1
     },
-    "musical_note": {
-      "id": "musical_note",
-      "name": "Musical Note",
+    "음표": {
+      "id": "음표",
+      "name": "음표",
       "keywords": ["score", "tone", "sound"],
       "skins": [{ "unified": "1f3b5", "native": "🎵" }],
       "version": 1
     },
-    "notes": {
-      "id": "notes",
-      "name": "Musical Notes",
+    "음표2": {
+      "id": "음표2",
+      "name": "음표2",
       "keywords": ["music", "score"],
       "skins": [{ "unified": "1f3b6", "native": "🎶" }],
       "version": 1
     },
-    "studio_microphone": {
-      "id": "studio_microphone",
-      "name": "Studio Microphone",
+    "스튜디오_마이크": {
+      "id": "스튜디오_마이크",
+      "name": "스튜디오 마이크",
       "keywords": ["sing", "recording", "artist", "talkshow"],
       "skins": [{ "unified": "1f399-fe0f", "native": "🎙️" }],
       "version": 1
     },
-    "level_slider": {
-      "id": "level_slider",
-      "name": "Level Slider",
+    "레벨_슬라이더": {
+      "id": "레벨_슬라이더",
+      "name": "레벨 슬라이더",
       "keywords": ["scale"],
       "skins": [{ "unified": "1f39a-fe0f", "native": "🎚️" }],
       "version": 1
     },
-    "control_knobs": {
-      "id": "control_knobs",
-      "name": "Control Knobs",
+    "조절_손잡이": {
+      "id": "조절_손잡이",
+      "name": "조절 손잡이",
       "keywords": ["dial"],
       "skins": [{ "unified": "1f39b-fe0f", "native": "🎛️" }],
       "version": 1
     },
-    "microphone": {
-      "id": "microphone",
-      "name": "Microphone",
+    "마이크": {
+      "id": "마이크",
+      "name": "마이크",
       "keywords": ["sound", "music", "PA", "sing", "talkshow"],
       "skins": [{ "unified": "1f3a4", "native": "🎤" }],
       "version": 1
     },
-    "headphones": {
-      "id": "headphones",
-      "name": "Headphone",
+    "헤드폰": {
+      "id": "헤드폰",
+      "name": "헤드폰",
       "keywords": ["headphones", "music", "score", "gadgets"],
       "skins": [{ "unified": "1f3a7", "native": "🎧" }],
       "version": 1
     },
-    "radio": {
-      "id": "radio",
-      "name": "Radio",
+    "라디오": {
+      "id": "라디오",
+      "name": "라디오",
       "keywords": ["communication", "music", "podcast", "program"],
       "skins": [{ "unified": "1f4fb", "native": "📻" }],
       "version": 1
     },
-    "saxophone": {
-      "id": "saxophone",
-      "name": "Saxophone",
+    "색소폰": {
+      "id": "색소폰",
+      "name": "색소폰",
       "keywords": ["music", "instrument", "jazz", "blues"],
       "skins": [{ "unified": "1f3b7", "native": "🎷" }],
       "version": 1
     },
-    "accordion": {
-      "id": "accordion",
-      "name": "Accordion",
+    "아코디언": {
+      "id": "아코디언",
+      "name": "아코디언",
       "keywords": ["music"],
       "skins": [{ "unified": "1fa97", "native": "🪗" }],
       "version": 13
     },
-    "guitar": {
-      "id": "guitar",
-      "name": "Guitar",
+    "기타": {
+      "id": "기타",
+      "name": "기타",
       "keywords": ["music", "instrument"],
       "skins": [{ "unified": "1f3b8", "native": "🎸" }],
       "version": 1
     },
-    "musical_keyboard": {
-      "id": "musical_keyboard",
-      "name": "Musical Keyboard",
+    "피아노_건반": {
+      "id": "피아노_건반",
+      "name": "피아노 건반",
       "keywords": ["piano", "instrument", "compose"],
       "skins": [{ "unified": "1f3b9", "native": "🎹" }],
       "version": 1
     },
-    "trumpet": {
-      "id": "trumpet",
-      "name": "Trumpet",
+    "트럼펫": {
+      "id": "트럼펫",
+      "name": "트럼펫",
       "keywords": ["music", "brass"],
       "skins": [{ "unified": "1f3ba", "native": "🎺" }],
       "version": 1
     },
-    "violin": {
-      "id": "violin",
-      "name": "Violin",
+    "바이올린": {
+      "id": "바이올린",
+      "name": "바이올린",
       "keywords": ["music", "instrument", "orchestra", "symphony"],
       "skins": [{ "unified": "1f3bb", "native": "🎻" }],
       "version": 1
     },
-    "banjo": {
-      "id": "banjo",
-      "name": "Banjo",
+    "반조": {
+      "id": "반조",
+      "name": "반조",
       "keywords": ["music", "instructment"],
       "skins": [{ "unified": "1fa95", "native": "🪕" }],
       "version": 12
     },
-    "drum_with_drumsticks": {
-      "id": "drum_with_drumsticks",
-      "name": "Drum",
+    "드럼스틱과_드럼": {
+      "id": "드럼스틱과_드럼",
+      "name": "드럼",
       "keywords": ["with", "drumsticks", "music", "instrument", "snare"],
       "skins": [{ "unified": "1f941", "native": "🥁" }],
       "version": 3
     },
-    "long_drum": {
-      "id": "long_drum",
-      "name": "Long Drum",
+    "긴_북": {
+      "id": "긴_북",
+      "name": "긴 북",
       "keywords": ["music"],
       "skins": [{ "unified": "1fa98", "native": "🪘" }],
       "version": 13
     },
-    "iphone": {
-      "id": "iphone",
-      "name": "Mobile Phone",
+    "아이폰": {
+      "id": "아이폰",
+      "name": "핸드폰",
       "keywords": ["iphone", "technology", "apple", "gadgets", "dial"],
       "skins": [{ "unified": "1f4f1", "native": "📱" }],
       "version": 1
     },
-    "calling": {
-      "id": "calling",
-      "name": "Mobile Phone with Arrow",
+    "전화_걸기": {
+      "id": "전화_걸기",
+      "name": "전화 걸기",
       "keywords": ["calling", "iphone", "incoming"],
       "skins": [{ "unified": "1f4f2", "native": "📲" }],
       "version": 1
     },
-    "phone": {
-      "id": "phone",
-      "name": "Telephone",
+    "전화기2": {
+      "id": "전화기2",
+      "name": "전화기2",
       "keywords": ["phone", "technology", "communication", "dial"],
       "skins": [{ "unified": "260e-fe0f", "native": "☎️" }],
       "version": 1
     },
-    "telephone_receiver": {
-      "id": "telephone_receiver",
-      "name": "Telephone Receiver",
+    "수화기": {
+      "id": "수화기",
+      "name": "수화기",
       "keywords": ["technology", "communication", "dial"],
       "skins": [{ "unified": "1f4de", "native": "📞" }],
       "version": 1
     },
-    "pager": {
-      "id": "pager",
-      "name": "Pager",
+    "무선_호출기": {
+      "id": "무선_호출기",
+      "name": "무선 호출기",
       "keywords": ["bbcall", "oldschool", "90s"],
       "skins": [{ "unified": "1f4df", "native": "📟" }],
       "version": 1
     },
-    "fax": {
-      "id": "fax",
-      "name": "Fax Machine",
+    "팩스": {
+      "id": "팩스",
+      "name": "팩스",
       "keywords": ["communication", "technology"],
       "skins": [{ "unified": "1f4e0", "native": "📠" }],
       "version": 1
     },
-    "battery": {
-      "id": "battery",
-      "name": "Battery",
+    "건전지": {
+      "id": "건전지",
+      "name": "건전지",
       "keywords": ["power", "energy", "sustain"],
       "skins": [{ "unified": "1f50b", "native": "🔋" }],
       "version": 1
     },
-    "low_battery": {
-      "id": "low_battery",
-      "name": "Low Battery",
+    "배터리_부족": {
+      "id": "배터리_부족",
+      "name": "배터리 부족",
       "keywords": ["drained", "dead"],
       "skins": [{ "unified": "1faab", "native": "🪫" }],
       "version": 14
     },
-    "electric_plug": {
-      "id": "electric_plug",
-      "name": "Electric Plug",
+    "전기_플러그": {
+      "id": "전기_플러그",
+      "name": "전기 플러그",
       "keywords": ["charger", "power"],
       "skins": [{ "unified": "1f50c", "native": "🔌" }],
       "version": 1
     },
-    "computer": {
-      "id": "computer",
-      "name": "Laptop",
+    "컴퓨터": {
+      "id": "컴퓨터",
+      "name": "컴퓨터",
       "keywords": ["computer", "technology", "screen", "display", "monitor"],
       "skins": [{ "unified": "1f4bb", "native": "💻" }],
       "version": 1
     },
-    "desktop_computer": {
-      "id": "desktop_computer",
-      "name": "Desktop Computer",
+    "데스크톱_컴퓨터": {
+      "id": "데스크톱_컴퓨터",
+      "name": "데스크톱 컴퓨터",
       "keywords": ["technology", "computing", "screen"],
       "skins": [{ "unified": "1f5a5-fe0f", "native": "🖥️" }],
       "version": 1
     },
-    "printer": {
-      "id": "printer",
-      "name": "Printer",
+    "프린터": {
+      "id": "프린터",
+      "name": "프린터",
       "keywords": ["paper", "ink"],
       "skins": [{ "unified": "1f5a8-fe0f", "native": "🖨️" }],
       "version": 1
     },
-    "keyboard": {
-      "id": "keyboard",
-      "name": "Keyboard",
+    "키보드": {
+      "id": "키보드",
+      "name": "키보드",
       "keywords": ["technology", "computer", "type", "input", "text"],
       "skins": [{ "unified": "2328-fe0f", "native": "⌨️" }],
       "version": 1
     },
-    "three_button_mouse": {
-      "id": "three_button_mouse",
-      "name": "Computer Mouse",
+    "버튼_세_개_마우스": {
+      "id": "버튼_세_개_마우스",
+      "name": "컴퓨터 마우스",
       "keywords": ["three", "button", "click"],
       "skins": [{ "unified": "1f5b1-fe0f", "native": "🖱️" }],
       "version": 1
     },
-    "trackball": {
-      "id": "trackball",
-      "name": "Trackball",
+    "트랙볼": {
+      "id": "트랙볼",
+      "name": "트랙볼",
       "keywords": ["technology", "trackpad"],
       "skins": [{ "unified": "1f5b2-fe0f", "native": "🖲️" }],
       "version": 1
     },
-    "minidisc": {
-      "id": "minidisc",
-      "name": "Minidisc",
+    "미니디스크": {
+      "id": "미니디스크",
+      "name": "미니디스크",
       "keywords": ["computer", "disk", "technology", "record", "data", "90s"],
       "skins": [{ "unified": "1f4bd", "native": "💽" }],
       "version": 1
     },
-    "floppy_disk": {
-      "id": "floppy_disk",
-      "name": "Floppy Disk",
+    "플로피_디스크": {
+      "id": "플로피_디스크",
+      "name": "플로피 디스크",
       "keywords": ["oldschool", "technology", "save", "90s", "80s"],
       "skins": [{ "unified": "1f4be", "native": "💾" }],
       "version": 1
@@ -14046,37 +14046,37 @@
       "skins": [{ "unified": "1f4c0", "native": "📀" }],
       "version": 1
     },
-    "abacus": {
-      "id": "abacus",
-      "name": "Abacus",
+    "주판": {
+      "id": "주판",
+      "name": "주판",
       "keywords": ["calculation"],
       "skins": [{ "unified": "1f9ee", "native": "🧮" }],
       "version": 11
     },
-    "movie_camera": {
-      "id": "movie_camera",
-      "name": "Movie Camera",
+    "영화_촬영_카메라": {
+      "id": "영화_촬영_카메라",
+      "name": "영화 촬영 카메라",
       "keywords": ["film", "record"],
       "skins": [{ "unified": "1f3a5", "native": "🎥" }],
       "version": 1
     },
-    "film_frames": {
-      "id": "film_frames",
-      "name": "Film Frames",
+    "필름_프레임": {
+      "id": "필름_프레임",
+      "name": "필름 프레임",
       "keywords": ["movie"],
       "skins": [{ "unified": "1f39e-fe0f", "native": "🎞️" }],
       "version": 1
     },
-    "film_projector": {
-      "id": "film_projector",
-      "name": "Film Projector",
+    "영사기": {
+      "id": "영사기",
+      "name": "영사기",
       "keywords": ["video", "tape", "record", "movie"],
       "skins": [{ "unified": "1f4fd-fe0f", "native": "📽️" }],
       "version": 1
     },
-    "clapper": {
-      "id": "clapper",
-      "name": "Clapper Board",
+    "클래퍼": {
+      "id": "클래퍼",
+      "name": "클래퍼",
       "keywords": ["movie", "film", "record"],
       "skins": [{ "unified": "1f3ac", "native": "🎬" }],
       "version": 1
@@ -14088,23 +14088,23 @@
       "skins": [{ "unified": "1f4fa", "native": "📺" }],
       "version": 1
     },
-    "camera": {
-      "id": "camera",
-      "name": "Camera",
+    "카메라": {
+      "id": "카메라",
+      "name": "카메라",
       "keywords": ["gadgets", "photography"],
       "skins": [{ "unified": "1f4f7", "native": "📷" }],
       "version": 1
     },
-    "camera_with_flash": {
-      "id": "camera_with_flash",
-      "name": "Camera with Flash",
+    "플래시가_깜박이는_카메라": {
+      "id": "플래시가_깜박이는_카메라",
+      "name": "플래시가 깜박이는 카메라",
       "keywords": ["photography", "gadgets"],
       "skins": [{ "unified": "1f4f8", "native": "📸" }],
       "version": 1
     },
-    "video_camera": {
-      "id": "video_camera",
-      "name": "Video Camera",
+    "비디오_카메라": {
+      "id": "비디오_카메라",
+      "name": "비디오 카메라",
       "keywords": ["film", "record"],
       "skins": [{ "unified": "1f4f9", "native": "📹" }],
       "version": 1
@@ -14116,72 +14116,72 @@
       "skins": [{ "unified": "1f4fc", "native": "📼" }],
       "version": 1
     },
-    "mag": {
-      "id": "mag",
-      "name": "Magnifying Glass Tilted Left",
+    "돋보기": {
+      "id": "돋보기",
+      "name": "렌즈가 왼쪽에 있는 돋보기",
       "keywords": ["mag", "search", "zoom", "find", "detective"],
       "skins": [{ "unified": "1f50d", "native": "🔍" }],
       "version": 1
     },
-    "mag_right": {
-      "id": "mag_right",
-      "name": "Magnifying Glass Tilted Right",
+    "렌즈가_오른쪽에_있는_돋보기": {
+      "id": "렌즈가_오른쪽에_있는_돋보기",
+      "name": "렌즈가 오른쪽에 있는 돋보기",
       "keywords": ["mag", "search", "zoom", "find", "detective"],
       "skins": [{ "unified": "1f50e", "native": "🔎" }],
       "version": 1
     },
-    "candle": {
-      "id": "candle",
-      "name": "Candle",
+    "양초": {
+      "id": "양초",
+      "name": "양초",
       "keywords": ["fire", "wax"],
       "skins": [{ "unified": "1f56f-fe0f", "native": "🕯️" }],
       "version": 1
     },
-    "bulb": {
-      "id": "bulb",
-      "name": "Light Bulb",
+    "전구": {
+      "id": "전구",
+      "name": "전구",
       "keywords": ["electricity", "idea"],
       "skins": [{ "unified": "1f4a1", "native": "💡" }],
       "version": 1
     },
-    "flashlight": {
-      "id": "flashlight",
-      "name": "Flashlight",
+    "손전등": {
+      "id": "손전등",
+      "name": "손전등",
       "keywords": ["dark", "camping", "sight", "night"],
       "skins": [{ "unified": "1f526", "native": "🔦" }],
       "version": 1
     },
-    "izakaya_lantern": {
-      "id": "izakaya_lantern",
-      "name": "Izakaya Lantern",
+    "주점의_등": {
+      "id": "주점의_등",
+      "name": "주점의 등",
       "keywords": ["red", "paper", "light", "halloween", "spooky"],
       "skins": [{ "unified": "1f3ee", "native": "🏮" }],
       "version": 1
     },
-    "diya_lamp": {
-      "id": "diya_lamp",
-      "name": "Diya Lamp",
+    "디야_램프": {
+      "id": "디야_램프",
+      "name": "디야 램프",
       "keywords": ["lighting"],
       "skins": [{ "unified": "1fa94", "native": "🪔" }],
       "version": 12
     },
-    "notebook_with_decorative_cover": {
-      "id": "notebook_with_decorative_cover",
-      "name": "Notebook with Decorative Cover",
+    "장식_표지가_있는_노트": {
+      "id": "장식_표지가_있는_노트",
+      "name": "장식 표지가 있는 노트",
       "keywords": ["classroom", "notes", "record", "paper", "study"],
       "skins": [{ "unified": "1f4d4", "native": "📔" }],
       "version": 1
     },
-    "closed_book": {
-      "id": "closed_book",
-      "name": "Closed Book",
+    "덮혀_있는_책": {
+      "id": "덮혀_있는_책",
+      "name": "덮혀 있는 책",
       "keywords": ["read", "library", "knowledge", "textbook", "learn"],
       "skins": [{ "unified": "1f4d5", "native": "📕" }],
       "version": 1
     },
-    "book": {
-      "id": "book",
-      "name": "Open Book",
+    "펼쳐진_책": {
+      "id": "펼쳐진_책",
+      "name": "펼쳐진 책",
       "keywords": [
         "read",
         "library",
@@ -14193,142 +14193,142 @@
       "skins": [{ "unified": "1f4d6", "native": "📖" }],
       "version": 1
     },
-    "green_book": {
-      "id": "green_book",
-      "name": "Green Book",
+    "녹색_책": {
+      "id": "녹색_책",
+      "name": "녹색 책",
       "keywords": ["read", "library", "knowledge", "study"],
       "skins": [{ "unified": "1f4d7", "native": "📗" }],
       "version": 1
     },
-    "blue_book": {
-      "id": "blue_book",
-      "name": "Blue Book",
+    "파랑색_책": {
+      "id": "파랑색_책",
+      "name": "파랑색 책",
       "keywords": ["read", "library", "knowledge", "learn", "study"],
       "skins": [{ "unified": "1f4d8", "native": "📘" }],
       "version": 1
     },
-    "orange_book": {
-      "id": "orange_book",
-      "name": "Orange Book",
+    "주황색_책": {
+      "id": "주황색_책",
+      "name": "주황색 책",
       "keywords": ["read", "library", "knowledge", "textbook", "study"],
       "skins": [{ "unified": "1f4d9", "native": "📙" }],
       "version": 1
     },
-    "books": {
-      "id": "books",
-      "name": "Books",
+    "책": {
+      "id": "책",
+      "name": "책",
       "keywords": ["literature", "library", "study"],
       "skins": [{ "unified": "1f4da", "native": "📚" }],
       "version": 1
     },
-    "notebook": {
-      "id": "notebook",
-      "name": "Notebook",
+    "노트": {
+      "id": "노트",
+      "name": "노트",
       "keywords": ["stationery", "record", "notes", "paper", "study"],
       "skins": [{ "unified": "1f4d3", "native": "📓" }],
       "version": 1
     },
-    "ledger": {
-      "id": "ledger",
-      "name": "Ledger",
+    "장부": {
+      "id": "장부",
+      "name": "장부",
       "keywords": ["notes", "paper"],
       "skins": [{ "unified": "1f4d2", "native": "📒" }],
       "version": 1
     },
-    "page_with_curl": {
-      "id": "page_with_curl",
-      "name": "Page with Curl",
+    "끝이_말린_페이지": {
+      "id": "끝이_말린_페이지",
+      "name": "끝이 말린 페이지",
       "keywords": ["documents", "office", "paper"],
       "skins": [{ "unified": "1f4c3", "native": "📃" }],
       "version": 1
     },
-    "scroll": {
-      "id": "scroll",
-      "name": "Scroll",
+    "스크롤": {
+      "id": "스크롤",
+      "name": "스크롤",
       "keywords": ["documents", "ancient", "history", "paper"],
       "skins": [{ "unified": "1f4dc", "native": "📜" }],
       "version": 1
     },
-    "page_facing_up": {
-      "id": "page_facing_up",
-      "name": "Page Facing Up",
+    "글씨가_쓰여진_페이지": {
+      "id": "글씨가_쓰여진_페이지",
+      "name": "글씨가 쓰여진 페이지",
       "keywords": ["documents", "office", "paper", "information"],
       "skins": [{ "unified": "1f4c4", "native": "📄" }],
       "version": 1
     },
-    "newspaper": {
-      "id": "newspaper",
-      "name": "Newspaper",
+    "신문": {
+      "id": "신문",
+      "name": "신문",
       "keywords": ["press", "headline"],
       "skins": [{ "unified": "1f4f0", "native": "📰" }],
       "version": 1
     },
-    "rolled_up_newspaper": {
-      "id": "rolled_up_newspaper",
-      "name": "Rolled-Up Newspaper",
+    "둥글게_말린_신문": {
+      "id": "둥글게_말린_신문",
+      "name": "둥글게 말린 신문",
       "keywords": ["rolled", "up", "press", "headline"],
       "skins": [{ "unified": "1f5de-fe0f", "native": "🗞️" }],
       "version": 1
     },
-    "bookmark_tabs": {
-      "id": "bookmark_tabs",
-      "name": "Bookmark Tabs",
+    "첵갈피_탭": {
+      "id": "첵갈피_탭",
+      "name": "첵갈피 탭",
       "keywords": ["favorite", "save", "order", "tidy"],
       "skins": [{ "unified": "1f4d1", "native": "📑" }],
       "version": 1
     },
-    "bookmark": {
-      "id": "bookmark",
-      "name": "Bookmark",
+    "첵갈피": {
+      "id": "첵갈피",
+      "name": "첵갈피",
       "keywords": ["favorite", "label", "save"],
       "skins": [{ "unified": "1f516", "native": "🔖" }],
       "version": 1
     },
-    "label": {
-      "id": "label",
-      "name": "Label",
+    "라벨": {
+      "id": "라벨",
+      "name": "라벨",
       "keywords": ["sale", "tag"],
       "skins": [{ "unified": "1f3f7-fe0f", "native": "🏷️" }],
       "version": 1
     },
-    "moneybag": {
-      "id": "moneybag",
-      "name": "Money Bag",
+    "돈가방": {
+      "id": "돈가방",
+      "name": "돈가방",
       "keywords": ["moneybag", "dollar", "payment", "coins", "sale"],
       "skins": [{ "unified": "1f4b0", "native": "💰" }],
       "version": 1
     },
-    "coin": {
-      "id": "coin",
-      "name": "Coin",
+    "동전": {
+      "id": "동전",
+      "name": "동전",
       "keywords": ["money", "currency"],
       "skins": [{ "unified": "1fa99", "native": "🪙" }],
       "version": 13
     },
-    "yen": {
-      "id": "yen",
-      "name": "Yen Banknote",
+    "엔": {
+      "id": "엔",
+      "name": "엔",
       "keywords": ["money", "sales", "japanese", "dollar", "currency"],
       "skins": [{ "unified": "1f4b4", "native": "💴" }],
       "version": 1
     },
-    "dollar": {
-      "id": "dollar",
-      "name": "Dollar Banknote",
+    "달러": {
+      "id": "달러",
+      "name": "달러",
       "keywords": ["money", "sales", "bill", "currency"],
       "skins": [{ "unified": "1f4b5", "native": "💵" }],
       "version": 1
     },
-    "euro": {
-      "id": "euro",
-      "name": "Euro Banknote",
+    "유로": {
+      "id": "유로",
+      "name": "유로",
       "keywords": ["money", "sales", "dollar", "currency"],
       "skins": [{ "unified": "1f4b6", "native": "💶" }],
       "version": 1
     },
-    "pound": {
-      "id": "pound",
-      "name": "Pound Banknote",
+    "파운드": {
+      "id": "파운드",
+      "name": "파운드",
       "keywords": [
         "british",
         "sterling",
@@ -14342,128 +14342,128 @@
       "skins": [{ "unified": "1f4b7", "native": "💷" }],
       "version": 1
     },
-    "money_with_wings": {
-      "id": "money_with_wings",
-      "name": "Money with Wings",
+    "날개_달린_돈": {
+      "id": "날개_달린_돈",
+      "name": "날개 달린 돈",
       "keywords": ["dollar", "bills", "payment", "sale"],
       "skins": [{ "unified": "1f4b8", "native": "💸" }],
       "version": 1
     },
-    "credit_card": {
-      "id": "credit_card",
-      "name": "Credit Card",
+    "신용_카드": {
+      "id": "신용_카드",
+      "name": "신용 카드",
       "keywords": ["money", "sales", "dollar", "bill", "payment", "shopping"],
       "skins": [{ "unified": "1f4b3", "native": "💳" }],
       "version": 1
     },
-    "receipt": {
-      "id": "receipt",
-      "name": "Receipt",
+    "영수증": {
+      "id": "영수증",
+      "name": "영수증",
       "keywords": ["accounting", "expenses"],
       "skins": [{ "unified": "1f9fe", "native": "🧾" }],
       "version": 11
     },
-    "chart": {
-      "id": "chart",
-      "name": "Chart Increasing with Yen",
+    "차트": {
+      "id": "차트",
+      "name": "차트",
       "keywords": ["green", "square", "graph", "presentation", "stats"],
       "skins": [{ "unified": "1f4b9", "native": "💹" }],
       "version": 1
     },
-    "email": {
-      "id": "email",
-      "name": "Envelope",
+    "이메일2": {
+      "id": "이메일2",
+      "name": "봉투",
       "keywords": ["email", "letter", "postal", "inbox", "communication"],
       "skins": [{ "unified": "2709-fe0f", "native": "✉️" }],
       "version": 1
     },
-    "e-mail": {
-      "id": "e-mail",
-      "name": "E-Mail",
+    "이메일": {
+      "id": "이메일",
+      "name": "이메일",
       "keywords": ["e", "mail", "communication", "inbox"],
       "skins": [{ "unified": "1f4e7", "native": "📧" }],
       "version": 1
     },
-    "incoming_envelope": {
-      "id": "incoming_envelope",
-      "name": "Incoming Envelope",
+    "수신_봉투": {
+      "id": "수신_봉투",
+      "name": "수신 봉투",
       "keywords": ["email", "inbox"],
       "skins": [{ "unified": "1f4e8", "native": "📨" }],
       "version": 1
     },
-    "envelope_with_arrow": {
-      "id": "envelope_with_arrow",
-      "name": "Envelope with Arrow",
+    "화살표가_있는_봉투": {
+      "id": "화살표가_있는_봉투",
+      "name": "화살표가 있는 봉투",
       "keywords": ["email", "communication"],
       "skins": [{ "unified": "1f4e9", "native": "📩" }],
       "version": 1
     },
-    "outbox_tray": {
-      "id": "outbox_tray",
-      "name": "Outbox Tray",
+    "보낼_편지함_트레이": {
+      "id": "보낼_편지함_트레이",
+      "name": "보낼 편지함 트레이",
       "keywords": ["inbox", "email"],
       "skins": [{ "unified": "1f4e4", "native": "📤" }],
       "version": 1
     },
-    "inbox_tray": {
-      "id": "inbox_tray",
-      "name": "Inbox Tray",
+    "받은_편지함_트레이": {
+      "id": "받은_편지함_트레이",
+      "name": "받은 편지함 트레이",
       "keywords": ["email", "documents"],
       "skins": [{ "unified": "1f4e5", "native": "📥" }],
       "version": 1
     },
-    "package": {
-      "id": "package",
-      "name": "Package",
+    "포장": {
+      "id": "포장",
+      "name": "포장",
       "keywords": ["mail", "gift", "cardboard", "box", "moving"],
       "skins": [{ "unified": "1f4e6", "native": "📦" }],
       "version": 1
     },
-    "mailbox": {
-      "id": "mailbox",
-      "name": "Closed Mailbox with Raised Flag",
+    "우편함": {
+      "id": "우편함",
+      "name": "우편함",
       "keywords": ["email", "inbox", "communication"],
       "skins": [{ "unified": "1f4eb", "native": "📫" }],
       "version": 1
     },
-    "mailbox_closed": {
-      "id": "mailbox_closed",
-      "name": "Closed Mailbox with Lowered Flag",
+    "닫힌_우편함": {
+      "id": "닫힌_우편함",
+      "name": "닫힌 우편함",
       "keywords": ["email", "communication", "inbox"],
       "skins": [{ "unified": "1f4ea", "native": "📪" }],
       "version": 1
     },
-    "mailbox_with_mail": {
-      "id": "mailbox_with_mail",
-      "name": "Open Mailbox with Raised Flag",
+    "우편물이_담긴_우편함": {
+      "id": "우편물이_담긴_우편함",
+      "name": "우편물이 담긴 우편함",
       "keywords": ["mail", "email", "inbox", "communication"],
       "skins": [{ "unified": "1f4ec", "native": "📬" }],
       "version": 1
     },
-    "mailbox_with_no_mail": {
-      "id": "mailbox_with_no_mail",
-      "name": "Open Mailbox with Lowered Flag",
+    "우편물이_없는_우편함": {
+      "id": "우편물이_없는_우편함",
+      "name": "우편물이 없는 우편함",
       "keywords": ["no", "mail", "email", "inbox"],
       "skins": [{ "unified": "1f4ed", "native": "📭" }],
       "version": 1
     },
-    "postbox": {
-      "id": "postbox",
-      "name": "Postbox",
+    "우체통": {
+      "id": "우체통",
+      "name": "우체통",
       "keywords": ["email", "letter", "envelope"],
       "skins": [{ "unified": "1f4ee", "native": "📮" }],
       "version": 1
     },
-    "ballot_box_with_ballot": {
-      "id": "ballot_box_with_ballot",
-      "name": "Ballot Box with Ballot",
+    "투표용지가_들어_있는_투표함": {
+      "id": "투표용지가_들어_있는_투표함",
+      "name": "투표용지가 들어 있는 투표함",
       "keywords": ["election", "vote"],
       "skins": [{ "unified": "1f5f3-fe0f", "native": "🗳️" }],
       "version": 1
     },
-    "pencil2": {
-      "id": "pencil2",
-      "name": "Pencil",
+    "연필2": {
+      "id": "연필2",
+      "name": "연필",
       "keywords": [
         "pencil2",
         "stationery",
@@ -14476,23 +14476,23 @@
       "skins": [{ "unified": "270f-fe0f", "native": "✏️" }],
       "version": 1
     },
-    "black_nib": {
-      "id": "black_nib",
-      "name": "Black Nib",
+    "검은_펜촉": {
+      "id": "검은_펜촉",
+      "name": "검은 펜촉",
       "keywords": ["pen", "stationery", "writing", "write"],
       "skins": [{ "unified": "2712-fe0f", "native": "✒️" }],
       "version": 1
     },
-    "lower_left_fountain_pen": {
-      "id": "lower_left_fountain_pen",
-      "name": "Fountain Pen",
+    "펜촉이_왼쪽_아래를_향한_만년필": {
+      "id": "펜촉이_왼쪽_아래를_향한_만년필",
+      "name": "펜촉이 왼쪽 아래를 향한 만년필",
       "keywords": ["lower", "left", "stationery", "writing", "write"],
       "skins": [{ "unified": "1f58b-fe0f", "native": "🖋️" }],
       "version": 1
     },
-    "lower_left_ballpoint_pen": {
-      "id": "lower_left_ballpoint_pen",
-      "name": "Pen",
+    "끝이_왼쪽_아래를_향한_볼펜": {
+      "id": "끝이_왼쪽_아래를_향한_볼펜",
+      "name": "펜",
       "keywords": [
         "lower",
         "left",
@@ -14504,23 +14504,23 @@
       "skins": [{ "unified": "1f58a-fe0f", "native": "🖊️" }],
       "version": 1
     },
-    "lower_left_paintbrush": {
-      "id": "lower_left_paintbrush",
-      "name": "Paintbrush",
+    "끝이_왼쪽_아래를_향한_붓": {
+      "id": "끝이_왼쪽_아래를_향한_붓",
+      "name": "붓",
       "keywords": ["lower", "left", "drawing", "creativity", "art"],
       "skins": [{ "unified": "1f58c-fe0f", "native": "🖌️" }],
       "version": 1
     },
-    "lower_left_crayon": {
-      "id": "lower_left_crayon",
-      "name": "Crayon",
+    "끝이_왼쪽_아래를_향한_크레파스": {
+      "id": "끝이_왼쪽_아래를_향한_크레파스",
+      "name": "크레파스",
       "keywords": ["lower", "left", "drawing", "creativity"],
       "skins": [{ "unified": "1f58d-fe0f", "native": "🖍️" }],
       "version": 1
     },
-    "memo": {
-      "id": "memo",
-      "name": "Memo",
+    "메모": {
+      "id": "메모",
+      "name": "메모",
       "keywords": [
         "pencil",
         "write",
@@ -14538,9 +14538,9 @@
       "skins": [{ "unified": "1f4dd", "native": "📝" }],
       "version": 1
     },
-    "briefcase": {
-      "id": "briefcase",
-      "name": "Briefcase",
+    "서류가방": {
+      "id": "서류가방",
+      "name": "서류가방",
       "keywords": [
         "business",
         "documents",
@@ -14553,65 +14553,65 @@
       "skins": [{ "unified": "1f4bc", "native": "💼" }],
       "version": 1
     },
-    "file_folder": {
-      "id": "file_folder",
-      "name": "File Folder",
+    "파일_폴더": {
+      "id": "파일_폴더",
+      "name": "파일 폴더",
       "keywords": ["documents", "business", "office"],
       "skins": [{ "unified": "1f4c1", "native": "📁" }],
       "version": 1
     },
-    "open_file_folder": {
-      "id": "open_file_folder",
-      "name": "Open File Folder",
+    "열린_파일_폴더": {
+      "id": "열린_파일_폴더",
+      "name": "열린 파일 폴더",
       "keywords": ["documents", "load"],
       "skins": [{ "unified": "1f4c2", "native": "📂" }],
       "version": 1
     },
-    "card_index_dividers": {
-      "id": "card_index_dividers",
-      "name": "Card Index Dividers",
+    "카드_인덱스_칸막이": {
+      "id": "카드_인덱스_칸막이",
+      "name": "카드 인덱스 칸막이",
       "keywords": ["organizing", "business", "stationery"],
       "skins": [{ "unified": "1f5c2-fe0f", "native": "🗂️" }],
       "version": 1
     },
-    "date": {
-      "id": "date",
-      "name": "Calendar",
+    "날짜": {
+      "id": "날짜",
+      "name": "날짜",
       "keywords": ["date", "schedule"],
       "skins": [{ "unified": "1f4c5", "native": "📅" }],
       "version": 1
     },
-    "calendar": {
-      "id": "calendar",
-      "name": "Tear-off Calendar",
+    "달력": {
+      "id": "달력",
+      "name": "달력",
       "keywords": ["tear", "off", "schedule", "date", "planning"],
       "skins": [{ "unified": "1f4c6", "native": "📆" }],
       "version": 1
     },
-    "spiral_note_pad": {
-      "id": "spiral_note_pad",
-      "name": "Spiral Notepad",
+    "스프링_노트": {
+      "id": "스프링_노트",
+      "name": "스프링_노트",
       "keywords": ["note", "pad", "memo", "stationery"],
       "skins": [{ "unified": "1f5d2-fe0f", "native": "🗒️" }],
       "version": 1
     },
-    "spiral_calendar_pad": {
-      "id": "spiral_calendar_pad",
-      "name": "Spiral Calendar",
+    "일력": {
+      "id": "일력",
+      "name": "일력",
       "keywords": ["pad", "date", "schedule", "planning"],
       "skins": [{ "unified": "1f5d3-fe0f", "native": "🗓️" }],
       "version": 1
     },
-    "card_index": {
-      "id": "card_index",
-      "name": "Card Index",
+    "카드_색인": {
+      "id": "카드_색인",
+      "name": "카드 색인",
       "keywords": ["business", "stationery"],
       "skins": [{ "unified": "1f4c7", "native": "📇" }],
       "version": 1
     },
-    "chart_with_upwards_trend": {
-      "id": "chart_with_upwards_trend",
-      "name": "Chart Increasing",
+    "상승세인_차트": {
+      "id": "상승세인_차트",
+      "name": "상승세인 차트",
       "keywords": [
         "with",
         "upwards",
@@ -14630,9 +14630,9 @@
       "skins": [{ "unified": "1f4c8", "native": "📈" }],
       "version": 1
     },
-    "chart_with_downwards_trend": {
-      "id": "chart_with_downwards_trend",
-      "name": "Chart Decreasing",
+    "하락세인_차트": {
+      "id": "하락세인_차트",
+      "name": "하락세인 차트",
       "keywords": [
         "with",
         "downwards",
@@ -14651,51 +14651,51 @@
       "skins": [{ "unified": "1f4c9", "native": "📉" }],
       "version": 1
     },
-    "bar_chart": {
-      "id": "bar_chart",
-      "name": "Bar Chart",
+    "막대_차트": {
+      "id": "막대_차트",
+      "name": "막대 차트",
       "keywords": ["graph", "presentation", "stats"],
       "skins": [{ "unified": "1f4ca", "native": "📊" }],
       "version": 1
     },
-    "clipboard": {
-      "id": "clipboard",
-      "name": "Clipboard",
+    "클립보드": {
+      "id": "클립보드",
+      "name": "클립보드",
       "keywords": ["stationery", "documents"],
       "skins": [{ "unified": "1f4cb", "native": "📋" }],
       "version": 1
     },
-    "pushpin": {
-      "id": "pushpin",
-      "name": "Pushpin",
+    "압정": {
+      "id": "압정",
+      "name": "압정",
       "keywords": ["stationery", "mark", "here"],
       "skins": [{ "unified": "1f4cc", "native": "📌" }],
       "version": 1
     },
-    "round_pushpin": {
-      "id": "round_pushpin",
-      "name": "Round Pushpin",
+    "둥근_압축": {
+      "id": "둥근_압축",
+      "name": "둥근 압축",
       "keywords": ["stationery", "location", "map", "here"],
       "skins": [{ "unified": "1f4cd", "native": "📍" }],
       "version": 1
     },
-    "paperclip": {
-      "id": "paperclip",
-      "name": "Paperclip",
+    "클립": {
+      "id": "클립",
+      "name": "클립",
       "keywords": ["documents", "stationery"],
       "skins": [{ "unified": "1f4ce", "native": "📎" }],
       "version": 1
     },
-    "linked_paperclips": {
-      "id": "linked_paperclips",
-      "name": "Linked Paperclips",
+    "서로_연결된_여러_개의_클립": {
+      "id": "서로_연결된_여러_개의_클립",
+      "name": "서로 연결된 여러 개의 클립",
       "keywords": ["documents", "stationery"],
       "skins": [{ "unified": "1f587-fe0f", "native": "🖇️" }],
       "version": 1
     },
-    "straight_ruler": {
-      "id": "straight_ruler",
-      "name": "Straight Ruler",
+    "자": {
+      "id": "자",
+      "name": "자",
       "keywords": [
         "stationery",
         "calculate",
@@ -14709,275 +14709,275 @@
       "skins": [{ "unified": "1f4cf", "native": "📏" }],
       "version": 1
     },
-    "triangular_ruler": {
-      "id": "triangular_ruler",
-      "name": "Triangular Ruler",
+    "삼각자": {
+      "id": "삼각자",
+      "name": "삼각자",
       "keywords": ["stationery", "math", "architect", "sketch"],
       "skins": [{ "unified": "1f4d0", "native": "📐" }],
       "version": 1
     },
-    "scissors": {
-      "id": "scissors",
-      "name": "Scissors",
+    "가위": {
+      "id": "가위",
+      "name": "가위",
       "keywords": ["stationery", "cut"],
       "skins": [{ "unified": "2702-fe0f", "native": "✂️" }],
       "version": 1
     },
-    "card_file_box": {
-      "id": "card_file_box",
-      "name": "Card File Box",
+    "카드_파일_상자": {
+      "id": "카드_파일_상자",
+      "name": "카드_파일_상자",
       "keywords": ["business", "stationery"],
       "skins": [{ "unified": "1f5c3-fe0f", "native": "🗃️" }],
       "version": 1
     },
-    "file_cabinet": {
-      "id": "file_cabinet",
-      "name": "File Cabinet",
+    "파일_수납장": {
+      "id": "파일_수납장",
+      "name": "파일_수납장",
       "keywords": ["filing", "organizing"],
       "skins": [{ "unified": "1f5c4-fe0f", "native": "🗄️" }],
       "version": 1
     },
-    "wastebasket": {
-      "id": "wastebasket",
-      "name": "Wastebasket",
+    "휴지통": {
+      "id": "휴지통",
+      "name": "휴지통",
       "keywords": ["bin", "trash", "rubbish", "garbage", "toss"],
       "skins": [{ "unified": "1f5d1-fe0f", "native": "🗑️" }],
       "version": 1
     },
-    "lock": {
-      "id": "lock",
-      "name": "Lock",
+    "자물쇠": {
+      "id": "자물쇠",
+      "name": "자물쇠",
       "keywords": ["locked", "security", "password", "padlock"],
       "skins": [{ "unified": "1f512", "native": "🔒" }],
       "version": 1
     },
-    "unlock": {
-      "id": "unlock",
-      "name": "Unlocked",
+    "잠금_해제": {
+      "id": "잠금_해제",
+      "name": "잠금 해제",
       "keywords": ["unlock", "privacy", "security"],
       "skins": [{ "unified": "1f513", "native": "🔓" }],
       "version": 1
     },
-    "lock_with_ink_pen": {
-      "id": "lock_with_ink_pen",
-      "name": "Locked with Pen",
+    "펜촉과_차물쇠": {
+      "id": "펜촉과_차물쇠",
+      "name": "펜촉과 차물쇠",
       "keywords": ["lock", "ink", "security", "secret"],
       "skins": [{ "unified": "1f50f", "native": "🔏" }],
       "version": 1
     },
-    "closed_lock_with_key": {
-      "id": "closed_lock_with_key",
-      "name": "Locked with Key",
+    "열쇠와_잠긴_자물쇠": {
+      "id": "열쇠와_잠긴_자물쇠",
+      "name": "열쇠와 잠긴 자물쇠",
       "keywords": ["closed", "lock", "security", "privacy"],
       "skins": [{ "unified": "1f510", "native": "🔐" }],
       "version": 1
     },
-    "key": {
-      "id": "key",
-      "name": "Key",
+    "열쇠": {
+      "id": "열쇠",
+      "name": "열쇠",
       "keywords": ["lock", "door", "password"],
       "skins": [{ "unified": "1f511", "native": "🔑" }],
       "version": 1
     },
-    "old_key": {
-      "id": "old_key",
-      "name": "Old Key",
+    "옛날_열쇠": {
+      "id": "옛날_열쇠",
+      "name": "옛날 열쇠",
       "keywords": ["lock", "door", "password"],
       "skins": [{ "unified": "1f5dd-fe0f", "native": "🗝️" }],
       "version": 1
     },
-    "hammer": {
-      "id": "hammer",
-      "name": "Hammer",
+    "망치": {
+      "id": "망치",
+      "name": "망치",
       "keywords": ["tools", "build", "create"],
       "skins": [{ "unified": "1f528", "native": "🔨" }],
       "version": 1
     },
-    "axe": {
-      "id": "axe",
-      "name": "Axe",
+    "도끼": {
+      "id": "도끼",
+      "name": "도끼",
       "keywords": ["tool", "chop", "cut"],
       "skins": [{ "unified": "1fa93", "native": "🪓" }],
       "version": 12
     },
-    "pick": {
-      "id": "pick",
-      "name": "Pick",
+    "곡괭이": {
+      "id": "곡괭이",
+      "name": "곡괭이",
       "keywords": ["tools", "dig"],
       "skins": [{ "unified": "26cf-fe0f", "native": "⛏️" }],
       "version": 1
     },
-    "hammer_and_pick": {
-      "id": "hammer_and_pick",
-      "name": "Hammer and Pick",
+    "망치와_곡괭이": {
+      "id": "망치와_곡괭이",
+      "name": "망치와 곡괭이",
       "keywords": ["tools", "build", "create"],
       "skins": [{ "unified": "2692-fe0f", "native": "⚒️" }],
       "version": 1
     },
-    "hammer_and_wrench": {
-      "id": "hammer_and_wrench",
-      "name": "Hammer and Wrench",
+    "망치와_렌치": {
+      "id": "망치와_렌치",
+      "name": "망치와 렌치",
       "keywords": ["tools", "build", "create"],
       "skins": [{ "unified": "1f6e0-fe0f", "native": "🛠️" }],
       "version": 1
     },
-    "dagger_knife": {
-      "id": "dagger_knife",
-      "name": "Dagger",
+    "단도": {
+      "id": "단도",
+      "name": "단도",
       "keywords": ["knife", "weapon"],
       "skins": [{ "unified": "1f5e1-fe0f", "native": "🗡️" }],
       "version": 1
     },
-    "crossed_swords": {
-      "id": "crossed_swords",
-      "name": "Crossed Swords",
+    "교차된_검": {
+      "id": "교차된_검",
+      "name": "교차된 검",
       "keywords": ["weapon"],
       "skins": [{ "unified": "2694-fe0f", "native": "⚔️" }],
       "version": 1
     },
-    "gun": {
-      "id": "gun",
-      "name": "Pistol",
+    "총": {
+      "id": "총",
+      "name": "총",
       "keywords": ["gun", "violence", "weapon", "revolver"],
       "skins": [{ "unified": "1f52b", "native": "🔫" }],
       "version": 1
     },
-    "boomerang": {
-      "id": "boomerang",
-      "name": "Boomerang",
+    "부메랑": {
+      "id": "부메랑",
+      "name": "부메랑",
       "keywords": ["weapon"],
       "skins": [{ "unified": "1fa83", "native": "🪃" }],
       "version": 13
     },
-    "bow_and_arrow": {
-      "id": "bow_and_arrow",
-      "name": "Bow and Arrow",
+    "활과_화살": {
+      "id": "활과_화살",
+      "name": "활과 화살",
       "keywords": ["sports"],
       "skins": [{ "unified": "1f3f9", "native": "🏹" }],
       "version": 1
     },
-    "shield": {
-      "id": "shield",
-      "name": "Shield",
+    "방패": {
+      "id": "방패",
+      "name": "방패",
       "keywords": ["protection", "security"],
       "skins": [{ "unified": "1f6e1-fe0f", "native": "🛡️" }],
       "version": 1
     },
-    "carpentry_saw": {
-      "id": "carpentry_saw",
-      "name": "Carpentry Saw",
+    "목공_톱": {
+      "id": "목공_톱",
+      "name": "목공 톱",
       "keywords": ["cut", "chop"],
       "skins": [{ "unified": "1fa9a", "native": "🪚" }],
       "version": 13
     },
-    "wrench": {
-      "id": "wrench",
-      "name": "Wrench",
+    "렌치": {
+      "id": "렌치",
+      "name": "렌치",
       "keywords": ["tools", "diy", "ikea", "fix", "maintainer"],
       "skins": [{ "unified": "1f527", "native": "🔧" }],
       "version": 1
     },
-    "screwdriver": {
-      "id": "screwdriver",
-      "name": "Screwdriver",
+    "드라이버": {
+      "id": "드라이버",
+      "name": "드라이버",
       "keywords": ["tools"],
       "skins": [{ "unified": "1fa9b", "native": "🪛" }],
       "version": 13
     },
-    "nut_and_bolt": {
-      "id": "nut_and_bolt",
-      "name": "Nut and Bolt",
+    "너트와_볼트": {
+      "id": "너트와_볼트",
+      "name": "너트와 볼트",
       "keywords": ["handy", "tools", "fix"],
       "skins": [{ "unified": "1f529", "native": "🔩" }],
       "version": 1
     },
-    "gear": {
-      "id": "gear",
-      "name": "Gear",
+    "톱니바퀴": {
+      "id": "톱니바퀴",
+      "name": "톱니바퀴",
       "keywords": ["cog"],
       "skins": [{ "unified": "2699-fe0f", "native": "⚙️" }],
       "version": 1
     },
-    "compression": {
-      "id": "compression",
-      "name": "Clamp",
+    "압축": {
+      "id": "압축",
+      "name": "압축",
       "keywords": ["compression", "tool"],
       "skins": [{ "unified": "1f5dc-fe0f", "native": "🗜️" }],
       "version": 1
     },
-    "scales": {
-      "id": "scales",
-      "name": "Balance Scale",
+    "저울": {
+      "id": "저울",
+      "name": "저울",
       "keywords": ["scales", "law", "fairness", "weight"],
       "skins": [{ "unified": "2696-fe0f", "native": "⚖️" }],
       "version": 1
     },
-    "probing_cane": {
-      "id": "probing_cane",
-      "name": "White Cane",
+    "지팡이": {
+      "id": "지팡이",
+      "name": "지팡이",
       "keywords": ["probing", "accessibility"],
       "skins": [{ "unified": "1f9af", "native": "🦯" }],
       "version": 12
     },
-    "link": {
-      "id": "link",
-      "name": "Link",
+    "링크": {
+      "id": "링크",
+      "name": "링크",
       "keywords": ["rings", "url"],
       "skins": [{ "unified": "1f517", "native": "🔗" }],
       "version": 1
     },
-    "chains": {
-      "id": "chains",
-      "name": "Chains",
+    "체인": {
+      "id": "체인",
+      "name": "체인",
       "keywords": ["lock", "arrest"],
       "skins": [{ "unified": "26d3-fe0f", "native": "⛓️" }],
       "version": 1
     },
-    "hook": {
-      "id": "hook",
-      "name": "Hook",
+    "갈고리": {
+      "id": "갈고리",
+      "name": "갈고리",
       "keywords": ["tools"],
       "skins": [{ "unified": "1fa9d", "native": "🪝" }],
       "version": 13
     },
-    "toolbox": {
-      "id": "toolbox",
-      "name": "Toolbox",
+    "공구_상자": {
+      "id": "공구_상자",
+      "name": "공구 상자",
       "keywords": ["tools", "diy", "fix", "maintainer", "mechanic"],
       "skins": [{ "unified": "1f9f0", "native": "🧰" }],
       "version": 11
     },
-    "magnet": {
-      "id": "magnet",
-      "name": "Magnet",
+    "자석": {
+      "id": "자석",
+      "name": "자석",
       "keywords": ["attraction", "magnetic"],
       "skins": [{ "unified": "1f9f2", "native": "🧲" }],
       "version": 11
     },
-    "ladder": {
-      "id": "ladder",
-      "name": "Ladder",
+    "사다리": {
+      "id": "사다리",
+      "name": "사다리",
       "keywords": ["tools"],
       "skins": [{ "unified": "1fa9c", "native": "🪜" }],
       "version": 13
     },
-    "alembic": {
-      "id": "alembic",
-      "name": "Alembic",
+    "증류기": {
+      "id": "증류기",
+      "name": "증류기",
       "keywords": ["distilling", "science", "experiment", "chemistry"],
       "skins": [{ "unified": "2697-fe0f", "native": "⚗️" }],
       "version": 1
     },
-    "test_tube": {
-      "id": "test_tube",
-      "name": "Test Tube",
+    "시험관": {
+      "id": "시험관",
+      "name": "시험관",
       "keywords": ["chemistry", "experiment", "lab", "science"],
       "skins": [{ "unified": "1f9ea", "native": "🧪" }],
       "version": 11
     },
-    "petri_dish": {
-      "id": "petri_dish",
-      "name": "Petri Dish",
+    "페트리_접시": {
+      "id": "페트리_접시",
+      "name": "페트리 접시",
       "keywords": ["bacteria", "biology", "culture", "lab"],
       "skins": [{ "unified": "1f9eb", "native": "🧫" }],
       "version": 11
@@ -14989,30 +14989,30 @@
       "skins": [{ "unified": "1f9ec", "native": "🧬" }],
       "version": 11
     },
-    "microscope": {
-      "id": "microscope",
-      "name": "Microscope",
+    "현미경": {
+      "id": "현미경",
+      "name": "현미경",
       "keywords": ["laboratory", "experiment", "zoomin", "science", "study"],
       "skins": [{ "unified": "1f52c", "native": "🔬" }],
       "version": 1
     },
-    "telescope": {
-      "id": "telescope",
-      "name": "Telescope",
+    "망원경": {
+      "id": "망원경",
+      "name": "망원경",
       "keywords": ["stars", "space", "zoom", "science", "astronomy"],
       "skins": [{ "unified": "1f52d", "native": "🔭" }],
       "version": 1
     },
-    "satellite_antenna": {
-      "id": "satellite_antenna",
-      "name": "Satellite Antenna",
+    "위성_안테나": {
+      "id": "위성_안테나",
+      "name": "위성 안테나",
       "keywords": ["communication", "future", "radio", "space"],
       "skins": [{ "unified": "1f4e1", "native": "📡" }],
       "version": 1
     },
-    "syringe": {
-      "id": "syringe",
-      "name": "Syringe",
+    "주사기": {
+      "id": "주사기",
+      "name": "주사기",
       "keywords": [
         "health",
         "hospital",
@@ -15026,233 +15026,233 @@
       "skins": [{ "unified": "1f489", "native": "💉" }],
       "version": 1
     },
-    "drop_of_blood": {
-      "id": "drop_of_blood",
-      "name": "Drop of Blood",
+    "피_한_방울": {
+      "id": "피_한_방울",
+      "name": "피 한 방울",
       "keywords": ["period", "hurt", "harm", "wound"],
       "skins": [{ "unified": "1fa78", "native": "🩸" }],
       "version": 12
     },
-    "pill": {
-      "id": "pill",
-      "name": "Pill",
+    "약": {
+      "id": "약",
+      "name": "약",
       "keywords": ["health", "medicine", "doctor", "pharmacy", "drug"],
       "skins": [{ "unified": "1f48a", "native": "💊" }],
       "version": 1
     },
-    "adhesive_bandage": {
-      "id": "adhesive_bandage",
-      "name": "Adhesive Bandage",
+    "붙이는_밴드": {
+      "id": "붙이는_밴드",
+      "name": "붙이는 밴드",
       "keywords": ["heal"],
       "skins": [{ "unified": "1fa79", "native": "🩹" }],
       "version": 12
     },
-    "crutch": {
-      "id": "crutch",
-      "name": "Crutch",
+    "목발": {
+      "id": "목발",
+      "name": "목발",
       "keywords": ["accessibility", "assist"],
       "skins": [{ "unified": "1fa7c", "native": "🩼" }],
       "version": 14
     },
-    "stethoscope": {
-      "id": "stethoscope",
-      "name": "Stethoscope",
+    "청진기": {
+      "id": "청진기",
+      "name": "청진기",
       "keywords": ["health"],
       "skins": [{ "unified": "1fa7a", "native": "🩺" }],
       "version": 12
     },
-    "x-ray": {
-      "id": "x-ray",
-      "name": "X-Ray",
+    "엑스레이": {
+      "id": "엑스레이",
+      "name": "엑스레이",
       "keywords": ["x", "ray", "skeleton", "medicine"],
       "skins": [{ "unified": "1fa7b", "native": "🩻" }],
       "version": 14
     },
-    "door": {
-      "id": "door",
-      "name": "Door",
+    "문": {
+      "id": "문",
+      "name": "문",
       "keywords": ["house", "entry", "exit"],
       "skins": [{ "unified": "1f6aa", "native": "🚪" }],
       "version": 1
     },
-    "elevator": {
-      "id": "elevator",
-      "name": "Elevator",
+    "엘레베이터": {
+      "id": "엘레베이터",
+      "name": "엘레베이터",
       "keywords": ["lift"],
       "skins": [{ "unified": "1f6d7", "native": "🛗" }],
       "version": 13
     },
-    "mirror": {
-      "id": "mirror",
-      "name": "Mirror",
+    "거울": {
+      "id": "거울",
+      "name": "거울",
       "keywords": ["reflection"],
       "skins": [{ "unified": "1fa9e", "native": "🪞" }],
       "version": 13
     },
-    "window": {
-      "id": "window",
-      "name": "Window",
+    "창문": {
+      "id": "창문",
+      "name": "창문",
       "keywords": ["scenery"],
       "skins": [{ "unified": "1fa9f", "native": "🪟" }],
       "version": 13
     },
-    "bed": {
-      "id": "bed",
-      "name": "Bed",
+    "침대": {
+      "id": "침대",
+      "name": "침대",
       "keywords": ["sleep", "rest"],
       "skins": [{ "unified": "1f6cf-fe0f", "native": "🛏️" }],
       "version": 1
     },
-    "couch_and_lamp": {
-      "id": "couch_and_lamp",
-      "name": "Couch and Lamp",
+    "소파와_램프": {
+      "id": "소파와_램프",
+      "name": "소파와 램프",
       "keywords": ["read", "chill"],
       "skins": [{ "unified": "1f6cb-fe0f", "native": "🛋️" }],
       "version": 1
     },
-    "chair": {
-      "id": "chair",
-      "name": "Chair",
+    "의자": {
+      "id": "의자",
+      "name": "의자",
       "keywords": ["sit", "furniture"],
       "skins": [{ "unified": "1fa91", "native": "🪑" }],
       "version": 12
     },
-    "toilet": {
-      "id": "toilet",
-      "name": "Toilet",
+    "좌변기": {
+      "id": "좌변기",
+      "name": "좌변기",
       "keywords": ["restroom", "wc", "washroom", "bathroom", "potty"],
       "skins": [{ "unified": "1f6bd", "native": "🚽" }],
       "version": 1
     },
-    "plunger": {
-      "id": "plunger",
-      "name": "Plunger",
+    "뚫어뻥": {
+      "id": "뚫어뻥",
+      "name": "뚫어뻥",
       "keywords": ["toilet"],
       "skins": [{ "unified": "1faa0", "native": "🪠" }],
       "version": 13
     },
-    "shower": {
-      "id": "shower",
-      "name": "Shower",
+    "샤워": {
+      "id": "샤워",
+      "name": "샤워",
       "keywords": ["clean", "water", "bathroom"],
       "skins": [{ "unified": "1f6bf", "native": "🚿" }],
       "version": 1
     },
-    "bathtub": {
-      "id": "bathtub",
-      "name": "Bathtub",
+    "욕조": {
+      "id": "욕조",
+      "name": "욕조",
       "keywords": ["clean", "shower", "bathroom"],
       "skins": [{ "unified": "1f6c1", "native": "🛁" }],
       "version": 1
     },
-    "mouse_trap": {
-      "id": "mouse_trap",
-      "name": "Mouse Trap",
+    "쥐덫": {
+      "id": "쥐덫",
+      "name": "쥐덫",
       "keywords": ["cheese"],
       "skins": [{ "unified": "1faa4", "native": "🪤" }],
       "version": 13
     },
-    "razor": {
-      "id": "razor",
-      "name": "Razor",
+    "면도기": {
+      "id": "면도기",
+      "name": "면도기",
       "keywords": ["cut"],
       "skins": [{ "unified": "1fa92", "native": "🪒" }],
       "version": 12
     },
-    "lotion_bottle": {
-      "id": "lotion_bottle",
-      "name": "Lotion Bottle",
+    "로션병": {
+      "id": "로션병",
+      "name": "로션병",
       "keywords": ["moisturizer", "sunscreen"],
       "skins": [{ "unified": "1f9f4", "native": "🧴" }],
       "version": 11
     },
-    "safety_pin": {
-      "id": "safety_pin",
-      "name": "Safety Pin",
+    "안전핀": {
+      "id": "안전핀",
+      "name": "안전핀",
       "keywords": ["diaper"],
       "skins": [{ "unified": "1f9f7", "native": "🧷" }],
       "version": 11
     },
-    "broom": {
-      "id": "broom",
-      "name": "Broom",
+    "빗자루": {
+      "id": "빗자루",
+      "name": "빗자루",
       "keywords": ["cleaning", "sweeping", "witch"],
       "skins": [{ "unified": "1f9f9", "native": "🧹" }],
       "version": 11
     },
-    "basket": {
-      "id": "basket",
-      "name": "Basket",
+    "바구니": {
+      "id": "바구니",
+      "name": "바구니",
       "keywords": ["laundry"],
       "skins": [{ "unified": "1f9fa", "native": "🧺" }],
       "version": 11
     },
-    "roll_of_paper": {
-      "id": "roll_of_paper",
-      "name": "Roll of Paper",
+    "휴지_두루마리": {
+      "id": "휴지_두루마리",
+      "name": "휴지 두루마리",
       "keywords": [],
       "skins": [{ "unified": "1f9fb", "native": "🧻" }],
       "version": 11
     },
-    "bucket": {
-      "id": "bucket",
-      "name": "Bucket",
+    "양동이": {
+      "id": "양동이",
+      "name": "양동이",
       "keywords": ["water", "container"],
       "skins": [{ "unified": "1faa3", "native": "🪣" }],
       "version": 13
     },
-    "soap": {
-      "id": "soap",
-      "name": "Soap",
+    "비누": {
+      "id": "비누",
+      "name": "비누",
       "keywords": ["bar", "bathing", "cleaning", "lather"],
       "skins": [{ "unified": "1f9fc", "native": "🧼" }],
       "version": 11
     },
-    "bubbles": {
-      "id": "bubbles",
-      "name": "Bubbles",
+    "비눗방울": {
+      "id": "비눗방울",
+      "name": "비눗방울",
       "keywords": ["soap", "fun", "carbonation", "sparkling"],
       "skins": [{ "unified": "1fae7", "native": "🫧" }],
       "version": 14
     },
-    "toothbrush": {
-      "id": "toothbrush",
-      "name": "Toothbrush",
+    "칫솔": {
+      "id": "칫솔",
+      "name": "칫솔",
       "keywords": ["hygiene", "dental"],
       "skins": [{ "unified": "1faa5", "native": "🪥" }],
       "version": 13
     },
-    "sponge": {
-      "id": "sponge",
-      "name": "Sponge",
-      "keywords": ["absorbing", "cleaning", "porous"],
+    "스펀지": {
+      "id": "스펀지",
+      "name": "스펀지",
+      "keywords":["absorbing", "cleaning", "porous"],
       "skins": [{ "unified": "1f9fd", "native": "🧽" }],
       "version": 11
     },
-    "fire_extinguisher": {
-      "id": "fire_extinguisher",
-      "name": "Fire Extinguisher",
+    "소화기": {
+      "id": "소화기",
+      "name": "소화기",
       "keywords": ["quench"],
       "skins": [{ "unified": "1f9ef", "native": "🧯" }],
       "version": 11
     },
-    "shopping_trolley": {
-      "id": "shopping_trolley",
-      "name": "Shopping Cart",
+    "쇼핑_카트": {
+      "id": "쇼핑_카트",
+      "name": "쇼핑 카트",
       "keywords": ["trolley"],
       "skins": [{ "unified": "1f6d2", "native": "🛒" }],
       "version": 3
     },
-    "smoking": {
-      "id": "smoking",
-      "name": "Cigarette",
+    "흡연": {
+      "id": "흡연",
+      "name": "담배",
       "keywords": ["smoking", "kills", "tobacco", "joint", "smoke"],
       "skins": [{ "unified": "1f6ac", "native": "🚬" }],
       "version": 1
     },
-    "coffin": {
-      "id": "coffin",
-      "name": "Coffin",
+    "관": {
+      "id": "관",
+      "name": "관",
       "keywords": [
         "vampire",
         "dead",
@@ -15268,37 +15268,37 @@
       "skins": [{ "unified": "26b0-fe0f", "native": "⚰️" }],
       "version": 1
     },
-    "headstone": {
-      "id": "headstone",
-      "name": "Headstone",
+    "묘비": {
+      "id": "묘비",
+      "name": "묘비",
       "keywords": ["death", "rip", "grave"],
       "skins": [{ "unified": "1faa6", "native": "🪦" }],
       "version": 13
     },
-    "funeral_urn": {
-      "id": "funeral_urn",
-      "name": "Funeral Urn",
+    "납골단지": {
+      "id": "납골단지",
+      "name": "납골단지",
       "keywords": ["dead", "die", "death", "rip", "ashes"],
       "skins": [{ "unified": "26b1-fe0f", "native": "⚱️" }],
       "version": 1
     },
-    "moyai": {
-      "id": "moyai",
-      "name": "Moai",
+    "모아이": {
+      "id": "모아이",
+      "name": "모아이",
       "keywords": ["moyai", "rock", "easter", "island"],
       "skins": [{ "unified": "1f5ff", "native": "🗿" }],
       "version": 1
     },
-    "placard": {
-      "id": "placard",
-      "name": "Placard",
+    "팻말": {
+      "id": "팻말",
+      "name": "팻말",
       "keywords": ["announcement"],
       "skins": [{ "unified": "1faa7", "native": "🪧" }],
       "version": 13
     },
-    "identification_card": {
-      "id": "identification_card",
-      "name": "Identification Card",
+    "신분증": {
+      "id": "신분증",
+      "name": "신분증",
       "keywords": ["document"],
       "skins": [{ "unified": "1faaa", "native": "🪪" }],
       "version": 14
