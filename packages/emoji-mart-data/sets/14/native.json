@@ -15303,9 +15303,9 @@
       "skins": [{ "unified": "1faaa", "native": "🪪" }],
       "version": 14
     },
-    "atm": {
-      "id": "atm",
-      "name": "Atm Sign",
+    "현금_입출금기": {
+      "id": "현금_입출금기",
+      "name": "현금_입출금기 기호",
       "keywords": [
         "money",
         "sales",
@@ -15318,16 +15318,16 @@
       "skins": [{ "unified": "1f3e7", "native": "🏧" }],
       "version": 1
     },
-    "put_litter_in_its_place": {
-      "id": "put_litter_in_its_place",
-      "name": "Litter in Bin Sign",
+    "쓰레기는_쓰레기통에": {
+      "id": "쓰레기는_쓰레기통에",
+      "name": "쓰레기는_쓰레기통에",
       "keywords": ["put", "its", "place", "blue", "square", "human", "info"],
       "skins": [{ "unified": "1f6ae", "native": "🚮" }],
       "version": 1
     },
-    "potable_water": {
-      "id": "potable_water",
-      "name": "Potable Water",
+    "음수대": {
+      "id": "음수대",
+      "name": "음수대",
       "keywords": [
         "blue",
         "square",
@@ -15339,16 +15339,16 @@
       "skins": [{ "unified": "1f6b0", "native": "🚰" }],
       "version": 1
     },
-    "wheelchair": {
-      "id": "wheelchair",
-      "name": "Wheelchair Symbol",
+    "휠체어": {
+      "id": "휠체어",
+      "name": "휠체어 기호",
       "keywords": ["blue", "square", "disabled", "accessibility"],
       "skins": [{ "unified": "267f", "native": "♿" }],
       "version": 1
     },
-    "mens": {
-      "id": "mens",
-      "name": "Men’s Room",
+    "남자_화장실": {
+      "id": "남자_화장실",
+      "name": "남자_화장실",
       "keywords": [
         "mens",
         "men",
@@ -15364,9 +15364,9 @@
       "skins": [{ "unified": "1f6b9", "native": "🚹" }],
       "version": 1
     },
-    "womens": {
-      "id": "womens",
-      "name": "Women’s Room",
+    "여자_화장실": {
+      "id": "여자_화장실",
+      "name": "여자_화장실",
       "keywords": [
         "womens",
         "women",
@@ -15383,16 +15383,16 @@
       "skins": [{ "unified": "1f6ba", "native": "🚺" }],
       "version": 1
     },
-    "restroom": {
-      "id": "restroom",
-      "name": "Restroom",
+    "남녀공용_화장실": {
+      "id": "남녀공용_화장실",
+      "name": "남녀공용_화장실",
       "keywords": ["blue", "square", "toilet", "refresh", "wc", "gender"],
       "skins": [{ "unified": "1f6bb", "native": "🚻" }],
       "version": 1
     },
-    "baby_symbol": {
-      "id": "baby_symbol",
-      "name": "Baby Symbol",
+    "아기_기호": {
+      "id": "아기_기호",
+      "name": "아기_기호",
       "keywords": ["orange", "square", "child"],
       "skins": [{ "unified": "1f6bc", "native": "🚼" }],
       "version": 1
@@ -15404,44 +15404,44 @@
       "skins": [{ "unified": "1f6be", "native": "🚾" }],
       "version": 1
     },
-    "passport_control": {
-      "id": "passport_control",
-      "name": "Passport Control",
+    "여권_검사": {
+      "id": "여권_검사",
+      "name": "여권_검사",
       "keywords": ["custom", "blue", "square"],
       "skins": [{ "unified": "1f6c2", "native": "🛂" }],
       "version": 1
     },
-    "customs": {
-      "id": "customs",
-      "name": "Customs",
+    "세관": {
+      "id": "세관",
+      "name": "세관",
       "keywords": ["passport", "border", "blue", "square"],
       "skins": [{ "unified": "1f6c3", "native": "🛃" }],
       "version": 1
     },
-    "baggage_claim": {
-      "id": "baggage_claim",
-      "name": "Baggage Claim",
+    "화물_찾는_곳": {
+      "id": "화물_찾는_곳",
+      "name": "화물_찾는_곳",
       "keywords": ["blue", "square", "airport", "transport"],
       "skins": [{ "unified": "1f6c4", "native": "🛄" }],
       "version": 1
     },
-    "left_luggage": {
-      "id": "left_luggage",
-      "name": "Left Luggage",
+    "화물_보관소": {
+      "id": "화물_보관소",
+      "name": "화물_보관소",
       "keywords": ["blue", "square", "travel"],
       "skins": [{ "unified": "1f6c5", "native": "🛅" }],
       "version": 1
     },
-    "warning": {
-      "id": "warning",
-      "name": "Warning",
+    "경고": {
+      "id": "경고",
+      "name": "경고",
       "keywords": ["exclamation", "wip", "alert", "error", "problem", "issue"],
       "skins": [{ "unified": "26a0-fe0f", "native": "⚠️" }],
       "version": 1
     },
-    "children_crossing": {
-      "id": "children_crossing",
-      "name": "Children Crossing",
+    "길을_건너는_아이들": {
+      "id": "길을_건너는_아이들",
+      "name": "길을_건너는_아이들",
       "keywords": [
         "school",
         "warning",
@@ -15454,9 +15454,9 @@
       "skins": [{ "unified": "1f6b8", "native": "🚸" }],
       "version": 1
     },
-    "no_entry": {
-      "id": "no_entry",
-      "name": "No Entry",
+    "출입금지": {
+      "id": "출입금지",
+      "name": "출입금지",
       "keywords": [
         "limit",
         "security",
@@ -15469,9 +15469,9 @@
       "skins": [{ "unified": "26d4", "native": "⛔" }],
       "version": 1
     },
-    "no_entry_sign": {
-      "id": "no_entry_sign",
-      "name": "Prohibited",
+    "출입금지_기호": {
+      "id": "출입금지_기호",
+      "name": "출입금지_기호",
       "keywords": [
         "no",
         "entry",
@@ -15486,51 +15486,51 @@
       "skins": [{ "unified": "1f6ab", "native": "🚫" }],
       "version": 1
     },
-    "no_bicycles": {
-      "id": "no_bicycles",
-      "name": "No Bicycles",
+    "자전거_금지": {
+      "id": "자전거_금지",
+      "name": "자전거_금지",
       "keywords": ["cyclist", "prohibited", "circle"],
       "skins": [{ "unified": "1f6b3", "native": "🚳" }],
       "version": 1
     },
-    "no_smoking": {
-      "id": "no_smoking",
-      "name": "No Smoking",
+    "금연": {
+      "id": "금연",
+      "name": "금연",
       "keywords": ["cigarette", "blue", "square", "smell", "smoke"],
       "skins": [{ "unified": "1f6ad", "native": "🚭" }],
       "version": 1
     },
-    "do_not_litter": {
-      "id": "do_not_litter",
-      "name": "No Littering",
+    "쓰레기를_버리지_마세요": {
+      "id": "쓰레기를_버리지_마세요",
+      "name": "쓰레기를_버리지_마세요",
       "keywords": ["do", "not", "litter", "trash", "bin", "garbage", "circle"],
       "skins": [{ "unified": "1f6af", "native": "🚯" }],
       "version": 1
     },
-    "non-potable_water": {
-      "id": "non-potable_water",
-      "name": "Non-Potable Water",
+    "마실_수_없는_물": {
+      "id": "마실_수_없는_물",
+      "name": "마실_수_없는_물",
       "keywords": ["non", "potable", "drink", "faucet", "tap", "circle"],
       "skins": [{ "unified": "1f6b1", "native": "🚱" }],
       "version": 1
     },
-    "no_pedestrians": {
-      "id": "no_pedestrians",
-      "name": "No Pedestrians",
+    "보행자_금지": {
+      "id": "보행자_금지",
+      "name": "보행자_금지",
       "keywords": ["rules", "crossing", "walking", "circle"],
       "skins": [{ "unified": "1f6b7", "native": "🚷" }],
       "version": 1
     },
-    "no_mobile_phones": {
-      "id": "no_mobile_phones",
-      "name": "No Mobile Phones",
+    "휴대전화_금지": {
+      "id": "휴대전화_금지",
+      "name": "휴대전화_금지",
       "keywords": ["iphone", "mute", "circle"],
       "skins": [{ "unified": "1f4f5", "native": "📵" }],
       "version": 1
     },
-    "underage": {
-      "id": "underage",
-      "name": "No One Under Eighteen",
+    "미성년자": {
+      "id": "미성년자",
+      "name": "미성년자 금지",
       "keywords": [
         "underage",
         "18",
@@ -15543,30 +15543,30 @@
       "skins": [{ "unified": "1f51e", "native": "🔞" }],
       "version": 1
     },
-    "radioactive_sign": {
-      "id": "radioactive_sign",
-      "name": "Radioactive",
+    "방사능_표시": {
+      "id": "방사능_표시",
+      "name": "방사능_표시",
       "keywords": ["sign", "nuclear", "danger"],
       "skins": [{ "unified": "2622-fe0f", "native": "☢️" }],
       "version": 1
     },
-    "biohazard_sign": {
-      "id": "biohazard_sign",
-      "name": "Biohazard",
+    "생물학적_위험_표시": {
+      "id": "생물학적_위험_표시",
+      "name": "생물학적_위험_표시",
       "keywords": ["sign", "danger"],
       "skins": [{ "unified": "2623-fe0f", "native": "☣️" }],
       "version": 1
     },
-    "arrow_up": {
-      "id": "arrow_up",
-      "name": "Up Arrow",
+    "위로_화살표": {
+      "id": "위로_화살표",
+      "name": "위로_화살표",
       "keywords": ["blue", "square", "continue", "top", "direction"],
       "skins": [{ "unified": "2b06-fe0f", "native": "⬆️" }],
       "version": 1
     },
-    "arrow_upper_right": {
-      "id": "arrow_upper_right",
-      "name": "Up-Right Arrow",
+    "오른쪽_위를_향한_화살표": {
+      "id": "오른쪽_위를_향한_화살표",
+      "name": "오른쪽_위를_향한_화살표",
       "keywords": [
         "upper",
         "right",
@@ -15581,16 +15581,16 @@
       "skins": [{ "unified": "2197-fe0f", "native": "↗️" }],
       "version": 1
     },
-    "arrow_right": {
-      "id": "arrow_right",
-      "name": "Right Arrow",
+    "오른쪽_화살표": {
+      "id": "오른쪽_화살표",
+      "name": "오른쪽_화살표",
       "keywords": ["blue", "square", "next"],
       "skins": [{ "unified": "27a1-fe0f", "native": "➡️" }],
       "version": 1
     },
-    "arrow_lower_right": {
-      "id": "arrow_lower_right",
-      "name": "South East Arrow",
+    "오른쪽_아래를_향한_화살표": {
+      "id": "오른쪽_아래를_향한_화살표",
+      "name": "오른쪽_아래를_향한_화살표",
       "keywords": [
         "lower",
         "right",
@@ -15604,16 +15604,16 @@
       "skins": [{ "unified": "2198-fe0f", "native": "↘️" }],
       "version": 1
     },
-    "arrow_down": {
-      "id": "arrow_down",
-      "name": "Down Arrow",
+    "아래쪽_화살표": {
+      "id": "아래쪽_화살표",
+      "name": "아래쪽_화살표",
       "keywords": ["blue", "square", "direction", "bottom"],
       "skins": [{ "unified": "2b07-fe0f", "native": "⬇️" }],
       "version": 1
     },
-    "arrow_lower_left": {
-      "id": "arrow_lower_left",
-      "name": "Down-Left Arrow",
+    "왼쪽_아래를_향한_화살표": {
+      "id": "왼쪽_아래를_향한_화살표",
+      "name": "왼쪽_아래를_향한_화살표",
       "keywords": [
         "lower",
         "left",
@@ -15627,16 +15627,16 @@
       "skins": [{ "unified": "2199-fe0f", "native": "↙️" }],
       "version": 1
     },
-    "arrow_left": {
-      "id": "arrow_left",
-      "name": "Left Arrow",
+    "왼쪽_화살표": {
+      "id": "왼쪽_화살표",
+      "name": "왼쪽_화살표",
       "keywords": ["blue", "square", "previous", "back"],
       "skins": [{ "unified": "2b05-fe0f", "native": "⬅️" }],
       "version": 1
     },
-    "arrow_upper_left": {
-      "id": "arrow_upper_left",
-      "name": "Up-Left Arrow",
+    "왼쪽_상단을_향한_화살표": {
+      "id": "왼쪽_상단을_향한_화살표",
+      "name": "왼쪽_상단을_향한_화살표",
       "keywords": [
         "upper",
         "left",
@@ -15651,23 +15651,23 @@
       "skins": [{ "unified": "2196-fe0f", "native": "↖️" }],
       "version": 1
     },
-    "arrow_up_down": {
-      "id": "arrow_up_down",
-      "name": "Up Down Arrow",
+    "위아래_양방향_화살표": {
+      "id": "위아래_양방향_화살표",
+      "name": "위아래_양방향_화살표",
       "keywords": ["blue", "square", "direction", "way", "vertical"],
       "skins": [{ "unified": "2195-fe0f", "native": "↕️" }],
       "version": 1
     },
-    "left_right_arrow": {
-      "id": "left_right_arrow",
-      "name": "Left Right Arrow",
+    "양방향_화살표": {
+      "id": "양방향_화살표",
+      "name": "양방향_화살표",
       "keywords": ["shape", "direction", "horizontal", "sideways"],
       "skins": [{ "unified": "2194-fe0f", "native": "↔️" }],
       "version": 1
     },
-    "leftwards_arrow_with_hook": {
-      "id": "leftwards_arrow_with_hook",
-      "name": "Right Arrow Curving Left",
+    "고리가_있는_왼쪽_화살표": {
+      "id": "고리가_있는_왼쪽_화살표",
+      "name": "고리가_있는_왼쪽_화살표",
       "keywords": [
         "leftwards",
         "with",
@@ -15682,156 +15682,156 @@
       "skins": [{ "unified": "21a9-fe0f", "native": "↩️" }],
       "version": 1
     },
-    "arrow_right_hook": {
-      "id": "arrow_right_hook",
-      "name": "Left Arrow Curving Right",
+    "고리가_있는_오른쪽_화살표": {
+      "id": "고리가_있는_오른쪽_화살표",
+      "name": "고리가_있는_오른쪽_화살표",
       "keywords": ["hook", "blue", "square", "return", "rotate", "direction"],
       "skins": [{ "unified": "21aa-fe0f", "native": "↪️" }],
       "version": 1
     },
-    "arrow_heading_up": {
-      "id": "arrow_heading_up",
-      "name": "Right Arrow Curving Up",
+    "위를_향한_화살표": {
+      "id": "위를_향한_화살표",
+      "name": "위를_향한_화살표",
       "keywords": ["heading", "blue", "square", "direction", "top"],
       "skins": [{ "unified": "2934-fe0f", "native": "⤴️" }],
       "version": 1
     },
-    "arrow_heading_down": {
-      "id": "arrow_heading_down",
-      "name": "Right Arrow Curving Down",
+    "아래를_향한_화살표": {
+      "id": "아래를_향한_화살표",
+      "name": "아래를_향한_화살표",
       "keywords": ["heading", "blue", "square", "direction", "bottom"],
       "skins": [{ "unified": "2935-fe0f", "native": "⤵️" }],
       "version": 1
     },
-    "arrows_clockwise": {
-      "id": "arrows_clockwise",
-      "name": "Clockwise Vertical Arrows",
+    "시계_방향_화살표": {
+      "id": "시계_방향_화살표",
+      "name": "시계_방향_화살표",
       "keywords": ["sync", "cycle", "round", "repeat"],
       "skins": [{ "unified": "1f503", "native": "🔃" }],
       "version": 1
     },
-    "arrows_counterclockwise": {
-      "id": "arrows_counterclockwise",
-      "name": "Counterclockwise Arrows Button",
+    "시계_반대_방향_화살표": {
+      "id": "시계_반대_방향_화살표",
+      "name": "시계_반대_방향_화살표",
       "keywords": ["blue", "square", "sync", "cycle"],
       "skins": [{ "unified": "1f504", "native": "🔄" }],
       "version": 1
     },
-    "back": {
-      "id": "back",
-      "name": "Back Arrow",
+    "뒤로": {
+      "id": "뒤로",
+      "name": "뒤로",
       "keywords": ["words", "return"],
       "skins": [{ "unified": "1f519", "native": "🔙" }],
       "version": 1
     },
-    "end": {
-      "id": "end",
-      "name": "End Arrow",
+    "끝": {
+      "id": "끝",
+      "name": "끝 화살표",
       "keywords": ["words"],
       "skins": [{ "unified": "1f51a", "native": "🔚" }],
       "version": 1
     },
-    "on": {
-      "id": "on",
-      "name": "On! Arrow",
+    "켜기": {
+      "id": "켜기",
+      "name": "켜기! 화살표",
       "keywords": ["on", "words"],
       "skins": [{ "unified": "1f51b", "native": "🔛" }],
       "version": 1
     },
-    "soon": {
-      "id": "soon",
-      "name": "Soon Arrow",
+    "곧": {
+      "id": "곧",
+      "name": "곧 화살표",
       "keywords": ["words"],
       "skins": [{ "unified": "1f51c", "native": "🔜" }],
       "version": 1
     },
-    "top": {
-      "id": "top",
-      "name": "Top Arrow",
+    "맨_위": {
+      "id": "맨_위",
+      "name": "맨_위 화살표",
       "keywords": ["words", "blue", "square"],
       "skins": [{ "unified": "1f51d", "native": "🔝" }],
       "version": 1
     },
-    "place_of_worship": {
-      "id": "place_of_worship",
-      "name": "Place of Worship",
+    "예배_장소": {
+      "id": "예배_장소",
+      "name": "예배_장소",
       "keywords": ["religion", "church", "temple", "prayer"],
       "skins": [{ "unified": "1f6d0", "native": "🛐" }],
       "version": 1
     },
-    "atom_symbol": {
-      "id": "atom_symbol",
-      "name": "Atom Symbol",
+    "원자_기호": {
+      "id": "원자_기호",
+      "name": "원자_기호",
       "keywords": ["science", "physics", "chemistry"],
       "skins": [{ "unified": "269b-fe0f", "native": "⚛️" }],
       "version": 1
     },
-    "om_symbol": {
-      "id": "om_symbol",
-      "name": "Om",
+    "옴_기호": {
+      "id": "옴_기호",
+      "name": "옴",
       "keywords": ["symbol", "hinduism", "buddhism", "sikhism", "jainism"],
       "skins": [{ "unified": "1f549-fe0f", "native": "🕉️" }],
       "version": 1
     },
-    "star_of_david": {
-      "id": "star_of_david",
-      "name": "Star of David",
+    "다윗의_별": {
+      "id": "다윗의_별",
+      "name": "다윗의_별",
       "keywords": ["judaism"],
       "skins": [{ "unified": "2721-fe0f", "native": "✡️" }],
       "version": 1
     },
-    "wheel_of_dharma": {
-      "id": "wheel_of_dharma",
-      "name": "Wheel of Dharma",
+    "법륜": {
+      "id": "법륜",
+      "name": "법륜",
       "keywords": ["hinduism", "buddhism", "sikhism", "jainism"],
       "skins": [{ "unified": "2638-fe0f", "native": "☸️" }],
       "version": 1
     },
-    "yin_yang": {
-      "id": "yin_yang",
-      "name": "Yin Yang",
+    "음양": {
+      "id": "음양",
+      "name": "음양",
       "keywords": ["balance"],
       "skins": [{ "unified": "262f-fe0f", "native": "☯️" }],
       "version": 1
     },
-    "latin_cross": {
-      "id": "latin_cross",
-      "name": "Latin Cross",
+    "라틴십자가": {
+      "id": "라틴십자가",
+      "name": "라틴십자가",
       "keywords": ["christianity"],
       "skins": [{ "unified": "271d-fe0f", "native": "✝️" }],
       "version": 1
     },
-    "orthodox_cross": {
-      "id": "orthodox_cross",
-      "name": "Orthodox Cross",
+    "동방정교회_십자가": {
+      "id": "동방정교회_십자가",
+      "name": "동방정교회_십자가",
       "keywords": ["suppedaneum", "religion"],
       "skins": [{ "unified": "2626-fe0f", "native": "☦️" }],
       "version": 1
     },
-    "star_and_crescent": {
-      "id": "star_and_crescent",
-      "name": "Star and Crescent",
+    "오스만_국기": {
+      "id": "오스만_국기",
+      "name": "오스만_국기",
       "keywords": ["islam"],
       "skins": [{ "unified": "262a-fe0f", "native": "☪️" }],
       "version": 1
     },
-    "peace_symbol": {
-      "id": "peace_symbol",
-      "name": "Peace Symbol",
+    "평화_기호": {
+      "id": "평화_기호",
+      "name": "평화_기호",
       "keywords": ["hippie"],
       "skins": [{ "unified": "262e-fe0f", "native": "☮️" }],
       "version": 1
     },
-    "menorah_with_nine_branches": {
-      "id": "menorah_with_nine_branches",
-      "name": "Menorah",
+    "9지파_메노라": {
+      "id": "9지파_메노라",
+      "name": "메노라",
       "keywords": ["with", "nine", "branches", "hanukkah", "candles", "jewish"],
       "skins": [{ "unified": "1f54e", "native": "🕎" }],
       "version": 1
     },
-    "six_pointed_star": {
-      "id": "six_pointed_star",
-      "name": "Dotted Six-Pointed Star",
+    "꼭짓점이_6개인_별": {
+      "id": "꼭짓점이_6개인_별",
+      "name": "꼭짓점이_6개인_별",
       "keywords": [
         "six",
         "pointed",
@@ -15844,58 +15844,58 @@
       "skins": [{ "unified": "1f52f", "native": "🔯" }],
       "version": 1
     },
-    "aries": {
-      "id": "aries",
-      "name": "Aries",
+    "양자리": {
+      "id": "양자리",
+      "name": "양자리",
       "keywords": ["sign", "purple", "square", "zodiac", "astrology"],
       "skins": [{ "unified": "2648", "native": "♈" }],
       "version": 1
     },
-    "taurus": {
-      "id": "taurus",
-      "name": "Taurus",
+    "황소자리": {
+      "id": "황소자리",
+      "name": "황소자리",
       "keywords": ["purple", "square", "sign", "zodiac", "astrology"],
       "skins": [{ "unified": "2649", "native": "♉" }],
       "version": 1
     },
-    "gemini": {
-      "id": "gemini",
-      "name": "Gemini",
+    "쌍둥이자리": {
+      "id": "쌍둥이자리",
+      "name": "쌍둥이자리",
       "keywords": ["sign", "zodiac", "purple", "square", "astrology"],
       "skins": [{ "unified": "264a", "native": "♊" }],
       "version": 1
     },
-    "cancer": {
-      "id": "cancer",
-      "name": "Cancer",
+    "게자리": {
+      "id": "게자리",
+      "name": "게자리",
       "keywords": ["sign", "zodiac", "purple", "square", "astrology"],
       "skins": [{ "unified": "264b", "native": "♋" }],
       "version": 1
     },
-    "leo": {
-      "id": "leo",
-      "name": "Leo",
+    "사자자리": {
+      "id": "사자자리",
+      "name": "사자자리",
       "keywords": ["sign", "purple", "square", "zodiac", "astrology"],
       "skins": [{ "unified": "264c", "native": "♌" }],
       "version": 1
     },
-    "virgo": {
-      "id": "virgo",
-      "name": "Virgo",
+    "처녀자리": {
+      "id": "처녀자리",
+      "name": "처녀자리",
       "keywords": ["sign", "zodiac", "purple", "square", "astrology"],
       "skins": [{ "unified": "264d", "native": "♍" }],
       "version": 1
     },
-    "libra": {
-      "id": "libra",
-      "name": "Libra",
+    "천칭자리": {
+      "id": "천칭자리",
+      "name": "천칭자리",
       "keywords": ["sign", "purple", "square", "zodiac", "astrology"],
       "skins": [{ "unified": "264e", "native": "♎" }],
       "version": 1
     },
-    "scorpius": {
-      "id": "scorpius",
-      "name": "Scorpio",
+    "전갈자리": {
+      "id": "전갈자리",
+      "name": "전갈자리",
       "keywords": [
         "scorpius",
         "sign",
@@ -15907,44 +15907,44 @@
       "skins": [{ "unified": "264f", "native": "♏" }],
       "version": 1
     },
-    "sagittarius": {
-      "id": "sagittarius",
-      "name": "Sagittarius",
+    "궁수자리": {
+      "id": "궁수자리",
+      "name": "궁수자리",
       "keywords": ["sign", "zodiac", "purple", "square", "astrology"],
       "skins": [{ "unified": "2650", "native": "♐" }],
       "version": 1
     },
-    "capricorn": {
-      "id": "capricorn",
-      "name": "Capricorn",
+    "염소자리": {
+      "id": "염소자리",
+      "name": "염소자리",
       "keywords": ["sign", "zodiac", "purple", "square", "astrology"],
       "skins": [{ "unified": "2651", "native": "♑" }],
       "version": 1
     },
-    "aquarius": {
-      "id": "aquarius",
-      "name": "Aquarius",
+    "물병자리": {
+      "id": "물병자리",
+      "name": "물병자리",
       "keywords": ["sign", "purple", "square", "zodiac", "astrology"],
       "skins": [{ "unified": "2652", "native": "♒" }],
       "version": 1
     },
-    "pisces": {
-      "id": "pisces",
-      "name": "Pisces",
+    "물고기자리": {
+      "id": "물고기자리",
+      "name": "물고기자리",
       "keywords": ["purple", "square", "sign", "zodiac", "astrology"],
       "skins": [{ "unified": "2653", "native": "♓" }],
       "version": 1
     },
-    "ophiuchus": {
-      "id": "ophiuchus",
-      "name": "Ophiuchus",
+    "뱀주인자리": {
+      "id": "뱀주인자리",
+      "name": "뱀주인자리",
       "keywords": ["sign", "purple", "square", "constellation", "astrology"],
       "skins": [{ "unified": "26ce", "native": "⛎" }],
       "version": 1
     },
-    "twisted_rightwards_arrows": {
-      "id": "twisted_rightwards_arrows",
-      "name": "Shuffle Tracks Button",
+    "엇갈린_오른쪽_화살표": {
+      "id": "엇갈린_오른쪽_화살표",
+      "name": "엇갈린_오른쪽_화살표",
       "keywords": [
         "twisted",
         "rightwards",
@@ -15957,30 +15957,30 @@
       "skins": [{ "unified": "1f500", "native": "🔀" }],
       "version": 1
     },
-    "repeat": {
-      "id": "repeat",
-      "name": "Repeat Button",
+    "반복": {
+      "id": "반복",
+      "name": "반복 버튼",
       "keywords": ["loop", "record"],
       "skins": [{ "unified": "1f501", "native": "🔁" }],
       "version": 1
     },
-    "repeat_one": {
-      "id": "repeat_one",
-      "name": "Repeat Single Button",
+    "한_번_반복": {
+      "id": "한_번_반복",
+      "name": "한_번_반복 버튼",
       "keywords": ["one", "blue", "square", "loop"],
       "skins": [{ "unified": "1f502", "native": "🔂" }],
       "version": 1
     },
-    "arrow_forward": {
-      "id": "arrow_forward",
-      "name": "Play Button",
+    "앞쪽_화살표": {
+      "id": "앞쪽_화살표",
+      "name": "재생 버튼",
       "keywords": ["arrow", "forward", "blue", "square", "right", "direction"],
       "skins": [{ "unified": "25b6-fe0f", "native": "▶️" }],
       "version": 1
     },
-    "fast_forward": {
-      "id": "fast_forward",
-      "name": "Fast-Forward Button",
+    "앞으로_빨리_감기": {
+      "id": "앞으로_빨리_감기",
+      "name": "앞으로_빨리_감기 버튼",
       "keywords": [
         "fast",
         "forward",
@@ -15993,9 +15993,9 @@
       "skins": [{ "unified": "23e9", "native": "⏩" }],
       "version": 1
     },
-    "black_right_pointing_double_triangle_with_vertical_bar": {
-      "id": "black_right_pointing_double_triangle_with_vertical_bar",
-      "name": "Next Track Button",
+    "다음_트랙": {
+      "id": "다음_트랙",
+      "name": "다음 트랙 버튼",
       "keywords": [
         "black",
         "right",
@@ -16012,9 +16012,9 @@
       "skins": [{ "unified": "23ed-fe0f", "native": "⏭️" }],
       "version": 1
     },
-    "black_right_pointing_triangle_with_double_vertical_bar": {
-      "id": "black_right_pointing_triangle_with_double_vertical_bar",
-      "name": "Play or Pause Button",
+    "재생_일시_중지_기호": {
+      "id": "재생_일시_중지_기호",
+      "name": "재생 또는 일시 중지 버튼",
       "keywords": [
         "black",
         "right",
@@ -16030,9 +16030,9 @@
       "skins": [{ "unified": "23ef-fe0f", "native": "⏯️" }],
       "version": 1
     },
-    "arrow_backward": {
-      "id": "arrow_backward",
-      "name": "Reverse Button",
+    "뒤쪽_화살표": {
+      "id": "뒤쪽_화살표",
+      "name": "뒤쪽_화살표 버튼",
       "keywords": ["arrow", "backward", "blue", "square", "left", "direction"],
       "skins": [{ "unified": "25c0-fe0f", "native": "◀️" }],
       "version": 1
