@@ -7660,9 +7660,9 @@
       ],
       "version": 4
     },
-    "handball": {
-      "id": "handball",
-      "name": "Handball",
+    "핸드볼": {
+      "id": "핸드볼",
+      "name": "핸드볼",
       "keywords": ["person", "playing", "sport"],
       "skins": [
         { "unified": "1f93e", "native": "🤾" },
@@ -7674,9 +7674,9 @@
       ],
       "version": 3
     },
-    "man-playing-handball": {
-      "id": "man-playing-handball",
-      "name": "Man Playing Handball",
+    "핸드볼_하는_남성": {
+      "id": "핸드볼_하는_남성",
+      "name": "핸드볼_하는_남성",
       "keywords": ["playing-handball", "sports"],
       "skins": [
         { "unified": "1f93e-200d-2642-fe0f", "native": "🤾‍♂️" },
@@ -11230,65 +11230,65 @@
       "skins": [{ "unified": "2668-fe0f", "native": "♨️" }],
       "version": 1
     },
-    "carousel_horse": {
-      "id": "carousel_horse",
-      "name": "Carousel Horse",
+    "회전목마의_목마": {
+      "id": "회전목마의_목마",
+      "name": "회전목마의_목마",
       "keywords": ["photo", "carnival"],
       "skins": [{ "unified": "1f3a0", "native": "🎠" }],
       "version": 1
     },
-    "playground_slide": {
-      "id": "playground_slide",
-      "name": "Playground Slide",
+    "놀이터_미끄럼틀": {
+      "id": "놀이터_미끄럼틀",
+      "name": "놀이터_미끄럼틀",
       "keywords": ["fun", "park"],
       "skins": [{ "unified": "1f6dd", "native": "🛝" }],
       "version": 14
     },
-    "ferris_wheel": {
-      "id": "ferris_wheel",
-      "name": "Ferris Wheel",
+    "대관람차": {
+      "id": "대관람차",
+      "name": "대관람차",
       "keywords": ["photo", "carnival", "londoneye"],
       "skins": [{ "unified": "1f3a1", "native": "🎡" }],
       "version": 1
     },
-    "roller_coaster": {
-      "id": "roller_coaster",
-      "name": "Roller Coaster",
+    "롤러코스터": {
+      "id": "롤러코스터",
+      "name": "롤러코스터",
       "keywords": ["carnival", "playground", "photo", "fun"],
       "skins": [{ "unified": "1f3a2", "native": "🎢" }],
       "version": 1
     },
-    "barber": {
-      "id": "barber",
-      "name": "Barber Pole",
+    "이발사": {
+      "id": "이발사",
+      "name": "이발사",
       "keywords": ["hair", "salon", "style"],
       "skins": [{ "unified": "1f488", "native": "💈" }],
       "version": 1
     },
-    "circus_tent": {
-      "id": "circus_tent",
-      "name": "Circus Tent",
+    "서커스_텐트": {
+      "id": "서커스_텐트",
+      "name": "서커스_텐트",
       "keywords": ["festival", "carnival", "party"],
       "skins": [{ "unified": "1f3aa", "native": "🎪" }],
       "version": 1
     },
-    "steam_locomotive": {
-      "id": "steam_locomotive",
-      "name": "Locomotive",
+    "증기_기관차": {
+      "id": "증기_기관차",
+      "name": "증기_기관차",
       "keywords": ["steam", "transportation", "vehicle", "train"],
       "skins": [{ "unified": "1f682", "native": "🚂" }],
       "version": 1
     },
-    "railway_car": {
-      "id": "railway_car",
-      "name": "Railway Car",
+    "철도_차량": {
+      "id": "철도_차량",
+      "name": "철도_차량",
       "keywords": ["transportation", "vehicle"],
       "skins": [{ "unified": "1f683", "native": "🚃" }],
       "version": 1
     },
-    "bullettrain_side": {
-      "id": "bullettrain_side",
-      "name": "High-Speed Train",
+    "열차_앞부분": {
+      "id": "열차_앞부분",
+      "name": "열차_앞부분",
       "keywords": [
         "bullettrain",
         "side",
@@ -11300,9 +11300,9 @@
       "skins": [{ "unified": "1f684", "native": "🚄" }],
       "version": 1
     },
-    "bullettrain_front": {
-      "id": "bullettrain_front",
-      "name": "Bullet Train",
+    "열차_앞머리": {
+      "id": "열차_앞머리",
+      "name": "열차_앞머리",
       "keywords": [
         "bullettrain",
         "front",
@@ -11316,16 +11316,16 @@
       "skins": [{ "unified": "1f685", "native": "🚅" }],
       "version": 1
     },
-    "train2": {
-      "id": "train2",
-      "name": "Train",
+    "기차2": {
+      "id": "기차2",
+      "name": "기차2",
       "keywords": ["train2", "transportation", "vehicle"],
       "skins": [{ "unified": "1f686", "native": "🚆" }],
       "version": 1
     },
-    "metro": {
-      "id": "metro",
-      "name": "Metro",
+    "지하철": {
+      "id": "지하철",
+      "name": "지하철",
       "keywords": [
         "transportation",
         "blue",
@@ -11337,44 +11337,44 @@
       "skins": [{ "unified": "1f687", "native": "🚇" }],
       "version": 1
     },
-    "light_rail": {
-      "id": "light_rail",
-      "name": "Light Rail",
+    "경철도": {
+      "id": "경철도",
+      "name": "경철도",
       "keywords": ["transportation", "vehicle"],
       "skins": [{ "unified": "1f688", "native": "🚈" }],
       "version": 1
     },
-    "station": {
-      "id": "station",
-      "name": "Station",
+    "기차역": {
+      "id": "기차역",
+      "name": "기차역",
       "keywords": ["transportation", "vehicle", "public"],
       "skins": [{ "unified": "1f689", "native": "🚉" }],
       "version": 1
     },
-    "tram": {
-      "id": "tram",
-      "name": "Tram",
+    "전차": {
+      "id": "전차",
+      "name": "전차",
       "keywords": ["transportation", "vehicle"],
       "skins": [{ "unified": "1f68a", "native": "🚊" }],
       "version": 1
     },
-    "monorail": {
-      "id": "monorail",
-      "name": "Monorail",
+    "모노레일": {
+      "id": "모노레일",
+      "name": "모노레일",
       "keywords": ["transportation", "vehicle"],
       "skins": [{ "unified": "1f69d", "native": "🚝" }],
       "version": 1
     },
-    "mountain_railway": {
-      "id": "mountain_railway",
-      "name": "Mountain Railway",
+    "산과_철도": {
+      "id": "산과_철도",
+      "name": "산과_철도",
       "keywords": ["transportation", "vehicle"],
       "skins": [{ "unified": "1f69e", "native": "🚞" }],
       "version": 1
     },
-    "train": {
-      "id": "train",
-      "name": "Tram Car",
+    "기차": {
+      "id": "기차",
+      "name": "기차",
       "keywords": [
         "train",
         "transportation",
@@ -11386,51 +11386,51 @@
       "skins": [{ "unified": "1f68b", "native": "🚋" }],
       "version": 1
     },
-    "bus": {
-      "id": "bus",
-      "name": "Bus",
+    "버스": {
+      "id": "버스",
+      "name": "버스",
       "keywords": ["car", "vehicle", "transportation"],
       "skins": [{ "unified": "1f68c", "native": "🚌" }],
       "version": 1
     },
-    "oncoming_bus": {
-      "id": "oncoming_bus",
-      "name": "Oncoming Bus",
+    "다가오는_버스": {
+      "id": "다가오는_버스",
+      "name": "다가오는_버스",
       "keywords": ["vehicle", "transportation"],
       "skins": [{ "unified": "1f68d", "native": "🚍" }],
       "version": 1
     },
-    "trolleybus": {
-      "id": "trolleybus",
-      "name": "Trolleybus",
+    "트롤리버스": {
+      "id": "트롤리버스",
+      "name": "트롤리버스",
       "keywords": ["bart", "transportation", "vehicle"],
       "skins": [{ "unified": "1f68e", "native": "🚎" }],
       "version": 1
     },
-    "minibus": {
-      "id": "minibus",
-      "name": "Minibus",
+    "미니버스": {
+      "id": "미니버스",
+      "name": "미니버스",
       "keywords": ["vehicle", "car", "transportation"],
       "skins": [{ "unified": "1f690", "native": "🚐" }],
       "version": 1
     },
-    "ambulance": {
-      "id": "ambulance",
-      "name": "Ambulance",
+    "구급차": {
+      "id": "구급차",
+      "name": "구급차",
       "keywords": ["health", "911", "hospital"],
       "skins": [{ "unified": "1f691", "native": "🚑" }],
       "version": 1
     },
-    "fire_engine": {
-      "id": "fire_engine",
-      "name": "Fire Engine",
+    "소방차": {
+      "id": "소방차",
+      "name": "소방차",
       "keywords": ["transportation", "cars", "vehicle"],
       "skins": [{ "unified": "1f692", "native": "🚒" }],
       "version": 1
     },
-    "police_car": {
-      "id": "police_car",
-      "name": "Police Car",
+    "경찰차": {
+      "id": "경찰차",
+      "name": "경찰차",
       "keywords": [
         "vehicle",
         "cars",
@@ -11442,191 +11442,191 @@
       "skins": [{ "unified": "1f693", "native": "🚓" }],
       "version": 1
     },
-    "oncoming_police_car": {
-      "id": "oncoming_police_car",
-      "name": "Oncoming Police Car",
+    "다가오는_경찰차": {
+      "id": "다가오는_경찰차",
+      "name": "다가오는_경찰차",
       "keywords": ["vehicle", "law", "legal", "enforcement", "911"],
       "skins": [{ "unified": "1f694", "native": "🚔" }],
       "version": 1
     },
-    "taxi": {
-      "id": "taxi",
-      "name": "Taxi",
+    "택시": {
+      "id": "택시",
+      "name": "택시",
       "keywords": ["uber", "vehicle", "cars", "transportation"],
       "skins": [{ "unified": "1f695", "native": "🚕" }],
       "version": 1
     },
-    "oncoming_taxi": {
-      "id": "oncoming_taxi",
-      "name": "Oncoming Taxi",
+    "다가오는_택시": {
+      "id": "다가오는_택시",
+      "name": "다가오는_택시",
       "keywords": ["vehicle", "cars", "uber"],
       "skins": [{ "unified": "1f696", "native": "🚖" }],
       "version": 1
     },
-    "car": {
-      "id": "car",
-      "name": "Automobile",
+    "자동차": {
+      "id": "자동차",
+      "name": "자동차",
       "keywords": ["car", "red", "transportation", "vehicle"],
       "skins": [{ "unified": "1f697", "native": "🚗" }],
       "version": 1
     },
-    "oncoming_automobile": {
-      "id": "oncoming_automobile",
-      "name": "Oncoming Automobile",
+    "다가오는_자동차": {
+      "id": "다가오는_자동차",
+      "name": "다가오는_자동차",
       "keywords": ["car", "vehicle", "transportation"],
       "skins": [{ "unified": "1f698", "native": "🚘" }],
       "version": 1
     },
-    "blue_car": {
-      "id": "blue_car",
-      "name": "Recreational Vehicle",
+    "파란색_자동차": {
+      "id": "파란색_자동차",
+      "name": "파란색_자동차",
       "keywords": ["blue", "car", "sport", "utility", "transportation"],
       "skins": [{ "unified": "1f699", "native": "🚙" }],
       "version": 1
     },
-    "pickup_truck": {
-      "id": "pickup_truck",
-      "name": "Pickup Truck",
+    "픽업트럭": {
+      "id": "픽업트럭",
+      "name": "픽업트럭",
       "keywords": ["car", "transportation"],
       "skins": [{ "unified": "1f6fb", "native": "🛻" }],
       "version": 13
     },
-    "truck": {
-      "id": "truck",
-      "name": "Delivery Truck",
+    "트럭": {
+      "id": "트럭",
+      "name": "트럭",
       "keywords": ["cars", "transportation"],
       "skins": [{ "unified": "1f69a", "native": "🚚" }],
       "version": 1
     },
-    "articulated_lorry": {
-      "id": "articulated_lorry",
-      "name": "Articulated Lorry",
+    "화물_트럭": {
+      "id": "화물_트럭",
+      "name": "화물_트럭",
       "keywords": ["vehicle", "cars", "transportation", "express"],
       "skins": [{ "unified": "1f69b", "native": "🚛" }],
       "version": 1
     },
-    "tractor": {
-      "id": "tractor",
-      "name": "Tractor",
+    "트랙터": {
+      "id": "트랙터",
+      "name": "트랙터",
       "keywords": ["vehicle", "car", "farming", "agriculture"],
       "skins": [{ "unified": "1f69c", "native": "🚜" }],
       "version": 1
     },
-    "racing_car": {
-      "id": "racing_car",
-      "name": "Racing Car",
+    "경주용_자동차": {
+      "id": "경주용_자동차",
+      "name": "경주용_자동차",
       "keywords": ["sports", "race", "fast", "formula", "f1"],
       "skins": [{ "unified": "1f3ce-fe0f", "native": "🏎️" }],
       "version": 1
     },
-    "racing_motorcycle": {
-      "id": "racing_motorcycle",
-      "name": "Motorcycle",
+    "경주용_모터사이클": {
+      "id": "경주용_모터사이클",
+      "name": "경주용_모터사이클",
       "keywords": ["racing", "race", "sports", "fast"],
       "skins": [{ "unified": "1f3cd-fe0f", "native": "🏍️" }],
       "version": 1
     },
-    "motor_scooter": {
-      "id": "motor_scooter",
-      "name": "Motor Scooter",
+    "모터_스쿠터": {
+      "id": "모터_스쿠터",
+      "name": "모터_스쿠터",
       "keywords": ["vehicle", "vespa", "sasha"],
       "skins": [{ "unified": "1f6f5", "native": "🛵" }],
       "version": 3
     },
-    "manual_wheelchair": {
-      "id": "manual_wheelchair",
-      "name": "Manual Wheelchair",
+    "수동_휠체어": {
+      "id": "수동_휠체어",
+      "name": "수동_휠체어",
       "keywords": ["accessibility"],
       "skins": [{ "unified": "1f9bd", "native": "🦽" }],
       "version": 12
     },
-    "motorized_wheelchair": {
-      "id": "motorized_wheelchair",
-      "name": "Motorized Wheelchair",
+    "전동_휠체어": {
+      "id": "전동_휠체어",
+      "name": "전동_휠체어",
       "keywords": ["accessibility"],
       "skins": [{ "unified": "1f9bc", "native": "🦼" }],
       "version": 12
     },
-    "auto_rickshaw": {
-      "id": "auto_rickshaw",
-      "name": "Auto Rickshaw",
+    "자동 인력거": {
+      "id": "자동 인력거",
+      "name": "자동 인력거",
       "keywords": ["move", "transportation"],
       "skins": [{ "unified": "1f6fa", "native": "🛺" }],
       "version": 12
     },
-    "bike": {
-      "id": "bike",
-      "name": "Bicycle",
+    "자전거": {
+      "id": "자전거",
+      "name": "자전거",
       "keywords": ["bike", "sports", "exercise", "hipster"],
       "skins": [{ "unified": "1f6b2", "native": "🚲" }],
       "version": 1
     },
-    "scooter": {
-      "id": "scooter",
-      "name": "Scooter",
+    "스쿠터": {
+      "id": "스쿠터",
+      "name": "스쿠터",
       "keywords": ["kick", "vehicle", "razor"],
       "skins": [{ "unified": "1f6f4", "native": "🛴" }],
       "version": 3
     },
-    "skateboard": {
-      "id": "skateboard",
-      "name": "Skateboard",
+    "스케이트보드": {
+      "id": "스케이트보드",
+      "name": "스케이트보드",
       "keywords": ["board"],
       "skins": [{ "unified": "1f6f9", "native": "🛹" }],
       "version": 11
     },
-    "roller_skate": {
-      "id": "roller_skate",
-      "name": "Roller Skate",
+    "롤러스케이트": {
+      "id": "롤러스케이트",
+      "name": "롤러스케이트",
       "keywords": ["footwear", "sports"],
       "skins": [{ "unified": "1f6fc", "native": "🛼" }],
       "version": 13
     },
-    "busstop": {
-      "id": "busstop",
-      "name": "Bus Stop",
+    "버스_정류장": {
+      "id": "버스_정류장",
+      "name": "버스_정류장",
       "keywords": ["busstop", "transportation", "wait"],
       "skins": [{ "unified": "1f68f", "native": "🚏" }],
       "version": 1
     },
-    "motorway": {
-      "id": "motorway",
-      "name": "Motorway",
+    "고속도로": {
+      "id": "고속도로",
+      "name": "고속도로",
       "keywords": ["road", "cupertino", "interstate", "highway"],
       "skins": [{ "unified": "1f6e3-fe0f", "native": "🛣️" }],
       "version": 1
     },
-    "railway_track": {
-      "id": "railway_track",
-      "name": "Railway Track",
+    "철도": {
+      "id": "철도",
+      "name": "철도",
       "keywords": ["train", "transportation"],
       "skins": [{ "unified": "1f6e4-fe0f", "native": "🛤️" }],
       "version": 1
     },
-    "oil_drum": {
-      "id": "oil_drum",
-      "name": "Oil Drum",
+    "석유_드럼통": {
+      "id": "석유_드럼통",
+      "name": "석유_드럼통",
       "keywords": ["barrell"],
       "skins": [{ "unified": "1f6e2-fe0f", "native": "🛢️" }],
       "version": 1
     },
-    "fuelpump": {
-      "id": "fuelpump",
-      "name": "Fuel Pump",
+    "연료_펌프": {
+      "id": "연료_펌프",
+      "name": "연료_펌프",
       "keywords": ["fuelpump", "gas", "station", "petroleum"],
       "skins": [{ "unified": "26fd", "native": "⛽" }],
       "version": 1
     },
-    "wheel": {
-      "id": "wheel",
-      "name": "Wheel",
+    "바퀴": {
+      "id": "바퀴",
+      "name": "바퀴",
       "keywords": ["car", "transport"],
       "skins": [{ "unified": "1f6de", "native": "🛞" }],
       "version": 14
     },
-    "rotating_light": {
-      "id": "rotating_light",
-      "name": "Police Car Light",
+    "경광등": {
+      "id": "경광등",
+      "name": "경광등",
       "keywords": [
         "rotating",
         "ambulance",
@@ -11641,51 +11641,51 @@
       "skins": [{ "unified": "1f6a8", "native": "🚨" }],
       "version": 1
     },
-    "traffic_light": {
-      "id": "traffic_light",
-      "name": "Horizontal Traffic Light",
+    "신호등": {
+      "id": "신호등",
+      "name": "신호등",
       "keywords": ["transportation", "signal"],
       "skins": [{ "unified": "1f6a5", "native": "🚥" }],
       "version": 1
     },
-    "vertical_traffic_light": {
-      "id": "vertical_traffic_light",
-      "name": "Vertical Traffic Light",
+    "세로형_신호등": {
+      "id": "세로형_신호등",
+      "name": "세로형_신호등",
       "keywords": ["transportation", "driving"],
       "skins": [{ "unified": "1f6a6", "native": "🚦" }],
       "version": 1
     },
-    "octagonal_sign": {
-      "id": "octagonal_sign",
-      "name": "Stop Sign",
+    "팔각형_기호": {
+      "id": "팔각형_기호",
+      "name": "정지 신호",
       "keywords": ["octagonal"],
       "skins": [{ "unified": "1f6d1", "native": "🛑" }],
       "version": 3
     },
-    "construction": {
-      "id": "construction",
-      "name": "Construction",
+    "건설": {
+      "id": "건설",
+      "name": "건설",
       "keywords": ["wip", "progress", "caution", "warning"],
       "skins": [{ "unified": "1f6a7", "native": "🚧" }],
       "version": 1
     },
-    "anchor": {
-      "id": "anchor",
-      "name": "Anchor",
+    "닻": {
+      "id": "닻",
+      "name": "닻",
       "keywords": ["ship", "ferry", "sea", "boat"],
       "skins": [{ "unified": "2693", "native": "⚓" }],
       "version": 1
     },
-    "ring_buoy": {
-      "id": "ring_buoy",
-      "name": "Ring Buoy",
+    "구명부환": {
+      "id": "구명부환",
+      "name": "구명부환",
       "keywords": ["life", "saver", "preserver"],
       "skins": [{ "unified": "1f6df", "native": "🛟" }],
       "version": 14
     },
-    "boat": {
-      "id": "boat",
-      "name": "Sailboat",
+    "보트": {
+      "id": "보트",
+      "name": "보트",
       "keywords": [
         "boat",
         "ship",
@@ -11697,121 +11697,121 @@
       "skins": [{ "unified": "26f5", "native": "⛵" }],
       "version": 1
     },
-    "canoe": {
-      "id": "canoe",
-      "name": "Canoe",
+    "카누": {
+      "id": "카누",
+      "name": "카누",
       "keywords": ["boat", "paddle", "water", "ship"],
       "skins": [{ "unified": "1f6f6", "native": "🛶" }],
       "version": 3
     },
-    "speedboat": {
-      "id": "speedboat",
-      "name": "Speedboat",
+    "쾌속정": {
+      "id": "쾌속정",
+      "name": "쾌속정",
       "keywords": ["ship", "transportation", "vehicle", "summer"],
       "skins": [{ "unified": "1f6a4", "native": "🚤" }],
       "version": 1
     },
-    "passenger_ship": {
-      "id": "passenger_ship",
-      "name": "Passenger Ship",
+    "여객선": {
+      "id": "여객선",
+      "name": "여객선",
       "keywords": ["yacht", "cruise", "ferry"],
       "skins": [{ "unified": "1f6f3-fe0f", "native": "🛳️" }],
       "version": 1
     },
-    "ferry": {
-      "id": "ferry",
-      "name": "Ferry",
+    "페리": {
+      "id": "페리",
+      "name": "페리",
       "keywords": ["boat", "ship", "yacht"],
       "skins": [{ "unified": "26f4-fe0f", "native": "⛴️" }],
       "version": 1
     },
-    "motor_boat": {
-      "id": "motor_boat",
-      "name": "Motor Boat",
+    "모터_보트": {
+      "id": "모터_보트",
+      "name": "모터_보트",
       "keywords": ["ship"],
       "skins": [{ "unified": "1f6e5-fe0f", "native": "🛥️" }],
       "version": 1
     },
-    "ship": {
-      "id": "ship",
-      "name": "Ship",
+    "선박": {
+      "id": "선박",
+      "name": "선박",
       "keywords": ["transportation", "titanic", "deploy"],
       "skins": [{ "unified": "1f6a2", "native": "🚢" }],
       "version": 1
     },
-    "airplane": {
-      "id": "airplane",
-      "name": "Airplane",
+    "비행기": {
+      "id": "비행기",
+      "name": "비행기",
       "keywords": ["vehicle", "transportation", "flight", "fly"],
       "skins": [{ "unified": "2708-fe0f", "native": "✈️" }],
       "version": 1
     },
-    "small_airplane": {
-      "id": "small_airplane",
-      "name": "Small Airplane",
+    "경비행기": {
+      "id": "경비행기",
+      "name": "경비행기",
       "keywords": ["flight", "transportation", "fly", "vehicle"],
       "skins": [{ "unified": "1f6e9-fe0f", "native": "🛩️" }],
       "version": 1
     },
-    "airplane_departure": {
-      "id": "airplane_departure",
-      "name": "Airplane Departure",
+    "비행기_이륙": {
+      "id": "비행기_이륙",
+      "name": "비행기_이륙",
       "keywords": ["airport", "flight", "landing"],
       "skins": [{ "unified": "1f6eb", "native": "🛫" }],
       "version": 1
     },
-    "airplane_arriving": {
-      "id": "airplane_arriving",
-      "name": "Airplane Arrival",
+    "착륙하는_비행기": {
+      "id": "착륙하는_비행기",
+      "name": "착륙하는_비행기",
       "keywords": ["arriving", "airport", "flight", "boarding"],
       "skins": [{ "unified": "1f6ec", "native": "🛬" }],
       "version": 1
     },
-    "parachute": {
-      "id": "parachute",
-      "name": "Parachute",
+    "낙하산": {
+      "id": "낙하산",
+      "name": "낙하산",
       "keywords": ["fly", "glide"],
       "skins": [{ "unified": "1fa82", "native": "🪂" }],
       "version": 12
     },
-    "seat": {
-      "id": "seat",
-      "name": "Seat",
+    "좌석": {
+      "id": "좌석",
+      "name": "좌석",
       "keywords": ["sit", "airplane", "transport", "bus", "flight", "fly"],
       "skins": [{ "unified": "1f4ba", "native": "💺" }],
       "version": 1
     },
-    "helicopter": {
-      "id": "helicopter",
-      "name": "Helicopter",
+    "헬리콥터": {
+      "id": "헬리콥터",
+      "name": "헬리콥터",
       "keywords": ["transportation", "vehicle", "fly"],
       "skins": [{ "unified": "1f681", "native": "🚁" }],
       "version": 1
     },
-    "suspension_railway": {
-      "id": "suspension_railway",
-      "name": "Suspension Railway",
+    "현수_철도": {
+      "id": "현수_철도",
+      "name": "현수_철도",
       "keywords": ["vehicle", "transportation"],
       "skins": [{ "unified": "1f69f", "native": "🚟" }],
       "version": 1
     },
-    "mountain_cableway": {
-      "id": "mountain_cableway",
-      "name": "Mountain Cableway",
+    "케이블카2": {
+      "id": "케이블카2",
+      "name": "케이블카2",
       "keywords": ["transportation", "vehicle", "ski"],
       "skins": [{ "unified": "1f6a0", "native": "🚠" }],
       "version": 1
     },
-    "aerial_tramway": {
-      "id": "aerial_tramway",
-      "name": "Aerial Tramway",
+    "케이블카": {
+      "id": "케이블카",
+      "name": "케이블카",
       "keywords": ["transportation", "vehicle", "ski"],
       "skins": [{ "unified": "1f6a1", "native": "🚡" }],
       "version": 1
     },
-    "satellite": {
-      "id": "satellite",
-      "name": "Satellite",
+    "위성": {
+      "id": "위성",
+      "name": "위성",
       "keywords": [
         "communication",
         "gps",
@@ -11823,9 +11823,9 @@
       "skins": [{ "unified": "1f6f0-fe0f", "native": "🛰️" }],
       "version": 1
     },
-    "rocket": {
-      "id": "rocket",
-      "name": "Rocket",
+    "로켓": {
+      "id": "로켓",
+      "name": "로켓",
       "keywords": [
         "launch",
         "ship",
@@ -11838,30 +11838,30 @@
       "skins": [{ "unified": "1f680", "native": "🚀" }],
       "version": 1
     },
-    "flying_saucer": {
-      "id": "flying_saucer",
-      "name": "Flying Saucer",
+    "비행접시": {
+      "id": "비행접시",
+      "name": "비행접시",
       "keywords": ["transportation", "vehicle", "ufo"],
       "skins": [{ "unified": "1f6f8", "native": "🛸" }],
       "version": 5
     },
-    "bellhop_bell": {
-      "id": "bellhop_bell",
-      "name": "Bellhop Bell",
+    "호출용_벨": {
+      "id": "호출용_벨",
+      "name": "호출용_벨",
       "keywords": ["service"],
       "skins": [{ "unified": "1f6ce-fe0f", "native": "🛎️" }],
       "version": 1
     },
-    "luggage": {
-      "id": "luggage",
-      "name": "Luggage",
+    "수화물": {
+      "id": "수화물",
+      "name": "수화물",
       "keywords": ["packing", "travel"],
       "skins": [{ "unified": "1f9f3", "native": "🧳" }],
       "version": 11
     },
-    "hourglass": {
-      "id": "hourglass",
-      "name": "Hourglass",
+    "모래시계": {
+      "id": "모래시계",
+      "name": "모래시계",
       "keywords": [
         "done",
         "time",
@@ -11875,51 +11875,51 @@
       "skins": [{ "unified": "231b", "native": "⌛" }],
       "version": 1
     },
-    "hourglass_flowing_sand": {
-      "id": "hourglass_flowing_sand",
-      "name": "Hourglass Not Done",
+    "모래가_내려오고_있는_모래시계": {
+      "id": "모래가_내려오고_있는_모래시계",
+      "name": "모래가_내려오고_있는_모래시계",
       "keywords": ["flowing", "sand", "oldschool", "time", "countdown"],
       "skins": [{ "unified": "23f3", "native": "⏳" }],
       "version": 1
     },
-    "watch": {
-      "id": "watch",
-      "name": "Watch",
+    "손목시계": {
+      "id": "손목시계",
+      "name": "손목시계",
       "keywords": ["time", "accessories"],
       "skins": [{ "unified": "231a", "native": "⌚" }],
       "version": 1
     },
-    "alarm_clock": {
-      "id": "alarm_clock",
-      "name": "Alarm Clock",
+    "자명종_시계": {
+      "id": "자명종_시계",
+      "name": "자명종_시계",
       "keywords": ["time", "wake"],
       "skins": [{ "unified": "23f0", "native": "⏰" }],
       "version": 1
     },
-    "stopwatch": {
-      "id": "stopwatch",
-      "name": "Stopwatch",
+    "스톱워치": {
+      "id": "스톱워치",
+      "name": "스톱워치",
       "keywords": ["time", "deadline"],
       "skins": [{ "unified": "23f1-fe0f", "native": "⏱️" }],
       "version": 1
     },
-    "timer_clock": {
-      "id": "timer_clock",
-      "name": "Timer Clock",
+    "타이머_시계": {
+      "id": "타이머_시계",
+      "name": "타이머_시계",
       "keywords": ["alarm"],
       "skins": [{ "unified": "23f2-fe0f", "native": "⏲️" }],
       "version": 1
     },
-    "mantelpiece_clock": {
-      "id": "mantelpiece_clock",
-      "name": "Mantelpiece Clock",
+    "맨틀피스_시계": {
+      "id": "맨틀피스_시계",
+      "name": "맨틀피스_시계",
       "keywords": ["time"],
       "skins": [{ "unified": "1f570-fe0f", "native": "🕰️" }],
       "version": 1
     },
-    "clock12": {
-      "id": "clock12",
-      "name": "Twelve O’clock",
+    "시계_12시": {
+      "id": "시계_12시",
+      "name": "시계_12시",
       "keywords": [
         "clock12",
         "o",
@@ -11935,9 +11935,9 @@
       "skins": [{ "unified": "1f55b", "native": "🕛" }],
       "version": 1
     },
-    "clock1230": {
-      "id": "clock1230",
-      "name": "Twelve-Thirty",
+    "시계_12시_30분": {
+      "id": "시계_12시_30분",
+      "name": "시계_12시_30분",
       "keywords": [
         "clock1230",
         "twelve",
@@ -11950,16 +11950,16 @@
       "skins": [{ "unified": "1f567", "native": "🕧" }],
       "version": 1
     },
-    "clock1": {
-      "id": "clock1",
-      "name": "One O’clock",
+    "시계_1시": {
+      "id": "시계_1시",
+      "name": "시계_1시",
       "keywords": ["clock1", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f550", "native": "🕐" }],
       "version": 1
     },
-    "clock130": {
-      "id": "clock130",
-      "name": "One-Thirty",
+    "시계_1시_30분": {
+      "id": "시계_1시_30분",
+      "name": "시계_1시_30분",
       "keywords": [
         "clock130",
         "one",
@@ -11972,16 +11972,16 @@
       "skins": [{ "unified": "1f55c", "native": "🕜" }],
       "version": 1
     },
-    "clock2": {
-      "id": "clock2",
-      "name": "Two O’clock",
-      "keywords": ["clock2", "o", "clock", "time", "late", "early", "schedule"],
+    "시계_2시": {
+      "id": "시계_2시",
+      "name": "시계_2시",
+      "keywords": ["시계_2시", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f551", "native": "🕑" }],
       "version": 1
     },
-    "clock230": {
-      "id": "clock230",
-      "name": "Two-Thirty",
+    "시계_2시_30분": {
+      "id": "시계_2시_30분",
+      "name": "시계_2시_30분",
       "keywords": [
         "clock230",
         "two",
@@ -11994,16 +11994,16 @@
       "skins": [{ "unified": "1f55d", "native": "🕝" }],
       "version": 1
     },
-    "clock3": {
-      "id": "clock3",
-      "name": "Three O’clock",
+    "시계_3시": {
+      "id": "시계_3시",
+      "name": "시계_3시",
       "keywords": ["clock3", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f552", "native": "🕒" }],
       "version": 1
     },
-    "clock330": {
-      "id": "clock330",
-      "name": "Three-Thirty",
+    "시계_3시_30분": {
+      "id": "시계_3시_30분",
+      "name": "시계_3시_30분",
       "keywords": [
         "clock330",
         "three",
@@ -12016,16 +12016,16 @@
       "skins": [{ "unified": "1f55e", "native": "🕞" }],
       "version": 1
     },
-    "clock4": {
-      "id": "clock4",
-      "name": "Four O’clock",
+    "시계_4시": {
+      "id": "시계_4시",
+      "name": "시계_4시",
       "keywords": ["clock4", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f553", "native": "🕓" }],
       "version": 1
     },
-    "clock430": {
-      "id": "clock430",
-      "name": "Four-Thirty",
+    "시계_4시_30분": {
+      "id": "시계_4시_30분",
+      "name": "시계_4시_30분",
       "keywords": [
         "clock430",
         "four",
@@ -12038,16 +12038,16 @@
       "skins": [{ "unified": "1f55f", "native": "🕟" }],
       "version": 1
     },
-    "clock5": {
-      "id": "clock5",
-      "name": "Five O’clock",
+    "시계_5시": {
+      "id": "시계_5시",
+      "name": "시계_5시",
       "keywords": ["clock5", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f554", "native": "🕔" }],
       "version": 1
     },
-    "clock530": {
-      "id": "clock530",
-      "name": "Five-Thirty",
+    "시계_5시_30분": {
+      "id": "시계_5시_30분",
+      "name": "시계_5시_30분",
       "keywords": [
         "clock530",
         "five",
@@ -12060,9 +12060,9 @@
       "skins": [{ "unified": "1f560", "native": "🕠" }],
       "version": 1
     },
-    "clock6": {
-      "id": "clock6",
-      "name": "Six O’clock",
+    "시계_6시": {
+      "id": "시계_6시",
+      "name": "시계_6시",
       "keywords": [
         "clock6",
         "o",
@@ -12077,9 +12077,9 @@
       "skins": [{ "unified": "1f555", "native": "🕕" }],
       "version": 1
     },
-    "clock630": {
-      "id": "clock630",
-      "name": "Six-Thirty",
+    "시계_6시_30분": {
+      "id": "시계_6시_30분",
+      "name": "시계_6시_30분",
       "keywords": [
         "clock630",
         "six",
@@ -12092,16 +12092,16 @@
       "skins": [{ "unified": "1f561", "native": "🕡" }],
       "version": 1
     },
-    "clock7": {
-      "id": "clock7",
-      "name": "Seven O’clock",
+    "시계_7시": {
+      "id": "시계_7시",
+      "name": "시계_7시",
       "keywords": ["clock7", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f556", "native": "🕖" }],
       "version": 1
     },
-    "clock730": {
-      "id": "clock730",
-      "name": "Seven-Thirty",
+    "시계_7시_30분": {
+      "id": "시계_7시_30분",
+      "name": "시계_7시_30분",
       "keywords": [
         "clock730",
         "seven",
@@ -12114,16 +12114,16 @@
       "skins": [{ "unified": "1f562", "native": "🕢" }],
       "version": 1
     },
-    "clock8": {
-      "id": "clock8",
-      "name": "Eight O’clock",
+    "시계_8시": {
+      "id": "시계_8시",
+      "name": "시계_8시",
       "keywords": ["clock8", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f557", "native": "🕗" }],
       "version": 1
     },
-    "clock830": {
-      "id": "clock830",
-      "name": "Eight-Thirty",
+    "시계_8시_30분": {
+      "id": "시계_8시_30분",
+      "name": "시계_8시_30분",
       "keywords": [
         "clock830",
         "eight",
@@ -12136,16 +12136,16 @@
       "skins": [{ "unified": "1f563", "native": "🕣" }],
       "version": 1
     },
-    "clock9": {
-      "id": "clock9",
-      "name": "Nine O’clock",
+    "시계_9시": {
+      "id": "시계_9시",
+      "name": "시계_9시",
       "keywords": ["clock9", "o", "clock", "time", "late", "early", "schedule"],
       "skins": [{ "unified": "1f558", "native": "🕘" }],
       "version": 1
     },
-    "clock930": {
-      "id": "clock930",
-      "name": "Nine-Thirty",
+    "시계_9시_30분": {
+      "id": "시계_9시_30분",
+      "name": "시계_9시_30분",
       "keywords": [
         "clock930",
         "nine",
@@ -12158,9 +12158,9 @@
       "skins": [{ "unified": "1f564", "native": "🕤" }],
       "version": 1
     },
-    "clock10": {
-      "id": "clock10",
-      "name": "Ten O’clock",
+    "시계_10시": {
+      "id": "시계_10시",
+      "name": "시계_10시",
       "keywords": [
         "clock10",
         "o",
@@ -12173,9 +12173,9 @@
       "skins": [{ "unified": "1f559", "native": "🕙" }],
       "version": 1
     },
-    "clock1030": {
-      "id": "clock1030",
-      "name": "Ten-Thirty",
+    "시계_10시_30분": {
+      "id": "시계_10시_30분",
+      "name": "시계_10시_30분",
       "keywords": [
         "clock1030",
         "ten",
@@ -12188,9 +12188,9 @@
       "skins": [{ "unified": "1f565", "native": "🕥" }],
       "version": 1
     },
-    "clock11": {
-      "id": "clock11",
-      "name": "Eleven O’clock",
+    "시계_11시": {
+      "id": "시계_11시",
+      "name": "시계_11시",
       "keywords": [
         "clock11",
         "o",
@@ -12203,9 +12203,9 @@
       "skins": [{ "unified": "1f55a", "native": "🕚" }],
       "version": 1
     },
-    "clock1130": {
-      "id": "clock1130",
-      "name": "Eleven-Thirty",
+    "시계_11시_30분": {
+      "id": "시계_11시_30분",
+      "name": "시계_11시_30분",
       "keywords": [
         "clock1130",
         "eleven",
@@ -12218,9 +12218,9 @@
       "skins": [{ "unified": "1f566", "native": "🕦" }],
       "version": 1
     },
-    "new_moon": {
-      "id": "new_moon",
-      "name": "New Moon",
+    "월삭": {
+      "id": "월삭",
+      "name": "월삭",
       "keywords": [
         "nature",
         "twilight",
@@ -12233,9 +12233,9 @@
       "skins": [{ "unified": "1f311", "native": "🌑" }],
       "version": 1
     },
-    "waxing_crescent_moon": {
-      "id": "waxing_crescent_moon",
-      "name": "Waxing Crescent Moon",
+    "초승달": {
+      "id": "초승달",
+      "name": "초승달",
       "keywords": [
         "nature",
         "twilight",
@@ -12248,9 +12248,9 @@
       "skins": [{ "unified": "1f312", "native": "🌒" }],
       "version": 1
     },
-    "first_quarter_moon": {
-      "id": "first_quarter_moon",
-      "name": "First Quarter Moon",
+    "상현달": {
+      "id": "상현달",
+      "name": "상현달",
       "keywords": [
         "nature",
         "twilight",
@@ -12263,9 +12263,9 @@
       "skins": [{ "unified": "1f313", "native": "🌓" }],
       "version": 1
     },
-    "moon": {
-      "id": "moon",
-      "name": "Waxing Gibbous Moon",
+    "달": {
+      "id": "달",
+      "name": "달",
       "keywords": [
         "nature",
         "night",
@@ -12280,9 +12280,9 @@
       "skins": [{ "unified": "1f314", "native": "🌔" }],
       "version": 1
     },
-    "full_moon": {
-      "id": "full_moon",
-      "name": "Full Moon",
+    "보름달": {
+      "id": "보름달",
+      "name": "보름달",
       "keywords": [
         "nature",
         "yellow",
@@ -12296,9 +12296,9 @@
       "skins": [{ "unified": "1f315", "native": "🌕" }],
       "version": 1
     },
-    "waning_gibbous_moon": {
-      "id": "waning_gibbous_moon",
-      "name": "Waning Gibbous Moon",
+    "하현_망간의_달": {
+      "id": "하현_망간의_달",
+      "name": "하현_망간의_달",
       "keywords": [
         "nature",
         "twilight",
@@ -12312,9 +12312,9 @@
       "skins": [{ "unified": "1f316", "native": "🌖" }],
       "version": 1
     },
-    "last_quarter_moon": {
-      "id": "last_quarter_moon",
-      "name": "Last Quarter Moon",
+    "하현달": {
+      "id": "하현달",
+      "name": "하현달",
       "keywords": [
         "nature",
         "twilight",
@@ -12327,9 +12327,9 @@
       "skins": [{ "unified": "1f317", "native": "🌗" }],
       "version": 1
     },
-    "waning_crescent_moon": {
-      "id": "waning_crescent_moon",
-      "name": "Waning Crescent Moon",
+    "그믐달": {
+      "id": "그믐달",
+      "name": "그믐달",
       "keywords": [
         "nature",
         "twilight",
@@ -12342,16 +12342,16 @@
       "skins": [{ "unified": "1f318", "native": "🌘" }],
       "version": 1
     },
-    "crescent_moon": {
-      "id": "crescent_moon",
-      "name": "Crescent Moon",
+    "조각달": {
+      "id": "조각달",
+      "name": "조각달",
       "keywords": ["night", "sleep", "sky", "evening", "magic"],
       "skins": [{ "unified": "1f319", "native": "🌙" }],
       "version": 1
     },
-    "new_moon_with_face": {
-      "id": "new_moon_with_face",
-      "name": "New Moon Face",
+    "얼굴이_있는_월삭": {
+      "id": "얼굴이_있는_월삭",
+      "name": "얼굴이_있는_월삭",
       "keywords": [
         "with",
         "nature",
@@ -12365,9 +12365,9 @@
       "skins": [{ "unified": "1f31a", "native": "🌚" }],
       "version": 1
     },
-    "first_quarter_moon_with_face": {
-      "id": "first_quarter_moon_with_face",
-      "name": "First Quarter Moon Face",
+    "얼굴이_있는_상현달": {
+      "id": "얼굴이_있는_상현달",
+      "name": "얼굴이_있는_상현달",
       "keywords": [
         "with",
         "nature",
@@ -12381,9 +12381,9 @@
       "skins": [{ "unified": "1f31b", "native": "🌛" }],
       "version": 1
     },
-    "last_quarter_moon_with_face": {
-      "id": "last_quarter_moon_with_face",
-      "name": "Last Quarter Moon Face",
+    "얼굴이_있는_하현달": {
+      "id": "얼굴이_있는_하현달",
+      "name": "얼굴이_있는_하현달",
       "keywords": [
         "with",
         "nature",
@@ -12397,16 +12397,16 @@
       "skins": [{ "unified": "1f31c", "native": "🌜" }],
       "version": 1
     },
-    "thermometer": {
-      "id": "thermometer",
-      "name": "Thermometer",
+    "온도계": {
+      "id": "온도계",
+      "name": "온도계",
       "keywords": ["weather", "temperature", "hot", "cold"],
       "skins": [{ "unified": "1f321-fe0f", "native": "🌡️" }],
       "version": 1
     },
-    "sunny": {
-      "id": "sunny",
-      "name": "Sun",
+    "화창": {
+      "id": "화창",
+      "name": "화창",
       "keywords": [
         "sunny",
         "weather",
@@ -12419,9 +12419,9 @@
       "skins": [{ "unified": "2600-fe0f", "native": "☀️" }],
       "version": 1
     },
-    "full_moon_with_face": {
-      "id": "full_moon_with_face",
-      "name": "Full Moon Face",
+    "얼굴이_있는_보름달": {
+      "id": "얼굴이_있는_보름달",
+      "name": "얼굴이 있는 보름달",
       "keywords": [
         "with",
         "nature",
@@ -12435,58 +12435,58 @@
       "skins": [{ "unified": "1f31d", "native": "🌝" }],
       "version": 1
     },
-    "sun_with_face": {
-      "id": "sun_with_face",
-      "name": "Sun with Face",
+    "얼굴이_있는_태양": {
+      "id": "얼굴이_있는_태양",
+      "name": "얼굴이_있는_태양",
       "keywords": ["nature", "morning", "sky"],
       "skins": [{ "unified": "1f31e", "native": "🌞" }],
       "version": 1
     },
-    "ringed_planet": {
-      "id": "ringed_planet",
-      "name": "Ringed Planet",
+    "고리가_있는_행성": {
+      "id": "고리가_있는_행성",
+      "name": "고리가_있는_행성",
       "keywords": ["outerspace"],
       "skins": [{ "unified": "1fa90", "native": "🪐" }],
       "version": 12
     },
-    "star": {
-      "id": "star",
-      "name": "Star",
+    "별": {
+      "id": "별",
+      "name": "별",
       "keywords": ["night", "yellow"],
       "skins": [{ "unified": "2b50", "native": "⭐" }],
       "version": 1
     },
-    "star2": {
-      "id": "star2",
-      "name": "Glowing Star",
+    "별2": {
+      "id": "별2",
+      "name": "반짝이는 별",
       "keywords": ["star2", "night", "sparkle", "awesome", "good", "magic"],
       "skins": [{ "unified": "1f31f", "native": "🌟" }],
       "version": 1
     },
-    "stars": {
-      "id": "stars",
-      "name": "Shooting Star",
+    "별똥별": {
+      "id": "별똥별",
+      "name": "별똥별",
       "keywords": ["stars", "night", "photo"],
       "skins": [{ "unified": "1f320", "native": "🌠" }],
       "version": 1
     },
-    "milky_way": {
-      "id": "milky_way",
-      "name": "Milky Way",
+    "은하수": {
+      "id": "은하수",
+      "name": "은하수",
       "keywords": ["photo", "space", "stars"],
       "skins": [{ "unified": "1f30c", "native": "🌌" }],
       "version": 1
     },
-    "cloud": {
-      "id": "cloud",
-      "name": "Cloud",
+    "구름": {
+      "id": "구름",
+      "name": "구름",
       "keywords": ["weather", "sky"],
       "skins": [{ "unified": "2601-fe0f", "native": "☁️" }],
       "version": 1
     },
-    "partly_sunny": {
-      "id": "partly_sunny",
-      "name": "Sun Behind Cloud",
+    "부분적으로_맑음": {
+      "id": "부분적으로_맑음",
+      "name": "부분적으로_맑음",
       "keywords": [
         "partly",
         "sunny",
@@ -12500,79 +12500,79 @@
       "skins": [{ "unified": "26c5", "native": "⛅" }],
       "version": 1
     },
-    "thunder_cloud_and_rain": {
-      "id": "thunder_cloud_and_rain",
-      "name": "Cloud with Lightning and Rain",
+    "천둥과_비": {
+      "id": "천둥과_비",
+      "name": "천둥과_비",
       "keywords": ["thunder", "weather"],
       "skins": [{ "unified": "26c8-fe0f", "native": "⛈️" }],
       "version": 1
     },
-    "mostly_sunny": {
-      "id": "mostly_sunny",
-      "name": "Sun Behind Small Cloud",
+    "대체로_맑음": {
+      "id": "대체로_맑음",
+      "name": "대체로_맑음",
       "keywords": ["mostly", "sunny", "weather"],
       "skins": [{ "unified": "1f324-fe0f", "native": "🌤️" }],
       "version": 1
     },
-    "barely_sunny": {
-      "id": "barely_sunny",
-      "name": "Sun Behind Large Cloud",
+    "가까스로_맑음": {
+      "id": "가까스로_맑음",
+      "name": "가까스로_맑음",
       "keywords": ["barely", "sunny", "weather"],
       "skins": [{ "unified": "1f325-fe0f", "native": "🌥️" }],
       "version": 1
     },
-    "partly_sunny_rain": {
-      "id": "partly_sunny_rain",
-      "name": "Sun Behind Rain Cloud",
+    "부분적으로_맑고_때때로_비": {
+      "id": "부분적으로_맑고_때때로_비",
+      "name": "부분적으로_맑고_때때로_비",
       "keywords": ["partly", "sunny", "weather"],
       "skins": [{ "unified": "1f326-fe0f", "native": "🌦️" }],
       "version": 1
     },
-    "rain_cloud": {
-      "id": "rain_cloud",
-      "name": "Cloud with Rain",
+    "비구름": {
+      "id": "비구름",
+      "name": "비구름",
       "keywords": ["weather"],
       "skins": [{ "unified": "1f327-fe0f", "native": "🌧️" }],
       "version": 1
     },
-    "snow_cloud": {
-      "id": "snow_cloud",
-      "name": "Cloud with Snow",
+    "눈과_구름": {
+      "id": "눈과_구름",
+      "name": "눈과_구름",
       "keywords": ["weather"],
       "skins": [{ "unified": "1f328-fe0f", "native": "🌨️" }],
       "version": 1
     },
-    "lightning": {
-      "id": "lightning",
-      "name": "Cloud with Lightning",
+    "번개": {
+      "id": "번개",
+      "name": "번개",
       "keywords": ["weather", "thunder"],
       "skins": [{ "unified": "1f329-fe0f", "native": "🌩️" }],
       "version": 1
     },
-    "tornado": {
-      "id": "tornado",
-      "name": "Tornado",
+    "토네이도": {
+      "id": "토네이도",
+      "name": "토네이도",
       "keywords": ["cloud", "weather", "cyclone", "twister"],
       "skins": [{ "unified": "1f32a-fe0f", "native": "🌪️" }],
       "version": 1
     },
-    "fog": {
-      "id": "fog",
-      "name": "Fog",
+    "안개": {
+      "id": "안개",
+      "name": "안개",
       "keywords": ["weather"],
       "skins": [{ "unified": "1f32b-fe0f", "native": "🌫️" }],
       "version": 1
     },
-    "wind_blowing_face": {
-      "id": "wind_blowing_face",
-      "name": "Wind Face",
+    "바람을_불어내는_얼굴": {
+      "id": "바람을_불어내는_얼굴",
+      "name": "바람을_불어내는_얼굴",
       "keywords": ["blowing", "gust", "air"],
       "skins": [{ "unified": "1f32c-fe0f", "native": "🌬️" }],
       "version": 1
     },
-    "cyclone": {
-      "id": "cyclone",
-      "name": "Cyclone",
+    "태풍": {
+      "id": "태풍",
+      "name": "태풍",
       "keywords": [
         "weather",
         "swirl",
@@ -12589,9 +12589,9 @@
       "skins": [{ "unified": "1f300", "native": "🌀" }],
       "version": 1
     },
-    "rainbow": {
-      "id": "rainbow",
-      "name": "Rainbow",
+    "무지개": {
+      "id": "무지개",
+      "name": "무지개",
       "keywords": [
         "nature",
         "happy",
@@ -12604,51 +12604,51 @@
       "skins": [{ "unified": "1f308", "native": "🌈" }],
       "version": 1
     },
-    "closed_umbrella": {
-      "id": "closed_umbrella",
-      "name": "Closed Umbrella",
+    "접힌_우산": {
+      "id": "접힌_우산",
+      "name": "접힌_우산",
       "keywords": ["weather", "rain", "drizzle"],
       "skins": [{ "unified": "1f302", "native": "🌂" }],
       "version": 1
     },
-    "umbrella": {
-      "id": "umbrella",
-      "name": "Umbrella",
+    "우산": {
+      "id": "우산",
+      "name": "우산",
       "keywords": ["weather", "spring"],
       "skins": [{ "unified": "2602-fe0f", "native": "☂️" }],
       "version": 1
     },
-    "umbrella_with_rain_drops": {
-      "id": "umbrella_with_rain_drops",
-      "name": "Umbrella with Rain Drops",
+    "빗방울과_우산": {
+      "id": "빗방울과_우산",
+      "name": "빗방울과_우산",
       "keywords": ["rainy", "weather", "spring"],
       "skins": [{ "unified": "2614", "native": "☔" }],
       "version": 1
     },
-    "umbrella_on_ground": {
-      "id": "umbrella_on_ground",
-      "name": "Umbrella on Ground",
+    "땅에_꽂힌_우산": {
+      "id": "땅에_꽂힌_우산",
+      "name": "땅에_꽂힌_우산",
       "keywords": ["weather", "summer"],
       "skins": [{ "unified": "26f1-fe0f", "native": "⛱️" }],
       "version": 1
     },
-    "zap": {
-      "id": "zap",
-      "name": "High Voltage",
+    "번쩍": {
+      "id": "번쩍",
+      "name": "번쩍",
       "keywords": ["zap", "thunder", "weather", "lightning", "bolt", "fast"],
       "skins": [{ "unified": "26a1", "native": "⚡" }],
       "version": 1
     },
-    "snowflake": {
-      "id": "snowflake",
-      "name": "Snowflake",
+    "눈송이": {
+      "id": "눈송이",
+      "name": "눈송이",
       "keywords": ["winter", "season", "cold", "weather", "christmas", "xmas"],
       "skins": [{ "unified": "2744-fe0f", "native": "❄️" }],
       "version": 1
     },
-    "snowman": {
-      "id": "snowman",
-      "name": "Snowman",
+    "눈사람": {
+      "id": "눈사람",
+      "name": "눈사람",
       "keywords": [
         "winter",
         "season",
@@ -12661,9 +12661,9 @@
       "skins": [{ "unified": "2603-fe0f", "native": "☃️" }],
       "version": 1
     },
-    "snowman_without_snow": {
-      "id": "snowman_without_snow",
-      "name": "Snowman Without Snow",
+    "눈_없는_눈사람": {
+      "id": "눈_없는_눈사람",
+      "name": "눈_없는_눈사람",
       "keywords": [
         "winter",
         "season",
@@ -12676,30 +12676,30 @@
       "skins": [{ "unified": "26c4", "native": "⛄" }],
       "version": 1
     },
-    "comet": {
-      "id": "comet",
-      "name": "Comet",
+    "혜성": {
+      "id": "혜성",
+      "name": "혜성",
       "keywords": ["space"],
       "skins": [{ "unified": "2604-fe0f", "native": "☄️" }],
       "version": 1
     },
-    "fire": {
-      "id": "fire",
-      "name": "Fire",
+    "불": {
+      "id": "불",
+      "name": "불",
       "keywords": ["hot", "cook", "flame"],
       "skins": [{ "unified": "1f525", "native": "🔥" }],
       "version": 1
     },
-    "droplet": {
-      "id": "droplet",
-      "name": "Droplet",
+    "물방울": {
+      "id": "물방울",
+      "name": "물방울",
       "keywords": ["water", "drip", "faucet", "spring"],
       "skins": [{ "unified": "1f4a7", "native": "💧" }],
       "version": 1
     },
-    "ocean": {
-      "id": "ocean",
-      "name": "Water Wave",
+    "대양": {
+      "id": "대양",
+      "name": "대양",
       "keywords": ["ocean", "sea", "nature", "tsunami", "disaster"],
       "skins": [{ "unified": "1f30a", "native": "🌊" }],
       "version": 1
