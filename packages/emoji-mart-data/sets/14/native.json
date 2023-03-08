@@ -131,7 +131,7 @@
         "손_꼬집기",
         "v",
         "행운의_손가락",
-        "두_번재_손가락과_엄지_손가락을 겹치기",
+        "두_번재_손가락과_엄지_손가락을_겹치기",
         "사랑해_수신호",
         "피스_손_모양",
         "전화해_손_모양",
@@ -595,7 +595,7 @@
         "스컹크",
         "캥거루",
         "오소리",
-        "발",
+        "발자국",
         "칠면조",
         "닭",
         "수탉",
@@ -1990,45 +1990,45 @@
       "skins": [{ "unified": "1f605", "native": "😅" }],
       "version": 1
     },
-    "rolling_on_the_floor_laughing": {
-      "id": "rolling_on_the_floor_laughing",
-      "name": "Rolling on the Floor Laughing",
+    "바닥을_구르면서_웃기": {
+      "id": "바닥을_구르면서_웃기",
+      "name": "바닥을_구르면서_웃기",
       "keywords": ["face", "lol", "haha", "rofl"],
       "skins": [{ "unified": "1f923", "native": "🤣" }],
       "version": 3
     },
-    "joy": {
-      "id": "joy",
-      "name": "Face with Tears of Joy",
+    "기쁨": {
+      "id": "기쁨",
+      "name": "기쁨",
       "keywords": ["cry", "weep", "happy", "happytears", "haha"],
       "skins": [{ "unified": "1f602", "native": "😂" }],
       "version": 1
     },
-    "slightly_smiling_face": {
-      "id": "slightly_smiling_face",
-      "name": "Slightly Smiling Face",
+    "미소짓는_얼굴": {
+      "id": "미소짓는_얼굴",
+      "name": "미소짓는_얼굴",
       "emoticons": [":)", "(:", ":-)"],
       "keywords": ["smile"],
       "skins": [{ "unified": "1f642", "native": "🙂" }],
       "version": 1
     },
-    "upside_down_face": {
-      "id": "upside_down_face",
-      "name": "Upside-Down Face",
+    "거꾸로_뒤집힌_얼굴": {
+      "id": "거꾸로_뒤집힌_얼굴",
+      "name": "거꾸로_뒤집힌_얼굴",
       "keywords": ["upside", "down", "flipped", "silly", "smile"],
       "skins": [{ "unified": "1f643", "native": "🙃" }],
       "version": 1
     },
-    "melting_face": {
-      "id": "melting_face",
-      "name": "Melting Face",
+    "녹고_있는_얼굴": {
+      "id": "녹고_있는_얼굴",
+      "name": "녹고_있는_얼굴",
       "keywords": ["hot", "heat"],
       "skins": [{ "unified": "1fae0", "native": "🫠" }],
       "version": 14
     },
-    "wink": {
-      "id": "wink",
-      "name": "Winking Face",
+    "윙크": {
+      "id": "윙크",
+      "name": "윙크",
       "emoticons": [";)", ";-)"],
       "keywords": [
         "wink",
@@ -2042,9 +2042,9 @@
       "skins": [{ "unified": "1f609", "native": "😉" }],
       "version": 1
     },
-    "blush": {
-      "id": "blush",
-      "name": "Smiling Face with Smiling Eyes",
+    "미소짓는_상기된_얼굴": {
+      "id": "미소짓는_상기된_얼굴",
+      "name": "미소짓는_상기된_얼굴",
       "emoticons": [":)"],
       "keywords": [
         "blush",
@@ -2059,16 +2059,16 @@
       "skins": [{ "unified": "1f60a", "native": "😊" }],
       "version": 1
     },
-    "innocent": {
-      "id": "innocent",
-      "name": "Smiling Face with Halo",
+    "결백": {
+      "id": "결백",
+      "name": "결백",
       "keywords": ["innocent", "angel", "heaven"],
       "skins": [{ "unified": "1f607", "native": "😇" }],
       "version": 1
     },
-    "smiling_face_with_3_hearts": {
-      "id": "smiling_face_with_3_hearts",
-      "name": "Smiling Face with Hearts",
+    "하트_3개가_있는_웃는_얼굴": {
+      "id": "하트_3개가_있는_웃는_얼굴",
+      "name": "하트_3개가_있는_웃는_얼굴",
       "keywords": [
         "3",
         "love",
@@ -2082,9 +2082,9 @@
       "skins": [{ "unified": "1f970", "native": "🥰" }],
       "version": 11
     },
-    "heart_eyes": {
-      "id": "heart_eyes",
-      "name": "Smiling Face with Heart-Eyes",
+    "눈이_하트_모양인_얼굴": {
+      "id": "눈이_하트_모양인_얼굴",
+      "name": "눈이_하트_모양인_얼굴",
       "keywords": [
         "heart",
         "eyes",
@@ -2098,9 +2098,9 @@
       "skins": [{ "unified": "1f60d", "native": "😍" }],
       "version": 1
     },
-    "star-struck": {
-      "id": "star-struck",
-      "name": "Star-Struck",
+    "완전히_반한": {
+      "id": "완전히_반한",
+      "name": "완전히_반한",
       "keywords": [
         "star",
         "struck",
@@ -2114,9 +2114,9 @@
       "skins": [{ "unified": "1f929", "native": "🤩" }],
       "version": 5
     },
-    "kissing_heart": {
-      "id": "kissing_heart",
-      "name": "Face Blowing a Kiss",
+    "키스_하트": {
+      "id": "키스_하트",
+      "name": "키스_하트",
       "emoticons": [":*", ":-*"],
       "keywords": [
         "kissing",
@@ -2130,23 +2130,23 @@
       "skins": [{ "unified": "1f618", "native": "😘" }],
       "version": 1
     },
-    "kissing": {
-      "id": "kissing",
-      "name": "Kissing Face",
+    "키스하는_얼굴": {
+      "id": "키스하는_얼굴",
+      "name": "키스하는_얼굴",
       "keywords": ["love", "like", "3", "valentines", "infatuation", "kiss"],
       "skins": [{ "unified": "1f617", "native": "😗" }],
       "version": 1
     },
-    "relaxed": {
-      "id": "relaxed",
-      "name": "Smiling Face",
+    "휴식": {
+      "id": "휴식",
+      "name": "휴식",
       "keywords": ["relaxed", "blush", "massage", "happiness"],
       "skins": [{ "unified": "263a-fe0f", "native": "☺️" }],
       "version": 1
     },
-    "kissing_closed_eyes": {
-      "id": "kissing_closed_eyes",
-      "name": "Kissing Face with Closed Eyes",
+    "눈을_감고_키스하는_얼굴": {
+      "id": "눈을_감고_키스하는_얼굴",
+      "name": "눈을_감고_키스하는_얼굴",
       "keywords": [
         "love",
         "like",
@@ -2158,23 +2158,23 @@
       "skins": [{ "unified": "1f61a", "native": "😚" }],
       "version": 1
     },
-    "kissing_smiling_eyes": {
-      "id": "kissing_smiling_eyes",
-      "name": "Kissing Face with Smiling Eyes",
+    "눈웃음치며_키스하는_얼굴": {
+      "id": "눈웃음치며_키스하는_얼굴",
+      "name": "눈웃음치며_키스하는_얼굴",
       "keywords": ["affection", "valentines", "infatuation", "kiss"],
       "skins": [{ "unified": "1f619", "native": "😙" }],
       "version": 1
     },
-    "smiling_face_with_tear": {
-      "id": "smiling_face_with_tear",
-      "name": "Smiling Face with Tear",
+    "웃으며_눈물을_흘리는_얼굴": {
+      "id": "웃으며_눈물을_흘리는_얼굴",
+      "name": "웃으며_눈물을_흘리는_얼굴",
       "keywords": ["sad", "cry", "pretend"],
       "skins": [{ "unified": "1f972", "native": "🥲" }],
       "version": 13
     },
-    "yum": {
-      "id": "yum",
-      "name": "Face Savoring Food",
+    "냠냠": {
+      "id": "냠냠",
+      "name": "냠냠",
       "keywords": [
         "yum",
         "happy",
@@ -2190,9 +2190,9 @@
       "skins": [{ "unified": "1f60b", "native": "😋" }],
       "version": 1
     },
-    "stuck_out_tongue": {
-      "id": "stuck_out_tongue",
-      "name": "Face with Tongue",
+    "혀를_내민_모양": {
+      "id": "혀를_내민_모양",
+      "name": "혀를_내민_모양",
       "emoticons": [":p", ":-p", ":P", ":-P", ":b", ":-b"],
       "keywords": [
         "stuck",
@@ -2206,9 +2206,9 @@
       "skins": [{ "unified": "1f61b", "native": "😛" }],
       "version": 1
     },
-    "stuck_out_tongue_winking_eye": {
-      "id": "stuck_out_tongue_winking_eye",
-      "name": "Winking Face with Tongue",
+    "윙크를_하며_혀를_내민_표정": {
+      "id": "윙크를_하며_혀를_내민_표정",
+      "name": "윙크를_하며_혀를_내민_표정",
       "emoticons": [";p", ";-p", ";b", ";-b", ";P", ";-P"],
       "keywords": [
         "stuck",
@@ -2224,9 +2224,9 @@
       "skins": [{ "unified": "1f61c", "native": "😜" }],
       "version": 1
     },
-    "zany_face": {
-      "id": "zany_face",
-      "name": "Zany Face",
+    "바보같은_얼굴": {
+      "id": "바보같은_얼굴",
+      "name": "바보같은_얼굴",
       "keywords": [
         "grinning",
         "with",
@@ -2241,9 +2241,9 @@
       "skins": [{ "unified": "1f92a", "native": "🤪" }],
       "version": 5
     },
-    "stuck_out_tongue_closed_eyes": {
-      "id": "stuck_out_tongue_closed_eyes",
-      "name": "Squinting Face with Tongue",
+    "눈을_감고_혀를_내민_얼굴": {
+      "id": "눈을_감고_혀를_내민_얼굴",
+      "name": "눈을_감고_혀를_내민_얼굴",
       "keywords": [
         "stuck",
         "out",
@@ -2257,23 +2257,23 @@
       "skins": [{ "unified": "1f61d", "native": "😝" }],
       "version": 1
     },
-    "money_mouth_face": {
-      "id": "money_mouth_face",
-      "name": "Money-Mouth Face",
+    "입에_돈을_물고_있는_얼굴": {
+      "id": "입에_돈을_물고_있는_얼굴",
+      "name": "입에_돈을_물고_있는_얼굴",
       "keywords": ["money", "mouth", "rich", "dollar"],
       "skins": [{ "unified": "1f911", "native": "🤑" }],
       "version": 1
     },
-    "hugging_face": {
-      "id": "hugging_face",
-      "name": "Hugging Face",
+    "안아주는_얼굴": {
+      "id": "안아주는_얼굴",
+      "name": "안아주는_얼굴",
       "keywords": ["smile", "hug"],
       "skins": [{ "unified": "1f917", "native": "🤗" }],
       "version": 1
     },
-    "face_with_hand_over_mouth": {
-      "id": "face_with_hand_over_mouth",
-      "name": "Face with Hand over Mouth",
+    "손으로_입을_가린_얼굴": {
+      "id": "손으로_입을_가린_얼굴",
+      "name": "손으로_입을_가린_얼굴",
       "keywords": [
         "smiling",
         "eyes",
@@ -2286,23 +2286,23 @@
       "skins": [{ "unified": "1f92d", "native": "🤭" }],
       "version": 5
     },
-    "face_with_open_eyes_and_hand_over_mouth": {
-      "id": "face_with_open_eyes_and_hand_over_mouth",
-      "name": "Face with Open Eyes and Hand over Mouth",
+    "눈을_뜨고_손을_입_위에_댄_얼굴": {
+      "id": "눈을_뜨고_손을_입_위에_댄_얼굴",
+      "name": "눈을_뜨고_손을_입_위에_댄_얼굴",
       "keywords": ["silence", "secret", "shock", "surprise"],
       "skins": [{ "unified": "1fae2", "native": "🫢" }],
       "version": 14
     },
-    "face_with_peeking_eye": {
-      "id": "face_with_peeking_eye",
-      "name": "Face with Peeking Eye",
+    "살짝_엿보는_눈이_있는_얼굴": {
+      "id": "살짝_엿보는_눈이_있는_얼굴",
+      "name": "살짝_엿보는_눈이_있는_얼굴",
       "keywords": ["scared", "frightening", "embarrassing"],
       "skins": [{ "unified": "1fae3", "native": "🫣" }],
       "version": 14
     },
-    "shushing_face": {
-      "id": "shushing_face",
-      "name": "Shushing Face",
+    "조용히_하라는_표정": {
+      "id": "조용히_하라는_표정",
+      "name": "조용히_하라는_표정",
       "keywords": [
         "with",
         "finger",
@@ -2315,30 +2315,30 @@
       "skins": [{ "unified": "1f92b", "native": "🤫" }],
       "version": 5
     },
-    "thinking_face": {
-      "id": "thinking_face",
-      "name": "Thinking Face",
+    "생각하는_얼굴": {
+      "id": "생각하는_얼굴",
+      "name": "생각하는_얼굴",
       "keywords": ["hmmm", "think", "consider"],
       "skins": [{ "unified": "1f914", "native": "🤔" }],
       "version": 1
     },
-    "saluting_face": {
-      "id": "saluting_face",
-      "name": "Saluting Face",
+    "경례를_하는_표정": {
+      "id": "경례를_하는_표정",
+      "name": "경례를_하는_표정",
       "keywords": ["respect", "salute"],
       "skins": [{ "unified": "1fae1", "native": "🫡" }],
       "version": 14
     },
-    "zipper_mouth_face": {
-      "id": "zipper_mouth_face",
-      "name": "Zipper-Mouth Face",
+    "입에_지퍼를_채우는_얼굴": {
+      "id": "입에_지퍼를_채우는_얼굴",
+      "name": "입에_지퍼를_채우는_얼굴",
       "keywords": ["zipper", "mouth", "sealed", "secret"],
       "skins": [{ "unified": "1f910", "native": "🤐" }],
       "version": 1
     },
-    "face_with_raised_eyebrow": {
-      "id": "face_with_raised_eyebrow",
-      "name": "Face with Raised Eyebrow",
+    "눈썹을_들어_올린_표정": {
+      "id": "눈썹을_들어_올린_표정",
+      "name": "눈썹을_들어_올린_표정",
       "keywords": [
         "one",
         "distrust",
@@ -2350,53 +2350,53 @@
       "skins": [{ "unified": "1f928", "native": "🤨" }],
       "version": 5
     },
-    "neutral_face": {
-      "id": "neutral_face",
-      "name": "Neutral Face",
+    "담담한_얼굴": {
+      "id": "담담한_얼굴",
+      "name": "담담한_얼굴",
       "emoticons": [":|", ":-|"],
       "keywords": ["indifference", "meh", ":", ""],
       "skins": [{ "unified": "1f610", "native": "😐" }],
       "version": 1
     },
-    "expressionless": {
-      "id": "expressionless",
-      "name": "Expressionless Face",
+    "무표정": {
+      "id": "무표정",
+      "name": "무표정",
       "emoticons": ["-_-"],
       "keywords": ["indifferent", "-", "", "meh", "deadpan"],
       "skins": [{ "unified": "1f611", "native": "😑" }],
       "version": 1
     },
-    "no_mouth": {
-      "id": "no_mouth",
-      "name": "Face Without Mouth",
+    "입_없는_얼굴": {
+      "id": "입_없는_얼굴",
+      "name": "입_없는_얼굴",
       "keywords": ["no", "hellokitty"],
       "skins": [{ "unified": "1f636", "native": "😶" }],
       "version": 1
     },
-    "dotted_line_face": {
-      "id": "dotted_line_face",
-      "name": "Dotted Line Face",
+    "테두리가_점선으로_된_얼굴": {
+      "id": "테두리가_점선으로_된_얼굴",
+      "name": "테두리가_점선으로_된_얼굴",
       "keywords": ["invisible", "lonely", "isolation", "depression"],
       "skins": [{ "unified": "1fae5", "native": "🫥" }],
       "version": 14
     },
-    "face_in_clouds": {
-      "id": "face_in_clouds",
-      "name": "Face in Clouds",
+    "구름_속의_얼굴": {
+      "id": "구름_속의_얼굴",
+      "name": "구름_속의_얼굴",
       "keywords": ["shower", "steam", "dream"],
       "skins": [{ "unified": "1f636-200d-1f32b-fe0f", "native": "😶‍🌫️" }],
       "version": 13.1
     },
-    "smirk": {
-      "id": "smirk",
-      "name": "Smirking Face",
+    "히죽거림": {
+      "id": "히죽거림",
+      "name": "히죽거림",
       "keywords": ["smirk", "smile", "mean", "prank", "smug", "sarcasm"],
       "skins": [{ "unified": "1f60f", "native": "😏" }],
       "version": 1
     },
-    "unamused": {
-      "id": "unamused",
-      "name": "Unamused Face",
+    "재미없는": {
+      "id": "재미없는",
+      "name": "재미없는 표정",
       "emoticons": [":("],
       "keywords": [
         "indifference",
@@ -2413,409 +2413,409 @@
       "skins": [{ "unified": "1f612", "native": "😒" }],
       "version": 1
     },
-    "face_with_rolling_eyes": {
-      "id": "face_with_rolling_eyes",
-      "name": "Face with Rolling Eyes",
+    "좌우로_눈알을_굴리는_얼굴": {
+      "id": "좌우로_눈알을_굴리는_얼굴",
+      "name": "좌우로_눈알을_굴리는_얼굴",
       "keywords": ["eyeroll", "frustrated"],
       "skins": [{ "unified": "1f644", "native": "🙄" }],
       "version": 1
     },
-    "grimacing": {
-      "id": "grimacing",
-      "name": "Grimacing Face",
+    "찌푸림": {
+      "id": "찌푸림",
+      "name": "찌푸림",
       "keywords": ["grimace", "teeth"],
       "skins": [{ "unified": "1f62c", "native": "😬" }],
       "version": 1
     },
-    "face_exhaling": {
-      "id": "face_exhaling",
-      "name": "Face Exhaling",
+    "숨을_내쉬는_얼굴": {
+      "id": "숨을_내쉬는_얼굴",
+      "name": "숨을_내쉬는_얼굴",
       "keywords": ["relieve", "relief", "tired", "sigh"],
       "skins": [{ "unified": "1f62e-200d-1f4a8", "native": "😮‍💨" }],
       "version": 13.1
     },
-    "lying_face": {
-      "id": "lying_face",
-      "name": "Lying Face",
+    "거짓말하는_얼굴": {
+      "id": "거짓말하는_얼굴",
+      "name": "거짓말하는_얼굴",
       "keywords": ["lie", "pinocchio"],
       "skins": [{ "unified": "1f925", "native": "🤥" }],
       "version": 3
     },
-    "relieved": {
-      "id": "relieved",
-      "name": "Relieved Face",
+    "안심한_표정": {
+      "id": "안심한_표정",
+      "name": "안심한_표정",
       "keywords": ["relaxed", "phew", "massage", "happiness"],
       "skins": [{ "unified": "1f60c", "native": "😌" }],
       "version": 1
     },
-    "pensive": {
-      "id": "pensive",
-      "name": "Pensive Face",
+    "수심_어린": {
+      "id": "수심_어린",
+      "name": "수심_어린",
       "keywords": ["sad", "depressed", "upset"],
       "skins": [{ "unified": "1f614", "native": "😔" }],
       "version": 1
     },
-    "sleepy": {
-      "id": "sleepy",
-      "name": "Sleepy Face",
+    "졸림": {
+      "id": "졸림",
+      "name": "졸림",
       "keywords": ["tired", "rest", "nap"],
       "skins": [{ "unified": "1f62a", "native": "😪" }],
       "version": 1
     },
-    "drooling_face": {
-      "id": "drooling_face",
-      "name": "Drooling Face",
+    "침_흘리는_얼굴": {
+      "id": "침_흘리는_얼굴",
+      "name": "침_흘리는_얼굴",
       "keywords": [],
       "skins": [{ "unified": "1f924", "native": "🤤" }],
       "version": 3
     },
-    "sleeping": {
-      "id": "sleeping",
-      "name": "Sleeping Face",
+    "수면": {
+      "id": "수면",
+      "name": "수면",
       "keywords": ["tired", "sleepy", "night", "zzz"],
       "skins": [{ "unified": "1f634", "native": "😴" }],
       "version": 1
     },
-    "mask": {
-      "id": "mask",
-      "name": "Face with Medical Mask",
+    "마스크": {
+      "id": "마스크",
+      "name": "마스크",
       "keywords": ["sick", "ill", "disease"],
       "skins": [{ "unified": "1f637", "native": "😷" }],
       "version": 1
     },
-    "face_with_thermometer": {
-      "id": "face_with_thermometer",
-      "name": "Face with Thermometer",
+    "체온계를_물고_있는_얼굴": {
+      "id": "체온계를_물고_있는_얼굴",
+      "name": "체온계를_물고_있는_얼굴",
       "keywords": ["sick", "temperature", "cold", "fever"],
       "skins": [{ "unified": "1f912", "native": "🤒" }],
       "version": 1
     },
-    "face_with_head_bandage": {
-      "id": "face_with_head_bandage",
-      "name": "Face with Head-Bandage",
+    "머리에_붕대를_감은_얼굴": {
+      "id": "머리에_붕대를_감은_얼굴",
+      "name": "머리에_붕대를_감은_얼굴",
       "keywords": ["head", "bandage", "injured", "clumsy", "hurt"],
       "skins": [{ "unified": "1f915", "native": "🤕" }],
       "version": 1
     },
-    "nauseated_face": {
-      "id": "nauseated_face",
-      "name": "Nauseated Face",
+    "메스꺼운_얼굴": {
+      "id": "메스꺼운_얼굴",
+      "name": "메스꺼운_얼굴",
       "keywords": ["vomit", "gross", "green", "sick", "throw", "up", "ill"],
       "skins": [{ "unified": "1f922", "native": "🤢" }],
       "version": 3
     },
-    "face_vomiting": {
-      "id": "face_vomiting",
-      "name": "Face Vomiting",
+    "토하는_얼굴": {
+      "id": "토하는_얼굴",
+      "name": "토하는_얼굴",
       "keywords": ["with", "open", "mouth", "sick"],
       "skins": [{ "unified": "1f92e", "native": "🤮" }],
       "version": 5
     },
-    "sneezing_face": {
-      "id": "sneezing_face",
-      "name": "Sneezing Face",
+    "재채기하는_얼굴": {
+      "id": "재채기하는_얼굴",
+      "name": "재채기하는_얼굴",
       "keywords": ["gesundheit", "sneeze", "sick", "allergy"],
       "skins": [{ "unified": "1f927", "native": "🤧" }],
       "version": 3
     },
-    "hot_face": {
-      "id": "hot_face",
-      "name": "Hot Face",
+    "뜨거워하는_얼굴": {
+      "id": "뜨거워하는_얼굴",
+      "name": "뜨거워하는_얼굴",
       "keywords": ["feverish", "heat", "red", "sweating"],
       "skins": [{ "unified": "1f975", "native": "🥵" }],
       "version": 11
     },
-    "cold_face": {
-      "id": "cold_face",
-      "name": "Cold Face",
+    "추워하는_얼굴": {
+      "id": "추워하는_얼굴",
+      "name": "추워하는_얼굴",
       "keywords": ["blue", "freezing", "frozen", "frostbite", "icicles"],
       "skins": [{ "unified": "1f976", "native": "🥶" }],
       "version": 11
     },
-    "woozy_face": {
-      "id": "woozy_face",
-      "name": "Woozy Face",
+    "멍한_얼굴": {
+      "id": "멍한_얼굴",
+      "name": "멍한_얼굴",
       "keywords": ["dizzy", "intoxicated", "tipsy", "wavy"],
       "skins": [{ "unified": "1f974", "native": "🥴" }],
       "version": 11
     },
-    "dizzy_face": {
-      "id": "dizzy_face",
-      "name": "Dizzy Face",
+    "어지러워하는_얼굴": {
+      "id": "어지러워하는_얼굴",
+      "name": "어지러워하는_얼굴",
       "keywords": ["spent", "unconscious", "xox"],
       "skins": [{ "unified": "1f635", "native": "😵" }],
       "version": 1
     },
-    "face_with_spiral_eyes": {
-      "id": "face_with_spiral_eyes",
-      "name": "Face with Spiral Eyes",
+    "빙빙_도는_눈이_있는_얼굴": {
+      "id": "빙빙_도는_눈이_있는_얼굴",
+      "name": "빙빙_도는_눈이_있는_얼굴",
       "keywords": ["sick", "ill", "confused", "nauseous", "nausea"],
       "skins": [{ "unified": "1f635-200d-1f4ab", "native": "😵‍💫" }],
       "version": 13.1
     },
-    "exploding_head": {
-      "id": "exploding_head",
-      "name": "Exploding Head",
+    "폭발하는_머리": {
+      "id": "폭발하는_머리",
+      "name": "폭발하는_머리",
       "keywords": ["shocked", "face", "with", "mind", "blown"],
       "skins": [{ "unified": "1f92f", "native": "🤯" }],
       "version": 5
     },
-    "face_with_cowboy_hat": {
-      "id": "face_with_cowboy_hat",
-      "name": "Cowboy Hat Face",
+    "카우보이_모자를_쓴_얼굴": {
+      "id": "카우보이_모자를_쓴_얼굴",
+      "name": "카우보이_모자를_쓴_얼굴",
       "keywords": ["with", "cowgirl"],
       "skins": [{ "unified": "1f920", "native": "🤠" }],
       "version": 3
     },
-    "partying_face": {
-      "id": "partying_face",
-      "name": "Partying Face",
+    "파티하는_얼굴": {
+      "id": "파티하는_얼굴",
+      "name": "파티하는_얼굴",
       "keywords": ["celebration", "woohoo"],
       "skins": [{ "unified": "1f973", "native": "🥳" }],
       "version": 11
     },
-    "disguised_face": {
-      "id": "disguised_face",
-      "name": "Disguised Face",
+    "변장한_얼굴": {
+      "id": "변장한_얼굴",
+      "name": "변장한_얼굴",
       "keywords": ["pretent", "brows", "glasses", "moustache"],
       "skins": [{ "unified": "1f978", "native": "🥸" }],
       "version": 13
     },
-    "sunglasses": {
-      "id": "sunglasses",
-      "name": "Smiling Face with Sunglasses",
+    "선글라스": {
+      "id": "선글라스",
+      "name": "선글라스",
       "emoticons": ["8)"],
       "keywords": ["cool", "smile", "summer", "beach", "sunglass"],
       "skins": [{ "unified": "1f60e", "native": "😎" }],
       "version": 1
     },
-    "nerd_face": {
-      "id": "nerd_face",
-      "name": "Nerd Face",
+    "괴짜_얼굴": {
+      "id": "괴짜_얼굴",
+      "name": "괴짜_얼굴",
       "keywords": ["nerdy", "geek", "dork"],
       "skins": [{ "unified": "1f913", "native": "🤓" }],
       "version": 1
     },
-    "face_with_monocle": {
-      "id": "face_with_monocle",
-      "name": "Face with Monocle",
+    "단안경을_쓴_얼굴": {
+      "id": "단안경을_쓴_얼굴",
+      "name": "단안경을_쓴_얼굴",
       "keywords": ["stuffy", "wealthy"],
       "skins": [{ "unified": "1f9d0", "native": "🧐" }],
       "version": 5
     },
-    "confused": {
-      "id": "confused",
-      "name": "Confused Face",
+    "혼란스러운": {
+      "id": "혼란스러운",
+      "name": "혼란스러운",
       "emoticons": [":\\", ":-\\", ":/", ":-/"],
       "keywords": ["indifference", "huh", "weird", "hmmm", ":/"],
       "skins": [{ "unified": "1f615", "native": "😕" }],
       "version": 1
     },
-    "face_with_diagonal_mouth": {
-      "id": "face_with_diagonal_mouth",
-      "name": "Face with Diagonal Mouth",
+    "입이_대각선으로_된_얼굴": {
+      "id": "입이_대각선으로_된_얼굴",
+      "name": "입이_대각선으로_된_얼굴",
       "keywords": ["skeptic", "confuse", "frustrated", "indifferent"],
       "skins": [{ "unified": "1fae4", "native": "🫤" }],
       "version": 14
     },
-    "worried": {
-      "id": "worried",
-      "name": "Worried Face",
+    "걱정하는": {
+      "id": "걱정하는",
+      "name": "걱정하는",
       "keywords": ["concern", "nervous", ":("],
       "skins": [{ "unified": "1f61f", "native": "😟" }],
       "version": 1
     },
-    "slightly_frowning_face": {
-      "id": "slightly_frowning_face",
-      "name": "Slightly Frowning Face",
+    "약간_찌푸린_얼굴": {
+      "id": "약간_찌푸린_얼굴",
+      "name": "약간_찌푸린_얼굴",
       "keywords": ["disappointed", "sad", "upset"],
       "skins": [{ "unified": "1f641", "native": "🙁" }],
       "version": 1
     },
-    "white_frowning_face": {
-      "id": "white_frowning_face",
-      "name": "Frowning Face",
+    "찌푸린_얼굴": {
+      "id": "찌푸린_얼굴",
+      "name": "찌푸린_얼굴",
       "keywords": ["white", "sad", "upset", "frown"],
       "skins": [{ "unified": "2639-fe0f", "native": "☹️" }],
       "version": 1
     },
-    "open_mouth": {
-      "id": "open_mouth",
-      "name": "Face with Open Mouth",
+    "벌린_입": {
+      "id": "벌린_입",
+      "name": "벌린_입",
       "emoticons": [":o", ":-o", ":O", ":-O"],
       "keywords": ["surprise", "impressed", "wow", "whoa", ":O"],
       "skins": [{ "unified": "1f62e", "native": "😮" }],
       "version": 1
     },
-    "hushed": {
-      "id": "hushed",
-      "name": "Hushed Face",
+    "조용한": {
+      "id": "조용한",
+      "name": "조용한",
       "keywords": ["woo", "shh"],
       "skins": [{ "unified": "1f62f", "native": "😯" }],
       "version": 1
     },
-    "astonished": {
-      "id": "astonished",
-      "name": "Astonished Face",
+    "깜짝_놀란": {
+      "id": "깜짝_놀란",
+      "name": "깜짝_놀란",
       "keywords": ["xox", "surprised", "poisoned"],
       "skins": [{ "unified": "1f632", "native": "😲" }],
       "version": 1
     },
-    "flushed": {
-      "id": "flushed",
-      "name": "Flushed Face",
+    "볼을_붉히는_얼굴": {
+      "id": "볼을_붉히는_얼굴",
+      "name": "볼을_붉히는_얼굴",
       "keywords": ["blush", "shy", "flattered"],
       "skins": [{ "unified": "1f633", "native": "😳" }],
       "version": 1
     },
-    "pleading_face": {
-      "id": "pleading_face",
-      "name": "Pleading Face",
+    "부탁하는_얼굴": {
+      "id": "부탁하는_얼굴",
+      "name": "부탁하는_얼굴",
       "keywords": ["begging", "mercy"],
       "skins": [{ "unified": "1f97a", "native": "🥺" }],
       "version": 11
     },
-    "face_holding_back_tears": {
-      "id": "face_holding_back_tears",
-      "name": "Face Holding Back Tears",
+    "울음을_참는_얼굴": {
+      "id": "울음을_참는_얼굴",
+      "name": "울음을_참는_얼굴",
       "keywords": ["touched", "gratitude"],
       "skins": [{ "unified": "1f979", "native": "🥹" }],
       "version": 14
     },
-    "frowning": {
-      "id": "frowning",
-      "name": "Frowning Face with Open Mouth",
+    "찌푸린": {
+      "id": "찌푸린",
+      "name": "찌푸린",
       "keywords": ["aw", "what"],
       "skins": [{ "unified": "1f626", "native": "😦" }],
       "version": 1
     },
-    "anguished": {
-      "id": "anguished",
-      "name": "Anguished Face",
+    "비통": {
+      "id": "비통",
+      "name": "비통",
       "emoticons": ["D:"],
       "keywords": ["stunned", "nervous"],
       "skins": [{ "unified": "1f627", "native": "😧" }],
       "version": 1
     },
-    "fearful": {
-      "id": "fearful",
-      "name": "Fearful Face",
+    "무서운": {
+      "id": "무서운",
+      "name": "무서운",
       "keywords": ["scared", "terrified", "nervous", "oops", "huh"],
       "skins": [{ "unified": "1f628", "native": "😨" }],
       "version": 1
     },
-    "cold_sweat": {
-      "id": "cold_sweat",
-      "name": "Anxious Face with Sweat",
+    "식은땀": {
+      "id": "식은땀",
+      "name": "식은땀",
       "keywords": ["cold", "nervous"],
       "skins": [{ "unified": "1f630", "native": "😰" }],
       "version": 1
     },
-    "disappointed_relieved": {
-      "id": "disappointed_relieved",
-      "name": "Sad but Relieved Face",
+    "실망스럽지만_안도한": {
+      "id": "실망스럽지만_안도한",
+      "name": "실망스럽지만_안도한",
       "keywords": ["disappointed", "phew", "sweat", "nervous"],
       "skins": [{ "unified": "1f625", "native": "😥" }],
       "version": 1
     },
-    "cry": {
-      "id": "cry",
-      "name": "Crying Face",
+    "울다": {
+      "id": "울다",
+      "name": "울다",
       "emoticons": [":'("],
       "keywords": ["cry", "tears", "sad", "depressed", "upset", ":'("],
       "skins": [{ "unified": "1f622", "native": "😢" }],
       "version": 1
     },
-    "sob": {
-      "id": "sob",
-      "name": "Loudly Crying Face",
+    "울음": {
+      "id": "울음",
+      "name": "울음",
       "emoticons": [":'("],
       "keywords": ["sob", "cry", "tears", "sad", "upset", "depressed"],
       "skins": [{ "unified": "1f62d", "native": "😭" }],
       "version": 1
     },
-    "scream": {
-      "id": "scream",
-      "name": "Face Screaming in Fear",
+    "비명": {
+      "id": "비명",
+      "name": "비명",
       "keywords": ["scream", "munch", "scared", "omg"],
       "skins": [{ "unified": "1f631", "native": "😱" }],
       "version": 1
     },
-    "confounded": {
-      "id": "confounded",
-      "name": "Confounded Face",
+    "혼란": {
+      "id": "혼란",
+      "name": "혼란",
       "keywords": ["confused", "sick", "unwell", "oops", ":S"],
       "skins": [{ "unified": "1f616", "native": "😖" }],
       "version": 1
     },
-    "persevere": {
-      "id": "persevere",
-      "name": "Persevering Face",
+    "인내": {
+      "id": "인내",
+      "name": "인내",
       "keywords": ["persevere", "sick", "no", "upset", "oops"],
       "skins": [{ "unified": "1f623", "native": "😣" }],
       "version": 1
     },
-    "disappointed": {
-      "id": "disappointed",
-      "name": "Disappointed Face",
+    "실망": {
+      "id": "실망",
+      "name": "실망",
       "emoticons": ["):", ":(", ":-("],
       "keywords": ["sad", "upset", "depressed", ":("],
       "skins": [{ "unified": "1f61e", "native": "😞" }],
       "version": 1
     },
-    "sweat": {
-      "id": "sweat",
-      "name": "Face with Cold Sweat",
+    "땀": {
+      "id": "땀",
+      "name": "땀",
       "keywords": ["downcast", "hot", "sad", "tired", "exercise"],
       "skins": [{ "unified": "1f613", "native": "😓" }],
       "version": 1
     },
-    "weary": {
-      "id": "weary",
-      "name": "Weary Face",
+    "피곤": {
+      "id": "피곤",
+      "name": "피곤",
       "keywords": ["tired", "sleepy", "sad", "frustrated", "upset"],
       "skins": [{ "unified": "1f629", "native": "😩" }],
       "version": 1
     },
-    "tired_face": {
-      "id": "tired_face",
-      "name": "Tired Face",
+    "피곤한_얼굴": {
+      "id": "피곤한_얼굴",
+      "name": "피곤한_얼굴",
       "keywords": ["sick", "whine", "upset", "frustrated"],
       "skins": [{ "unified": "1f62b", "native": "😫" }],
       "version": 1
     },
-    "yawning_face": {
-      "id": "yawning_face",
-      "name": "Yawning Face",
+    "하품하는_얼굴": {
+      "id": "하품하는_얼굴",
+      "name": "하품하는_얼굴",
       "keywords": ["tired", "sleepy"],
       "skins": [{ "unified": "1f971", "native": "🥱" }],
       "version": 12
     },
-    "triumph": {
-      "id": "triumph",
-      "name": "Face with Look of Triumph",
+    "승리": {
+      "id": "승리",
+      "name": "승리",
       "keywords": ["steam", "from", "nose", "gas", "phew", "proud", "pride"],
       "skins": [{ "unified": "1f624", "native": "😤" }],
       "version": 1
     },
-    "rage": {
-      "id": "rage",
-      "name": "Pouting Face",
+    "분노": {
+      "id": "분노",
+      "name": "분노",
       "keywords": ["rage", "angry", "mad", "hate", "despise"],
       "skins": [{ "unified": "1f621", "native": "😡" }],
       "version": 1
     },
-    "angry": {
-      "id": "angry",
-      "name": "Angry Face",
+    "화난": {
+      "id": "화난",
+      "name": "화난",
       "emoticons": [">:(", ">:-("],
       "keywords": ["mad", "annoyed", "frustrated"],
       "skins": [{ "unified": "1f620", "native": "😠" }],
       "version": 1
     },
-    "face_with_symbols_on_mouth": {
-      "id": "face_with_symbols_on_mouth",
-      "name": "Face with Symbols on Mouth",
+    "입에_기호가_표시된_얼굴": {
+      "id": "입에_기호가_표시된_얼굴",
+      "name": "입에_기호가_표시된_얼굴",
       "keywords": [
         "serious",
         "covering",
@@ -2828,30 +2828,30 @@
       "skins": [{ "unified": "1f92c", "native": "🤬" }],
       "version": 5
     },
-    "smiling_imp": {
-      "id": "smiling_imp",
-      "name": "Smiling Face with Horns",
+    "웃는_작은_도깨비": {
+      "id": "웃는_작은_도깨비",
+      "name": "웃는_작은_도깨비",
       "keywords": ["imp", "devil"],
       "skins": [{ "unified": "1f608", "native": "😈" }],
       "version": 1
     },
-    "imp": {
-      "id": "imp",
-      "name": "Imp",
+    "작은_도깨비": {
+      "id": "작은_도깨비",
+      "name": "작은_도깨비",
       "keywords": ["angry", "face", "with", "horns", "devil"],
       "skins": [{ "unified": "1f47f", "native": "👿" }],
       "version": 1
     },
-    "skull": {
-      "id": "skull",
-      "name": "Skull",
+    "해골": {
+      "id": "해골",
+      "name": "해골",
       "keywords": ["dead", "skeleton", "creepy", "death"],
       "skins": [{ "unified": "1f480", "native": "💀" }],
       "version": 1
     },
-    "skull_and_crossbones": {
-      "id": "skull_and_crossbones",
-      "name": "Skull and Crossbones",
+    "해적_표시": {
+      "id": "해적_표시",
+      "name": "해적_표시",
       "keywords": [
         "poison",
         "danger",
@@ -2864,23 +2864,23 @@
       "skins": [{ "unified": "2620-fe0f", "native": "☠️" }],
       "version": 1
     },
-    "hankey": {
-      "id": "hankey",
-      "name": "Pile of Poo",
+    "행키": {
+      "id": "행키",
+      "name": "똥",
       "keywords": ["hankey", "poop", "shit", "shitface", "fail", "turd"],
       "skins": [{ "unified": "1f4a9", "native": "💩" }],
       "version": 1
     },
-    "clown_face": {
-      "id": "clown_face",
-      "name": "Clown Face",
+    "광대_얼굴": {
+      "id": "광대_얼굴",
+      "name": "광대_얼굴",
       "keywords": [],
       "skins": [{ "unified": "1f921", "native": "🤡" }],
       "version": 3
     },
-    "japanese_ogre": {
-      "id": "japanese_ogre",
-      "name": "Ogre",
+    "일본식_괴물": {
+      "id": "일본식_괴물",
+      "name": "일본식_괴물",
       "keywords": [
         "japanese",
         "monster",
@@ -2895,9 +2895,9 @@
       "skins": [{ "unified": "1f479", "native": "👹" }],
       "version": 1
     },
-    "japanese_goblin": {
-      "id": "japanese_goblin",
-      "name": "Goblin",
+    "일본_도깨비": {
+      "id": "일본_도깨비",
+      "name": "일본_도깨비",
       "keywords": [
         "japanese",
         "red",
@@ -2910,30 +2910,30 @@
       "skins": [{ "unified": "1f47a", "native": "👺" }],
       "version": 1
     },
-    "ghost": {
-      "id": "ghost",
-      "name": "Ghost",
+    "유령": {
+      "id": "유령",
+      "name": "유령",
       "keywords": ["halloween", "spooky", "scary"],
       "skins": [{ "unified": "1f47b", "native": "👻" }],
       "version": 1
     },
-    "alien": {
-      "id": "alien",
-      "name": "Alien",
+    "외계인": {
+      "id": "외계인",
+      "name": "외계인",
       "keywords": ["UFO", "paul", "weird", "outer", "space"],
       "skins": [{ "unified": "1f47d", "native": "👽" }],
       "version": 1
     },
-    "space_invader": {
-      "id": "space_invader",
-      "name": "Alien Monster",
+    "우주_침략자": {
+      "id": "우주_침략자",
+      "name": "우주_침략자",
       "keywords": ["space", "invader", "game", "arcade", "play"],
       "skins": [{ "unified": "1f47e", "native": "👾" }],
       "version": 1
     },
-    "robot_face": {
-      "id": "robot_face",
-      "name": "Robot",
+    "로봇_얼굴": {
+      "id": "로봇_얼굴",
+      "name": "로봇_얼굴",
       "keywords": ["face", "computer", "machine", "bot"],
       "skins": [{ "unified": "1f916", "native": "🤖" }],
       "version": 1
@@ -3322,9 +3322,9 @@
       "skins": [{ "unified": "1f4a4", "native": "💤" }],
       "version": 1
     },
-    "wave": {
-      "id": "wave",
-      "name": "Waving Hand",
+    "손인사": {
+      "id": "손인사",
+      "name": "손인사",
       "keywords": [
         "wave",
         "hands",
@@ -3346,9 +3346,9 @@
       ],
       "version": 1
     },
-    "raised_back_of_hand": {
-      "id": "raised_back_of_hand",
-      "name": "Raised Back of Hand",
+    "손등이_보이게_흔들기": {
+      "id": "손등이_보이게_흔들기",
+      "name": "손등이_보이게_흔들기",
       "keywords": ["fingers", "backhand"],
       "skins": [
         { "unified": "1f91a", "native": "🤚" },
@@ -3360,9 +3360,9 @@
       ],
       "version": 3
     },
-    "raised_hand_with_fingers_splayed": {
-      "id": "raised_hand_with_fingers_splayed",
-      "name": "Hand with Fingers Splayed",
+    "다섯_손가락을_편_손바닥": {
+      "id": "다섯_손가락을_편_손바닥",
+      "name": "다섯_손가락을_편_손바닥",
       "keywords": ["raised", "palm"],
       "skins": [
         { "unified": "1f590-fe0f", "native": "🖐️" },
@@ -3374,9 +3374,9 @@
       ],
       "version": 1
     },
-    "hand": {
-      "id": "hand",
-      "name": "Raised Hand",
+    "손": {
+      "id": "손",
+      "name": "손",
       "keywords": [
         "fingers",
         "stop",
@@ -3396,9 +3396,9 @@
       ],
       "version": 1
     },
-    "spock-hand": {
-      "id": "spock-hand",
-      "name": "Vulcan Salute",
+    "벌컨_인사": {
+      "id": "벌컨_인사",
+      "name": "벌컨_인사",
       "keywords": ["spock", "hand", "fingers", "star", "trek"],
       "skins": [
         { "unified": "1f596", "native": "🖖" },
@@ -3410,9 +3410,9 @@
       ],
       "version": 1
     },
-    "rightwards_hand": {
-      "id": "rightwards_hand",
-      "name": "Rightwards Hand",
+    "오른쪽을_향한_손": {
+      "id": "오른쪽을_향한_손",
+      "name": "오른쪽을_향한_손",
       "keywords": ["palm", "offer"],
       "skins": [
         { "unified": "1faf1", "native": "🫱" },
@@ -3424,9 +3424,9 @@
       ],
       "version": 14
     },
-    "leftwards_hand": {
-      "id": "leftwards_hand",
-      "name": "Leftwards Hand",
+    "왼쪽을_향한_손": {
+      "id": "왼쪽을_향한_손",
+      "name": "왼쪽을_향한_손",
       "keywords": ["palm", "offer"],
       "skins": [
         { "unified": "1faf2", "native": "🫲" },
@@ -3438,9 +3438,9 @@
       ],
       "version": 14
     },
-    "palm_down_hand": {
-      "id": "palm_down_hand",
-      "name": "Palm Down Hand",
+    "손바닥을_아래로_한_손": {
+      "id": "손바닥을_아래로_한_손",
+      "name": "손바닥을_아래로_한_손",
       "keywords": ["drop"],
       "skins": [
         { "unified": "1faf3", "native": "🫳" },
@@ -3452,9 +3452,9 @@
       ],
       "version": 14
     },
-    "palm_up_hand": {
-      "id": "palm_up_hand",
-      "name": "Palm Up Hand",
+    "손바닥을_위로_한_손": {
+      "id": "손바닥을_위로_한_손",
+      "name": "손바닥을_위로_한_손",
       "keywords": ["lift", "offer", "demand"],
       "skins": [
         { "unified": "1faf4", "native": "🫴" },
@@ -3466,9 +3466,9 @@
       ],
       "version": 14
     },
-    "ok_hand": {
-      "id": "ok_hand",
-      "name": "Ok Hand",
+    "ok_손_모양": {
+      "id": "ok_손_모양",
+      "name": "ok_손_모양",
       "keywords": ["fingers", "limbs", "perfect", "okay"],
       "skins": [
         { "unified": "1f44c", "native": "👌" },
@@ -3480,9 +3480,9 @@
       ],
       "version": 1
     },
-    "pinched_fingers": {
-      "id": "pinched_fingers",
-      "name": "Pinched Fingers",
+    "위로_오므린_손가락": {
+      "id": "위로_오므린_손가락",
+      "name": "위로_오므린_손가락",
       "keywords": ["size", "tiny", "small"],
       "skins": [
         { "unified": "1f90c", "native": "🤌" },
@@ -3494,9 +3494,9 @@
       ],
       "version": 13
     },
-    "pinching_hand": {
-      "id": "pinching_hand",
-      "name": "Pinching Hand",
+    "손_꼬집기": {
+      "id": "손_꼬집기",
+      "name": "손_꼬집기",
       "keywords": ["tiny", "small", "size"],
       "skins": [
         { "unified": "1f90f", "native": "🤏" },
@@ -3510,7 +3510,7 @@
     },
     "v": {
       "id": "v",
-      "name": "Victory Hand",
+      "name": "v 손",
       "keywords": ["v", "fingers", "ohyeah", "peace", "two"],
       "skins": [
         { "unified": "270c-fe0f", "native": "✌️" },
@@ -3522,9 +3522,9 @@
       ],
       "version": 1
     },
-    "crossed_fingers": {
-      "id": "crossed_fingers",
-      "name": "Crossed Fingers",
+    "행운의_손가락": {
+      "id": "행운의_손가락",
+      "name": "행운의_손가락",
       "keywords": ["hand", "with", "index", "and", "middle", "good", "lucky"],
       "skins": [
         { "unified": "1f91e", "native": "🤞" },
@@ -3536,9 +3536,9 @@
       ],
       "version": 3
     },
-    "hand_with_index_finger_and_thumb_crossed": {
-      "id": "hand_with_index_finger_and_thumb_crossed",
-      "name": "Hand with Index Finger and Thumb Crossed",
+    "두_번재_손가락과_엄지_손가락을_겹치기": {
+      "id": "두_번재_손가락과_엄지_손가락을_겹치기",
+      "name": "두_번재_손가락과_엄지_손가락을_겹치기",
       "keywords": ["heart", "love", "money", "expensive"],
       "skins": [
         { "unified": "1faf0", "native": "🫰" },
@@ -3550,9 +3550,9 @@
       ],
       "version": 14
     },
-    "i_love_you_hand_sign": {
-      "id": "i_love_you_hand_sign",
-      "name": "Love-You Gesture",
+    "사랑해_수신호": {
+      "id": "사랑해_수신호",
+      "name": "사랑해_수신호",
       "keywords": ["i", "love", "you", "hand", "sign", "fingers"],
       "skins": [
         { "unified": "1f91f", "native": "🤟" },
@@ -3564,9 +3564,9 @@
       ],
       "version": 5
     },
-    "the_horns": {
-      "id": "the_horns",
-      "name": "Sign of the Horns",
+    "피스_손_모양": {
+      "id": "피스_손_모양",
+      "name": "피스_손_모양",
       "keywords": ["hand", "fingers", "evil", "eye", "rock", "on"],
       "skins": [
         { "unified": "1f918", "native": "🤘" },
@@ -3578,9 +3578,9 @@
       ],
       "version": 1
     },
-    "call_me_hand": {
-      "id": "call_me_hand",
-      "name": "Call Me Hand",
+    "전화해_손_모양": {
+      "id": "전화해_손_모양",
+      "name": "전화해_손_모양",
       "keywords": ["hands", "gesture", "shaka"],
       "skins": [
         { "unified": "1f919", "native": "🤙" },
@@ -3592,9 +3592,9 @@
       ],
       "version": 3
     },
-    "point_left": {
-      "id": "point_left",
-      "name": "Backhand Index Pointing Left",
+    "왼쪽을_가리키는_손_모양": {
+      "id": "왼쪽을_가리키는_손_모양",
+      "name": "왼쪽을_가리키는_손_모양",
       "keywords": ["point", "direction", "fingers", "hand"],
       "skins": [
         { "unified": "1f448", "native": "👈" },
@@ -3606,9 +3606,9 @@
       ],
       "version": 1
     },
-    "point_right": {
-      "id": "point_right",
-      "name": "Backhand Index Pointing Right",
+    "오른쪽을_가리키는_손_모양": {
+      "id": "오른쪽을_가리키는_손_모양",
+      "name": "오른쪽을_가리키는_손_모양",
       "keywords": ["point", "fingers", "hand", "direction"],
       "skins": [
         { "unified": "1f449", "native": "👉" },
@@ -3620,9 +3620,9 @@
       ],
       "version": 1
     },
-    "point_up_2": {
-      "id": "point_up_2",
-      "name": "Backhand Index Pointing Up",
+    "위를_가리키는_손_모양2": {
+      "id": "위를_가리키는_손_모양2",
+      "name": "위를_가리키는_손_모양2",
       "keywords": ["point", "2", "fingers", "hand", "direction"],
       "skins": [
         { "unified": "1f446", "native": "👆" },
@@ -3634,9 +3634,9 @@
       ],
       "version": 1
     },
-    "middle_finger": {
-      "id": "middle_finger",
-      "name": "Middle Finger",
+    "중지를_세운_손_모양": {
+      "id": "중지를_세운_손_모양",
+      "name": "중지를_세운_손_모양",
       "keywords": [
         "reversed",
         "hand",
@@ -3656,9 +3656,9 @@
       ],
       "version": 1
     },
-    "point_down": {
-      "id": "point_down",
-      "name": "Backhand Index Pointing Down",
+    "아래를_가리키는_손_모양": {
+      "id": "아래를_가리키는_손_모양",
+      "name": "아래를_가리키는_손_모양",
       "keywords": ["point", "fingers", "hand", "direction"],
       "skins": [
         { "unified": "1f447", "native": "👇" },
@@ -3670,9 +3670,9 @@
       ],
       "version": 1
     },
-    "point_up": {
-      "id": "point_up",
-      "name": "Index Pointing Up",
+    "위를_가리키는_손_모양": {
+      "id": "위를_가리키는_손_모양",
+      "name": "위를_가리키는_손_모양",
       "keywords": ["point", "hand", "fingers", "direction"],
       "skins": [
         { "unified": "261d-fe0f", "native": "☝️" },
@@ -3684,9 +3684,9 @@
       ],
       "version": 1
     },
-    "index_pointing_at_the_viewer": {
-      "id": "index_pointing_at_the_viewer",
-      "name": "Index Pointing at the Viewer",
+    "사용자를_가리키는_손_모양": {
+      "id": "사용자를_가리키는_손_모양",
+      "name": "사용자를_가리키는_손_모양",
       "keywords": ["you", "recruit"],
       "skins": [
         { "unified": "1faf5", "native": "🫵" },
@@ -3737,9 +3737,9 @@
       ],
       "version": 1
     },
-    "fist": {
-      "id": "fist",
-      "name": "Raised Fist",
+    "주먹": {
+      "id": "주먹",
+      "name": "주먹",
       "keywords": ["fingers", "hand", "grasp"],
       "skins": [
         { "unified": "270a", "native": "✊" },
@@ -3751,9 +3751,9 @@
       ],
       "version": 1
     },
-    "facepunch": {
-      "id": "facepunch",
-      "name": "Oncoming Fist",
+    "얼굴에_주먹": {
+      "id": "얼굴에_주먹",
+      "name": "얼굴에_주먹",
       "keywords": [
         "facepunch",
         "punch",
@@ -3773,9 +3773,9 @@
       ],
       "version": 1
     },
-    "left-facing_fist": {
-      "id": "left-facing_fist",
-      "name": "Left-Facing Fist",
+    "왼쪽을_향한_주먹": {
+      "id": "왼쪽을_향한_주먹",
+      "name": "왼쪽을_향한_주먹",
       "keywords": ["left", "facing", "hand", "fistbump"],
       "skins": [
         { "unified": "1f91b", "native": "🤛" },
@@ -3787,9 +3787,9 @@
       ],
       "version": 3
     },
-    "right-facing_fist": {
-      "id": "right-facing_fist",
-      "name": "Right-Facing Fist",
+    "오른쪽을_향한_주먹": {
+      "id": "오른쪽을_향한_주먹",
+      "name": "오른쪽을_향한_주먹",
       "keywords": ["right", "facing", "hand", "fistbump"],
       "skins": [
         { "unified": "1f91c", "native": "🤜" },
@@ -3801,9 +3801,9 @@
       ],
       "version": 3
     },
-    "clap": {
-      "id": "clap",
-      "name": "Clapping Hands",
+    "박수": {
+      "id": "박수",
+      "name": "박수",
       "keywords": ["clap", "praise", "applause", "congrats", "yay"],
       "skins": [
         { "unified": "1f44f", "native": "👏" },
@@ -3815,9 +3815,9 @@
       ],
       "version": 1
     },
-    "raised_hands": {
-      "id": "raised_hands",
-      "name": "Raising Hands",
+    "두_손을_들고_있는_사람": {
+      "id": "두_손을_들고_있는_사람",
+      "name": "두_손을_들고_있는_사람",
       "keywords": ["raised", "gesture", "hooray", "yea", "celebration"],
       "skins": [
         { "unified": "1f64c", "native": "🙌" },
@@ -3829,9 +3829,9 @@
       ],
       "version": 1
     },
-    "heart_hands": {
-      "id": "heart_hands",
-      "name": "Heart Hands",
+    "두_손으로_만든_하트": {
+      "id": "두_손으로_만든_하트",
+      "name": "두_손으로_만든_하트",
       "keywords": ["love", "appreciation", "support"],
       "skins": [
         { "unified": "1faf6", "native": "🫶" },
@@ -3843,9 +3843,9 @@
       ],
       "version": 14
     },
-    "open_hands": {
-      "id": "open_hands",
-      "name": "Open Hands",
+    "펼친_손바닥": {
+      "id": "펼친_손바닥",
+      "name": "펼친_손바닥",
       "keywords": ["fingers", "butterfly"],
       "skins": [
         { "unified": "1f450", "native": "👐" },
@@ -3857,9 +3857,9 @@
       ],
       "version": 1
     },
-    "palms_up_together": {
-      "id": "palms_up_together",
-      "name": "Palms Up Together",
+    "나란히_펼친_손바닥": {
+      "id": "나란히_펼친_손바닥",
+      "name": "나란히_펼친_손바닥r",
       "keywords": ["hands", "gesture", "cupped", "prayer"],
       "skins": [
         { "unified": "1f932", "native": "🤲" },
@@ -3871,9 +3871,9 @@
       ],
       "version": 5
     },
-    "handshake": {
-      "id": "handshake",
-      "name": "Handshake",
+    "악수": {
+      "id": "악수",
+      "name": "악수",
       "keywords": ["agreement", "shake"],
       "skins": [
         { "unified": "1f91d", "native": "🤝" },
@@ -3885,9 +3885,9 @@
       ],
       "version": 3
     },
-    "pray": {
-      "id": "pray",
-      "name": "Folded Hands",
+    "기도": {
+      "id": "기도",
+      "name": "기도",
       "keywords": [
         "pray",
         "please",
@@ -3908,9 +3908,9 @@
       ],
       "version": 1
     },
-    "writing_hand": {
-      "id": "writing_hand",
-      "name": "Writing Hand",
+    "글씨를_쓰는_손": {
+      "id": "글씨를_쓰는_손",
+      "name": "글씨를_쓰는_손",
       "keywords": [
         "lower",
         "left",
@@ -3930,9 +3930,9 @@
       ],
       "version": 1
     },
-    "nail_care": {
-      "id": "nail_care",
-      "name": "Nail Polish",
+    "네일_케어": {
+      "id": "네일_케어",
+      "name": "네일_케어",
       "keywords": ["care", "beauty", "manicure", "finger", "fashion"],
       "skins": [
         { "unified": "1f485", "native": "💅" },
@@ -3944,9 +3944,9 @@
       ],
       "version": 1
     },
-    "selfie": {
-      "id": "selfie",
-      "name": "Selfie",
+    "셀카": {
+      "id": "셀카",
+      "name": "셀카",
       "keywords": ["camera", "phone"],
       "skins": [
         { "unified": "1f933", "native": "🤳" },
@@ -3958,9 +3958,9 @@
       ],
       "version": 3
     },
-    "muscle": {
-      "id": "muscle",
-      "name": "Flexed Biceps",
+    "근육": {
+      "id": "근육",
+      "name": "근육",
       "keywords": ["muscle", "arm", "flex", "hand", "summer", "strong"],
       "skins": [
         { "unified": "1f4aa", "native": "💪" },
@@ -3972,23 +3972,23 @@
       ],
       "version": 1
     },
-    "mechanical_arm": {
-      "id": "mechanical_arm",
-      "name": "Mechanical Arm",
+    "기계_팔": {
+      "id": "기계_팔",
+      "name": "기계_팔",
       "keywords": ["accessibility"],
       "skins": [{ "unified": "1f9be", "native": "🦾" }],
       "version": 12
     },
-    "mechanical_leg": {
-      "id": "mechanical_leg",
-      "name": "Mechanical Leg",
+    "기계_다리": {
+      "id": "기계_다리",
+      "name": "기계_다리",
       "keywords": ["accessibility"],
       "skins": [{ "unified": "1f9bf", "native": "🦿" }],
       "version": 12
     },
-    "leg": {
-      "id": "leg",
-      "name": "Leg",
+    "다리": {
+      "id": "다리",
+      "name": "다리",
       "keywords": ["kick", "limb"],
       "skins": [
         { "unified": "1f9b5", "native": "🦵" },
@@ -4000,9 +4000,9 @@
       ],
       "version": 11
     },
-    "foot": {
-      "id": "foot",
-      "name": "Foot",
+    "발": {
+      "id": "발",
+      "name": "발",
       "keywords": ["kick", "stomp"],
       "skins": [
         { "unified": "1f9b6", "native": "🦶" },
@@ -4014,9 +4014,9 @@
       ],
       "version": 11
     },
-    "ear": {
-      "id": "ear",
-      "name": "Ear",
+    "귀": {
+      "id": "귀",
+      "name": "귀",
       "keywords": ["face", "hear", "sound", "listen"],
       "skins": [
         { "unified": "1f442", "native": "👂" },
@@ -4028,9 +4028,9 @@
       ],
       "version": 1
     },
-    "ear_with_hearing_aid": {
-      "id": "ear_with_hearing_aid",
-      "name": "Ear with Hearing Aid",
+    "보청귀를_낀_귀": {
+      "id": "보청귀를_낀_귀",
+      "name": "보청귀를_낀_귀",
       "keywords": ["accessibility"],
       "skins": [
         { "unified": "1f9bb", "native": "🦻" },
@@ -4042,9 +4042,9 @@
       ],
       "version": 12
     },
-    "nose": {
-      "id": "nose",
-      "name": "Nose",
+    "코": {
+      "id": "코",
+      "name": "코",
       "keywords": ["smell", "sniff"],
       "skins": [
         { "unified": "1f443", "native": "👃" },
@@ -4056,79 +4056,79 @@
       ],
       "version": 1
     },
-    "brain": {
-      "id": "brain",
-      "name": "Brain",
+    "뇌": {
+      "id": "뇌",
+      "name": "뇌",
       "keywords": ["smart", "intelligent"],
       "skins": [{ "unified": "1f9e0", "native": "🧠" }],
       "version": 5
     },
-    "anatomical_heart": {
-      "id": "anatomical_heart",
-      "name": "Anatomical Heart",
+    "심장": {
+      "id": "심장",
+      "name": "심장",
       "keywords": ["health", "heartbeat"],
       "skins": [{ "unified": "1fac0", "native": "🫀" }],
       "version": 13
     },
-    "lungs": {
-      "id": "lungs",
-      "name": "Lungs",
+    "폐": {
+      "id": "폐",
+      "name": "폐",
       "keywords": ["breathe"],
       "skins": [{ "unified": "1fac1", "native": "🫁" }],
       "version": 13
     },
-    "tooth": {
-      "id": "tooth",
-      "name": "Tooth",
+    "이빨": {
+      "id": "이빨",
+      "name": "이빨",
       "keywords": ["teeth", "dentist"],
       "skins": [{ "unified": "1f9b7", "native": "🦷" }],
       "version": 11
     },
-    "bone": {
-      "id": "bone",
-      "name": "Bone",
+    "뼈": {
+      "id": "뼈",
+      "name": "뼈",
       "keywords": ["skeleton"],
       "skins": [{ "unified": "1f9b4", "native": "🦴" }],
       "version": 11
     },
-    "eyes": {
-      "id": "eyes",
-      "name": "Eyes",
+    "두_눈": {
+      "id": "두_눈",
+      "name": "두_눈",
       "keywords": ["look", "watch", "stalk", "peek", "see"],
       "skins": [{ "unified": "1f440", "native": "👀" }],
       "version": 1
     },
-    "eye": {
-      "id": "eye",
-      "name": "Eye",
+    "한_쪽_눈": {
+      "id": "한_쪽_눈",
+      "name": "한_쪽_눈",
       "keywords": ["face", "look", "see", "watch", "stare"],
       "skins": [{ "unified": "1f441-fe0f", "native": "👁️" }],
       "version": 1
     },
-    "tongue": {
-      "id": "tongue",
-      "name": "Tongue",
+    "혀": {
+      "id": "혀",
+      "name": "혀",
       "keywords": ["mouth", "playful"],
       "skins": [{ "unified": "1f445", "native": "👅" }],
       "version": 1
     },
-    "lips": {
-      "id": "lips",
-      "name": "Mouth",
+    "입술": {
+      "id": "입술",
+      "name": "입술",
       "keywords": ["lips", "kiss"],
       "skins": [{ "unified": "1f444", "native": "👄" }],
       "version": 1
     },
-    "biting_lip": {
-      "id": "biting_lip",
-      "name": "Biting Lip",
+    "이로_깨무는_입술": {
+      "id": "이로_깨무는_입술",
+      "name": "이로_깨무는_입술",
       "keywords": ["flirt", "sexy", "pain", "worry"],
       "skins": [{ "unified": "1fae6", "native": "🫦" }],
       "version": 14
     },
-    "baby": {
-      "id": "baby",
-      "name": "Baby",
+    "아기": {
+      "id": "아기",
+      "name": "아기",
       "keywords": ["child", "boy", "girl", "toddler"],
       "skins": [
         { "unified": "1f476", "native": "👶" },
@@ -4140,9 +4140,9 @@
       ],
       "version": 1
     },
-    "child": {
-      "id": "child",
-      "name": "Child",
+    "아이": {
+      "id": "아이",
+      "name": "아이",
       "keywords": ["gender", "neutral", "young"],
       "skins": [
         { "unified": "1f9d2", "native": "🧒" },
@@ -4154,9 +4154,9 @@
       ],
       "version": 5
     },
-    "boy": {
-      "id": "boy",
-      "name": "Boy",
+    "소년": {
+      "id": "소년",
+      "name": "소년",
       "keywords": ["man", "male", "guy", "teenager"],
       "skins": [
         { "unified": "1f466", "native": "👦" },
@@ -4168,9 +4168,9 @@
       ],
       "version": 1
     },
-    "girl": {
-      "id": "girl",
-      "name": "Girl",
+    "소녀": {
+      "id": "소녀",
+      "name": "소녀",
       "keywords": ["female", "woman", "teenager"],
       "skins": [
         { "unified": "1f467", "native": "👧" },
@@ -4182,9 +4182,9 @@
       ],
       "version": 1
     },
-    "adult": {
-      "id": "adult",
-      "name": "Adult",
+    "성인": {
+      "id": "성인",
+      "name": "성인",
       "keywords": ["person", "gender", "neutral"],
       "skins": [
         { "unified": "1f9d1", "native": "🧑" },
@@ -4196,9 +4196,9 @@
       ],
       "version": 5
     },
-    "person_with_blond_hair": {
-      "id": "person_with_blond_hair",
-      "name": "Person Blond Hair",
+    "금발_머리_사람": {
+      "id": "금발_머리_사람",
+      "name": "금발_머리_사람",
       "keywords": ["with", "hairstyle"],
       "skins": [
         { "unified": "1f471", "native": "👱" },
@@ -4210,9 +4210,9 @@
       ],
       "version": 1
     },
-    "man": {
-      "id": "man",
-      "name": "Man",
+    "남성": {
+      "id": "남성",
+      "name": "남성",
       "keywords": [
         "mustache",
         "father",
@@ -4232,9 +4232,9 @@
       ],
       "version": 1
     },
-    "bearded_person": {
-      "id": "bearded_person",
-      "name": "Person Beard",
+    "수염_있는_사람": {
+      "id": "수염_있는_사람",
+      "name": "수염_있는_사람",
       "keywords": ["bearded", "man", "bewhiskered"],
       "skins": [
         { "unified": "1f9d4", "native": "🧔" },
@@ -4246,9 +4246,9 @@
       ],
       "version": 5
     },
-    "man_with_beard": {
-      "id": "man_with_beard",
-      "name": "Man: Beard",
+    "수염_있는_남자": {
+      "id": "수염_있는_남자",
+      "name": "수염_있는_남자",
       "keywords": ["man", "with", "facial", "hair"],
       "skins": [
         { "unified": "1f9d4-200d-2642-fe0f", "native": "🧔‍♂️" },
@@ -4260,9 +4260,9 @@
       ],
       "version": 13.1
     },
-    "woman_with_beard": {
-      "id": "woman_with_beard",
-      "name": "Woman: Beard",
+    "수염_있는_여자": {
+      "id": "수염_있는_여자",
+      "name": "수염_있는_여자",
       "keywords": ["woman", "with", "facial", "hair"],
       "skins": [
         { "unified": "1f9d4-200d-2640-fe0f", "native": "🧔‍♀️" },
@@ -4274,9 +4274,9 @@
       ],
       "version": 13.1
     },
-    "red_haired_man": {
-      "id": "red_haired_man",
-      "name": "Man: Red Hair",
+    "빨간_머리_남자": {
+      "id": "빨간_머리_남자",
+      "name": "빨간_머리_남자",
       "keywords": ["haired", "man", "hairstyle"],
       "skins": [
         { "unified": "1f468-200d-1f9b0", "native": "👨‍🦰" },
@@ -4288,9 +4288,9 @@
       ],
       "version": 11
     },
-    "curly_haired_man": {
-      "id": "curly_haired_man",
-      "name": "Man: Curly Hair",
+    "곱슬머리_남자": {
+      "id": "곱슬머리_남자",
+      "name": "곱슬머리_남자",
       "keywords": ["haired", "man", "hairstyle"],
       "skins": [
         { "unified": "1f468-200d-1f9b1", "native": "👨‍🦱" },
@@ -4302,9 +4302,9 @@
       ],
       "version": 11
     },
-    "white_haired_man": {
-      "id": "white_haired_man",
-      "name": "Man: White Hair",
+    "흰색_머리_남자": {
+      "id": "흰색_머리_남자",
+      "name": "흰색_머리_남자",
       "keywords": ["haired", "man", "old", "elder"],
       "skins": [
         { "unified": "1f468-200d-1f9b3", "native": "👨‍🦳" },
@@ -4316,9 +4316,9 @@
       ],
       "version": 11
     },
-    "bald_man": {
-      "id": "bald_man",
-      "name": "Man: Bald",
+    "대머리_남자": {
+      "id": "대머리_남자",
+      "name": "대머리_남자",
       "keywords": ["man", "hairless"],
       "skins": [
         { "unified": "1f468-200d-1f9b2", "native": "👨‍🦲" },
@@ -4330,9 +4330,9 @@
       ],
       "version": 11
     },
-    "woman": {
-      "id": "woman",
-      "name": "Woman",
+    "여성": {
+      "id": "여성",
+      "name": "여성",
       "keywords": ["female", "girls", "lady"],
       "skins": [
         { "unified": "1f469", "native": "👩" },
@@ -4344,9 +4344,9 @@
       ],
       "version": 1
     },
-    "red_haired_woman": {
-      "id": "red_haired_woman",
-      "name": "Woman: Red Hair",
+    "빨간_머리_여자": {
+      "id": "빨간_머리_여자",
+      "name": "빨간_머리_여자",
       "keywords": ["haired", "woman", "hairstyle"],
       "skins": [
         { "unified": "1f469-200d-1f9b0", "native": "👩‍🦰" },
@@ -4358,9 +4358,9 @@
       ],
       "version": 11
     },
-    "red_haired_person": {
-      "id": "red_haired_person",
-      "name": "Person: Red Hair",
+    "빨간_머리_사람": {
+      "id": "빨간_머리_사람",
+      "name": "빨간_머리_사람",
       "keywords": ["haired", "person", "hairstyle"],
       "skins": [
         { "unified": "1f9d1-200d-1f9b0", "native": "🧑‍🦰" },
@@ -4372,9 +4372,9 @@
       ],
       "version": 12.1
     },
-    "curly_haired_woman": {
-      "id": "curly_haired_woman",
-      "name": "Woman: Curly Hair",
+    "곱슬머리_여자": {
+      "id": "곱슬머리_여자",
+      "name": "곱슬머리_여자",
       "keywords": ["haired", "woman", "hairstyle"],
       "skins": [
         { "unified": "1f469-200d-1f9b1", "native": "👩‍🦱" },
@@ -4386,9 +4386,9 @@
       ],
       "version": 11
     },
-    "curly_haired_person": {
-      "id": "curly_haired_person",
-      "name": "Person: Curly Hair",
+    "곱슬머리_사람": {
+      "id": "곱슬머리_사람",
+      "name": "곱슬머리_사람",
       "keywords": ["haired", "person", "hairstyle"],
       "skins": [
         { "unified": "1f9d1-200d-1f9b1", "native": "🧑‍🦱" },
@@ -4400,9 +4400,9 @@
       ],
       "version": 12.1
     },
-    "white_haired_woman": {
-      "id": "white_haired_woman",
-      "name": "Woman: White Hair",
+    "흰색_머리_여자": {
+      "id": "흰색_머리_여자",
+      "name": "흰색_머리_여자",
       "keywords": ["haired", "woman", "old", "elder"],
       "skins": [
         { "unified": "1f469-200d-1f9b3", "native": "👩‍🦳" },
@@ -4414,9 +4414,9 @@
       ],
       "version": 11
     },
-    "white_haired_person": {
-      "id": "white_haired_person",
-      "name": "Person: White Hair",
+    "흰색_머리_사람": {
+      "id": "흰색_머리_사람",
+      "name": "흰색_머리_사람",
       "keywords": ["haired", "person", "elder", "old"],
       "skins": [
         { "unified": "1f9d1-200d-1f9b3", "native": "🧑‍🦳" },
@@ -4428,9 +4428,9 @@
       ],
       "version": 12.1
     },
-    "bald_woman": {
-      "id": "bald_woman",
-      "name": "Woman: Bald",
+    "대머리_여자": {
+      "id": "대머리_여자",
+      "name": "대머리_여자",
       "keywords": ["woman", "hairless"],
       "skins": [
         { "unified": "1f469-200d-1f9b2", "native": "👩‍🦲" },
@@ -4442,9 +4442,9 @@
       ],
       "version": 11
     },
-    "bald_person": {
-      "id": "bald_person",
-      "name": "Person: Bald",
+    "대머리_사람": {
+      "id": "대머리_사람",
+      "name": "대머리_사람",
       "keywords": ["person", "hairless"],
       "skins": [
         { "unified": "1f9d1-200d-1f9b2", "native": "🧑‍🦲" },
@@ -4456,9 +4456,9 @@
       ],
       "version": 12.1
     },
-    "blond-haired-woman": {
-      "id": "blond-haired-woman",
-      "name": "Woman: Blond Hair",
+    "금발_머리_여자": {
+      "id": "금발_머리_여자",
+      "name": "금발_머리_여자",
       "keywords": [
         "haired-woman",
         "woman",
@@ -4477,9 +4477,9 @@
       ],
       "version": 4
     },
-    "blond-haired-man": {
-      "id": "blond-haired-man",
-      "name": "Man: Blond Hair",
+    "금발_머리_남자": {
+      "id": "금발_머리_남자",
+      "name": "금발_머리_남자",
       "keywords": [
         "haired-man",
         "man",
@@ -4499,9 +4499,9 @@
       ],
       "version": 4
     },
-    "older_adult": {
-      "id": "older_adult",
-      "name": "Older Adult",
+    "노인": {
+      "id": "노인",
+      "name": "노인",
       "keywords": ["person", "human", "elder", "senior", "gender", "neutral"],
       "skins": [
         { "unified": "1f9d3", "native": "🧓" },
@@ -4513,9 +4513,9 @@
       ],
       "version": 5
     },
-    "older_man": {
-      "id": "older_man",
-      "name": "Old Man",
+    "노인_남성": {
+      "id": "노인_남성",
+      "name": "노인_남성",
       "keywords": ["older", "human", "male", "men", "elder", "senior"],
       "skins": [
         { "unified": "1f474", "native": "👴" },
@@ -4527,9 +4527,9 @@
       ],
       "version": 1
     },
-    "older_woman": {
-      "id": "older_woman",
-      "name": "Old Woman",
+    "노인_여성": {
+      "id": "노인_여성",
+      "name": "노인_여성",
       "keywords": [
         "older",
         "human",
@@ -4549,9 +4549,9 @@
       ],
       "version": 1
     },
-    "person_frowning": {
-      "id": "person_frowning",
-      "name": "Person Frowning",
+    "얼굴을_찌푸린_사람": {
+      "id": "얼굴을_찌푸린_사람",
+      "name": "얼굴을_찌푸린_사람",
       "keywords": ["worried"],
       "skins": [
         { "unified": "1f64d", "native": "🙍" },
@@ -4563,9 +4563,9 @@
       ],
       "version": 1
     },
-    "man-frowning": {
-      "id": "man-frowning",
-      "name": "Man Frowning",
+    "얼굴을_찌푸린_남자": {
+      "id": "얼굴을_찌푸린_남자",
+      "name": "얼굴을_찌푸린_남자",
       "keywords": ["male", "boy", "sad", "depressed", "discouraged", "unhappy"],
       "skins": [
         { "unified": "1f64d-200d-2642-fe0f", "native": "🙍‍♂️" },
@@ -4577,9 +4577,9 @@
       ],
       "version": 4
     },
-    "woman-frowning": {
-      "id": "woman-frowning",
-      "name": "Woman Frowning",
+    "얼굴을_찌푸린_여자": {
+      "id": "얼굴을_찌푸린_여자",
+      "name": "얼굴을_찌푸린_여자",
       "keywords": [
         "female",
         "girl",
@@ -4598,9 +4598,9 @@
       ],
       "version": 4
     },
-    "person_with_pouting_face": {
-      "id": "person_with_pouting_face",
-      "name": "Person Pouting",
+    "뿌루퉁한_사람": {
+      "id": "뿌루퉁한_사람",
+      "name": "뿌루퉁한_사람",
       "keywords": ["with", "face", "upset"],
       "skins": [
         { "unified": "1f64e", "native": "🙎" },
@@ -4612,9 +4612,9 @@
       ],
       "version": 1
     },
-    "man-pouting": {
-      "id": "man-pouting",
-      "name": "Man Pouting",
+    "뿌루퉁한_남자": {
+      "id": "뿌루퉁한_남자",
+      "name": "뿌루퉁한_남자",
       "keywords": ["male", "boy"],
       "skins": [
         { "unified": "1f64e-200d-2642-fe0f", "native": "🙎‍♂️" },
@@ -4626,9 +4626,9 @@
       ],
       "version": 4
     },
-    "woman-pouting": {
-      "id": "woman-pouting",
-      "name": "Woman Pouting",
+    "뿌루퉁한_여자": {
+      "id": "뿌루퉁한_여자",
+      "name": "뿌루퉁한_여자",
       "keywords": ["female", "girl"],
       "skins": [
         { "unified": "1f64e-200d-2640-fe0f", "native": "🙎‍♀️" },
@@ -4640,9 +4640,9 @@
       ],
       "version": 4
     },
-    "no_good": {
-      "id": "no_good",
-      "name": "Person Gesturing No",
+    "손으로_x자_표시를_한_사람": {
+      "id": "손으로_x자_표시를_한_사람",
+      "name": "손으로_x자_표시를_한_사람",
       "keywords": ["good", "decline"],
       "skins": [
         { "unified": "1f645", "native": "🙅" },
@@ -4654,9 +4654,9 @@
       ],
       "version": 1
     },
-    "man-gesturing-no": {
-      "id": "man-gesturing-no",
-      "name": "Man Gesturing No",
+    "손으로_x자_표시를_한_남성": {
+      "id": "손으로_x자_표시를_한_남성",
+      "name": "손으로_x자_표시를_한_남성",
       "keywords": ["gesturing-no", "male", "boy", "nope"],
       "skins": [
         { "unified": "1f645-200d-2642-fe0f", "native": "🙅‍♂️" },
@@ -4668,9 +4668,9 @@
       ],
       "version": 4
     },
-    "woman-gesturing-no": {
-      "id": "woman-gesturing-no",
-      "name": "Woman Gesturing No",
+    "손으로_x자_표시를_한_여성": {
+      "id": "손으로_x자_표시를_한_여성",
+      "name": "손으로_x자_표시를_한_여성",
       "keywords": ["gesturing-no", "female", "girl", "nope"],
       "skins": [
         { "unified": "1f645-200d-2640-fe0f", "native": "🙅‍♀️" },
@@ -4682,9 +4682,9 @@
       ],
       "version": 4
     },
-    "ok_woman": {
-      "id": "ok_woman",
-      "name": "Person Gesturing Ok",
+    "o_표시를_한_사람": {
+      "id": "o_표시를_한_사람",
+      "name": "o_표시를_한_사람",
       "keywords": ["woman", "agree"],
       "skins": [
         { "unified": "1f646", "native": "🙆" },
@@ -4696,9 +4696,9 @@
       ],
       "version": 1
     },
-    "man-gesturing-ok": {
-      "id": "man-gesturing-ok",
-      "name": "Man Gesturing Ok",
+    "o_표시를_한_남성": {
+      "id": "o_표시를_한_남성",
+      "name": "o_표시를_한_남성",
       "keywords": ["gesturing-ok", "men", "boy", "male", "blue", "human"],
       "skins": [
         { "unified": "1f646-200d-2642-fe0f", "native": "🙆‍♂️" },
@@ -4710,9 +4710,9 @@
       ],
       "version": 4
     },
-    "woman-gesturing-ok": {
-      "id": "woman-gesturing-ok",
-      "name": "Woman Gesturing Ok",
+    "o_표시를_한_여성": {
+      "id": "o_표시를_한_여성",
+      "name": "o_표시를_한_여성",
       "keywords": ["gesturing-ok", "women", "girl", "female", "pink", "human"],
       "skins": [
         { "unified": "1f646-200d-2640-fe0f", "native": "🙆‍♀️" },
@@ -4724,9 +4724,9 @@
       ],
       "version": 4
     },
-    "information_desk_person": {
-      "id": "information_desk_person",
-      "name": "Person Tipping Hand",
+    "안내하는_사람": {
+      "id": "안내하는_사람",
+      "name": "안내하는_사람",
       "keywords": ["information", "desk"],
       "skins": [
         { "unified": "1f481", "native": "💁" },
@@ -4738,9 +4738,9 @@
       ],
       "version": 1
     },
-    "man-tipping-hand": {
-      "id": "man-tipping-hand",
-      "name": "Man Tipping Hand",
+    "안내하는_남성": {
+      "id": "안내하는_남성",
+      "name": "안내하는_남성",
       "keywords": ["tipping-hand", "male", "boy", "human", "information"],
       "skins": [
         { "unified": "1f481-200d-2642-fe0f", "native": "💁‍♂️" },
@@ -4752,9 +4752,9 @@
       ],
       "version": 4
     },
-    "woman-tipping-hand": {
-      "id": "woman-tipping-hand",
-      "name": "Woman Tipping Hand",
+    "안내하는_여성": {
+      "id": "안내하는_여성",
+      "name": "안내하는_여성",
       "keywords": ["tipping-hand", "female", "girl", "human", "information"],
       "skins": [
         { "unified": "1f481-200d-2640-fe0f", "native": "💁‍♀️" },
@@ -4766,9 +4766,9 @@
       ],
       "version": 4
     },
-    "raising_hand": {
-      "id": "raising_hand",
-      "name": "Person Raising Hand",
+    "손을_든_사람": {
+      "id": "손을_든_사람",
+      "name": "손을_든_사람",
       "keywords": ["question"],
       "skins": [
         { "unified": "1f64b", "native": "🙋" },
@@ -4780,9 +4780,9 @@
       ],
       "version": 1
     },
-    "man-raising-hand": {
-      "id": "man-raising-hand",
-      "name": "Man Raising Hand",
+    "손을_든_남성": {
+      "id": "손을_든_남성",
+      "name": "손을_든_남성",
       "keywords": ["raising-hand", "male", "boy"],
       "skins": [
         { "unified": "1f64b-200d-2642-fe0f", "native": "🙋‍♂️" },
@@ -4794,9 +4794,9 @@
       ],
       "version": 4
     },
-    "woman-raising-hand": {
-      "id": "woman-raising-hand",
-      "name": "Woman Raising Hand",
+    "손을_든_여성": {
+      "id": "손을_든_여성",
+      "name": "손을_든_여성",
       "keywords": ["raising-hand", "female", "girl"],
       "skins": [
         { "unified": "1f64b-200d-2640-fe0f", "native": "🙋‍♀️" },
@@ -4808,9 +4808,9 @@
       ],
       "version": 4
     },
-    "deaf_person": {
-      "id": "deaf_person",
-      "name": "Deaf Person",
+    "청각_장애인": {
+      "id": "청각_장애인",
+      "name": "청각_장애인",
       "keywords": ["accessibility"],
       "skins": [
         { "unified": "1f9cf", "native": "🧏" },
@@ -4822,9 +4822,9 @@
       ],
       "version": 12
     },
-    "deaf_man": {
-      "id": "deaf_man",
-      "name": "Deaf Man",
+    "남성_청각_장애인": {
+      "id": "남성_청각_장애인",
+      "name": "남성_청각_장애인",
       "keywords": ["accessibility"],
       "skins": [
         { "unified": "1f9cf-200d-2642-fe0f", "native": "🧏‍♂️" },
@@ -4836,9 +4836,9 @@
       ],
       "version": 12
     },
-    "deaf_woman": {
-      "id": "deaf_woman",
-      "name": "Deaf Woman",
+    "여성_청각_장애인": {
+      "id": "여성_청각_장애인",
+      "name": "여성_청각_장애인",
       "keywords": ["accessibility"],
       "skins": [
         { "unified": "1f9cf-200d-2640-fe0f", "native": "🧏‍♀️" },
@@ -4850,9 +4850,9 @@
       ],
       "version": 12
     },
-    "bow": {
-      "id": "bow",
-      "name": "Person Bowing",
+    "절하는_사람": {
+      "id": "절하는_사람",
+      "name": "절하는_사람",
       "keywords": ["bow", "respectiful"],
       "skins": [
         { "unified": "1f647", "native": "🙇" },
@@ -4864,9 +4864,9 @@
       ],
       "version": 1
     },
-    "man-bowing": {
-      "id": "man-bowing",
-      "name": "Man Bowing",
+    "절하는_남성": {
+      "id": "절하는_남성",
+      "name": "절하는_남성",
       "keywords": ["male", "boy"],
       "skins": [
         { "unified": "1f647-200d-2642-fe0f", "native": "🙇‍♂️" },
@@ -4878,9 +4878,9 @@
       ],
       "version": 4
     },
-    "woman-bowing": {
-      "id": "woman-bowing",
-      "name": "Woman Bowing",
+    "절하는_여성": {
+      "id": "절하는_여성",
+      "name": "절하는_여성",
       "keywords": ["female", "girl"],
       "skins": [
         { "unified": "1f647-200d-2640-fe0f", "native": "🙇‍♀️" },
@@ -4892,9 +4892,9 @@
       ],
       "version": 4
     },
-    "face_palm": {
-      "id": "face_palm",
-      "name": "Face Palm",
+    "손으로_얼굴을_가린_사람": {
+      "id": "손으로_얼굴을_가린_사람",
+      "name": "손으로_얼굴을_가린_사람",
       "keywords": ["person", "facepalming", "disappointed"],
       "skins": [
         { "unified": "1f926", "native": "🤦" },
@@ -4906,9 +4906,9 @@
       ],
       "version": 3
     },
-    "man-facepalming": {
-      "id": "man-facepalming",
-      "name": "Man Facepalming",
+    "손으로_얼굴을_가린_남성": {
+      "id": "손으로_얼굴을_가린_남성",
+      "name": "손으로_얼굴을_가린_남성",
       "keywords": ["male", "boy", "disbelief"],
       "skins": [
         { "unified": "1f926-200d-2642-fe0f", "native": "🤦‍♂️" },
@@ -4920,9 +4920,9 @@
       ],
       "version": 4
     },
-    "woman-facepalming": {
-      "id": "woman-facepalming",
-      "name": "Woman Facepalming",
+    "손으로_얼굴을_가린_여성": {
+      "id": "손으로_얼굴을_가린_여성",
+      "name": "손으로_얼굴을_가린_여성",
       "keywords": ["female", "girl", "disbelief"],
       "skins": [
         { "unified": "1f926-200d-2640-fe0f", "native": "🤦‍♀️" },
@@ -4934,9 +4934,9 @@
       ],
       "version": 4
     },
-    "shrug": {
-      "id": "shrug",
-      "name": "Shrug",
+    "어깨를_으쓱하는_사람": {
+      "id": "어깨를_으쓱하는_사람",
+      "name": "어깨를_으쓱하는_사람",
       "keywords": ["person", "shrugging", "regardless"],
       "skins": [
         { "unified": "1f937", "native": "🤷" },
@@ -4948,9 +4948,9 @@
       ],
       "version": 3
     },
-    "man-shrugging": {
-      "id": "man-shrugging",
-      "name": "Man Shrugging",
+    "어깨를_으쓱하는_남성": {
+      "id": "어깨를_으쓱하는_남성",
+      "name": "어깨를_으쓱하는_남성",
       "keywords": ["male", "boy", "confused", "indifferent", "doubt"],
       "skins": [
         { "unified": "1f937-200d-2642-fe0f", "native": "🤷‍♂️" },
@@ -4962,9 +4962,9 @@
       ],
       "version": 4
     },
-    "woman-shrugging": {
-      "id": "woman-shrugging",
-      "name": "Woman Shrugging",
+    "어깨를_으쓱하는_여성": {
+      "id": "어깨를_으쓱하는_여성",
+      "name": "어깨를_으쓱하는_여성",
       "keywords": ["female", "girl", "confused", "indifferent", "doubt"],
       "skins": [
         { "unified": "1f937-200d-2640-fe0f", "native": "🤷‍♀️" },
@@ -4976,9 +4976,9 @@
       ],
       "version": 4
     },
-    "health_worker": {
-      "id": "health_worker",
-      "name": "Health Worker",
+    "의료_종사자": {
+      "id": "의료_종사자",
+      "name": "의료_종사자",
       "keywords": ["hospital"],
       "skins": [
         { "unified": "1f9d1-200d-2695-fe0f", "native": "🧑‍⚕️" },
@@ -4990,9 +4990,9 @@
       ],
       "version": 12.1
     },
-    "male-doctor": {
-      "id": "male-doctor",
-      "name": "Man Health Worker",
+    "남성_의사": {
+      "id": "남성_의사",
+      "name": "남성_의사",
       "keywords": [
         "male",
         "doctor",
@@ -5011,9 +5011,9 @@
       ],
       "version": 4
     },
-    "female-doctor": {
-      "id": "female-doctor",
-      "name": "Woman Health Worker",
+    "여성_의사": {
+      "id": "여성_의사",
+      "name": "여성_의사",
       "keywords": [
         "female",
         "doctor",
@@ -5032,9 +5032,9 @@
       ],
       "version": 4
     },
-    "student": {
-      "id": "student",
-      "name": "Student",
+    "학생": {
+      "id": "학생",
+      "name": "학생",
       "keywords": ["learn"],
       "skins": [
         { "unified": "1f9d1-200d-1f393", "native": "🧑‍🎓" },
@@ -5046,9 +5046,9 @@
       ],
       "version": 12.1
     },
-    "male-student": {
-      "id": "male-student",
-      "name": "Man Student",
+    "남학생": {
+      "id": "남학생",
+      "name": "남학생",
       "keywords": ["male", "graduate", "human"],
       "skins": [
         { "unified": "1f468-200d-1f393", "native": "👨‍🎓" },
@@ -5060,9 +5060,9 @@
       ],
       "version": 4
     },
-    "female-student": {
-      "id": "female-student",
-      "name": "Woman Student",
+    "여학생": {
+      "id": "여학생",
+      "name": "여학생",
       "keywords": ["female", "graduate", "human"],
       "skins": [
         { "unified": "1f469-200d-1f393", "native": "👩‍🎓" },
@@ -5074,9 +5074,9 @@
       ],
       "version": 4
     },
-    "teacher": {
-      "id": "teacher",
-      "name": "Teacher",
+    "교사": {
+      "id": "교사",
+      "name": "교사",
       "keywords": ["professor"],
       "skins": [
         { "unified": "1f9d1-200d-1f3eb", "native": "🧑‍🏫" },
@@ -5088,9 +5088,9 @@
       ],
       "version": 12.1
     },
-    "male-teacher": {
-      "id": "male-teacher",
-      "name": "Man Teacher",
+    "남성_교사": {
+      "id": "남성_교사",
+      "name": "남성_교사",
       "keywords": ["male", "instructor", "professor", "human"],
       "skins": [
         { "unified": "1f468-200d-1f3eb", "native": "👨‍🏫" },
@@ -5102,9 +5102,9 @@
       ],
       "version": 4
     },
-    "female-teacher": {
-      "id": "female-teacher",
-      "name": "Woman Teacher",
+    "여성_교사": {
+      "id": "여성_교사",
+      "name": "여성_교사",
       "keywords": ["female", "instructor", "professor", "human"],
       "skins": [
         { "unified": "1f469-200d-1f3eb", "native": "👩‍🏫" },
@@ -5116,9 +5116,9 @@
       ],
       "version": 4
     },
-    "judge": {
-      "id": "judge",
-      "name": "Judge",
+    "판사": {
+      "id": "판사",
+      "name": "판사",
       "keywords": ["law"],
       "skins": [
         { "unified": "1f9d1-200d-2696-fe0f", "native": "🧑‍⚖️" },
@@ -5130,9 +5130,9 @@
       ],
       "version": 12.1
     },
-    "male-judge": {
-      "id": "male-judge",
-      "name": "Man Judge",
+    "남성_판사": {
+      "id": "남성_판사",
+      "name": "남성_판사",
       "keywords": ["male", "justice", "court", "human"],
       "skins": [
         { "unified": "1f468-200d-2696-fe0f", "native": "👨‍⚖️" },
@@ -5144,9 +5144,9 @@
       ],
       "version": 4
     },
-    "female-judge": {
-      "id": "female-judge",
-      "name": "Woman Judge",
+    "여성_판사": {
+      "id": "여성_판사",
+      "name": "여성_판사",
       "keywords": ["female", "justice", "court", "human"],
       "skins": [
         { "unified": "1f469-200d-2696-fe0f", "native": "👩‍⚖️" },
@@ -5158,9 +5158,9 @@
       ],
       "version": 4
     },
-    "farmer": {
-      "id": "farmer",
-      "name": "Farmer",
+    "농부": {
+      "id": "농부",
+      "name": "농부",
       "keywords": ["crops"],
       "skins": [
         { "unified": "1f9d1-200d-1f33e", "native": "🧑‍🌾" },
@@ -5172,9 +5172,9 @@
       ],
       "version": 12.1
     },
-    "male-farmer": {
-      "id": "male-farmer",
-      "name": "Man Farmer",
+    "남성_농부": {
+      "id": "남성_농부",
+      "name": "남성_농부",
       "keywords": ["male", "rancher", "gardener", "human"],
       "skins": [
         { "unified": "1f468-200d-1f33e", "native": "👨‍🌾" },
@@ -5186,9 +5186,9 @@
       ],
       "version": 4
     },
-    "female-farmer": {
-      "id": "female-farmer",
-      "name": "Woman Farmer",
+    "여성_농부": {
+      "id": "여성_농부",
+      "name": "여성_농부",
       "keywords": ["female", "rancher", "gardener", "human"],
       "skins": [
         { "unified": "1f469-200d-1f33e", "native": "👩‍🌾" },
@@ -5200,9 +5200,9 @@
       ],
       "version": 4
     },
-    "cook": {
-      "id": "cook",
-      "name": "Cook",
+    "요리사": {
+      "id": "요리사",
+      "name": "요리사",
       "keywords": ["food", "kitchen", "culinary"],
       "skins": [
         { "unified": "1f9d1-200d-1f373", "native": "🧑‍🍳" },
@@ -5214,9 +5214,9 @@
       ],
       "version": 12.1
     },
-    "male-cook": {
-      "id": "male-cook",
-      "name": "Man Cook",
+    "남성_요리사": {
+      "id": "남성_요리사",
+      "name": "남성_요리사",
       "keywords": ["male", "chef", "human"],
       "skins": [
         { "unified": "1f468-200d-1f373", "native": "👨‍🍳" },
@@ -5228,9 +5228,9 @@
       ],
       "version": 4
     },
-    "female-cook": {
-      "id": "female-cook",
-      "name": "Woman Cook",
+    "여성_요리사": {
+      "id": "여성_요리사",
+      "name": "여성_요리사",
       "keywords": ["female", "chef", "human"],
       "skins": [
         { "unified": "1f469-200d-1f373", "native": "👩‍🍳" },
@@ -5242,9 +5242,9 @@
       ],
       "version": 4
     },
-    "mechanic": {
-      "id": "mechanic",
-      "name": "Mechanic",
+    "정비공": {
+      "id": "정비공",
+      "name": "정비공",
       "keywords": ["worker", "technician"],
       "skins": [
         { "unified": "1f9d1-200d-1f527", "native": "🧑‍🔧" },
@@ -5256,9 +5256,9 @@
       ],
       "version": 12.1
     },
-    "male-mechanic": {
-      "id": "male-mechanic",
-      "name": "Man Mechanic",
+    "남성_정비공": {
+      "id": "남성_정비공",
+      "name": "남성_정비공",
       "keywords": ["male", "plumber", "human", "wrench"],
       "skins": [
         { "unified": "1f468-200d-1f527", "native": "👨‍🔧" },
@@ -5270,9 +5270,9 @@
       ],
       "version": 4
     },
-    "female-mechanic": {
-      "id": "female-mechanic",
-      "name": "Woman Mechanic",
+    "여성_정비공": {
+      "id": "여성_정비공",
+      "name": "여성_정비공",
       "keywords": ["female", "plumber", "human", "wrench"],
       "skins": [
         { "unified": "1f469-200d-1f527", "native": "👩‍🔧" },
@@ -5284,9 +5284,9 @@
       ],
       "version": 4
     },
-    "factory_worker": {
-      "id": "factory_worker",
-      "name": "Factory Worker",
+    "공장_근로자": {
+      "id": "공장_근로자",
+      "name": "공장_근로자",
       "keywords": ["labor"],
       "skins": [
         { "unified": "1f9d1-200d-1f3ed", "native": "🧑‍🏭" },
@@ -5298,9 +5298,9 @@
       ],
       "version": 12.1
     },
-    "male-factory-worker": {
-      "id": "male-factory-worker",
-      "name": "Man Factory Worker",
+    "남성_공장_근로자": {
+      "id": "남성_공장_근로자",
+      "name": "남성_공장_근로자",
       "keywords": ["male", "factory-worker", "assembly", "industrial", "human"],
       "skins": [
         { "unified": "1f468-200d-1f3ed", "native": "👨‍🏭" },
@@ -5312,9 +5312,9 @@
       ],
       "version": 4
     },
-    "female-factory-worker": {
-      "id": "female-factory-worker",
-      "name": "Woman Factory Worker",
+    "여성_공장_근로자": {
+      "id": "여성_공장_근로자",
+      "name": "여성_공장_근로자",
       "keywords": [
         "female",
         "factory-worker",
@@ -5332,9 +5332,9 @@
       ],
       "version": 4
     },
-    "office_worker": {
-      "id": "office_worker",
-      "name": "Office Worker",
+    "사무직_근로자": {
+      "id": "사무직_근로자",
+      "name": "사무직_근로자",
       "keywords": ["business"],
       "skins": [
         { "unified": "1f9d1-200d-1f4bc", "native": "🧑‍💼" },
@@ -5346,9 +5346,9 @@
       ],
       "version": 12.1
     },
-    "male-office-worker": {
-      "id": "male-office-worker",
-      "name": "Man Office Worker",
+    "남성_사무직_근로자": {
+      "id": "남성_사무직_근로자",
+      "name": "남성_사무직_근로자r",
       "keywords": ["male", "office-worker", "business", "manager", "human"],
       "skins": [
         { "unified": "1f468-200d-1f4bc", "native": "👨‍💼" },
@@ -5360,9 +5360,9 @@
       ],
       "version": 4
     },
-    "female-office-worker": {
-      "id": "female-office-worker",
-      "name": "Woman Office Worker",
+    "여성_사무직_근로자": {
+      "id": "여성_사무직_근로자",
+      "name": "여성_사무직_근로자",
       "keywords": ["female", "office-worker", "business", "manager", "human"],
       "skins": [
         { "unified": "1f469-200d-1f4bc", "native": "👩‍💼" },
@@ -5374,9 +5374,9 @@
       ],
       "version": 4
     },
-    "scientist": {
-      "id": "scientist",
-      "name": "Scientist",
+    "과학자": {
+      "id": "과학자",
+      "name": "과학자",
       "keywords": ["chemistry"],
       "skins": [
         { "unified": "1f9d1-200d-1f52c", "native": "🧑‍🔬" },
@@ -5388,9 +5388,9 @@
       ],
       "version": 12.1
     },
-    "male-scientist": {
-      "id": "male-scientist",
-      "name": "Man Scientist",
+    "남성_과학자": {
+      "id": "남성_과학자",
+      "name": "남성_과학자",
       "keywords": [
         "male",
         "biologist",
@@ -5409,9 +5409,9 @@
       ],
       "version": 4
     },
-    "female-scientist": {
-      "id": "female-scientist",
-      "name": "Woman Scientist",
+    "여성_과학자": {
+      "id": "여성_과학자",
+      "name": "여성_과학자",
       "keywords": [
         "female",
         "biologist",
@@ -5430,9 +5430,9 @@
       ],
       "version": 4
     },
-    "technologist": {
-      "id": "technologist",
-      "name": "Technologist",
+    "기술자": {
+      "id": "기술자",
+      "name": "기술자",
       "keywords": ["computer"],
       "skins": [
         { "unified": "1f9d1-200d-1f4bb", "native": "🧑‍💻" },
@@ -5444,9 +5444,9 @@
       ],
       "version": 12.1
     },
-    "male-technologist": {
-      "id": "male-technologist",
-      "name": "Man Technologist",
+    "남성_기술자": {
+      "id": "남성_기술자",
+      "name": "남성_기술자",
       "keywords": [
         "male",
         "coder",
@@ -5468,9 +5468,9 @@
       ],
       "version": 4
     },
-    "female-technologist": {
-      "id": "female-technologist",
-      "name": "Woman Technologist",
+    "여성_기술자": {
+      "id": "여성_기술자",
+      "name": "여성_기술자",
       "keywords": [
         "female",
         "coder",
@@ -5492,9 +5492,9 @@
       ],
       "version": 4
     },
-    "singer": {
-      "id": "singer",
-      "name": "Singer",
+    "가수": {
+      "id": "가수",
+      "name": "가수",
       "keywords": ["song", "artist", "performer"],
       "skins": [
         { "unified": "1f9d1-200d-1f3a4", "native": "🧑‍🎤" },
@@ -5506,9 +5506,9 @@
       ],
       "version": 12.1
     },
-    "male-singer": {
-      "id": "male-singer",
-      "name": "Man Singer",
+    "남성_가수": {
+      "id": "남성_가수",
+      "name": "남성_가수",
       "keywords": ["male", "rockstar", "entertainer", "human"],
       "skins": [
         { "unified": "1f468-200d-1f3a4", "native": "👨‍🎤" },
@@ -5520,9 +5520,9 @@
       ],
       "version": 4
     },
-    "female-singer": {
-      "id": "female-singer",
-      "name": "Woman Singer",
+    "여성_가수": {
+      "id": "여성_가수",
+      "name": "여성_가수",
       "keywords": ["female", "rockstar", "entertainer", "human"],
       "skins": [
         { "unified": "1f469-200d-1f3a4", "native": "👩‍🎤" },
@@ -9129,8 +9129,8 @@
       "skins": [{ "unified": "1f9a1", "native": "🦡" }],
       "version": 11
     },
-    "발": {
-      "id": "발",
+    "발자국": {
+      "id": "발자국",
       "name": "발자국",
       "keywords": [
         "feet",
