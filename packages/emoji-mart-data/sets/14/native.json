@@ -302,7 +302,7 @@
         "터번을_두른_남성",
         "터번을_두른_여성",
         "과피모를_쓴_남성",
-        "머리-스카프를_쓴_사람",
+        "머리_스카프를_쓴_사람",
         "턱시도를_입은_사람",
         "턱시도를_입은_남성",
         "턱시도를_입은_여성",
@@ -477,7 +477,7 @@
         "상반신_그림자",
         "2개의_상반신_그림자",
         "포옹하는_모습",
-        "발자국",
+        "발자국2",
         "웃고_있는_고양이",
         "웃는_고양이",
         "기분_좋은_고양이",
@@ -504,7 +504,7 @@
         "부서진_하트",
         "불타는_하트",
         "치유_중인_하트",
-        "하트",
+        "빨간_하트",
         "주황색_하트",
         "노랑색_하트",
         "초록색_하트",
@@ -2938,30 +2938,30 @@
       "skins": [{ "unified": "1f916", "native": "🤖" }],
       "version": 1
     },
-    "smiley_cat": {
-      "id": "smiley_cat",
-      "name": "Grinning Cat",
+    "웃고_있는_고양이": {
+      "id": "웃고_있는_고양이",
+      "name": "웃고_있는_고양이",
       "keywords": ["smiley", "animal", "cats", "happy", "smile"],
       "skins": [{ "unified": "1f63a", "native": "😺" }],
       "version": 1
     },
-    "smile_cat": {
-      "id": "smile_cat",
-      "name": "Grinning Cat with Smiling Eyes",
+    "웃는_고양이": {
+      "id": "웃는_고양이",
+      "name": "웃는_고양이",
       "keywords": ["smile", "animal", "cats"],
       "skins": [{ "unified": "1f638", "native": "😸" }],
       "version": 1
     },
-    "joy_cat": {
-      "id": "joy_cat",
-      "name": "Cat with Tears of Joy",
+    "기분_좋은_고양이": {
+      "id": "기분_좋은_고양이",
+      "name": "기분_좋은_고양이",
       "keywords": ["animal", "cats", "haha", "happy"],
       "skins": [{ "unified": "1f639", "native": "😹" }],
       "version": 1
     },
-    "heart_eyes_cat": {
-      "id": "heart_eyes_cat",
-      "name": "Smiling Cat with Heart-Eyes",
+    "눈이_하트_모양인_고양이": {
+      "id": "눈이_하트_모양인_고양이",
+      "name": "눈이_하트_모양인_고양이",
       "keywords": [
         "heart",
         "eyes",
@@ -2975,30 +2975,30 @@
       "skins": [{ "unified": "1f63b", "native": "😻" }],
       "version": 1
     },
-    "smirk_cat": {
-      "id": "smirk_cat",
-      "name": "Cat with Wry Smile",
+    "히죽거리는_고양이": {
+      "id": "히죽거리는_고양이",
+      "name": "히죽거리는_고양이",
       "keywords": ["smirk", "animal", "cats"],
       "skins": [{ "unified": "1f63c", "native": "😼" }],
       "version": 1
     },
-    "kissing_cat": {
-      "id": "kissing_cat",
-      "name": "Kissing Cat",
+    "뽀뽀하는_고양이": {
+      "id": "뽀뽀하는_고양이",
+      "name": "뽀뽀하는_고양이",
       "keywords": ["animal", "cats", "kiss"],
       "skins": [{ "unified": "1f63d", "native": "😽" }],
       "version": 1
     },
-    "scream_cat": {
-      "id": "scream_cat",
-      "name": "Weary Cat",
+    "소리지르는_고양이": {
+      "id": "소리지르는_고양이",
+      "name": "소리지르는_고양이",
       "keywords": ["scream", "animal", "cats", "munch", "scared"],
       "skins": [{ "unified": "1f640", "native": "🙀" }],
       "version": 1
     },
-    "crying_cat_face": {
-      "id": "crying_cat_face",
-      "name": "Crying Cat",
+    "우는_고양이_얼굴": {
+      "id": "우는_고양이_얼굴",
+      "name": "우는_고양이_얼굴",
       "keywords": [
         "face",
         "animal",
@@ -3012,72 +3012,72 @@
       "skins": [{ "unified": "1f63f", "native": "😿" }],
       "version": 1
     },
-    "pouting_cat": {
-      "id": "pouting_cat",
-      "name": "Pouting Cat",
+    "뿌루퉁한_고양이": {
+      "id": "뿌루퉁한_고양이",
+      "name": "뿌루퉁한_고양이",
       "keywords": ["animal", "cats"],
       "skins": [{ "unified": "1f63e", "native": "😾" }],
       "version": 1
     },
-    "see_no_evil": {
-      "id": "see_no_evil",
-      "name": "See-No-Evil Monkey",
+    "나쁜_것을_보지_말라": {
+      "id": "나쁜_것을_보지_말라",
+      "name": "나쁜_것을_보지_말라",
       "keywords": ["see", "no", "evil", "animal", "nature", "haha"],
       "skins": [{ "unified": "1f648", "native": "🙈" }],
       "version": 1
     },
-    "hear_no_evil": {
-      "id": "hear_no_evil",
-      "name": "Hear-No-Evil Monkey",
+    "나쁜_것을_듣지_말라": {
+      "id": "나쁜_것을_듣지_말라",
+      "name": "나쁜_것을_듣지_말라",
       "keywords": ["hear", "no", "evil", "animal", "nature"],
       "skins": [{ "unified": "1f649", "native": "🙉" }],
       "version": 1
     },
-    "speak_no_evil": {
-      "id": "speak_no_evil",
-      "name": "Speak-No-Evil Monkey",
+    "나쁜_것을_말하지_말라": {
+      "id": "나쁜_것을_말하지_말라",
+      "name": "나쁜_것을_말하지_말라",
       "keywords": ["speak", "no", "evil", "animal", "nature", "omg"],
       "skins": [{ "unified": "1f64a", "native": "🙊" }],
       "version": 1
     },
-    "kiss": {
-      "id": "kiss",
-      "name": "Kiss Mark",
+    "키스": {
+      "id": "키스",
+      "name": "키스",
       "keywords": ["face", "lips", "love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f48b", "native": "💋" }],
       "version": 1
     },
-    "love_letter": {
-      "id": "love_letter",
-      "name": "Love Letter",
+    "러브레터": {
+      "id": "러브레터",
+      "name": "러브레터",
       "keywords": ["email", "like", "affection", "envelope", "valentines"],
       "skins": [{ "unified": "1f48c", "native": "💌" }],
       "version": 1
     },
-    "cupid": {
-      "id": "cupid",
-      "name": "Heart with Arrow",
+    "큐피드": {
+      "id": "큐피드",
+      "name": "큐피드",
       "keywords": ["cupid", "love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f498", "native": "💘" }],
       "version": 1
     },
-    "gift_heart": {
-      "id": "gift_heart",
-      "name": "Heart with Ribbon",
+    "리본이_달린_하트": {
+      "id": "리본이_달린_하트",
+      "name": "리본이_달린_하트",
       "keywords": ["gift", "love", "valentines"],
       "skins": [{ "unified": "1f49d", "native": "💝" }],
       "version": 1
     },
-    "sparkling_heart": {
-      "id": "sparkling_heart",
-      "name": "Sparkling Heart",
+    "반짝이는_하트": {
+      "id": "반짝이는_하트",
+      "name": "반짝이는_하트",
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f496", "native": "💖" }],
       "version": 1
     },
-    "heartpulse": {
-      "id": "heartpulse",
-      "name": "Growing Heart",
+    "심박": {
+      "id": "심박",
+      "name": "심박",
       "keywords": [
         "heartpulse",
         "like",
@@ -3089,9 +3089,9 @@
       "skins": [{ "unified": "1f497", "native": "💗" }],
       "version": 1
     },
-    "heartbeat": {
-      "id": "heartbeat",
-      "name": "Beating Heart",
+    "심장_박동": {
+      "id": "심장_박동",
+      "name": "심장_박동",
       "keywords": [
         "heartbeat",
         "love",
@@ -3103,155 +3103,155 @@
       "skins": [{ "unified": "1f493", "native": "💓" }],
       "version": 1
     },
-    "revolving_hearts": {
-      "id": "revolving_hearts",
-      "name": "Revolving Hearts",
+    "회전하는_하트": {
+      "id": "회전하는_하트",
+      "name": "회전하는_하트",
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f49e", "native": "💞" }],
       "version": 1
     },
-    "two_hearts": {
-      "id": "two_hearts",
-      "name": "Two Hearts",
+    "두_개의_하트": {
+      "id": "두_개의_하트",
+      "name": "두_개의_하트",
       "keywords": ["love", "like", "affection", "valentines", "heart"],
       "skins": [{ "unified": "1f495", "native": "💕" }],
       "version": 1
     },
-    "heart_decoration": {
-      "id": "heart_decoration",
-      "name": "Heart Decoration",
+    "하트_장식": {
+      "id": "하트_장식",
+      "name": "하트_장식",
       "keywords": ["purple", "square", "love", "like"],
       "skins": [{ "unified": "1f49f", "native": "💟" }],
       "version": 1
     },
-    "heavy_heart_exclamation_mark_ornament": {
-      "id": "heavy_heart_exclamation_mark_ornament",
-      "name": "Heart Exclamation",
+    "하트_모양의_두꺼운_느낌표": {
+      "id": "하트_모양의_두꺼운_느낌표",
+      "name": "하트_모양의_두꺼운_느낌표",
       "keywords": ["heavy", "mark", "ornament", "decoration", "love"],
       "skins": [{ "unified": "2763-fe0f", "native": "❣️" }],
       "version": 1
     },
-    "broken_heart": {
-      "id": "broken_heart",
-      "name": "Broken Heart",
+    "부서진_하트": {
+      "id": "부서진_하트",
+      "name": "부서진_하트",
       "emoticons": ["</3"],
       "keywords": ["sad", "sorry", "break", "heartbreak"],
       "skins": [{ "unified": "1f494", "native": "💔" }],
       "version": 1
     },
-    "heart_on_fire": {
-      "id": "heart_on_fire",
-      "name": "Heart on Fire",
+    "불타는_하트": {
+      "id": "불타는_하트",
+      "name": "불타는_하트",
       "keywords": ["passionate", "enthusiastic"],
       "skins": [{ "unified": "2764-fe0f-200d-1f525", "native": "❤️‍🔥" }],
       "version": 13.1
     },
-    "mending_heart": {
-      "id": "mending_heart",
-      "name": "Mending Heart",
+    "치유_중인_하트": {
+      "id": "치유_중인_하트",
+      "name": "치유_중인_하트",
       "keywords": ["broken", "bandage", "wounded"],
       "skins": [{ "unified": "2764-fe0f-200d-1fa79", "native": "❤️‍🩹" }],
       "version": 13.1
     },
-    "heart": {
-      "id": "heart",
-      "name": "Red Heart",
+    "빨간_하트": {
+      "id": "빨간_하트",
+      "name": "빨간 하트",
       "emoticons": ["<3"],
       "keywords": ["love", "like", "valentines"],
       "skins": [{ "unified": "2764-fe0f", "native": "❤️" }],
       "version": 1
     },
-    "orange_heart": {
-      "id": "orange_heart",
-      "name": "Orange Heart",
+    "주황색_하트": {
+      "id": "주황색_하트",
+      "name": "주황색_하트",
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f9e1", "native": "🧡" }],
       "version": 5
     },
-    "yellow_heart": {
-      "id": "yellow_heart",
-      "name": "Yellow Heart",
+    "노랑색_하트": {
+      "id": "노랑색_하트",
+      "name": "노랑색_하트",
       "emoticons": ["<3"],
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f49b", "native": "💛" }],
       "version": 1
     },
-    "green_heart": {
-      "id": "green_heart",
-      "name": "Green Heart",
+    "초록색_하트": {
+      "id": "초록색_하트",
+      "name": "초록색_하트",
       "emoticons": ["<3"],
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f49a", "native": "💚" }],
       "version": 1
     },
-    "blue_heart": {
-      "id": "blue_heart",
-      "name": "Blue Heart",
+    "파랑색_하트": {
+      "id": "파랑색_하트",
+      "name": "파랑색_하트",
       "emoticons": ["<3"],
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f499", "native": "💙" }],
       "version": 1
     },
-    "purple_heart": {
-      "id": "purple_heart",
-      "name": "Purple Heart",
+    "보라색_하트": {
+      "id": "보라색_하트",
+      "name": "보라색_하트",
       "emoticons": ["<3"],
       "keywords": ["love", "like", "affection", "valentines"],
       "skins": [{ "unified": "1f49c", "native": "💜" }],
       "version": 1
     },
-    "brown_heart": {
-      "id": "brown_heart",
-      "name": "Brown Heart",
+    "갈색_하트": {
+      "id": "갈색_하트",
+      "name": "갈색_하트",
       "keywords": ["coffee"],
       "skins": [{ "unified": "1f90e", "native": "🤎" }],
       "version": 12
     },
-    "black_heart": {
-      "id": "black_heart",
-      "name": "Black Heart",
+    "검정색_하트": {
+      "id": "검정색_하트",
+      "name": "검정색_하트",
       "keywords": ["evil"],
       "skins": [{ "unified": "1f5a4", "native": "🖤" }],
       "version": 3
     },
-    "white_heart": {
-      "id": "white_heart",
-      "name": "White Heart",
+    "흰색_하트": {
+      "id": "흰색_하트",
+      "name": "흰색_하트",
       "keywords": ["pure"],
       "skins": [{ "unified": "1f90d", "native": "🤍" }],
       "version": 12
     },
-    "anger": {
-      "id": "anger",
-      "name": "Anger Symbol",
+    "화남": {
+      "id": "화남",
+      "name": "화남",
       "keywords": ["angry", "mad"],
       "skins": [{ "unified": "1f4a2", "native": "💢" }],
       "version": 1
     },
-    "boom": {
-      "id": "boom",
-      "name": "Collision",
+    "폭발": {
+      "id": "폭발",
+      "name": "폭발",
       "keywords": ["boom", "bomb", "explode", "explosion", "blown"],
       "skins": [{ "unified": "1f4a5", "native": "💥" }],
       "version": 1
     },
-    "dizzy": {
-      "id": "dizzy",
-      "name": "Dizzy",
+    "어지러운": {
+      "id": "어지러운",
+      "name": "어지러운",
       "keywords": ["star", "sparkle", "shoot", "magic"],
       "skins": [{ "unified": "1f4ab", "native": "💫" }],
       "version": 1
     },
-    "sweat_drops": {
-      "id": "sweat_drops",
-      "name": "Sweat Droplets",
+    "땀방울": {
+      "id": "땀방울",
+      "name": "땀방울",
       "keywords": ["drops", "water", "drip", "oops"],
       "skins": [{ "unified": "1f4a6", "native": "💦" }],
       "version": 1
     },
-    "dash": {
-      "id": "dash",
-      "name": "Dash Symbol",
+    "질주": {
+      "id": "질주",
+      "name": "질주",
       "keywords": [
         "dashing",
         "away",
@@ -3266,58 +3266,58 @@
       "skins": [{ "unified": "1f4a8", "native": "💨" }],
       "version": 1
     },
-    "hole": {
-      "id": "hole",
-      "name": "Hole",
+    "구멍": {
+      "id": "구멍",
+      "name": "구멍",
       "keywords": ["embarrassing"],
       "skins": [{ "unified": "1f573-fe0f", "native": "🕳️" }],
       "version": 1
     },
-    "bomb": {
-      "id": "bomb",
-      "name": "Bomb",
+    "폭탄": {
+      "id": "폭탄",
+      "name": "폭탄",
       "keywords": ["boom", "explode", "explosion", "terrorism"],
       "skins": [{ "unified": "1f4a3", "native": "💣" }],
       "version": 1
     },
-    "speech_balloon": {
-      "id": "speech_balloon",
-      "name": "Speech Balloon",
+    "말풍선": {
+      "id": "말풍선",
+      "name": "말풍선",
       "keywords": ["bubble", "words", "message", "talk", "chatting"],
       "skins": [{ "unified": "1f4ac", "native": "💬" }],
       "version": 1
     },
-    "eye-in-speech-bubble": {
-      "id": "eye-in-speech-bubble",
-      "name": "Eye in Speech Bubble",
+    "말풍선_눈": {
+      "id": "말풍선_눈",
+      "name": "말풍선_눈",
       "keywords": ["in-speech-bubble", "info"],
       "skins": [{ "unified": "1f441-fe0f-200d-1f5e8-fe0f", "native": "👁️‍🗨️" }],
       "version": 2
     },
-    "left_speech_bubble": {
-      "id": "left_speech_bubble",
-      "name": "Left Speech Bubble",
+    "왼쪽_말풍선": {
+      "id": "왼쪽_말풍선",
+      "name": "왼쪽_말풍선",
       "keywords": ["words", "message", "talk", "chatting"],
       "skins": [{ "unified": "1f5e8-fe0f", "native": "🗨️" }],
       "version": 2
     },
-    "right_anger_bubble": {
-      "id": "right_anger_bubble",
-      "name": "Right Anger Bubble",
+    "오른쪽_말풍선": {
+      "id": "오른쪽_말풍선",
+      "name": "오른쪽_말풍선",
       "keywords": ["caption", "speech", "thinking", "mad"],
       "skins": [{ "unified": "1f5ef-fe0f", "native": "🗯️" }],
       "version": 1
     },
-    "thought_balloon": {
-      "id": "thought_balloon",
-      "name": "Thought Balloon",
+    "생각_풍선": {
+      "id": "생각_풍선",
+      "name": "생각_풍선",
       "keywords": ["bubble", "cloud", "speech", "thinking", "dream"],
       "skins": [{ "unified": "1f4ad", "native": "💭" }],
       "version": 1
     },
-    "zzz": {
-      "id": "zzz",
-      "name": "Zzz",
+    "쿨쿨": {
+      "id": "쿨쿨",
+      "name": "쿨쿨",
       "keywords": ["sleepy", "tired", "dream"],
       "skins": [{ "unified": "1f4a4", "native": "💤" }],
       "version": 1
@@ -5534,9 +5534,9 @@
       ],
       "version": 4
     },
-    "artist": {
-      "id": "artist",
-      "name": "Artist",
+    "예술가": {
+      "id": "예술가",
+      "name": "예술가",
       "keywords": ["painting", "draw", "creativity"],
       "skins": [
         { "unified": "1f9d1-200d-1f3a8", "native": "🧑‍🎨" },
@@ -5548,9 +5548,9 @@
       ],
       "version": 12.1
     },
-    "male-artist": {
-      "id": "male-artist",
-      "name": "Man Artist",
+    "남성_예술가": {
+      "id": "남성_예술가",
+      "name": "남성_예술가",
       "keywords": ["male", "painter", "human"],
       "skins": [
         { "unified": "1f468-200d-1f3a8", "native": "👨‍🎨" },
@@ -5562,9 +5562,9 @@
       ],
       "version": 4
     },
-    "female-artist": {
-      "id": "female-artist",
-      "name": "Woman Artist",
+    "여성_예술가": {
+      "id": "여성_예술가",
+      "name": "여성_예술가",
       "keywords": ["female", "painter", "human"],
       "skins": [
         { "unified": "1f469-200d-1f3a8", "native": "👩‍🎨" },
@@ -5576,9 +5576,9 @@
       ],
       "version": 4
     },
-    "pilot": {
-      "id": "pilot",
-      "name": "Pilot",
+    "비행_조종사": {
+      "id": "비행_조종사",
+      "name": "비행_조종사",
       "keywords": ["fly", "plane", "airplane"],
       "skins": [
         { "unified": "1f9d1-200d-2708-fe0f", "native": "🧑‍✈️" },
@@ -5590,9 +5590,9 @@
       ],
       "version": 12.1
     },
-    "male-pilot": {
-      "id": "male-pilot",
-      "name": "Man Pilot",
+    "남성_조종사": {
+      "id": "남성_조종사",
+      "name": "남성_조종사",
       "keywords": ["male", "aviator", "plane", "human"],
       "skins": [
         { "unified": "1f468-200d-2708-fe0f", "native": "👨‍✈️" },
@@ -5604,9 +5604,9 @@
       ],
       "version": 4
     },
-    "female-pilot": {
-      "id": "female-pilot",
-      "name": "Woman Pilot",
+    "여성_조종사": {
+      "id": "여성_조종사",
+      "name": "여성_조종사",
       "keywords": ["female", "aviator", "plane", "human"],
       "skins": [
         { "unified": "1f469-200d-2708-fe0f", "native": "👩‍✈️" },
@@ -5618,9 +5618,9 @@
       ],
       "version": 4
     },
-    "astronaut": {
-      "id": "astronaut",
-      "name": "Astronaut",
+    "우주비행사": {
+      "id": "우주비행사",
+      "name": "우주비행사",
       "keywords": ["outerspace"],
       "skins": [
         { "unified": "1f9d1-200d-1f680", "native": "🧑‍🚀" },
@@ -5632,9 +5632,9 @@
       ],
       "version": 12.1
     },
-    "male-astronaut": {
-      "id": "male-astronaut",
-      "name": "Man Astronaut",
+    "남성_우주비행사": {
+      "id": "남성_우주비행사",
+      "name": "남성_우주비행사",
       "keywords": ["male", "space", "rocket", "human"],
       "skins": [
         { "unified": "1f468-200d-1f680", "native": "👨‍🚀" },
@@ -5646,9 +5646,9 @@
       ],
       "version": 4
     },
-    "female-astronaut": {
-      "id": "female-astronaut",
-      "name": "Woman Astronaut",
+    "여성_우주비행사": {
+      "id": "여성_우주비행사",
+      "name": "여성_우주비행사",
       "keywords": ["female", "space", "rocket", "human"],
       "skins": [
         { "unified": "1f469-200d-1f680", "native": "👩‍🚀" },
@@ -5660,9 +5660,9 @@
       ],
       "version": 4
     },
-    "firefighter": {
-      "id": "firefighter",
-      "name": "Firefighter",
+    "소방관": {
+      "id": "소방관",
+      "name": "소방관",
       "keywords": ["fire"],
       "skins": [
         { "unified": "1f9d1-200d-1f692", "native": "🧑‍🚒" },
@@ -5674,9 +5674,9 @@
       ],
       "version": 12.1
     },
-    "male-firefighter": {
-      "id": "male-firefighter",
-      "name": "Man Firefighter",
+    "남성_소방관": {
+      "id": "남성_소방관",
+      "name": "남성_소방관",
       "keywords": ["male", "fireman", "human"],
       "skins": [
         { "unified": "1f468-200d-1f692", "native": "👨‍🚒" },
@@ -5688,9 +5688,9 @@
       ],
       "version": 4
     },
-    "female-firefighter": {
-      "id": "female-firefighter",
-      "name": "Woman Firefighter",
+    "여성_소방관": {
+      "id": "여성_소방관",
+      "name": "여성_소방관",
       "keywords": ["female", "fireman", "human"],
       "skins": [
         { "unified": "1f469-200d-1f692", "native": "👩‍🚒" },
@@ -5702,9 +5702,9 @@
       ],
       "version": 4
     },
-    "cop": {
-      "id": "cop",
-      "name": "Police Officer",
+    "경찰관": {
+      "id": "경찰관",
+      "name": "경찰관",
       "keywords": ["cop"],
       "skins": [
         { "unified": "1f46e", "native": "👮" },
@@ -5716,9 +5716,9 @@
       ],
       "version": 1
     },
-    "male-police-officer": {
-      "id": "male-police-officer",
-      "name": "Man Police Officer",
+    "남성_경찰관": {
+      "id": "남성_경찰관",
+      "name": "남성_경찰관",
       "keywords": [
         "male",
         "police-officer",
@@ -5738,9 +5738,9 @@
       ],
       "version": 4
     },
-    "female-police-officer": {
-      "id": "female-police-officer",
-      "name": "Woman Police Officer",
+    "여성_경찰관": {
+      "id": "여성_경찰관",
+      "name": "여성_경찰관",
       "keywords": [
         "female",
         "police-officer",
@@ -5760,9 +5760,9 @@
       ],
       "version": 4
     },
-    "sleuth_or_spy": {
-      "id": "sleuth_or_spy",
-      "name": "Detective",
+    "탐정_또는_스파이": {
+      "id": "탐정_또는_스파이",
+      "name": "탐정_또는_스파이",
       "keywords": ["sleuth", "or", "spy", "human"],
       "skins": [
         { "unified": "1f575-fe0f", "native": "🕵️" },
@@ -5774,9 +5774,9 @@
       ],
       "version": 1
     },
-    "male-detective": {
-      "id": "male-detective",
-      "name": "Man Detective",
+    "남성_탐정": {
+      "id": "남성_탐정",
+      "name": "남성_탐정",
       "keywords": ["male", "crime"],
       "skins": [
         { "unified": "1f575-fe0f-200d-2642-fe0f", "native": "🕵️‍♂️" },
@@ -5788,9 +5788,9 @@
       ],
       "version": 4
     },
-    "female-detective": {
-      "id": "female-detective",
-      "name": "Woman Detective",
+    "여성_탐정": {
+      "id": "여성_탐정",
+      "name": "여성_탐정",
       "keywords": ["female", "human", "spy"],
       "skins": [
         { "unified": "1f575-fe0f-200d-2640-fe0f", "native": "🕵️‍♀️" },
@@ -5802,9 +5802,9 @@
       ],
       "version": 4
     },
-    "guardsman": {
-      "id": "guardsman",
-      "name": "Guard",
+    "경비병": {
+      "id": "경비병",
+      "name": "경비병",
       "keywords": ["guardsman", "protect"],
       "skins": [
         { "unified": "1f482", "native": "💂" },
@@ -5816,9 +5816,9 @@
       ],
       "version": 1
     },
-    "male-guard": {
-      "id": "male-guard",
-      "name": "Man Guard",
+    "남성_경비병": {
+      "id": "남성_경비병",
+      "name": "남성_경비병",
       "keywords": ["male", "uk", "gb", "british", "guy", "royal"],
       "skins": [
         { "unified": "1f482-200d-2642-fe0f", "native": "💂‍♂️" },
@@ -5830,9 +5830,9 @@
       ],
       "version": 4
     },
-    "female-guard": {
-      "id": "female-guard",
-      "name": "Woman Guard",
+    "여성_경비병": {
+      "id": "여성_경비병",
+      "name": "여성_경비병",
       "keywords": ["female", "uk", "gb", "british", "royal"],
       "skins": [
         { "unified": "1f482-200d-2640-fe0f", "native": "💂‍♀️" },
@@ -5844,9 +5844,9 @@
       ],
       "version": 4
     },
-    "ninja": {
-      "id": "ninja",
-      "name": "Ninja",
+    "닌자": {
+      "id": "닌자",
+      "name": "닌자",
       "keywords": ["ninjutsu", "skills", "japanese"],
       "skins": [
         { "unified": "1f977", "native": "🥷" },
@@ -5858,9 +5858,9 @@
       ],
       "version": 13
     },
-    "construction_worker": {
-      "id": "construction_worker",
-      "name": "Construction Worker",
+    "건설_노동자": {
+      "id": "건설_노동자",
+      "name": "건설_노동자",
       "keywords": ["labor", "build"],
       "skins": [
         { "unified": "1f477", "native": "👷" },
@@ -5872,9 +5872,9 @@
       ],
       "version": 1
     },
-    "male-construction-worker": {
-      "id": "male-construction-worker",
-      "name": "Man Construction Worker",
+    "남성_건설_노동자": {
+      "id": "남성_건설_노동자",
+      "name": "남성_건설_노동자",
       "keywords": [
         "male",
         "construction-worker",
@@ -5894,9 +5894,9 @@
       ],
       "version": 4
     },
-    "female-construction-worker": {
-      "id": "female-construction-worker",
-      "name": "Woman Construction Worker",
+    "여성_건설_노동자": {
+      "id": "여성_건설_노동자",
+      "name": "여성_건설_노동자",
       "keywords": [
         "female",
         "construction-worker",
@@ -5915,9 +5915,9 @@
       ],
       "version": 4
     },
-    "person_with_crown": {
-      "id": "person_with_crown",
-      "name": "Person with Crown",
+    "왕관을_쓴_사람": {
+      "id": "왕관을_쓴_사람",
+      "name": "왕관을_쓴_사람",
       "keywords": ["royalty", "power"],
       "skins": [
         { "unified": "1fac5", "native": "🫅" },
@@ -5929,9 +5929,9 @@
       ],
       "version": 14
     },
-    "prince": {
-      "id": "prince",
-      "name": "Prince",
+    "왕자": {
+      "id": "왕자",
+      "name": "왕자",
       "keywords": ["boy", "man", "male", "crown", "royal", "king"],
       "skins": [
         { "unified": "1f934", "native": "🤴" },
@@ -5943,9 +5943,9 @@
       ],
       "version": 3
     },
-    "princess": {
-      "id": "princess",
-      "name": "Princess",
+    "공주": {
+      "id": "공주",
+      "name": "공주",
       "keywords": [
         "girl",
         "woman",
@@ -5965,9 +5965,9 @@
       ],
       "version": 1
     },
-    "man_with_turban": {
-      "id": "man_with_turban",
-      "name": "Man with Turban",
+    "터번을_두른_사람": {
+      "id": "터번을_두른_사람",
+      "name": "터번을_두른_사람",
       "keywords": ["person", "wearing", "headdress"],
       "skins": [
         { "unified": "1f473", "native": "👳" },
@@ -5979,9 +5979,9 @@
       ],
       "version": 1
     },
-    "man-wearing-turban": {
-      "id": "man-wearing-turban",
-      "name": "Man Wearing Turban",
+    "터번을_두른_남성": {
+      "id": "터번을_두른_남성",
+      "name": "터번을_두른_남성",
       "keywords": ["wearing-turban", "male", "indian", "hinduism", "arabs"],
       "skins": [
         { "unified": "1f473-200d-2642-fe0f", "native": "👳‍♂️" },
@@ -5993,9 +5993,9 @@
       ],
       "version": 4
     },
-    "woman-wearing-turban": {
-      "id": "woman-wearing-turban",
-      "name": "Woman Wearing Turban",
+    "터번을_두른_여성": {
+      "id": "터번을_두른_여성",
+      "name": "터번을_두른_여성",
       "keywords": ["wearing-turban", "female", "indian", "hinduism", "arabs"],
       "skins": [
         { "unified": "1f473-200d-2640-fe0f", "native": "👳‍♀️" },
@@ -6007,9 +6007,9 @@
       ],
       "version": 4
     },
-    "man_with_gua_pi_mao": {
-      "id": "man_with_gua_pi_mao",
-      "name": "Man with Gua Pi Mao",
+    "과피모를_쓴_남성": {
+      "id": "과피모를_쓴_남성",
+      "name": "과피모를_쓴_남성",
       "keywords": ["skullcap", "male", "boy", "chinese"],
       "skins": [
         { "unified": "1f472", "native": "👲" },
@@ -6021,9 +6021,9 @@
       ],
       "version": 1
     },
-    "person_with_headscarf": {
-      "id": "person_with_headscarf",
-      "name": "Woman with Headscarf",
+    "머리_스카프를_쓴_사람": {
+      "id": "머리_스카프를_쓴_사람",
+      "name": "머리_스카프를_쓴_사람",
       "keywords": ["person", "female", "hijab", "mantilla", "tichel"],
       "skins": [
         { "unified": "1f9d5", "native": "🧕" },
@@ -6035,9 +6035,9 @@
       ],
       "version": 5
     },
-    "person_in_tuxedo": {
-      "id": "person_in_tuxedo",
-      "name": "Man in Tuxedo",
+    "턱시도를_입은_사람": {
+      "id": "턱시도를_입은_사람",
+      "name": "턱시도를_입은_사람",
       "keywords": ["person", "couple", "marriage", "wedding", "groom"],
       "skins": [
         { "unified": "1f935", "native": "🤵" },
@@ -6049,9 +6049,9 @@
       ],
       "version": 3
     },
-    "man_in_tuxedo": {
-      "id": "man_in_tuxedo",
-      "name": "Man in Tuxedo",
+    "턱시도를_입은_남성": {
+      "id": "턱시도를_입은_남성",
+      "name": "턱시도를_입은_남성",
       "keywords": ["formal", "fashion"],
       "skins": [
         { "unified": "1f935-200d-2642-fe0f", "native": "🤵‍♂️" },
@@ -6063,9 +6063,9 @@
       ],
       "version": 13
     },
-    "woman_in_tuxedo": {
-      "id": "woman_in_tuxedo",
-      "name": "Woman in Tuxedo",
+    "턱시도를_입은_여성": {
+      "id": "턱시도를_입은_여성",
+      "name": "턱시도를_입은_여성",
       "keywords": ["formal", "fashion"],
       "skins": [
         { "unified": "1f935-200d-2640-fe0f", "native": "🤵‍♀️" },
@@ -6077,9 +6077,9 @@
       ],
       "version": 13
     },
-    "bride_with_veil": {
-      "id": "bride_with_veil",
-      "name": "Bride with Veil",
+    "면사포를_쓴_신부": {
+      "id": "면사포를_쓴_신부",
+      "name": "면사포를_쓴_신부",
       "keywords": ["couple", "marriage", "wedding", "woman"],
       "skins": [
         { "unified": "1f470", "native": "👰" },
@@ -6091,9 +6091,9 @@
       ],
       "version": 1
     },
-    "man_with_veil": {
-      "id": "man_with_veil",
-      "name": "Man with Veil",
+    "면사포를_쓴_남성": {
+      "id": "면사포를_쓴_남성",
+      "name": "면사포를_쓴_남성",
       "keywords": ["wedding", "marriage"],
       "skins": [
         { "unified": "1f470-200d-2642-fe0f", "native": "👰‍♂️" },
@@ -6105,9 +6105,9 @@
       ],
       "version": 13
     },
-    "woman_with_veil": {
-      "id": "woman_with_veil",
-      "name": "Woman with Veil",
+    "면사포를_쓴_여성": {
+      "id": "면사포를_쓴_여성",
+      "name": "면사포를_쓴_여성",
       "keywords": ["wedding", "marriage"],
       "skins": [
         { "unified": "1f470-200d-2640-fe0f", "native": "👰‍♀️" },
@@ -6119,9 +6119,9 @@
       ],
       "version": 13
     },
-    "pregnant_woman": {
-      "id": "pregnant_woman",
-      "name": "Pregnant Woman",
+    "임신한_여성": {
+      "id": "임신한_여성",
+      "name": "임신한_여성",
       "keywords": ["baby"],
       "skins": [
         { "unified": "1f930", "native": "🤰" },
@@ -6133,9 +6133,9 @@
       ],
       "version": 3
     },
-    "pregnant_man": {
-      "id": "pregnant_man",
-      "name": "Pregnant Man",
+    "임신한_남성": {
+      "id": "임신한_남성",
+      "name": "임신한_남성",
       "keywords": ["baby", "belly"],
       "skins": [
         { "unified": "1fac3", "native": "🫃" },
@@ -6147,9 +6147,9 @@
       ],
       "version": 14
     },
-    "pregnant_person": {
-      "id": "pregnant_person",
-      "name": "Pregnant Person",
+    "임신한_사람": {
+      "id": "임신한_사람",
+      "name": "임신한_사람",
       "keywords": ["baby", "belly"],
       "skins": [
         { "unified": "1fac4", "native": "🫄" },
@@ -6161,9 +6161,9 @@
       ],
       "version": 14
     },
-    "breast-feeding": {
-      "id": "breast-feeding",
-      "name": "Breast-Feeding",
+    "모유_수유": {
+      "id": "모유_수유",
+      "name": "모유_수유",
       "keywords": ["breast", "feeding", "nursing", "baby"],
       "skins": [
         { "unified": "1f931", "native": "🤱" },
@@ -6175,9 +6175,9 @@
       ],
       "version": 5
     },
-    "woman_feeding_baby": {
-      "id": "woman_feeding_baby",
-      "name": "Woman Feeding Baby",
+    "수유_중인_여성": {
+      "id": "수유_중인_여성",
+      "name": "수유_중인_여성",
       "keywords": ["birth", "food"],
       "skins": [
         { "unified": "1f469-200d-1f37c", "native": "👩‍🍼" },
@@ -6189,9 +6189,9 @@
       ],
       "version": 13
     },
-    "man_feeding_baby": {
-      "id": "man_feeding_baby",
-      "name": "Man Feeding Baby",
+    "수유_중인_남성": {
+      "id": "수유_중인_남성",
+      "name": "수유_중인_남성",
       "keywords": ["birth", "food"],
       "skins": [
         { "unified": "1f468-200d-1f37c", "native": "👨‍🍼" },
@@ -6203,9 +6203,9 @@
       ],
       "version": 13
     },
-    "person_feeding_baby": {
-      "id": "person_feeding_baby",
-      "name": "Person Feeding Baby",
+    "수유_중인_사람": {
+      "id": "수유_중인_사람",
+      "name": "수유_중인_사람",
       "keywords": ["birth", "food"],
       "skins": [
         { "unified": "1f9d1-200d-1f37c", "native": "🧑‍🍼" },
@@ -6217,9 +6217,9 @@
       ],
       "version": 13
     },
-    "angel": {
-      "id": "angel",
-      "name": "Baby Angel",
+    "천사": {
+      "id": "천사",
+      "name": "천사",
       "keywords": ["heaven", "wings", "halo"],
       "skins": [
         { "unified": "1f47c", "native": "👼" },
@@ -6231,9 +6231,9 @@
       ],
       "version": 1
     },
-    "santa": {
-      "id": "santa",
-      "name": "Santa Claus",
+    "산타": {
+      "id": "산타",
+      "name": "산타",
       "keywords": ["festival", "man", "male", "xmas", "father", "christmas"],
       "skins": [
         { "unified": "1f385", "native": "🎅" },
@@ -6245,9 +6245,9 @@
       ],
       "version": 1
     },
-    "mrs_claus": {
-      "id": "mrs_claus",
-      "name": "Mrs. Claus",
+    "남성_산타": {
+      "id": "남성_산타",
+      "name": "남성_산타",
       "keywords": ["mrs", "mother", "christmas", "woman", "female", "xmas"],
       "skins": [
         { "unified": "1f936", "native": "🤶" },
@@ -6259,9 +6259,9 @@
       ],
       "version": 3
     },
-    "mx_claus": {
-      "id": "mx_claus",
-      "name": "Mx Claus",
+    "여성_산타": {
+      "id": "여성_산타",
+      "name": "여성_산타",
       "keywords": ["christmas"],
       "skins": [
         { "unified": "1f9d1-200d-1f384", "native": "🧑‍🎄" },
@@ -6273,9 +6273,9 @@
       ],
       "version": 13
     },
-    "superhero": {
-      "id": "superhero",
-      "name": "Superhero",
+    "슈퍼히어로": {
+      "id": "슈퍼히어로",
+      "name": "슈퍼히어로",
       "keywords": ["marvel"],
       "skins": [
         { "unified": "1f9b8", "native": "🦸" },
@@ -6287,9 +6287,9 @@
       ],
       "version": 11
     },
-    "male_superhero": {
-      "id": "male_superhero",
-      "name": "Man Superhero",
+    "남성_슈퍼히어로": {
+      "id": "남성_슈퍼히어로",
+      "name": "남성_슈퍼히어로",
       "keywords": ["male", "good", "hero", "superpowers"],
       "skins": [
         { "unified": "1f9b8-200d-2642-fe0f", "native": "🦸‍♂️" },
@@ -6301,9 +6301,9 @@
       ],
       "version": 11
     },
-    "female_superhero": {
-      "id": "female_superhero",
-      "name": "Woman Superhero",
+    "여성_슈퍼히어로": {
+      "id": "여성_슈퍼히어로",
+      "name": "여성_슈퍼히어로",
       "keywords": ["female", "good", "heroine", "superpowers"],
       "skins": [
         { "unified": "1f9b8-200d-2640-fe0f", "native": "🦸‍♀️" },
@@ -6315,9 +6315,9 @@
       ],
       "version": 11
     },
-    "supervillain": {
-      "id": "supervillain",
-      "name": "Supervillain",
+    "슈퍼빌런": {
+      "id": "슈퍼빌런",
+      "name": "슈퍼빌런",
       "keywords": ["marvel"],
       "skins": [
         { "unified": "1f9b9", "native": "🦹" },
@@ -6329,9 +6329,9 @@
       ],
       "version": 11
     },
-    "male_supervillain": {
-      "id": "male_supervillain",
-      "name": "Man Supervillain",
+    "남성_슈퍼빌런": {
+      "id": "남성_슈퍼빌런",
+      "name": "남성_슈퍼빌런",
       "keywords": ["male", "evil", "bad", "criminal", "hero", "superpowers"],
       "skins": [
         { "unified": "1f9b9-200d-2642-fe0f", "native": "🦹‍♂️" },
@@ -6343,9 +6343,9 @@
       ],
       "version": 11
     },
-    "female_supervillain": {
-      "id": "female_supervillain",
-      "name": "Woman Supervillain",
+    "여성_슈퍼빌런": {
+      "id": "여성_슈퍼빌런",
+      "name": "여성_슈퍼빌런",
       "keywords": [
         "female",
         "evil",
@@ -6364,9 +6364,9 @@
       ],
       "version": 11
     },
-    "mage": {
-      "id": "mage",
-      "name": "Mage",
+    "마법사": {
+      "id": "마법사",
+      "name": "마법사",
       "keywords": ["magic"],
       "skins": [
         { "unified": "1f9d9", "native": "🧙" },
@@ -6378,9 +6378,9 @@
       ],
       "version": 5
     },
-    "male_mage": {
-      "id": "male_mage",
-      "name": "Man Mage",
+    "남성_마법사": {
+      "id": "남성_마법사",
+      "name": "남성_마법사",
       "keywords": ["male", "sorcerer"],
       "skins": [
         { "unified": "1f9d9-200d-2642-fe0f", "native": "🧙‍♂️" },
@@ -6392,9 +6392,9 @@
       ],
       "version": 5
     },
-    "female_mage": {
-      "id": "female_mage",
-      "name": "Woman Mage",
+    "여성_마법사": {
+      "id": "여성_마법사",
+      "name": "여성_마법사",
       "keywords": ["female", "witch"],
       "skins": [
         { "unified": "1f9d9-200d-2640-fe0f", "native": "🧙‍♀️" },
@@ -6406,9 +6406,9 @@
       ],
       "version": 5
     },
-    "fairy": {
-      "id": "fairy",
-      "name": "Fairy",
+    "요정": {
+      "id": "요정",
+      "name": "요정",
       "keywords": ["wings", "magical"],
       "skins": [
         { "unified": "1f9da", "native": "🧚" },
@@ -6420,9 +6420,9 @@
       ],
       "version": 5
     },
-    "male_fairy": {
-      "id": "male_fairy",
-      "name": "Man Fairy",
+    "남성_요정": {
+      "id": "남성_요정",
+      "name": "남성_요정",
       "keywords": ["male"],
       "skins": [
         { "unified": "1f9da-200d-2642-fe0f", "native": "🧚‍♂️" },
@@ -6434,9 +6434,9 @@
       ],
       "version": 5
     },
-    "female_fairy": {
-      "id": "female_fairy",
-      "name": "Woman Fairy",
+    "여성_요정": {
+      "id": "여성_요정",
+      "name": "여성_요정",
       "keywords": ["female"],
       "skins": [
         { "unified": "1f9da-200d-2640-fe0f", "native": "🧚‍♀️" },
@@ -6448,9 +6448,9 @@
       ],
       "version": 5
     },
-    "vampire": {
-      "id": "vampire",
-      "name": "Vampire",
+    "뱀파이어": {
+      "id": "뱀파이어",
+      "name": "뱀파이어",
       "keywords": ["blood", "twilight"],
       "skins": [
         { "unified": "1f9db", "native": "🧛" },
@@ -6462,9 +6462,9 @@
       ],
       "version": 5
     },
-    "male_vampire": {
-      "id": "male_vampire",
-      "name": "Man Vampire",
+    "남성_뱀파이어": {
+      "id": "남성_뱀파이어",
+      "name": "남성_뱀파이어",
       "keywords": ["male", "dracula"],
       "skins": [
         { "unified": "1f9db-200d-2642-fe0f", "native": "🧛‍♂️" },
@@ -6476,9 +6476,9 @@
       ],
       "version": 5
     },
-    "female_vampire": {
-      "id": "female_vampire",
-      "name": "Woman Vampire",
+    "여성_뱀파이어": {
+      "id": "여성_뱀파이어",
+      "name": "여성_뱀파이어",
       "keywords": ["female"],
       "skins": [
         { "unified": "1f9db-200d-2640-fe0f", "native": "🧛‍♀️" },
@@ -6490,9 +6490,9 @@
       ],
       "version": 5
     },
-    "merperson": {
-      "id": "merperson",
-      "name": "Merperson",
+    "인어": {
+      "id": "인어",
+      "name": "인어",
       "keywords": ["sea"],
       "skins": [
         { "unified": "1f9dc", "native": "🧜" },
@@ -6504,9 +6504,9 @@
       ],
       "version": 5
     },
-    "merman": {
-      "id": "merman",
-      "name": "Merman",
+    "남성_인어": {
+      "id": "남성_인어",
+      "name": "남성_인어",
       "keywords": ["man", "male", "triton"],
       "skins": [
         { "unified": "1f9dc-200d-2642-fe0f", "native": "🧜‍♂️" },
@@ -6518,9 +6518,9 @@
       ],
       "version": 5
     },
-    "mermaid": {
-      "id": "mermaid",
-      "name": "Mermaid",
+    "여성_인어": {
+      "id": "여성_인어",
+      "name": "여성_인어",
       "keywords": ["woman", "female", "merwoman", "ariel"],
       "skins": [
         { "unified": "1f9dc-200d-2640-fe0f", "native": "🧜‍♀️" },
@@ -6532,9 +6532,9 @@
       ],
       "version": 5
     },
-    "elf": {
-      "id": "elf",
-      "name": "Elf",
+    "엘프": {
+      "id": "엘프",
+      "name": "엘프",
       "keywords": ["magical"],
       "skins": [
         { "unified": "1f9dd", "native": "🧝" },
@@ -6546,9 +6546,9 @@
       ],
       "version": 5
     },
-    "male_elf": {
-      "id": "male_elf",
-      "name": "Man Elf",
+    "남성_엘프": {
+      "id": "남성_엘프",
+      "name": "남성_엘프",
       "keywords": ["male"],
       "skins": [
         { "unified": "1f9dd-200d-2642-fe0f", "native": "🧝‍♂️" },
@@ -6560,9 +6560,9 @@
       ],
       "version": 5
     },
-    "female_elf": {
-      "id": "female_elf",
-      "name": "Woman Elf",
+    "여성_엘프": {
+      "id": "여성_엘프",
+      "name": "여성_엘프",
       "keywords": ["female"],
       "skins": [
         { "unified": "1f9dd-200d-2640-fe0f", "native": "🧝‍♀️" },
@@ -6574,58 +6574,58 @@
       ],
       "version": 5
     },
-    "genie": {
-      "id": "genie",
-      "name": "Genie",
+    "지니": {
+      "id": "지니",
+      "name": "지니",
       "keywords": ["magical", "wishes"],
       "skins": [{ "unified": "1f9de", "native": "🧞" }],
       "version": 5
     },
-    "male_genie": {
-      "id": "male_genie",
-      "name": "Man Genie",
+    "남성_지니": {
+      "id": "남성_지니",
+      "name": "남성_지니",
       "keywords": ["male"],
       "skins": [{ "unified": "1f9de-200d-2642-fe0f", "native": "🧞‍♂️" }],
       "version": 5
     },
-    "female_genie": {
-      "id": "female_genie",
-      "name": "Woman Genie",
+    "여성_지니": {
+      "id": "여성_지니",
+      "name": "여성_지니",
       "keywords": ["female"],
       "skins": [{ "unified": "1f9de-200d-2640-fe0f", "native": "🧞‍♀️" }],
       "version": 5
     },
-    "zombie": {
-      "id": "zombie",
-      "name": "Zombie",
+    "좀비": {
+      "id": "좀비",
+      "name": "좀비",
       "keywords": ["dead"],
       "skins": [{ "unified": "1f9df", "native": "🧟" }],
       "version": 5
     },
-    "male_zombie": {
-      "id": "male_zombie",
-      "name": "Man Zombie",
+    "남성_좀비": {
+      "id": "남성_좀비",
+      "name": "남성_좀비",
       "keywords": ["male", "dracula", "undead", "walking", "dead"],
       "skins": [{ "unified": "1f9df-200d-2642-fe0f", "native": "🧟‍♂️" }],
       "version": 5
     },
-    "female_zombie": {
-      "id": "female_zombie",
-      "name": "Woman Zombie",
+    "여성_좀비": {
+      "id": "여성_좀비",
+      "name": "여성_좀비",
       "keywords": ["female", "undead", "walking", "dead"],
       "skins": [{ "unified": "1f9df-200d-2640-fe0f", "native": "🧟‍♀️" }],
       "version": 5
     },
-    "troll": {
-      "id": "troll",
-      "name": "Troll",
+    "트롤": {
+      "id": "트롤",
+      "name": "트롤",
       "keywords": ["mystical", "monster"],
       "skins": [{ "unified": "1f9cc", "native": "🧌" }],
       "version": 14
     },
-    "massage": {
-      "id": "massage",
-      "name": "Face Massage",
+    "마사지": {
+      "id": "마사지",
+      "name": "얼굴 마사지",
       "keywords": ["person", "getting", "relax"],
       "skins": [
         { "unified": "1f486", "native": "💆" },
@@ -6637,9 +6637,9 @@
       ],
       "version": 1
     },
-    "man-getting-massage": {
-      "id": "man-getting-massage",
-      "name": "Man Getting Massage",
+    "마사지를_받는_남성": {
+      "id": "마사지를_받는_남성",
+      "name": "마사지를_받는_남성",
       "keywords": ["getting-massage", "male", "boy", "head"],
       "skins": [
         { "unified": "1f486-200d-2642-fe0f", "native": "💆‍♂️" },
@@ -6651,9 +6651,9 @@
       ],
       "version": 4
     },
-    "woman-getting-massage": {
-      "id": "woman-getting-massage",
-      "name": "Woman Getting Massage",
+    "마사지를_받는_여성": {
+      "id": "마사지를_받는_여성",
+      "name": "마사지를_받는_여성",
       "keywords": ["getting-massage", "female", "girl", "head"],
       "skins": [
         { "unified": "1f486-200d-2640-fe0f", "native": "💆‍♀️" },
@@ -6665,9 +6665,9 @@
       ],
       "version": 4
     },
-    "haircut": {
-      "id": "haircut",
-      "name": "Haircut",
+    "헤어컷": {
+      "id": "헤어컷",
+      "name": "헤어컷",
       "keywords": ["person", "getting", "hairstyle"],
       "skins": [
         { "unified": "1f487", "native": "💇" },
@@ -6679,9 +6679,9 @@
       ],
       "version": 1
     },
-    "man-getting-haircut": {
-      "id": "man-getting-haircut",
-      "name": "Man Getting Haircut",
+    "머리카락_자르는_남성": {
+      "id": "머리카락_자르는_남성",
+      "name": "머리카락_자르는_남성",
       "keywords": ["getting-haircut", "male", "boy"],
       "skins": [
         { "unified": "1f487-200d-2642-fe0f", "native": "💇‍♂️" },
@@ -6693,9 +6693,9 @@
       ],
       "version": 4
     },
-    "woman-getting-haircut": {
-      "id": "woman-getting-haircut",
-      "name": "Woman Getting Haircut",
+    "머리카락_자르는_여성": {
+      "id": "머리카락_자르는_여성",
+      "name": "머리카락_자르는_여성",
       "keywords": ["getting-haircut", "female", "girl"],
       "skins": [
         { "unified": "1f487-200d-2640-fe0f", "native": "💇‍♀️" },
@@ -6707,9 +6707,9 @@
       ],
       "version": 4
     },
-    "walking": {
-      "id": "walking",
-      "name": "Pedestrian",
+    "걷기": {
+      "id": "걷기",
+      "name": "보행자",
       "keywords": ["walking", "person", "move"],
       "skins": [
         { "unified": "1f6b6", "native": "🚶" },
@@ -6721,9 +6721,9 @@
       ],
       "version": 1
     },
-    "man-walking": {
-      "id": "man-walking",
-      "name": "Man Walking",
+    "걷는_남성": {
+      "id": "걷는_남성",
+      "name": "걷는_남성",
       "keywords": ["human", "feet", "steps"],
       "skins": [
         { "unified": "1f6b6-200d-2642-fe0f", "native": "🚶‍♂️" },
@@ -6735,9 +6735,9 @@
       ],
       "version": 4
     },
-    "woman-walking": {
-      "id": "woman-walking",
-      "name": "Woman Walking",
+    "걷는_여성": {
+      "id": "걷는_여성",
+      "name": "걷는_여성",
       "keywords": ["human", "feet", "steps", "female"],
       "skins": [
         { "unified": "1f6b6-200d-2640-fe0f", "native": "🚶‍♀️" },
@@ -6749,9 +6749,9 @@
       ],
       "version": 4
     },
-    "standing_person": {
-      "id": "standing_person",
-      "name": "Standing Person",
+    "서_있는_사람": {
+      "id": "서_있는_사람",
+      "name": "서_있는_사람",
       "keywords": ["still"],
       "skins": [
         { "unified": "1f9cd", "native": "🧍" },
@@ -6763,9 +6763,9 @@
       ],
       "version": 12
     },
-    "man_standing": {
-      "id": "man_standing",
-      "name": "Man Standing",
+    "서_있는_남성": {
+      "id": "서_있는_남성",
+      "name": "서_있는_남성",
       "keywords": ["still"],
       "skins": [
         { "unified": "1f9cd-200d-2642-fe0f", "native": "🧍‍♂️" },
@@ -6777,9 +6777,9 @@
       ],
       "version": 12
     },
-    "woman_standing": {
-      "id": "woman_standing",
-      "name": "Woman Standing",
+    "서_있는_여성": {
+      "id": "서_있는_여성",
+      "name": "서_있는_여성",
       "keywords": ["still"],
       "skins": [
         { "unified": "1f9cd-200d-2640-fe0f", "native": "🧍‍♀️" },
@@ -6791,9 +6791,9 @@
       ],
       "version": 12
     },
-    "kneeling_person": {
-      "id": "kneeling_person",
-      "name": "Kneeling Person",
+    "무릎_꿇은_사람": {
+      "id": "무릎_꿇은_사람",
+      "name": "무릎_꿇은_사람",
       "keywords": ["pray", "respectful"],
       "skins": [
         { "unified": "1f9ce", "native": "🧎" },
@@ -6805,9 +6805,9 @@
       ],
       "version": 12
     },
-    "man_kneeling": {
-      "id": "man_kneeling",
-      "name": "Man Kneeling",
+    "무릎_꿇은_남성": {
+      "id": "무릎_꿇은_남성",
+      "name": "무릎_꿇은_남성",
       "keywords": ["pray", "respectful"],
       "skins": [
         { "unified": "1f9ce-200d-2642-fe0f", "native": "🧎‍♂️" },
@@ -6819,9 +6819,9 @@
       ],
       "version": 12
     },
-    "woman_kneeling": {
-      "id": "woman_kneeling",
-      "name": "Woman Kneeling",
+    "무릎_꿇은_여성": {
+      "id": "무릎_꿇은_여성",
+      "name": "무릎_꿇은_여성",
       "keywords": ["respectful", "pray"],
       "skins": [
         { "unified": "1f9ce-200d-2640-fe0f", "native": "🧎‍♀️" },
@@ -6833,9 +6833,9 @@
       ],
       "version": 12
     },
-    "person_with_probing_cane": {
-      "id": "person_with_probing_cane",
-      "name": "Person with White Cane",
+    "지팡이를_짚은_사람": {
+      "id": "지팡이를_짚은_사람",
+      "name": "지팡이를_짚은_사람",
       "keywords": ["probing", "blind"],
       "skins": [
         { "unified": "1f9d1-200d-1f9af", "native": "🧑‍🦯" },
@@ -6847,9 +6847,9 @@
       ],
       "version": 12.1
     },
-    "man_with_probing_cane": {
-      "id": "man_with_probing_cane",
-      "name": "Man with White Cane",
+    "지팡이를_짚은_남성": {
+      "id": "지팡이를_짚은_남성",
+      "name": "지팡이를_짚은_남성",
       "keywords": ["probing", "blind"],
       "skins": [
         { "unified": "1f468-200d-1f9af", "native": "👨‍🦯" },
@@ -6861,9 +6861,9 @@
       ],
       "version": 12
     },
-    "woman_with_probing_cane": {
-      "id": "woman_with_probing_cane",
-      "name": "Woman with White Cane",
+    "지팡이를_짚은_여성": {
+      "id": "지팡이를_짚은_여성",
+      "name": "지팡이를_짚은_여성",
       "keywords": ["probing", "blind"],
       "skins": [
         { "unified": "1f469-200d-1f9af", "native": "👩‍🦯" },
@@ -6875,9 +6875,9 @@
       ],
       "version": 12
     },
-    "person_in_motorized_wheelchair": {
-      "id": "person_in_motorized_wheelchair",
-      "name": "Person in Motorized Wheelchair",
+    "전동_휠체어를_탄_사람": {
+      "id": "전동_휠체어를_탄_사람",
+      "name": "전동_휠체어를_탄_사람",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f9d1-200d-1f9bc", "native": "🧑‍🦼" },
@@ -6889,9 +6889,9 @@
       ],
       "version": 12.1
     },
-    "man_in_motorized_wheelchair": {
-      "id": "man_in_motorized_wheelchair",
-      "name": "Man in Motorized Wheelchair",
+    "전동_휠체어를_탄_남성": {
+      "id": "전동_휠체어를_탄_남성",
+      "name": "전동_휠체어를_탄_남성",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f468-200d-1f9bc", "native": "👨‍🦼" },
@@ -6903,9 +6903,9 @@
       ],
       "version": 12
     },
-    "woman_in_motorized_wheelchair": {
-      "id": "woman_in_motorized_wheelchair",
-      "name": "Woman in Motorized Wheelchair",
+    "전동_휠체어를_탄_여성": {
+      "id": "전동_휠체어를_탄_여성",
+      "name": "전동_휠체어를_탄_여성",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f469-200d-1f9bc", "native": "👩‍🦼" },
@@ -6917,9 +6917,9 @@
       ],
       "version": 12
     },
-    "person_in_manual_wheelchair": {
-      "id": "person_in_manual_wheelchair",
-      "name": "Person in Manual Wheelchair",
+    "수동_휠체어를_탄_사람": {
+      "id": "수동_휠체어를_탄_사람",
+      "name": "수동_휠체어를_탄_사람",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f9d1-200d-1f9bd", "native": "🧑‍🦽" },
@@ -6931,9 +6931,9 @@
       ],
       "version": 12.1
     },
-    "man_in_manual_wheelchair": {
-      "id": "man_in_manual_wheelchair",
-      "name": "Man in Manual Wheelchair",
+    "수동_휠체어를_탄_남성": {
+      "id": "수동_휠체어를_탄_남성",
+      "name": "수동_휠체어를_탄_남성",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f468-200d-1f9bd", "native": "👨‍🦽" },
@@ -6945,9 +6945,9 @@
       ],
       "version": 12
     },
-    "woman_in_manual_wheelchair": {
-      "id": "woman_in_manual_wheelchair",
-      "name": "Woman in Manual Wheelchair",
+    "수동_휠체어를_탄_여성": {
+      "id": "수동_휠체어를_탄_여성",
+      "name": "수동_휠체어를_탄_여성",
       "keywords": ["disability", "accessibility"],
       "skins": [
         { "unified": "1f469-200d-1f9bd", "native": "👩‍🦽" },
@@ -6959,9 +6959,9 @@
       ],
       "version": 12
     },
-    "runner": {
-      "id": "runner",
-      "name": "Runner",
+    "달리는_사람": {
+      "id": "달리는_사람",
+      "name": "달리는_사람",
       "keywords": ["running", "person", "move"],
       "skins": [
         { "unified": "1f3c3", "native": "🏃" },
@@ -6973,9 +6973,9 @@
       ],
       "version": 1
     },
-    "man-running": {
-      "id": "man-running",
-      "name": "Man Running",
+    "달리는_남성": {
+      "id": "달리는_남성",
+      "name": "달리는_남성",
       "keywords": ["walking", "exercise", "race"],
       "skins": [
         { "unified": "1f3c3-200d-2642-fe0f", "native": "🏃‍♂️" },
@@ -6987,9 +6987,9 @@
       ],
       "version": 4
     },
-    "woman-running": {
-      "id": "woman-running",
-      "name": "Woman Running",
+    "달리는_여성": {
+      "id": "달리는_여성",
+      "name": "달리는_여성",
       "keywords": ["walking", "exercise", "race", "female"],
       "skins": [
         { "unified": "1f3c3-200d-2640-fe0f", "native": "🏃‍♀️" },
@@ -7001,9 +7001,9 @@
       ],
       "version": 4
     },
-    "dancer": {
-      "id": "dancer",
-      "name": "Dancer",
+    "춤추는_사람": {
+      "id": "춤추는_사람",
+      "name": "춤추는_사람",
       "keywords": ["woman", "dancing", "female", "girl", "fun"],
       "skins": [
         { "unified": "1f483", "native": "💃" },
@@ -7015,9 +7015,9 @@
       ],
       "version": 1
     },
-    "man_dancing": {
-      "id": "man_dancing",
-      "name": "Man Dancing",
+    "춤추는_남성": {
+      "id": "춤추는_남성",
+      "name": "춤추는_남성",
       "keywords": ["male", "boy", "fun", "dancer"],
       "skins": [
         { "unified": "1f57a", "native": "🕺" },
@@ -7029,9 +7029,9 @@
       ],
       "version": 3
     },
-    "man_in_business_suit_levitating": {
-      "id": "man_in_business_suit_levitating",
-      "name": "Person in Suit Levitating",
+    "양복을_입고_공중에_떠있는_남성": {
+      "id": "양복을_입고_공중에_떠있는_남성",
+      "name": "양복을_입고_공중에_떠있는_남성",
       "keywords": ["man", "business", "levitate", "hover", "jump"],
       "skins": [
         { "unified": "1f574-fe0f", "native": "🕴️" },
@@ -7043,30 +7043,30 @@
       ],
       "version": 1
     },
-    "dancers": {
-      "id": "dancers",
-      "name": "Woman with Bunny Ears",
+    "춤추는_사람들": {
+      "id": "춤추는_사람들",
+      "name": "춤추는_사람들",
       "keywords": ["dancers", "people", "perform", "costume"],
       "skins": [{ "unified": "1f46f", "native": "👯" }],
       "version": 1
     },
-    "men-with-bunny-ears-partying": {
-      "id": "men-with-bunny-ears-partying",
-      "name": "Men with Bunny Ears",
+    "토끼_귀를_한_파티_중인_남성": {
+      "id": "토끼_귀를_한_파티_중인_남성",
+      "name": "토끼_귀를_한_파티_중인_남성",
       "keywords": ["with-bunny-ears-partying", "man", "male", "boys"],
       "skins": [{ "unified": "1f46f-200d-2642-fe0f", "native": "👯‍♂️" }],
       "version": 4
     },
-    "women-with-bunny-ears-partying": {
-      "id": "women-with-bunny-ears-partying",
-      "name": "Women with Bunny Ears",
+    "토끼_귀를_한_파티_중인_여성": {
+      "id": "토끼_귀를_한_파티_중인_여성",
+      "name": "토끼_귀를_한_파티_중인_여성",
       "keywords": ["with-bunny-ears-partying", "woman", "female", "girls"],
       "skins": [{ "unified": "1f46f-200d-2640-fe0f", "native": "👯‍♀️" }],
       "version": 4
     },
-    "person_in_steamy_room": {
-      "id": "person_in_steamy_room",
-      "name": "Person in Steamy Room",
+    "수증기로_가득_찬_방에_있는_사람": {
+      "id": "수증기로_가득_찬_방에_있는_사람",
+      "name": "수증기로_가득_찬_방에_있는_사람",
       "keywords": ["relax", "spa"],
       "skins": [
         { "unified": "1f9d6", "native": "🧖" },
@@ -7078,9 +7078,9 @@
       ],
       "version": 5
     },
-    "man_in_steamy_room": {
-      "id": "man_in_steamy_room",
-      "name": "Man in Steamy Room",
+    "수증기로_가득_찬_방에_있는_남성": {
+      "id": "수증기로_가득_찬_방에_있는_남성",
+      "name": "수증기로_가득_찬_방에_있는_남성",
       "keywords": ["male", "spa", "steamroom", "sauna"],
       "skins": [
         { "unified": "1f9d6-200d-2642-fe0f", "native": "🧖‍♂️" },
@@ -7092,9 +7092,9 @@
       ],
       "version": 5
     },
-    "woman_in_steamy_room": {
-      "id": "woman_in_steamy_room",
-      "name": "Woman in Steamy Room",
+    "수증기로_가득_찬_방에_있는_여성": {
+      "id": "수증기로_가득_찬_방에_있는_여성",
+      "name": "수증기로_가득_찬_방에_있는_여성",
       "keywords": ["female", "spa", "steamroom", "sauna"],
       "skins": [
         { "unified": "1f9d6-200d-2640-fe0f", "native": "🧖‍♀️" },
@@ -7106,9 +7106,9 @@
       ],
       "version": 5
     },
-    "person_climbing": {
-      "id": "person_climbing",
-      "name": "Person Climbing",
+    "암벽을_오르는_사람": {
+      "id": "암벽을_오르는_사람",
+      "name": "암벽을_오르는_사람",
       "keywords": ["sport"],
       "skins": [
         { "unified": "1f9d7", "native": "🧗" },
@@ -7120,9 +7120,9 @@
       ],
       "version": 5
     },
-    "man_climbing": {
-      "id": "man_climbing",
-      "name": "Man Climbing",
+    "암벽을_오르는_남성": {
+      "id": "암벽을_오르는_남성",
+      "name": "암벽을_오르는_남성",
       "keywords": ["sports", "hobby", "male", "rock"],
       "skins": [
         { "unified": "1f9d7-200d-2642-fe0f", "native": "🧗‍♂️" },
@@ -7134,9 +7134,9 @@
       ],
       "version": 5
     },
-    "woman_climbing": {
-      "id": "woman_climbing",
-      "name": "Woman Climbing",
+    "암벽을_오르는_여성": {
+      "id": "암벽을_오르는_여성",
+      "name": "암벽을_오르는_여성",
       "keywords": ["sports", "hobby", "female", "rock"],
       "skins": [
         { "unified": "1f9d7-200d-2640-fe0f", "native": "🧗‍♀️" },
@@ -7148,16 +7148,16 @@
       ],
       "version": 5
     },
-    "fencer": {
-      "id": "fencer",
-      "name": "Fencer",
+    "펜싱을_하는_사람": {
+      "id": "펜싱을_하는_사람",
+      "name": "펜싱을_하는_사람",
       "keywords": ["person", "fencing", "sports", "sword"],
       "skins": [{ "unified": "1f93a", "native": "🤺" }],
       "version": 3
     },
-    "horse_racing": {
-      "id": "horse_racing",
-      "name": "Horse Racing",
+    "경주_중인_말": {
+      "id": "경주_중인_말",
+      "name": "경주_중인_말",
       "keywords": ["animal", "betting", "competition", "gambling", "luck"],
       "skins": [
         { "unified": "1f3c7", "native": "🏇" },
@@ -7169,16 +7169,16 @@
       ],
       "version": 1
     },
-    "skier": {
-      "id": "skier",
-      "name": "Skier",
+    "스키_타는_사람": {
+      "id": "스키_타는_사람",
+      "name": "스키_타는_사람",
       "keywords": ["sports", "winter", "snow"],
       "skins": [{ "unified": "26f7-fe0f", "native": "⛷️" }],
       "version": 1
     },
-    "snowboarder": {
-      "id": "snowboarder",
-      "name": "Snowboarder",
+    "스노보드_타는_사람": {
+      "id": "스노보드_타는_사람",
+      "name": "스노보드_타는_사람",
       "keywords": ["sports", "winter"],
       "skins": [
         { "unified": "1f3c2", "native": "🏂" },
@@ -7190,9 +7190,9 @@
       ],
       "version": 1
     },
-    "golfer": {
-      "id": "golfer",
-      "name": "Person Golfing",
+    "골프_치는_사람": {
+      "id": "골프_치는_사람",
+      "name": "골프_치는_사람",
       "keywords": ["golfer", "sports", "business"],
       "skins": [
         { "unified": "1f3cc-fe0f", "native": "🏌️" },
@@ -7204,9 +7204,9 @@
       ],
       "version": 1
     },
-    "man-golfing": {
-      "id": "man-golfing",
-      "name": "Man Golfing",
+    "골프_치는_남성": {
+      "id": "골프_치는_남성",
+      "name": "골프_치는_남성",
       "keywords": ["sport"],
       "skins": [
         { "unified": "1f3cc-fe0f-200d-2642-fe0f", "native": "🏌️‍♂️" },
@@ -7218,9 +7218,9 @@
       ],
       "version": 4
     },
-    "woman-golfing": {
-      "id": "woman-golfing",
-      "name": "Woman Golfing",
+    "골프_치는_여성": {
+      "id": "골프_치는_여성",
+      "name": "골프_치는_여성",
       "keywords": ["sports", "business", "female"],
       "skins": [
         { "unified": "1f3cc-fe0f-200d-2640-fe0f", "native": "🏌️‍♀️" },
@@ -7232,9 +7232,9 @@
       ],
       "version": 4
     },
-    "surfer": {
-      "id": "surfer",
-      "name": "Surfer",
+    "서핑_하는_사람": {
+      "id": "서핑_하는_사람",
+      "name": "서핑_하는_사람",
       "keywords": ["person", "surfing", "sport", "sea"],
       "skins": [
         { "unified": "1f3c4", "native": "🏄" },
@@ -7246,9 +7246,9 @@
       ],
       "version": 1
     },
-    "man-surfing": {
-      "id": "man-surfing",
-      "name": "Man Surfing",
+    "서핑_하는_남성": {
+      "id": "서핑_하는_남성",
+      "name": "서핑_하는_남성",
       "keywords": ["sports", "ocean", "sea", "summer", "beach"],
       "skins": [
         { "unified": "1f3c4-200d-2642-fe0f", "native": "🏄‍♂️" },
@@ -7260,9 +7260,9 @@
       ],
       "version": 4
     },
-    "woman-surfing": {
-      "id": "woman-surfing",
-      "name": "Woman Surfing",
+    "서핑_하는_여성": {
+      "id": "서핑_하는_여성",
+      "name": "서핑_하는_여성",
       "keywords": ["sports", "ocean", "sea", "summer", "beach", "female"],
       "skins": [
         { "unified": "1f3c4-200d-2640-fe0f", "native": "🏄‍♀️" },
@@ -7274,9 +7274,9 @@
       ],
       "version": 4
     },
-    "rowboat": {
-      "id": "rowboat",
-      "name": "Rowboat",
+    "노_젓는_보트": {
+      "id": "노_젓는_보트",
+      "name": "노_젓는_보트",
       "keywords": ["person", "rowing", "boat", "sport", "move"],
       "skins": [
         { "unified": "1f6a3", "native": "🚣" },
@@ -7288,9 +7288,9 @@
       ],
       "version": 1
     },
-    "man-rowing-boat": {
-      "id": "man-rowing-boat",
-      "name": "Man Rowing Boat",
+    "보트의_노를_젓는_남성": {
+      "id": "보트의_노를_젓는_남성",
+      "name": "보트의_노를_젓는_남성",
       "keywords": ["rowing-boat", "sports", "hobby", "water", "ship"],
       "skins": [
         { "unified": "1f6a3-200d-2642-fe0f", "native": "🚣‍♂️" },
@@ -7302,9 +7302,9 @@
       ],
       "version": 4
     },
-    "woman-rowing-boat": {
-      "id": "woman-rowing-boat",
-      "name": "Woman Rowing Boat",
+    "보트의_노를_젓는_여성t": {
+      "id": "보트의_노를_젓는_여성",
+      "name": "보트의_노를_젓는_여성",
       "keywords": ["rowing-boat", "sports", "hobby", "water", "ship", "female"],
       "skins": [
         { "unified": "1f6a3-200d-2640-fe0f", "native": "🚣‍♀️" },
@@ -7316,9 +7316,9 @@
       ],
       "version": 4
     },
-    "swimmer": {
-      "id": "swimmer",
-      "name": "Swimmer",
+    "수영하는_사람": {
+      "id": "수영하는_사람",
+      "name": "수영하는_사람",
       "keywords": ["person", "swimming", "sport", "pool"],
       "skins": [
         { "unified": "1f3ca", "native": "🏊" },
@@ -7330,9 +7330,9 @@
       ],
       "version": 1
     },
-    "man-swimming": {
-      "id": "man-swimming",
-      "name": "Man Swimming",
+    "수영하는_남성": {
+      "id": "수영하는_남성",
+      "name": "수영하는_남성",
       "keywords": ["sports", "exercise", "human", "athlete", "water", "summer"],
       "skins": [
         { "unified": "1f3ca-200d-2642-fe0f", "native": "🏊‍♂️" },
@@ -7344,9 +7344,9 @@
       ],
       "version": 4
     },
-    "woman-swimming": {
-      "id": "woman-swimming",
-      "name": "Woman Swimming",
+    "수영하는_여성": {
+      "id": "수영하는_여성",
+      "name": "수영하는_여성",
       "keywords": [
         "sports",
         "exercise",
@@ -7366,9 +7366,9 @@
       ],
       "version": 4
     },
-    "person_with_ball": {
-      "id": "person_with_ball",
-      "name": "Person Bouncing Ball",
+    "공을_튕기는_사람": {
+      "id": "공을_튕기는_사람",
+      "name": "공을_튕기는_사람",
       "keywords": ["with", "sports", "human"],
       "skins": [
         { "unified": "26f9-fe0f", "native": "⛹️" },
@@ -7380,9 +7380,9 @@
       ],
       "version": 1
     },
-    "man-bouncing-ball": {
-      "id": "man-bouncing-ball",
-      "name": "Man Bouncing Ball",
+    "공을_튕기는_남성": {
+      "id": "공을_튕기는_남성",
+      "name": "공을_튕기는_남성",
       "keywords": ["bouncing-ball", "sport"],
       "skins": [
         { "unified": "26f9-fe0f-200d-2642-fe0f", "native": "⛹️‍♂️" },
@@ -7394,9 +7394,9 @@
       ],
       "version": 4
     },
-    "woman-bouncing-ball": {
-      "id": "woman-bouncing-ball",
-      "name": "Woman Bouncing Ball",
+    "공을_튕기는_여성": {
+      "id": "공을_튕기는_여성",
+      "name": "공을_튕기는_여성",
       "keywords": ["bouncing-ball", "sports", "human", "female"],
       "skins": [
         { "unified": "26f9-fe0f-200d-2640-fe0f", "native": "⛹️‍♀️" },
@@ -7408,9 +7408,9 @@
       ],
       "version": 4
     },
-    "weight_lifter": {
-      "id": "weight_lifter",
-      "name": "Person Lifting Weights",
+    "역기를_들어올리는_사람": {
+      "id": "역기를_들어올리는_사람",
+      "name": "역기를_들어올리는_사람",
       "keywords": ["weight", "lifter", "sports", "training", "exercise"],
       "skins": [
         { "unified": "1f3cb-fe0f", "native": "🏋️" },
@@ -7422,9 +7422,9 @@
       ],
       "version": 1
     },
-    "man-lifting-weights": {
-      "id": "man-lifting-weights",
-      "name": "Man Lifting Weights",
+    "역기를_들어올리는_남성": {
+      "id": "역기를_들어올리는_남성",
+      "name": "역기를_들어올리는_남성",
       "keywords": ["lifting-weights", "sport"],
       "skins": [
         { "unified": "1f3cb-fe0f-200d-2642-fe0f", "native": "🏋️‍♂️" },
@@ -7436,9 +7436,9 @@
       ],
       "version": 4
     },
-    "woman-lifting-weights": {
-      "id": "woman-lifting-weights",
-      "name": "Woman Lifting Weights",
+    "역기를_들어올리는_여성": {
+      "id": "역기를_들어올리는_여성",
+      "name": "역기를_들어올리는_여성",
       "keywords": [
         "lifting-weights",
         "sports",
@@ -7456,9 +7456,9 @@
       ],
       "version": 4
     },
-    "bicyclist": {
-      "id": "bicyclist",
-      "name": "Bicyclist",
+    "자전거를_타는_사람": {
+      "id": "자전거를_타는_사람",
+      "name": "자전거를_타는_사람",
       "keywords": ["person", "biking", "sport", "move"],
       "skins": [
         { "unified": "1f6b4", "native": "🚴" },
@@ -7470,9 +7470,9 @@
       ],
       "version": 1
     },
-    "man-biking": {
-      "id": "man-biking",
-      "name": "Man Biking",
+    "자전거를_타는_남성": {
+      "id": "자전거를_타는_남성",
+      "name": "자전거를_타는_남성",
       "keywords": ["sports", "bike", "exercise", "hipster"],
       "skins": [
         { "unified": "1f6b4-200d-2642-fe0f", "native": "🚴‍♂️" },
@@ -7484,9 +7484,9 @@
       ],
       "version": 4
     },
-    "woman-biking": {
-      "id": "woman-biking",
-      "name": "Woman Biking",
+    "자전거를_타는_여성": {
+      "id": "자전거를_타는_여성",
+      "name": "자전거를_타는_여성",
       "keywords": ["sports", "bike", "exercise", "hipster", "female"],
       "skins": [
         { "unified": "1f6b4-200d-2640-fe0f", "native": "🚴‍♀️" },
@@ -7498,9 +7498,9 @@
       ],
       "version": 4
     },
-    "mountain_bicyclist": {
-      "id": "mountain_bicyclist",
-      "name": "Mountain Bicyclist",
+    "산악_자전거를_타는_사람": {
+      "id": "산악_자전거를_타는_사람",
+      "name": "산악_자전거를_타는_사람",
       "keywords": ["person", "biking", "sport", "move"],
       "skins": [
         { "unified": "1f6b5", "native": "🚵" },
@@ -7512,9 +7512,9 @@
       ],
       "version": 1
     },
-    "man-mountain-biking": {
-      "id": "man-mountain-biking",
-      "name": "Man Mountain Biking",
+    "산악_자전거를_타는_남성": {
+      "id": "산악_자전거를_타는_남성",
+      "name": "산악_자전거를_타는_남성",
       "keywords": [
         "mountain-biking",
         "transportation",
@@ -7533,9 +7533,9 @@
       ],
       "version": 4
     },
-    "woman-mountain-biking": {
-      "id": "woman-mountain-biking",
-      "name": "Woman Mountain Biking",
+    "산악_자전거를_타는_여성": {
+      "id": "산악_자전거를_타는_여성",
+      "name": "산악_자전거를_타는_여성",
       "keywords": [
         "mountain-biking",
         "transportation",
@@ -7555,9 +7555,9 @@
       ],
       "version": 4
     },
-    "person_doing_cartwheel": {
-      "id": "person_doing_cartwheel",
-      "name": "Person Cartwheeling",
+    "옆으로_재주_넘기를_하고있는_사람": {
+      "id": "옆으로_재주_넘기를_하고있는_사람",
+      "name": "옆으로_재주_넘기를_하고있는_사람",
       "keywords": ["doing", "cartwheel", "sport", "gymnastic"],
       "skins": [
         { "unified": "1f938", "native": "🤸" },
@@ -7569,9 +7569,9 @@
       ],
       "version": 3
     },
-    "man-cartwheeling": {
-      "id": "man-cartwheeling",
-      "name": "Man Cartwheeling",
+    "옆으로_재주_넘기를_하고있는_남성": {
+      "id": "옆으로_재주_넘기를_하고있는_남성",
+      "name": "옆으로_재주_넘기를_하고있는_남성",
       "keywords": ["gymnastics"],
       "skins": [
         { "unified": "1f938-200d-2642-fe0f", "native": "🤸‍♂️" },
@@ -7583,9 +7583,9 @@
       ],
       "version": 4
     },
-    "woman-cartwheeling": {
-      "id": "woman-cartwheeling",
-      "name": "Woman Cartwheeling",
+    "옆으로_재주_넘기를_하고있는_여성": {
+      "id": "옆으로_재주_넘기를_하고있는_여성",
+      "name": "옆으로_재주_넘기를_하고있는_여성",
       "keywords": ["gymnastics"],
       "skins": [
         { "unified": "1f938-200d-2640-fe0f", "native": "🤸‍♀️" },
@@ -7597,30 +7597,30 @@
       ],
       "version": 4
     },
-    "wrestlers": {
-      "id": "wrestlers",
-      "name": "Wrestlers",
+    "레슬링을_하는_사람": {
+      "id": "레슬링을_하는_사람",
+      "name": "레슬링을_하는_사람",
       "keywords": ["people", "wrestling", "sport"],
       "skins": [{ "unified": "1f93c", "native": "🤼" }],
       "version": 3
     },
-    "man-wrestling": {
-      "id": "man-wrestling",
-      "name": "Men Wrestling",
+    "레슬링을_하는_남성": {
+      "id": "레슬링을_하는_남성",
+      "name": "레슬링을_하는_남성",
       "keywords": ["man", "sports", "wrestlers"],
       "skins": [{ "unified": "1f93c-200d-2642-fe0f", "native": "🤼‍♂️" }],
       "version": 4
     },
-    "woman-wrestling": {
-      "id": "woman-wrestling",
-      "name": "Women Wrestling",
+    "레슬링을_하는_여성": {
+      "id": "레슬링을_하는_여성",
+      "name": "레슬링을_하는_여성",
       "keywords": ["woman", "sports", "wrestlers"],
       "skins": [{ "unified": "1f93c-200d-2640-fe0f", "native": "🤼‍♀️" }],
       "version": 4
     },
-    "water_polo": {
-      "id": "water_polo",
-      "name": "Water Polo",
+    "수구": {
+      "id": "수구",
+      "name": "수구",
       "keywords": ["person", "playing", "sport"],
       "skins": [
         { "unified": "1f93d", "native": "🤽" },
@@ -7632,9 +7632,9 @@
       ],
       "version": 3
     },
-    "man-playing-water-polo": {
-      "id": "man-playing-water-polo",
-      "name": "Man Playing Water Polo",
+    "수구를_하는_남성": {
+      "id": "수구를_하는_남성",
+      "name": "수구를_하는_남성",
       "keywords": ["playing-water-polo", "sports", "pool"],
       "skins": [
         { "unified": "1f93d-200d-2642-fe0f", "native": "🤽‍♂️" },
@@ -7646,9 +7646,9 @@
       ],
       "version": 4
     },
-    "woman-playing-water-polo": {
-      "id": "woman-playing-water-polo",
-      "name": "Woman Playing Water Polo",
+    "수구를_하는_여성": {
+      "id": "수구를_하는_여성",
+      "name": "수구를_하는_여성",
       "keywords": ["playing-water-polo", "sports", "pool"],
       "skins": [
         { "unified": "1f93d-200d-2640-fe0f", "native": "🤽‍♀️" },
@@ -7688,9 +7688,9 @@
       ],
       "version": 4
     },
-    "woman-playing-handball": {
-      "id": "woman-playing-handball",
-      "name": "Woman Playing Handball",
+    "핸드볼_하는_여성": {
+      "id": "핸드볼_하는_여성",
+      "name": "핸드볼_하는_여성",
       "keywords": ["playing-handball", "sports"],
       "skins": [
         { "unified": "1f93e-200d-2640-fe0f", "native": "🤾‍♀️" },
@@ -7702,9 +7702,9 @@
       ],
       "version": 4
     },
-    "juggling": {
-      "id": "juggling",
-      "name": "Juggling",
+    "저글링": {
+      "id": "저글링",
+      "name": "저글링",
       "keywords": ["person", "performance", "balance"],
       "skins": [
         { "unified": "1f939", "native": "🤹" },
@@ -7716,9 +7716,9 @@
       ],
       "version": 3
     },
-    "man-juggling": {
-      "id": "man-juggling",
-      "name": "Man Juggling",
+    "저글링하는_남성": {
+      "id": "저글링하는_남성",
+      "name": "저글링하는_남성",
       "keywords": ["juggle", "balance", "skill", "multitask"],
       "skins": [
         { "unified": "1f939-200d-2642-fe0f", "native": "🤹‍♂️" },
@@ -7730,9 +7730,9 @@
       ],
       "version": 4
     },
-    "woman-juggling": {
-      "id": "woman-juggling",
-      "name": "Woman Juggling",
+    "저글링하는_여성": {
+      "id": "저글링하는_여성",
+      "name": "저글링하는_여성",
       "keywords": ["juggle", "balance", "skill", "multitask"],
       "skins": [
         { "unified": "1f939-200d-2640-fe0f", "native": "🤹‍♀️" },
@@ -7744,9 +7744,9 @@
       ],
       "version": 4
     },
-    "person_in_lotus_position": {
-      "id": "person_in_lotus_position",
-      "name": "Person in Lotus Position",
+    "결가부좌를_튼_사람": {
+      "id": "결가부좌를_튼_사람",
+      "name": "결가부좌를_튼_사람",
       "keywords": ["meditate"],
       "skins": [
         { "unified": "1f9d8", "native": "🧘" },
@@ -7758,9 +7758,9 @@
       ],
       "version": 5
     },
-    "man_in_lotus_position": {
-      "id": "man_in_lotus_position",
-      "name": "Man in Lotus Position",
+    "결가부좌를_튼_남성": {
+      "id": "결가부좌를_튼_남성",
+      "name": "결가부좌를_튼_남성",
       "keywords": [
         "male",
         "meditation",
@@ -7779,9 +7779,9 @@
       ],
       "version": 5
     },
-    "woman_in_lotus_position": {
-      "id": "woman_in_lotus_position",
-      "name": "Woman in Lotus Position",
+    "결가부좌를_튼_여성": {
+      "id": "결가부좌를_튼_여성",
+      "name": "결가부좌를_튼_여성",
       "keywords": [
         "female",
         "meditation",
@@ -7800,9 +7800,9 @@
       ],
       "version": 5
     },
-    "bath": {
-      "id": "bath",
-      "name": "Bath",
+    "목욕": {
+      "id": "목욕",
+      "name": "목욕",
       "keywords": ["person", "taking", "clean", "shower", "bathroom"],
       "skins": [
         { "unified": "1f6c0", "native": "🛀" },
@@ -7814,9 +7814,9 @@
       ],
       "version": 1
     },
-    "sleeping_accommodation": {
-      "id": "sleeping_accommodation",
-      "name": "Person in Bed",
+    "숙박_시설": {
+      "id": "숙박_시설",
+      "name": "숙박_시설",
       "keywords": ["sleeping", "accommodation", "rest"],
       "skins": [
         { "unified": "1f6cc", "native": "🛌" },
@@ -7828,9 +7828,9 @@
       ],
       "version": 1
     },
-    "people_holding_hands": {
-      "id": "people_holding_hands",
-      "name": "People Holding Hands",
+    "손을_잡은_사람들": {
+      "id": "손을_잡은_사람들",
+      "name": "손을_잡은_사람들",
       "keywords": ["friendship"],
       "skins": [
         { "unified": "1f9d1-200d-1f91d-200d-1f9d1", "native": "🧑‍🤝‍🧑" },
@@ -7854,9 +7854,9 @@
       ],
       "version": 12
     },
-    "two_women_holding_hands": {
-      "id": "two_women_holding_hands",
-      "name": "Women Holding Hands",
+    "손을_잡은_두_여성들": {
+      "id": "손을_잡은_두_여성들",
+      "name": "손을_잡은_두_여성들",
       "keywords": [
         "two",
         "pair",
@@ -7878,9 +7878,9 @@
       ],
       "version": 1
     },
-    "man_and_woman_holding_hands": {
-      "id": "man_and_woman_holding_hands",
-      "name": "Man and Woman Holding Hands",
+    "손을_잡은_남자와_여자": {
+      "id": "손을_잡은_남자와_여자",
+      "name": "손을_잡은_남자와_여자",
       "keywords": [
         "couple",
         "pair",
@@ -7904,9 +7904,9 @@
       ],
       "version": 1
     },
-    "two_men_holding_hands": {
-      "id": "two_men_holding_hands",
-      "name": "Men Holding Hands",
+    "손을_잡은_두_남성들": {
+      "id": "손을_잡은_두_남성들",
+      "name": "손을_잡은_두_남성들",
       "keywords": [
         "two",
         "pair",
@@ -7928,9 +7928,9 @@
       ],
       "version": 1
     },
-    "couplekiss": {
-      "id": "couplekiss",
-      "name": "Kiss",
+    "커플_키스": {
+      "id": "커플_키스",
+      "name": "키스",
       "keywords": [
         "couplekiss",
         "pair",
@@ -7950,9 +7950,9 @@
       ],
       "version": 1
     },
-    "woman-kiss-man": {
-      "id": "woman-kiss-man",
-      "name": "Kiss: Woman, Man",
+    "키스하는_여성과_남성": {
+      "id": "키스하는_여성과_남성",
+      "name": "키스하는_여성과_남성",
       "keywords": ["woman", "kiss-man", "kiss", "love"],
       "skins": [
         {
@@ -7982,9 +7982,9 @@
       ],
       "version": 2
     },
-    "man-kiss-man": {
-      "id": "man-kiss-man",
-      "name": "Kiss: Man, Man",
+    "키스하는_두_남성": {
+      "id": "키스하는_두_남성",
+      "name": "키스하는_두_남성",
       "keywords": [
         "kiss-man",
         "kiss",
@@ -8023,9 +8023,9 @@
       ],
       "version": 2
     },
-    "woman-kiss-woman": {
-      "id": "woman-kiss-woman",
-      "name": "Kiss: Woman, Woman",
+    "키스하는_두_여성": {
+      "id": "키스하는_두_여성",
+      "name": "키스하는_두_여성",
       "keywords": [
         "kiss-woman",
         "kiss",
@@ -8064,9 +8064,9 @@
       ],
       "version": 2
     },
-    "couple_with_heart": {
-      "id": "couple_with_heart",
-      "name": "Couple with Heart",
+    "사이에_하트가_있는_커플": {
+      "id": "사이에_하트가_있는_커플",
+      "name": "사이에_하트가_있는_커플",
       "keywords": [
         "pair",
         "love",
@@ -8087,9 +8087,9 @@
       ],
       "version": 1
     },
-    "woman-heart-man": {
-      "id": "woman-heart-man",
-      "name": "Couple with Heart: Woman, Man",
+    "여성_하트_남성": {
+      "id": "여성_하트_남성",
+      "name": "여성_하트_남성",
       "keywords": ["woman", "heart-man", "heart", "love"],
       "skins": [
         { "unified": "1f469-200d-2764-fe0f-200d-1f468", "native": "👩‍❤️‍👨" },
@@ -8116,9 +8116,9 @@
       ],
       "version": 2
     },
-    "man-heart-man": {
-      "id": "man-heart-man",
-      "name": "Couple with Heart: Man, Man",
+    "남성_하트_남성": {
+      "id": "남성_하트_남성",
+      "name": "남성_하트_남성",
       "keywords": [
         "heart-man",
         "heart",
@@ -8156,9 +8156,9 @@
       ],
       "version": 2
     },
-    "woman-heart-woman": {
-      "id": "woman-heart-woman",
-      "name": "Couple with Heart: Woman, Woman",
+    "여성_하트_여성": {
+      "id": "여성_하트_여성",
+      "name": "여성_하트_여성",
       "keywords": [
         "heart-woman",
         "heart",
@@ -8196,9 +8196,9 @@
       ],
       "version": 2
     },
-    "family": {
-      "id": "family",
-      "name": "Family",
+    "가족": {
+      "id": "가족",
+      "name": "가족",
       "keywords": [
         "home",
         "parents",
@@ -8213,16 +8213,16 @@
       "skins": [{ "unified": "1f46a", "native": "👪" }],
       "version": 1
     },
-    "man-woman-boy": {
-      "id": "man-woman-boy",
-      "name": "Family: Man, Woman, Boy",
+    "아빠_엄마_아들": {
+      "id": "아빠_엄마_아들",
+      "name": "아빠_엄마_아들",
       "keywords": ["man", "woman-boy", "family", "woman", "love"],
       "skins": [{ "unified": "1f468-200d-1f469-200d-1f466", "native": "👨‍👩‍👦" }],
       "version": 2
     },
-    "man-woman-girl": {
-      "id": "man-woman-girl",
-      "name": "Family: Man, Woman, Girl",
+    "아빠_엄마_딸": {
+      "id": "아빠_엄마_딸",
+      "name": "아빠_엄마_딸",
       "keywords": [
         "man",
         "woman-girl",
@@ -8237,9 +8237,9 @@
       "skins": [{ "unified": "1f468-200d-1f469-200d-1f467", "native": "👨‍👩‍👧" }],
       "version": 2
     },
-    "man-woman-girl-boy": {
-      "id": "man-woman-girl-boy",
-      "name": "Family: Man, Woman, Girl, Boy",
+    "아빠_엄마_아들_딸": {
+      "id": "아빠_엄마_아들_딸",
+      "name": "아빠_엄마_아들_딸",
       "keywords": [
         "man",
         "woman-girl-boy",
@@ -8257,9 +8257,9 @@
       ],
       "version": 2
     },
-    "man-woman-boy-boy": {
-      "id": "man-woman-boy-boy",
-      "name": "Family: Man, Woman, Boy, Boy",
+    "아빠_엄마_아들_아들": {
+      "id": "아빠_엄마_아들_아들",
+      "name": "아빠_엄마_아들_아들",
       "keywords": [
         "man",
         "woman-boy-boy",
@@ -8276,9 +8276,9 @@
       ],
       "version": 2
     },
-    "man-woman-girl-girl": {
-      "id": "man-woman-girl-girl",
-      "name": "Family: Man, Woman, Girl, Girl",
+    "아빠_엄마_딸_딸": {
+      "id": "아빠_엄마_딸_딸",
+      "name": "아빠_엄마_딸_딸",
       "keywords": [
         "man",
         "woman-girl-girl",
@@ -8295,9 +8295,9 @@
       ],
       "version": 2
     },
-    "man-man-boy": {
-      "id": "man-man-boy",
-      "name": "Family: Man, Man, Boy",
+    "아빠_아빠_아들": {
+      "id": "아빠_아빠_아들",
+      "name": "아빠_아빠_아들",
       "keywords": [
         "man",
         "man-boy",
@@ -8311,9 +8311,9 @@
       "skins": [{ "unified": "1f468-200d-1f468-200d-1f466", "native": "👨‍👨‍👦" }],
       "version": 2
     },
-    "man-man-girl": {
-      "id": "man-man-girl",
-      "name": "Family: Man, Man, Girl",
+    "아빠_아빠_딸": {
+      "id": "아빠_아빠_딸",
+      "name": "아빠_아빠_딸",
       "keywords": [
         "man",
         "man-girl",
@@ -8327,9 +8327,9 @@
       "skins": [{ "unified": "1f468-200d-1f468-200d-1f467", "native": "👨‍👨‍👧" }],
       "version": 2
     },
-    "man-man-girl-boy": {
-      "id": "man-man-girl-boy",
-      "name": "Family: Man, Man, Girl, Boy",
+    "아빠_아빠_아들_딸": {
+      "id": "아빠_아빠_아들_딸",
+      "name": "아빠_아빠_아들_딸",
       "keywords": [
         "man",
         "man-girl-boy",
@@ -8346,9 +8346,9 @@
       ],
       "version": 2
     },
-    "man-man-boy-boy": {
-      "id": "man-man-boy-boy",
-      "name": "Family: Man, Man, Boy, Boy",
+    "아빠_아빠_아들_아들": {
+      "id": "아빠_아빠_아들_아들",
+      "name": "아빠_아빠_아들_아들",
       "keywords": [
         "man",
         "man-boy-boy",
@@ -8364,9 +8364,9 @@
       ],
       "version": 2
     },
-    "man-man-girl-girl": {
-      "id": "man-man-girl-girl",
-      "name": "Family: Man, Man, Girl, Girl",
+    "아빠_아빠_딸_딸": {
+      "id": "아빠_아빠_딸_딸",
+      "name": "man-man-girl-girl",
       "keywords": [
         "man",
         "man-girl-girl",
@@ -8382,9 +8382,9 @@
       ],
       "version": 2
     },
-    "woman-woman-boy": {
-      "id": "woman-woman-boy",
-      "name": "Family: Woman, Woman, Boy",
+    "엄마_엄마_아들": {
+      "id": "엄마_엄마_아들",
+      "name": "엄마_엄마_아들",
       "keywords": [
         "woman",
         "woman-boy",
@@ -8398,9 +8398,9 @@
       "skins": [{ "unified": "1f469-200d-1f469-200d-1f466", "native": "👩‍👩‍👦" }],
       "version": 2
     },
-    "woman-woman-girl": {
-      "id": "woman-woman-girl",
-      "name": "Family: Woman, Woman, Girl",
+    "엄마_엄마_딸": {
+      "id": "엄마_엄마_딸",
+      "name": "엄마_엄마_딸",
       "keywords": [
         "woman",
         "woman-girl",
@@ -8414,9 +8414,9 @@
       "skins": [{ "unified": "1f469-200d-1f469-200d-1f467", "native": "👩‍👩‍👧" }],
       "version": 2
     },
-    "woman-woman-girl-boy": {
-      "id": "woman-woman-girl-boy",
-      "name": "Family: Woman, Woman, Girl, Boy",
+    "엄마_엄마_아들_딸": {
+      "id": "엄마_엄마_아들_딸",
+      "name": "엄마_엄마_아들_딸",
       "keywords": [
         "woman",
         "woman-girl-boy",
@@ -8433,9 +8433,9 @@
       ],
       "version": 2
     },
-    "woman-woman-boy-boy": {
-      "id": "woman-woman-boy-boy",
-      "name": "Family: Woman, Woman, Boy, Boy",
+    "엄마_엄마_아들_아들": {
+      "id": "엄마_엄마_아들_아들",
+      "name": "엄마_엄마_아들_아들",
       "keywords": [
         "woman",
         "woman-boy-boy",
@@ -8451,9 +8451,9 @@
       ],
       "version": 2
     },
-    "woman-woman-girl-girl": {
-      "id": "woman-woman-girl-girl",
-      "name": "Family: Woman, Woman, Girl, Girl",
+    "엄마_엄마_딸_딸": {
+      "id": "엄마_엄마_딸_딸",
+      "name": "엄마_엄마_딸_딸",
       "keywords": [
         "woman",
         "woman-girl-girl",
@@ -8469,9 +8469,9 @@
       ],
       "version": 2
     },
-    "man-boy": {
-      "id": "man-boy",
-      "name": "Family: Man, Boy",
+    "아빠_아들": {
+      "id": "아빠_아들",
+      "name": "아빠_아들",
       "keywords": [
         "man",
         "family",
@@ -8484,9 +8484,9 @@
       "skins": [{ "unified": "1f468-200d-1f466", "native": "👨‍👦" }],
       "version": 4
     },
-    "man-boy-boy": {
-      "id": "man-boy-boy",
-      "name": "Family: Man, Boy, Boy",
+    "아빠_아들_아들": {
+      "id": "아빠_아들_아들",
+      "name": "아빠_아들_아들",
       "keywords": [
         "man",
         "boy-boy",
@@ -8500,9 +8500,9 @@
       "skins": [{ "unified": "1f468-200d-1f466-200d-1f466", "native": "👨‍👦‍👦" }],
       "version": 4
     },
-    "man-girl": {
-      "id": "man-girl",
-      "name": "Family: Man, Girl",
+    "아빠_딸": {
+      "id": "아빠_딸",
+      "name": "아빠_딸",
       "keywords": [
         "man",
         "family",
@@ -8515,9 +8515,9 @@
       "skins": [{ "unified": "1f468-200d-1f467", "native": "👨‍👧" }],
       "version": 4
     },
-    "man-girl-boy": {
-      "id": "man-girl-boy",
-      "name": "Family: Man, Girl, Boy",
+    "아빠_딸_아들": {
+      "id": "아빠_딸_아들",
+      "name": "아빠_딸_아들",
       "keywords": [
         "man",
         "girl-boy",
@@ -8532,9 +8532,9 @@
       "skins": [{ "unified": "1f468-200d-1f467-200d-1f466", "native": "👨‍👧‍👦" }],
       "version": 4
     },
-    "man-girl-girl": {
-      "id": "man-girl-girl",
-      "name": "Family: Man, Girl, Girl",
+    "아빠_딸_딸": {
+      "id": "아빠_딸_딸",
+      "name": "아빠_딸_딸",
       "keywords": [
         "man",
         "girl-girl",
@@ -8548,9 +8548,9 @@
       "skins": [{ "unified": "1f468-200d-1f467-200d-1f467", "native": "👨‍👧‍👧" }],
       "version": 4
     },
-    "woman-boy": {
-      "id": "woman-boy",
-      "name": "Family: Woman, Boy",
+    "여성_아들": {
+      "id": "여성_아들",
+      "name": "여성_아들",
       "keywords": [
         "woman",
         "family",
@@ -8563,9 +8563,9 @@
       "skins": [{ "unified": "1f469-200d-1f466", "native": "👩‍👦" }],
       "version": 4
     },
-    "woman-boy-boy": {
-      "id": "woman-boy-boy",
-      "name": "Family: Woman, Boy, Boy",
+    "여성_아들_아들": {
+      "id": "여성_아들_아들",
+      "name": "여성_아들_아들",
       "keywords": [
         "woman",
         "boy-boy",
@@ -8579,9 +8579,9 @@
       "skins": [{ "unified": "1f469-200d-1f466-200d-1f466", "native": "👩‍👦‍👦" }],
       "version": 4
     },
-    "woman-girl": {
-      "id": "woman-girl",
-      "name": "Family: Woman, Girl",
+    "여성_딸": {
+      "id": "여성_딸",
+      "name": "여성_딸",
       "keywords": [
         "woman",
         "family",
@@ -8594,9 +8594,9 @@
       "skins": [{ "unified": "1f469-200d-1f467", "native": "👩‍👧" }],
       "version": 4
     },
-    "woman-girl-boy": {
-      "id": "woman-girl-boy",
-      "name": "Family: Woman, Girl, Boy",
+    "여성_딸_아들": {
+      "id": "여성_딸_아들",
+      "name": "여성_딸_아들",
       "keywords": [
         "woman",
         "girl-boy",
@@ -8611,9 +8611,9 @@
       "skins": [{ "unified": "1f469-200d-1f467-200d-1f466", "native": "👩‍👧‍👦" }],
       "version": 4
     },
-    "woman-girl-girl": {
-      "id": "woman-girl-girl",
-      "name": "Family: Woman, Girl, Girl",
+    "여성_딸_딸": {
+      "id": "여성_딸_딸",
+      "name": "여성_딸_딸",
       "keywords": [
         "woman",
         "girl-girl",
@@ -8627,9 +8627,9 @@
       "skins": [{ "unified": "1f469-200d-1f467-200d-1f467", "native": "👩‍👧‍👧" }],
       "version": 4
     },
-    "speaking_head_in_silhouette": {
-      "id": "speaking_head_in_silhouette",
-      "name": "Speaking Head",
+    "말하고_있는_머리_그림자": {
+      "id": "말하고_있는_머리_그림자",
+      "name": "말하고_있는_머리_그림자",
       "keywords": [
         "in",
         "silhouette",
@@ -8643,30 +8643,30 @@
       "skins": [{ "unified": "1f5e3-fe0f", "native": "🗣️" }],
       "version": 1
     },
-    "bust_in_silhouette": {
-      "id": "bust_in_silhouette",
-      "name": "Bust in Silhouette",
+    "상반신_그림자": {
+      "id": "상반신_그림자",
+      "name": "상반신_그림자",
       "keywords": ["user", "person", "human"],
       "skins": [{ "unified": "1f464", "native": "👤" }],
       "version": 1
     },
-    "busts_in_silhouette": {
-      "id": "busts_in_silhouette",
-      "name": "Busts in Silhouette",
+    "2개의_상반신_그림자": {
+      "id": "2개의_상반신_그림자",
+      "name": "2개의_상반신_그림자",
       "keywords": ["user", "person", "human", "group", "team"],
       "skins": [{ "unified": "1f465", "native": "👥" }],
       "version": 1
     },
-    "people_hugging": {
-      "id": "people_hugging",
-      "name": "People Hugging",
+    "포옹하는_모습": {
+      "id": "포옹하는_모습",
+      "name": "포옹하는_모습",
       "keywords": ["care"],
       "skins": [{ "unified": "1fac2", "native": "🫂" }],
       "version": 13
     },
-    "footprints": {
-      "id": "footprints",
-      "name": "Footprints",
+    "발자국2": {
+      "id": "발자국2",
+      "name": "발자국2",
       "keywords": ["feet", "tracking", "walking", "beach"],
       "skins": [{ "unified": "1f463", "native": "👣" }],
       "version": 1
